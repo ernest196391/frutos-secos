@@ -33,7 +33,8 @@
     "subtitle": "Encuentra lo que necesitas y arma tu pedido en minutos.",
     "cta": "Ver productos",
     "alt": "Frutos Secos Colo",
-    "image": "/file_00000000c3f081f4b06a7e3c0ec6686f.png",
+    "image": "/hero/hero-frutos-secos.webp",
+    "imageSmall": "/hero/hero-frutos-secos-720.webp",
     "imageAlt": "Selección premium de frutos secos, frutas deshidratadas y productos de despensa"
   },
   "catalogIntro": {
