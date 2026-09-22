@@ -257,3 +257,5 @@ button:focus-visible,a:focus-visible,input:focus-visible{outline:3px solid #2377
 .checkoutPage>form>label{display:grid;gap:7px;font-weight:700}.checkoutPage input,.checkoutPage select{width:100%;min-height:50px;border:1px solid #dfe2e3;border-radius:14px;background:#fff;padding:0 14px;font:inherit;color:#1c2a40}.pickupNote{padding:16px 18px;border-radius:17px;background:#f7f5f2}.pickupNote p{margin:5px 0 0;color:#68716f}
 .cancelOrder{color:#a54538;border-color:#ecd4d0}.cancelAsk{padding:15px;border-radius:15px;background:#fff7f5}
 @media(max-width:680px){.checkoutPage{padding:18px 18px 42px}.checkoutPage .backLink{margin-bottom:16px}.checkoutPage h1{font-size:34px}.orderLines li{padding:15px 14px;gap:10px}.orderLines li b{font-size:14px}.deliveryModes{grid-template-columns:1fr}.coloSearchSuggestions{left:0;right:0}.coloSearchSuggestions button{grid-template-columns:52px minmax(0,1fr) auto}.coloSearchSuggestions img{width:52px;height:52px}}
+
+.orderDelivery{display:grid;gap:4px;padding:16px 18px;border:1px solid #e7e8e8;border-radius:17px;background:#fff}.orderDelivery b{margin-bottom:4px}.orderDelivery span{color:#626d70}
