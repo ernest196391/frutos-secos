@@ -2,4 +2,4 @@
   "framework": "nextjs",
   "installCommand": "npm install",
   "buildCommand": "npm test && npm run build"
-}\n
+}
