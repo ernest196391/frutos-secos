@@ -1,0 +1,69 @@
+{
+  "slug": "frutos-secos-colo",
+  "name": "Frutos Secos Colo",
+  "shortName": "Colo",
+  "tagline": "Tu compra, más fácil.",
+  "logoTitle": {
+    "top": "FRUTOS SECOS",
+    "bottom": "COLO"
+  },
+  "address": "",
+  "addressLines": [],
+  "pickupPoint": "Frutos Secos Colo",
+  "whatsapp": "",
+  "hours": "",
+  "instagram": "",
+  "currency": "CUP",
+  "locale": "es-CU",
+  "brand": {
+    "logo": "/brand/logo-primary.svg",
+    "wordmark": "/brand/wordmark-frutos-secos.svg",
+    "lockup": "/brand/colo-lockup.svg",
+    "isotype": "/brand/isotipo-cart.svg",
+    "avatar": "/brand/avatar.svg",
+    "pattern": "/brand/pattern-food.svg"
+  },
+  "seo": {
+    "title": "Frutos Secos Colo — tienda online",
+    "description": "Compra desde el móvil y elige entrega o recogida en tienda."
+  },
+  "hero": {
+    "line1": "Tu compra,",
+    "line2": "más fácil.",
+    "subtitle": "Encuentra lo que necesitas, arma tu pedido y elige entrega o recogida.",
+    "cta": "Comprar ahora",
+    "alt": "Identidad gráfica de Frutos Secos Colo"
+  },
+  "catalogIntro": {
+    "eyebrow": "PARA TU COMPRA",
+    "allTitle": "Explora la tienda"
+  },
+  "theme": {
+    "ink": "#1F2D44",
+    "primary": "#E04B58",
+    "accent": "#E04B58",
+    "mint": "#F8F7F4",
+    "assistant": "#E04B58",
+    "assistantDark": "#C53D4B",
+    "assistantInk": "#1F2D44",
+    "assistantBorder": "#E9B8BE",
+    "assistantSoft": "#FFF7F6",
+    "assistantSoftHover": "#FBEAEC"
+  },
+  "assistant": {
+    "name": "Asistente Colo",
+    "avatar": "/brand/avatar.svg",
+    "role": "Asistente de compra de Frutos Secos Colo",
+    "greeting": "Hola, soy el Asistente Colo.",
+    "greetingSub": "¿Qué necesitas encontrar hoy?",
+    "intro": "Puedo ayudarte a buscar productos, armar tu compra y orientarte con la entrega o recogida.",
+    "closing": "Listo para ayudarte con tu compra.",
+    "persona": "asistente de {name}. Responde en español breve, cálido y resolutivo. No inventes precios, stock, horarios, dirección ni políticas.",
+    "nudge": "¿Te ayudo?"
+  },
+  "orderTitle": "FRUTOS SECOS COLO",
+  "orderPrefix": "COLO",
+  "footerNote": "La disponibilidad, precios y condiciones se confirmarán con el inventario real del comercio.",
+  "shippingRates": {},
+  "shippingSource": "Pendiente de tarifas aprobadas para Frutos Secos Colo."
+}\n

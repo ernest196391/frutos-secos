@@ -1,0 +1,10 @@
+import test from "node:test";
+import assert from "node:assert/strict";
+import {shipping,whatsappUrl,orderMessage} from "../lib/commerce.mjs";
+const order={reference:"COLO-ABCD",lines:[{n:"Producto",d:"Presentación",p:800,quantity:2}],subtotal:1600,mode:"pickup",fee:0,fullName:"Cliente",phone:"12345678"};
+test("pickup is free",()=>assert.equal(shipping("pickup","",""),0));
+test("unknown delivery remains pending",()=>assert.equal(shipping("delivery","Plaza","Vedado",{}),null));
+test("configured rate is used",()=>assert.equal(shipping("delivery","Plaza","Vedado",{"Plaza|Vedado":250}),250));
+test("invalid rates are rejected",()=>assert.equal(shipping("delivery","Plaza","Vedado",{"Plaza|Vedado":-1}),null));
+test("WhatsApp validates and encodes",()=>{assert.equal(whatsappUrl("","hola"),null);assert.equal(whatsappUrl("+53 12345678","a & b"),"https://wa.me/5312345678?text=a%20%26%20b")});
+test("pickup message excludes delivery address",()=>{const t=orderMessage({...order,address:"NO MOSTRAR",municipality:"NO MOSTRAR"},{orderTitle:"FRUTOS SECOS COLO",pickupPoint:"Frutos Secos Colo"});assert.ok(t.includes("2 × Producto"));assert.ok(!t.includes("NO MOSTRAR"))});
