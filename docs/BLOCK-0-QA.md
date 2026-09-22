@@ -11,3 +11,14 @@ El bloque se considera cerrado cuando:
 - recursos SVG de marca viven en `public/brand/`.
 
 La fase visual siguiente es **Bloque 1 — Home premium**.
+
+## Resultado de cierre
+
+QA ejecutado en GitHub Actions sobre Node.js 22: **PASS**.
+
+- `npm ci`: PASS
+- `npm test`: PASS
+- `npm run build`: PASS
+- guardia de nombres heredados: PASS
+
+Bloque 0 cerrado.
