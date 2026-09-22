@@ -1,40 +1,247 @@
 "use client";
-import {useMemo,useState,useEffect} from "react";
-import Image from "next/image";
+import {useEffect,useMemo,useState} from "react";
 import {products} from "../lib/catalog";
 import Support from "./Support";
-import heroFacade from "../public/brand/pattern-food.svg";
 import {tenant,storeKey} from "../lib/tenant";
 import {whatsappUrl} from "../lib/commerce.mjs";
 
-const mapUrl="https://www.google.com/maps/search/?api=1&query="+encodeURIComponent(tenant.address);
-const waUrl=whatsappUrl(tenant.whatsapp,"Hola, necesito ayuda con "+tenant.name+".");
-// Las categorías salen del propio catálogo: así nunca pueden desincronizarse.
-const cats=["Todos",...new Set(products.map(p=>p.c))];
+const realCategories=[...new Set(products.map(p=>p.c))];
+const categories=["Todos",...realCategories];
+const previews=Array.isArray(tenant.categoryPreview)?tenant.categoryPreview:[];
 const CART=storeKey("cart");
 const money=n=>new Intl.NumberFormat(tenant.locale).format(n)+" "+tenant.currency;
-function Icon({name,...props}){return <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true" {...props}>{name==="menu"?<path d="M4 6h16M4 12h16M4 18h16"/>:name==="cart"?<><path d="M3 3h2l3 12h11l2-9H6"/><circle cx="9" cy="20" r="1"/><circle cx="18" cy="20" r="1"/></>:name==="instagram"?<><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><path d="M17.5 6.5h.01"/></>:name==="whatsapp"?<><path d="M12 2a10 10 0 0 0-8.7 15L2 22l5-1.3A10 10 0 1 0 12 2Z"/><path d="M8 7c-2 4 3 9 7 9l2-2-3-2-1 1-3-3 1-1-2-3Z"/></>:<><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></>}</svg>}
+const mapUrl=tenant.address?"https://www.google.com/maps/search/?api=1&query="+encodeURIComponent(tenant.address):null;
+const waUrl=whatsappUrl(tenant.whatsapp,"Hola, necesito ayuda con "+tenant.name+".");
+
+function Icon({name,...props}){
+  return <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true" {...props}>
+    {name==="menu"?<path d="M4 6h16M4 12h16M4 18h16"/>:
+    name==="cart"?<><path d="M3 3h2l3 12h11l2-9H6"/><circle cx="9" cy="20" r="1"/><circle cx="18" cy="20" r="1"/></>:
+    name==="search"?<><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></>:
+    name==="home"?<><path d="m3 11 9-8 9 8"/><path d="M5 10v10h14V10M9 20v-6h6v6"/></>:
+    name==="spark"?<><path d="m12 3 1.8 4.2L18 9l-4.2 1.8L12 15l-1.8-4.2L6 9l4.2-1.8L12 3Z"/><path d="m19 14 .8 1.7L22 17l-2.2 1.3L19 20l-.8-1.7L16 17l2.2-1.3L19 14Z"/></>:
+    name==="instagram"?<><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><path d="M17.5 6.5h.01"/></>:
+    <><circle cx="12" cy="12" r="9"/><path d="M8 12h8M12 8v8"/></>}
+  </svg>
+}
+
 export default function Home(){
-const [menu,setMenu]=useState(false),[notice,setNotice]=useState(""),[hydrated,setHydrated]=useState(false);
-useEffect(()=>{try{const saved=JSON.parse(localStorage.getItem(CART)||"{}");const clean={};for(const p of products){const q=saved[p.id];if(Number.isInteger(q)&&q>0)clean[p.id]=Math.min(q,99)}setCart(clean)}catch{}setHydrated(true)},[]);
-useEffect(()=>{if(!notice)return;const timer=setTimeout(()=>setNotice(""),6500);return()=>clearTimeout(timer)},[notice]);
+  const [menu,setMenu]=useState(false);
+  const [notice,setNotice]=useState("");
+  const [hydrated,setHydrated]=useState(false);
+  const [cat,setCat]=useState("Todos");
+  const [query,setQuery]=useState("");
+  const [cart,setCart]=useState({});
+  const [drawer,setDrawer]=useState(false);
+  const [detail,setDetail]=useState(null);
 
-const[cat,setCat]=useState("Todos"),[query,setQuery]=useState(""),[cart,setCart]=useState({}),[drawer,setDrawer]=useState(false),[chat,setChat]=useState(false),[detail,setDetail]=useState(null),[msg,setMsg]=useState(""),[messages,setMessages]=useState([{who:"bot",text:"¡Hola! Soy Asistente. ¿Qué necesitas comprar hoy?"}]);
-useEffect(()=>{if(hydrated)try{localStorage.setItem(CART,JSON.stringify(cart))}catch{}},[cart,hydrated]);
-useEffect(()=>{const close=e=>{if(e.key==="Escape"){setMenu(false);setDrawer(false);setDetail(null);setChat(false)}};window.addEventListener("keydown",close);return()=>window.removeEventListener("keydown",close)},[]);
-const filtered=useMemo(()=>products.filter(x=>(cat==="Todos"||x.c===cat)&&((x.n+" "+x.d+" "+x.c).toLowerCase().includes(query.toLowerCase()))),[cat,query]);
-const count=Object.values(cart).reduce((a,b)=>a+b,0),total=products.reduce((a,p)=>a+(cart[p.id]||0)*p.p,0);
-const add=id=>{setCart(x=>({...x,[id]:Math.min((x[id]||0)+1,99)}));setNotice(products.find(p=>p.id===id).n+" añadido al carrito")};
-const change=(id,v)=>setCart(x=>{const n={...x};if(v<=0)delete n[id];else n[id]=Math.min(v,99);return n});
-return <div>
-<header className="shopHeader"><div className="top"><div className="headerLeft"><button className="iconButton" onClick={()=>setMenu(!menu)} aria-label={menu?"Cerrar menú":"Abrir menú"} aria-expanded={menu} aria-controls="shop-menu"><Icon name="menu"/></button><a href="/" className="brandMark" aria-label="Inicio"><img src="/brand/isotipo-cart.svg?v=4" alt="" width="44" height="44"/></a></div><a href="/" className="brandTitle" aria-label={tenant.name+", inicio"}>{tenant.logoTitle.top}<span>{tenant.logoTitle.bottom}</span></a><button className="cartBtn" onClick={()=>setDrawer(true)} aria-label={"Abrir carrito, "+count+" productos"}><Icon name="cart"/><b>{count}</b></button></div><label className="search"><Icon name="search"/><input aria-label="Buscar productos" value={query} onChange={e=>setQuery(e.target.value)} placeholder="¿Qué necesitas hoy?"/></label>{menu&&<nav id="shop-menu" className="shopMenu" aria-label="Menú principal"><a href="/" onClick={()=>setMenu(false)}>Inicio</a>{cats.map(x=><a key={x} href="#productos" onClick={()=>{setCat(x);setMenu(false)}}>{x==="Todos"?"Todos los productos":x}</a>)}<a href="#contacto" onClick={()=>setMenu(false)}>Contacto</a></nav>}</header>
-<main><section className="hero heroMobile" aria-labelledby="hero-title"><div className="heroCopy"><h1 id="hero-title">{tenant.hero.line1}<br/><em>{tenant.hero.line2}</em></h1><p>{tenant.hero.subtitle}</p><a className="heroCta" href="#productos">{tenant.hero.cta} <span aria-hidden="true">→</span></a></div><div className="heroImg"><Image src={heroFacade} alt={tenant.hero.alt} priority sizes="(max-width: 600px) calc(100vw - 24px), (max-width: 850px) 42vw, (max-width: 1264px) 38vw, 471px"/></div></section>
-<section className="categories"><div className="title"><div><span className="eyebrow">COMPRA POR CATEGORÍA</span><h2>¿Qué llevamos hoy?</h2></div><button onClick={()=>setCat("Todos")}>Ver todo →</button></div><div className="catgrid" style={{"--catcount":cats.length-1}}>{cats.slice(1).map(x=>{const p=products.find(z=>z.c===x);return <button className={cat===x?"chosen":""} onClick={()=>{setCat(x);document.querySelector("#productos").scrollIntoView({behavior:"smooth"})}} key={x}><img loading="lazy" onError={e=>{e.currentTarget.style.visibility="hidden"}} src={p.img} alt=""/><b>{x}</b></button>})}</div></section>
-<section id="productos" className="catalog"><div className="title"><div><span className="eyebrow">{tenant.catalogIntro.eyebrow}</span><h2>{query?"Resultados de búsqueda":cat==="Todos"?tenant.catalogIntro.allTitle:cat}</h2></div><span>{filtered.length} productos</span></div>{filtered.length?<div className="grid">{filtered.map(p=><article className="card" key={p.id}>{p.tag&&<span className="tag">{p.tag}</span>}<button className="photo" onClick={()=>setDetail(p)}><img loading="lazy" onError={e=>{e.currentTarget.style.visibility="hidden"}} src={p.img} alt={p.n}/></button><div className="copy"><small>{p.c}</small><button className="name" onClick={()=>setDetail(p)}>{p.n}</button><p>{p.d}</p><strong>{money(p.p)}</strong><button className="add" onClick={()=>add(p.id)}>＋ Añadir</button></div></article>)}</div>:<div className="empty"><b>No encontramos ese producto.</b><p>Intenta con otro nombre o categoría.</p><button onClick={()=>{setQuery("");setCat("Todos")}}>Ver productos</button></div>}</section>
-</main>
-<footer id="contacto" className="shopFooter"><img src="/brand/isotipo-cart.svg?v=4" width="52" height="52" alt={tenant.name}/><div className="footerInfo"><p>{tenant.addressLines.map((l,i)=><span key={i}>{i?<br/>:null}{l}</span>)}</p><a href={mapUrl} target="_blank" rel="noopener noreferrer">Ver ubicación en el mapa →</a><p className="footerNote">Horario de atención: {tenant.hours}</p><p className="footerNote">Zona de reparto y costo de mensajería: se calculan por municipio y localidad al finalizar el pedido.</p></div><div className="footerLinks">{waUrl&&<a href={waUrl} target="_blank" rel="noopener noreferrer"><Icon name="whatsapp"/>Escríbenos por WhatsApp</a>}<a href={tenant.instagram} target="_blank" rel="noopener noreferrer"><Icon name="instagram"/>Síguenos en Instagram</a></div><small className="footerDemo">{tenant.footerNote}</small></footer>
+  useEffect(()=>{
+    try{
+      const saved=JSON.parse(localStorage.getItem(CART)||"{}");
+      const clean={};
+      for(const p of products){
+        const q=saved[p.id];
+        if(Number.isInteger(q)&&q>0)clean[p.id]=Math.min(q,99);
+      }
+      setCart(clean);
+    }catch{}
+    setHydrated(true);
+  },[]);
 
-{notice&&<div className="cartNotice"><span role="status">{notice}</span><button onClick={()=>{setDrawer(true);setNotice("")}}>Ver carrito →</button><button aria-label="Cerrar aviso" onClick={()=>setNotice("")}>×</button></div>}
-{drawer&&<div className="overlay" onClick={()=>setDrawer(false)}><aside role="dialog" aria-modal="true" aria-label="Mi carrito" className="drawer" onClick={e=>e.stopPropagation()}><div className="drawerHead"><div><small>TU COMPRA</small><h2>Mi carrito</h2></div><button autoFocus aria-label="Cerrar carrito" onClick={()=>setDrawer(false)}>×</button></div>{!count?<div className="emptyCart">🛒<h3>Tu carrito está vacío</h3><p>Añade algo rico para comenzar.</p><button onClick={()=>setDrawer(false)}>Ver productos</button></div>:<><div className="cartList">{products.filter(p=>cart[p.id]).map(p=><div className="cartItem" key={p.id}><img loading="lazy" onError={e=>{e.currentTarget.style.visibility="hidden"}} src={p.img} alt=""/><div><b>{p.n}</b><small>{p.d}</small><small>{money(p.p)}</small><div className="qty"><button aria-label={"Reducir cantidad de "+p.n} onClick={()=>change(p.id,cart[p.id]-1)}>−</button><span>{cart[p.id]}</span><button aria-label={"Aumentar cantidad de "+p.n} onClick={()=>change(p.id,cart[p.id]+1)}>＋</button></div><button className="removeProduct" onClick={()=>change(p.id,0)}>Eliminar</button></div><strong>{money(p.p*cart[p.id])}</strong></div>)}</div><div className="checkout"><div className="cartActions"><button onClick={()=>setCart({})}>Vaciar carrito</button><button onClick={()=>setDrawer(false)}>Seguir comprando</button></div><div><span>Subtotal</span><b>{money(total)}</b></div><small>La entrega y disponibilidad se confirman al tramitar el pedido.</small><a className="checkoutPrimary" href="/checkout">Continuar pedido</a></div></>}</aside></div>}
-{detail&&<div className="overlay modalWrap" onClick={()=>setDetail(null)}><section className="detail" onClick={e=>e.stopPropagation()}><button className="close" onClick={()=>setDetail(null)}>×</button><img src={detail.img} alt=""/><div><small>{detail.c}</small><h2>{detail.n}</h2><p>{detail.d}</p><strong>{money(detail.p)}</strong><button onClick={()=>{add(detail.id);setDetail(null)}}>Añadir al carrito</button></div></section></div>}
-{!drawer&&!detail&&<Support onAdd={add} onSet={change} onClear={()=>setCart({})} cart={cart}/>}</div>}
+  useEffect(()=>{if(hydrated)try{localStorage.setItem(CART,JSON.stringify(cart))}catch{}},[cart,hydrated]);
+  useEffect(()=>{if(!notice)return;const t=setTimeout(()=>setNotice(""),4200);return()=>clearTimeout(t)},[notice]);
+  useEffect(()=>{
+    const close=e=>{if(e.key==="Escape"){setMenu(false);setDrawer(false);setDetail(null)}};
+    window.addEventListener("keydown",close);
+    return()=>window.removeEventListener("keydown",close);
+  },[]);
+
+  const filtered=useMemo(()=>products.filter(x=>
+    (cat==="Todos"||x.c===cat)&&
+    ((x.n+" "+x.d+" "+x.c).toLowerCase().includes(query.toLowerCase()))
+  ),[cat,query]);
+
+  const count=Object.values(cart).reduce((a,b)=>a+b,0);
+  const total=products.reduce((a,p)=>a+(cart[p.id]||0)*p.p,0);
+
+  function add(id){
+    const product=products.find(p=>p.id===id);
+    if(!product)return;
+    setCart(x=>({...x,[id]:Math.min((x[id]||0)+1,99)}));
+    setNotice(product.n+" añadido al carrito");
+  }
+  function change(id,v){
+    setCart(x=>{const n={...x};if(v<=0)delete n[id];else n[id]=Math.min(v,99);return n});
+  }
+  function goSearch(){
+    document.querySelector(".premiumSearch input")?.focus();
+    window.scrollTo({top:0,behavior:"smooth"});
+  }
+
+  const categoryCards=realCategories.length
+    ? realCategories.map(name=>({name,image:products.find(p=>p.c===name)?.img||"",live:true}))
+    : previews.map(x=>({...x,live:false}));
+
+  return <div className="coloStore">
+    <header className="premiumHeader">
+      <div className="premiumHeaderRow">
+        <button className="premiumIconButton" onClick={()=>setMenu(v=>!v)} aria-label={menu?"Cerrar menú":"Abrir menú"} aria-expanded={menu}>
+          <Icon name="menu"/>
+        </button>
+        <a className="premiumLogo" href="/" aria-label={tenant.name+", inicio"}>
+          <img src={tenant.brand.logo} alt={tenant.name}/>
+        </a>
+        <button className="premiumCartButton" onClick={()=>setDrawer(true)} aria-label={"Abrir carrito, "+count+" productos"}>
+          <Icon name="cart"/><span>{count}</span>
+        </button>
+      </div>
+
+      <label className="premiumSearch">
+        <Icon name="search"/>
+        <input aria-label="Buscar productos" value={query} onChange={e=>setQuery(e.target.value)} placeholder="Buscar en Colo"/>
+        {query&&<button type="button" onClick={()=>setQuery("")} aria-label="Limpiar búsqueda">×</button>}
+      </label>
+
+      {menu&&<nav className="premiumMenu" aria-label="Menú principal">
+        <a href="#inicio" onClick={()=>setMenu(false)}>Inicio</a>
+        <a href="#categorias" onClick={()=>setMenu(false)}>Categorías</a>
+        <a href="#productos" onClick={()=>setMenu(false)}>Productos</a>
+        <a href="#contacto" onClick={()=>setMenu(false)}>Contacto</a>
+      </nav>}
+    </header>
+
+    <main id="inicio">
+      <section className="premiumHero" aria-labelledby="hero-title">
+        <div className="premiumHeroPattern" aria-hidden="true"/>
+        {tenant.hero.image&&<img className="premiumHeroPhoto" src={tenant.hero.image} alt={tenant.hero.imageAlt||tenant.hero.alt}/>}
+        <div className="premiumHeroShade" aria-hidden="true"/>
+        <div className="premiumHeroCopy">
+          <span className="premiumHeroBadge">Tienda online</span>
+          <h1 id="hero-title">{tenant.hero.line1}<br/><strong>{tenant.hero.line2}</strong></h1>
+          <p>{tenant.hero.subtitle}</p>
+          <a href="#productos" className="premiumHeroCta">{tenant.hero.cta}<span aria-hidden="true">→</span></a>
+        </div>
+        <div className="premiumHeroMark" aria-hidden="true">
+          <img src={tenant.brand.isotype} alt=""/>
+        </div>
+      </section>
+
+      <section id="categorias" className="premiumSection premiumCategories">
+        <div className="premiumSectionHead">
+          <div><span>EXPLORA</span><h2>Compra por categoría</h2></div>
+          {realCategories.length>0&&<button onClick={()=>setCat("Todos")}>Ver todo</button>}
+        </div>
+        <div className="premiumCategoryRail">
+          {categoryCards.map((item,index)=>{
+            const fallbackClass="tone"+(index%4+1);
+            return <button
+              key={item.name}
+              className={"premiumCategoryCard "+fallbackClass+(cat===item.name?" selected":"")}
+              onClick={()=>{if(!item.live)return;setCat(item.name);document.querySelector("#productos")?.scrollIntoView({behavior:"smooth"})}}
+              disabled={!item.live}
+              aria-label={item.live?"Ver "+item.name:item.name+", vista previa de categoría"}
+            >
+              {item.image&&<img src={item.image} alt="" loading="lazy"/>}
+              <span className="premiumCategoryOverlay"/>
+              <span className="premiumCategoryPattern"/>
+              <b>{item.name}</b>
+              {!item.live&&<small>Vista previa</small>}
+            </button>
+          })}
+        </div>
+      </section>
+
+      <section id="productos" className="premiumSection premiumCatalog">
+        <div className="premiumSectionHead">
+          <div><span>{tenant.catalogIntro.eyebrow}</span><h2>{query?"Resultados":cat==="Todos"?tenant.catalogIntro.allTitle:cat}</h2></div>
+          {products.length>0&&<small>{filtered.length} productos</small>}
+        </div>
+
+        {filtered.length>0?
+          <div className="premiumProductGrid">{filtered.map(p=>
+            <article className="premiumProductCard" key={p.id}>
+              <button className="premiumProductPhoto" onClick={()=>setDetail(p)} aria-label={"Ver "+p.n}>
+                <img src={p.img} alt={p.n} loading="lazy"/>
+              </button>
+              <div className="premiumProductBody">
+                <small>{p.c}</small>
+                <button className="premiumProductName" onClick={()=>setDetail(p)}>{p.n}</button>
+                <p>{p.d}</p>
+                <div className="premiumProductBottom">
+                  <strong>{money(p.p)}</strong>
+                  <button onClick={()=>add(p.id)} aria-label={"Añadir "+p.n}>＋</button>
+                </div>
+              </div>
+            </article>
+          )}</div>
+          :
+          <div className="premiumCatalogEmpty">
+            <img src={tenant.brand.isotype} alt="" aria-hidden="true"/>
+            <div>
+              <span>PRÓXIMAMENTE</span>
+              <h3>{tenant.home?.catalogStatus||"Estamos preparando el catálogo"}</h3>
+              <p>La estructura de compra ya está lista. Los productos aparecerán aquí cuando carguemos el inventario real del comercio.</p>
+            </div>
+          </div>
+        }
+      </section>
+    </main>
+
+    <footer id="contacto" className="premiumFooter">
+      <div className="premiumFooterBrand">
+        <img src={tenant.brand.logo} alt={tenant.name}/>
+        <p>{tenant.tagline}</p>
+      </div>
+      <div className="premiumFooterMeta">
+        {tenant.addressLines?.length>0&&<p>{tenant.addressLines.map((l,i)=><span key={i}>{l}{i<tenant.addressLines.length-1?<br/>:null}</span>)}</p>}
+        {tenant.hours&&<p>{tenant.hours}</p>}
+        {mapUrl&&<a href={mapUrl} target="_blank" rel="noopener noreferrer">Ver ubicación →</a>}
+        {waUrl&&<a href={waUrl} target="_blank" rel="noopener noreferrer">WhatsApp →</a>}
+        {tenant.instagram&&<a href={tenant.instagram} target="_blank" rel="noopener noreferrer"><Icon name="instagram"/> Instagram</a>}
+      </div>
+      <small>{tenant.footerNote}</small>
+    </footer>
+
+    <nav className="premiumBottomNav" aria-label="Navegación rápida">
+      <a href="#inicio"><Icon name="home"/><span>Inicio</span></a>
+      <button onClick={goSearch}><Icon name="search"/><span>Buscar</span></button>
+      <button onClick={()=>setDrawer(true)}><span className="navCartIcon"><Icon name="cart"/>{count>0&&<b>{count}</b>}</span><span>Carrito</span></button>
+      <button onClick={()=>document.querySelector(".assistantLaunch")?.click()}><Icon name="spark"/><span>Asistente</span></button>
+    </nav>
+
+    {notice&&<div className="cartNotice"><span role="status">{notice}</span><button onClick={()=>{setDrawer(true);setNotice("")}}>Ver carrito →</button></div>}
+
+    {drawer&&<div className="overlay" onClick={()=>setDrawer(false)}>
+      <aside role="dialog" aria-modal="true" aria-label="Mi carrito" className="drawer" onClick={e=>e.stopPropagation()}>
+        <div className="drawerHead"><div><small>TU COMPRA</small><h2>Mi carrito</h2></div><button autoFocus aria-label="Cerrar carrito" onClick={()=>setDrawer(false)}>×</button></div>
+        {!count?
+          <div className="emptyCart"><img src={tenant.brand.isotype} alt="" aria-hidden="true"/><h3>Tu carrito está vacío</h3><p>Cuando añadas productos aparecerán aquí.</p><button onClick={()=>setDrawer(false)}>Seguir comprando</button></div>
+          :
+          <>
+            <div className="cartList">{products.filter(p=>cart[p.id]).map(p=>
+              <div className="cartItem" key={p.id}>
+                <img src={p.img} alt=""/>
+                <div><b>{p.n}</b><small>{p.d}</small><small>{money(p.p)}</small>
+                  <div className="qty"><button onClick={()=>change(p.id,cart[p.id]-1)}>−</button><span>{cart[p.id]}</span><button onClick={()=>change(p.id,cart[p.id]+1)}>＋</button></div>
+                  <button className="removeProduct" onClick={()=>change(p.id,0)}>Eliminar</button>
+                </div>
+                <strong>{money(p.p*cart[p.id])}</strong>
+              </div>
+            )}</div>
+            <div className="checkout"><div><span>Subtotal</span><b>{money(total)}</b></div><small>La entrega y disponibilidad se confirman al tramitar el pedido.</small><a className="checkoutPrimary" href="/checkout">Continuar pedido</a></div>
+          </>
+        }
+      </aside>
+    </div>}
+
+    {detail&&<div className="overlay modalWrap" onClick={()=>setDetail(null)}>
+      <section className="detail" onClick={e=>e.stopPropagation()}>
+        <button className="close" onClick={()=>setDetail(null)}>×</button>
+        <img src={detail.img} alt={detail.n}/>
+        <div><small>{detail.c}</small><h2>{detail.n}</h2><p>{detail.d}</p><strong>{money(detail.p)}</strong><button onClick={()=>{add(detail.id);setDetail(null)}}>Añadir al carrito</button></div>
+      </section>
+    </div>}
+
+    {!drawer&&!detail&&<Support onAdd={add} onSet={change} onClear={()=>setCart({})} cart={cart}/>}
+  </div>
+}
