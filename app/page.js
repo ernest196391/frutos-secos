@@ -31,6 +31,7 @@ export default function Home(){
   const [hydrated,setHydrated]=useState(false);
   const [cat,setCat]=useState("Todos");
   const [query,setQuery]=useState("");
+  const [sort,setSort]=useState("relevance");
   const [cart,setCart]=useState({});
   const [drawer,setDrawer]=useState(false);
   const [detail,setDetail]=useState(null);
@@ -56,10 +57,16 @@ export default function Home(){
     return()=>window.removeEventListener("keydown",close);
   },[]);
 
-  const filtered=useMemo(()=>products.filter(x=>
-    (cat==="Todos"||x.c===cat)&&
-    ((x.n+" "+x.d+" "+x.c).toLowerCase().includes(query.toLowerCase()))
-  ),[cat,query]);
+  const filtered=useMemo(()=>{
+    const list=products.filter(x=>
+      (cat==="Todos"||x.c===cat)&&
+      ((x.n+" "+x.d+" "+x.c).toLowerCase().includes(query.trim().toLowerCase()))
+    );
+    if(sort==="price-asc") return [...list].sort((a,b)=>a.p-b.p);
+    if(sort==="price-desc") return [...list].sort((a,b)=>b.p-a.p);
+    if(sort==="name") return [...list].sort((a,b)=>a.n.localeCompare(b.n,"es"));
+    return list;
+  },[cat,query,sort]);
 
   const count=Object.values(cart).reduce((a,b)=>a+b,0);
   const total=products.reduce((a,p)=>a+(cart[p.id]||0)*p.p,0);
@@ -98,7 +105,7 @@ export default function Home(){
 
       <label className="premiumSearch">
         <Icon name="search"/>
-        <input aria-label="Buscar productos" value={query} onChange={e=>setQuery(e.target.value)} placeholder="Buscar en Colo"/>
+        <input aria-label="Buscar productos" value={query} onChange={e=>setQuery(e.target.value)} placeholder="¿Qué estás buscando?"/>
         {query&&<button type="button" onClick={()=>setQuery("")} aria-label="Limpiar búsqueda">×</button>}
       </label>
 
@@ -124,7 +131,7 @@ export default function Home(){
 
       <section id="categorias" className="premiumSection premiumCategories">
         <div className="premiumSectionHead">
-          <div><span>EXPLORA</span><h2>Compra por categoría</h2></div>
+          <div><h2>¿Qué buscas hoy?</h2></div>
           {realCategories.length>0&&<button onClick={()=>setCat("Todos")}>Ver todo</button>}
         </div>
         <div className="premiumCategoryFilters" aria-label="Filtrar productos">
@@ -152,8 +159,8 @@ export default function Home(){
 
       <section id="productos" className="premiumSection premiumCatalog">
         <div className="premiumSectionHead">
-          <div><span>{tenant.catalogIntro.eyebrow}</span><h2>{query?"Resultados":cat==="Todos"?tenant.catalogIntro.allTitle:cat}</h2></div>
-          {products.length>0&&<small>{filtered.length} productos</small>}
+          <div><h2>{query?"Encontramos esto":cat==="Todos"?"Elige lo que te gusta":cat}</h2></div>
+          {products.length>0&&<div className="catalogTools"><small>{filtered.length} {filtered.length===1?"producto":"productos"}</small><select aria-label="Ordenar productos" value={sort} onChange={e=>setSort(e.target.value)}><option value="relevance">Orden recomendado</option><option value="price-asc">Menor precio</option><option value="price-desc">Mayor precio</option><option value="name">Nombre A–Z</option></select></div>}
         </div>
 
         {filtered.length>0?
@@ -163,12 +170,11 @@ export default function Home(){
                 <img src={p.img} alt={p.n} loading="lazy"/>
               </button>
               <div className="premiumProductBody">
-                <small>{p.c}</small>
                 <button className="premiumProductName" onClick={()=>setDetail(p)}>{p.n}</button>
                 <p>{p.d}</p>
                 <div className="premiumProductBottom">
                   <strong>{money(p.p)}</strong>
-                  <button onClick={()=>add(p.id)} aria-label={"Añadir "+p.n}>＋</button>
+                  <button onClick={()=>add(p.id)} aria-label={"Añadir "+p.n}>Añadir</button>
                 </div>
               </div>
             </article>
@@ -177,9 +183,8 @@ export default function Home(){
           <div className="premiumCatalogEmpty">
             <img src={tenant.brand.isotype} alt="" aria-hidden="true"/>
             <div>
-              <span>PRÓXIMAMENTE</span>
-              <h3>{tenant.home?.catalogStatus||"Estamos preparando el catálogo"}</h3>
-              <p>La estructura de compra ya está lista. Los productos aparecerán aquí cuando carguemos el inventario real del comercio.</p>
+              <h3>No encontramos ese producto</h3>
+              <p>Prueba con otro nombre o vuelve a ver todos.</p>
             </div>
           </div>
         }
