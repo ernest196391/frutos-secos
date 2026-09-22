@@ -128,7 +128,7 @@ export default function Home(){
       {menu&&<nav className="premiumMenu" aria-label="Menú principal">
         <a href="#inicio" onClick={()=>setMenu(false)}>Inicio</a>
         <a href="#categorias" onClick={()=>setMenu(false)}>Categorías</a>
-        <a href="#productos" onClick={()=>setMenu(false)}>Productos</a>
+        <a href="#productos" onClick={()=>setMenu(false)}>Productos</a><a href="/seguimiento" onClick={()=>setMenu(false)}>Mi pedido</a>
         <a href="#contacto" onClick={()=>setMenu(false)}>Contacto</a>
       </nav>}
     </header>
