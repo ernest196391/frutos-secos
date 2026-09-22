@@ -32,7 +32,9 @@
     "line2": "más fácil.",
     "subtitle": "Encuentra lo que necesitas, arma tu pedido y elige entrega o recogida.",
     "cta": "Comprar ahora",
-    "alt": "Identidad gráfica de Frutos Secos Colo"
+    "alt": "Identidad gráfica de Frutos Secos Colo",
+    "image": "",
+    "imageAlt": ""
   },
   "catalogIntro": {
     "eyebrow": "PARA TU COMPRA",
@@ -65,5 +67,26 @@
   "orderPrefix": "COLO",
   "footerNote": "La disponibilidad, precios y condiciones se confirmarán con el inventario real del comercio.",
   "shippingRates": {},
-  "shippingSource": "Pendiente de tarifas aprobadas para Frutos Secos Colo."
+  "shippingSource": "Pendiente de tarifas aprobadas para Frutos Secos Colo.",
+  "categoryPreview": [
+    {
+      "name": "Frutos secos",
+      "image": ""
+    },
+    {
+      "name": "Dulces y snacks",
+      "image": ""
+    },
+    {
+      "name": "Despensa",
+      "image": ""
+    },
+    {
+      "name": "Bebidas",
+      "image": ""
+    }
+  ],
+  "home": {
+    "catalogStatus": "Catálogo real en preparación"
+  }
 }
