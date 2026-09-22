@@ -7,9 +7,13 @@
     "top": "FRUTOS SECOS",
     "bottom": "COLO"
   },
-  "address": "",
-  "addressLines": [],
-  "pickupPoint": "Frutos Secos Colo",
+  "address": "Calle 26 esquina 27, Nuevo Vedado, Plaza de la Revolución, La Habana",
+  "addressLines": [
+    "Calle 26 esquina 27",
+    "Nuevo Vedado, Plaza de la Revolución",
+    "La Habana"
+  ],
+  "pickupPoint": "Calle 26 esquina 27, Nuevo Vedado, Plaza de la Revolución, La Habana",
   "whatsapp": "5353315414",
   "hours": "",
   "instagram": "",
