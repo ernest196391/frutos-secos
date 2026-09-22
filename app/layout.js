@@ -8,13 +8,7 @@ export const metadata={
   title:tenant.seo.title,
   description:tenant.seo.description,
   manifest:"/manifest.webmanifest?v=4",
-  icons:{
-    icon:[
-      {url:"/icons/icon-192.png?v=4",sizes:"192x192",type:"image/png"},
-      {url:"/icons/icon-512.png?v=4",sizes:"512x512",type:"image/png"}
-    ],
-    apple:"/apple-touch-icon.png?v=4"
-  },
+  icons:{icon:"/brand/isotipo-cart.svg",apple:"/brand/avatar.svg"},
   appleWebApp:{capable:true,title:tenant.shortName,statusBarStyle:"default"},
   robots:{index:false,follow:false}
 };
