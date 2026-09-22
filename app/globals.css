@@ -197,3 +197,16 @@ button:focus-visible,a:focus-visible,input:focus-visible{outline:3px solid #2377
  .premiumProductPhoto{aspect-ratio:1/1;height:auto}
  .premiumProductBody p{min-height:34px}
 }
+
+
+/* Hero UX refinement — text-first mobile composition */
+.premiumHeroCopy{padding-top:clamp(44px,7vw,86px)}
+.premiumHeroCopy h1{margin-top:0}
+@media(max-width:680px){
+ .premiumHero{min-height:430px}
+ .premiumHeroPhoto{object-position:68% center;opacity:.82}
+ .premiumHeroShade{background:linear-gradient(0deg,rgba(18,28,47,.96) 0%,rgba(18,28,47,.77) 51%,rgba(18,28,47,.16) 100%)}
+ .premiumHeroCopy{padding:28px 20px 30px}
+ .premiumHeroCopy h1{max-width:360px}
+ .premiumHeroCopy p{margin-top:16px}
+}
