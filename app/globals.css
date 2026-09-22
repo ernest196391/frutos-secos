@@ -306,3 +306,6 @@ body:has(.adminLogin){margin:0;background:#f5f2ed}
 .adminLogin .adminForgot{display:block!important;width:100%!important;margin:0!important;color:#626a76!important;text-align:center!important;font-size:13px!important;line-height:1.4!important;text-decoration:none!important}
 .adminLoginError{margin:0!important;padding:11px 12px!important;border-radius:10px!important;background:#fff1f2!important;color:#a92f3b!important;font-size:13px!important;line-height:1.4!important}
 @media(max-width:480px){.adminLogin{align-items:flex-start!important;padding-top:max(28px,6vh)!important}.adminLoginCard{padding:24px 18px 22px!important;border-radius:20px!important}.adminLoginBrand img{height:48px!important;max-width:175px!important}}
+
+/* Colo admin login alignment */
+.adminLoginBrand{justify-content:center!important}.adminLoginBrand img{object-position:center!important}.adminLoginIntro{text-align:center!important}.adminLoginIntro span{text-align:center!important}.adminLoginIntro h1{text-align:center!important}
