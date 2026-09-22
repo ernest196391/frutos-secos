@@ -1,0 +1,33 @@
+name: Storefront QA
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  qa:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Use Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - name: Install dependencies
+        run: npm ci
+      - name: Tests
+        run: npm test
+      - name: Build
+        run: npm run build
+      - name: Legacy naming guard
+        shell: bash
+        run: |
+          if grep -RniE --exclude-dir=.git --exclude-dir=node_modules --exclude='template.test.mjs' '(Mercado 23 y 28|23 y 28|Bessy|bessy|Veci|veci)' app lib package.json; then
+            echo "Legacy business naming found in reusable code."
+            exit 1
+          fi
