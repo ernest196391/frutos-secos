@@ -276,3 +276,5 @@ button:focus-visible,a:focus-visible,input:focus-visible{outline:3px solid #2377
  .premiumProductBody>p{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
  .premiumProductBottom{gap:8px}
 }
+
+.checkoutActions{display:grid;grid-template-columns:1fr 1fr;gap:10px}.checkoutActions .checkoutSecondary{width:100%}@media(max-width:420px){.checkoutActions{grid-template-columns:1fr}}
