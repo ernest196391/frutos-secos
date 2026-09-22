@@ -12,6 +12,8 @@ const CART=storeKey("cart");
 const money=n=>new Intl.NumberFormat(tenant.locale).format(n)+" "+tenant.currency;
 const normalizeSearch=value=>String(value||"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase().replace(/[^a-z0-9ñ]+/g," ").trim();
 const searchTokens=value=>normalizeSearch(value).split(/\s+/).filter(Boolean).map(t=>t.length>3&&t.endsWith("s")?t.slice(0,-1):t);
+const SEARCH_ALIASES={jugo:["jugo","nectar","bebida"],nectar:["nectar","jugo","bebida"],bebida:["bebida","jugo","nectar"],dulce:["dulce","caramelo","chocolate","galleta"],caramelo:["caramelo","dulce"],carne:["carne","cerdo","hamburguesa","albondiga","embutido","salchichon"],frijol:["frijol","lenteja"]};
+const expandedTerms=value=>searchTokens(value).map(t=>SEARCH_ALIASES[t]||[t]);
 const mapUrl=tenant.address?"https://www.google.com/maps/search/?api=1&query="+encodeURIComponent(tenant.address):null;
 const waUrl=whatsappUrl(tenant.whatsapp,"Hola, necesito ayuda con "+tenant.name+".");
 
@@ -61,12 +63,12 @@ export default function Home(){
   },[]);
 
   const filtered=useMemo(()=>{
-    const terms=searchTokens(query);
+    const groups=expandedTerms(query);
     const list=products.filter(x=>{
       if(cat!=="Todos"&&x.c!==cat)return false;
-      if(!terms.length)return true;
+      if(!groups.length)return true;
       const haystack=searchTokens(x.n+" "+x.d+" "+x.c).join(" ");
-      return terms.every(term=>haystack.includes(term));
+      return groups.every(group=>group.some(term=>haystack.includes(term)));
     });
     if(sort==="price-asc") return [...list].sort((a,b)=>a.p-b.p);
     if(sort==="price-desc") return [...list].sort((a,b)=>b.p-a.p);
@@ -75,10 +77,11 @@ export default function Home(){
   },[cat,query,sort]);
 
   const suggestions=useMemo(()=>query.trim().length<2?[]:products.filter(p=>{
-    const terms=searchTokens(query);
+    const groups=expandedTerms(query);
     const haystack=searchTokens(p.n+" "+p.d+" "+p.c).join(" ");
-    return terms.every(term=>haystack.includes(term));
+    return groups.every(group=>group.some(term=>haystack.includes(term)));
   }).slice(0,6),[query]);
+  const searching=query.trim().length>0;
   const count=Object.values(cart).reduce((a,b)=>a+b,0);
   const total=products.reduce((a,p)=>a+(cart[p.id]||0)*p.p,0);
 
@@ -116,10 +119,10 @@ export default function Home(){
 
       <div className="premiumSearchWrap"><label className="premiumSearch">
         <Icon name="search"/>
-        <input aria-label="Buscar productos" role="combobox" aria-autocomplete="list" aria-expanded={suggestions.length>0} aria-controls="colo-search-suggestions" value={query} onChange={e=>{setQuery(e.target.value);setCat("Todos");setActiveSuggestion(-1)}} onKeyDown={e=>{if(e.key==="ArrowDown"){e.preventDefault();setActiveSuggestion(x=>Math.min(x+1,suggestions.length-1))}if(e.key==="ArrowUp"){e.preventDefault();setActiveSuggestion(x=>Math.max(x-1,0))}if(e.key==="Escape"){setQuery("");setActiveSuggestion(-1)}if(e.key==="Enter"&&suggestions.length){e.preventDefault();const p=suggestions[Math.max(activeSuggestion,0)];setDetail(p);setQuery(p.n);setActiveSuggestion(-1)}}} placeholder="¿Qué estás buscando?" autoComplete="off"/>
+        <input aria-label="Buscar productos" role="combobox" aria-autocomplete="list" aria-expanded={suggestions.length>0} aria-controls="colo-search-suggestions" value={query} onChange={e=>{setQuery(e.target.value);setCat("Todos");setActiveSuggestion(-1)}} onKeyDown={e=>{if(e.key==="ArrowDown"){e.preventDefault();setActiveSuggestion(x=>Math.min(x+1,suggestions.length-1))}if(e.key==="ArrowUp"){e.preventDefault();setActiveSuggestion(x=>Math.max(x-1,0))}if(e.key==="Escape"){setQuery("");setActiveSuggestion(-1)}if(e.key==="Enter"&&suggestions.length){e.preventDefault();const p=suggestions[Math.max(activeSuggestion,0)];setQuery(p.n);setCat("Todos");setActiveSuggestion(-1);requestAnimationFrame(()=>document.querySelector("#productos")?.scrollIntoView({behavior:"smooth"}))}}} placeholder="¿Qué estás buscando?" autoComplete="off"/>
         {query&&<button type="button" onClick={()=>{setQuery("");setActiveSuggestion(-1)}} aria-label="Limpiar búsqueda">×</button>}
       </label>
-      {suggestions.length>0&&<ul id="colo-search-suggestions" className="coloSearchSuggestions" role="listbox">{suggestions.map((p,i)=><li key={p.id} role="option" aria-selected={activeSuggestion===i} className={activeSuggestion===i?"active":""}><button type="button" onClick={()=>{setDetail(p);setQuery(p.n);setActiveSuggestion(-1)}}><img src={p.img} alt=""/><span><b>{p.n}</b><small>{p.d||p.c}</small></span><strong>{money(p.p)}</strong></button></li>)}</ul>}
+      {suggestions.length>0&&<ul id="colo-search-suggestions" className="coloSearchSuggestions" role="listbox">{suggestions.map((p,i)=><li key={p.id} role="option" aria-selected={activeSuggestion===i} className={activeSuggestion===i?"active":""}><button type="button" onClick={()=>{setQuery(p.n);setCat("Todos");setActiveSuggestion(-1);requestAnimationFrame(()=>document.querySelector("#productos")?.scrollIntoView({behavior:"smooth"}))}}><img src={p.img} alt=""/><span><b>{p.n}</b><small>{p.d||p.c}</small></span><strong>{money(p.p)}</strong></button></li>)}</ul>}
       </div>
 
       {menu&&<nav className="premiumMenu" aria-label="Menú principal">
@@ -131,7 +134,7 @@ export default function Home(){
     </header>
 
     <main id="inicio">
-      <section className="premiumHero" aria-labelledby="hero-title">
+      {!searching&&<section className="premiumHero" aria-labelledby="hero-title">
         <div className="premiumHeroPattern" aria-hidden="true"/>
         {tenant.hero.image&&<img className="premiumHeroPhoto" src={tenant.hero.image} alt={tenant.hero.imageAlt||tenant.hero.alt}/>}
         <div className="premiumHeroShade" aria-hidden="true"/>
@@ -140,15 +143,12 @@ export default function Home(){
           <p>{tenant.hero.subtitle}</p>
           <a href="#productos" className="premiumHeroCta">{tenant.hero.cta}<span aria-hidden="true">→</span></a>
         </div>
-      </section>
+      </section>}
 
-      <section id="categorias" className="premiumSection premiumCategories">
+      {!searching&&<section id="categorias" className="premiumSection premiumCategories">
         <div className="premiumSectionHead">
           <div><h2>¿Qué buscas hoy?</h2></div>
           {realCategories.length>0&&<button onClick={()=>setCat("Todos")}>Ver todo</button>}
-        </div>
-        <div className="premiumCategoryFilters" aria-label="Filtrar productos">
-          {categories.map(name=><button key={name} className={cat===name?"active":""} onClick={()=>setCat(name)}>{name}</button>)}
         </div>
         <div className="premiumCategoryRail">
           {categoryCards.map((item,index)=>{
@@ -168,12 +168,12 @@ export default function Home(){
             </button>
           })}
         </div>
-      </section>
+      </section>}
 
       <section id="productos" className="premiumSection premiumCatalog">
-        <div className="premiumSectionHead">
-          <div><h2>{query?"Encontramos esto":cat==="Todos"?"Elige lo que te gusta":cat}</h2></div>
-          {products.length>0&&<div className="catalogTools"><small>{filtered.length} {filtered.length===1?"producto":"productos"}</small><select aria-label="Ordenar productos" value={sort} onChange={e=>setSort(e.target.value)}><option value="relevance">Orden recomendado</option><option value="price-asc">Menor precio</option><option value="price-desc">Mayor precio</option><option value="name">Nombre A–Z</option></select></div>}
+        <div className={"premiumSectionHead "+(!query&&cat==="Todos"?"minimal":"")}>
+          <div>{query?<h2>{query.trim()}</h2>:cat!=="Todos"?<h2>{cat}</h2>:null}</div>
+          {products.length>0&&filtered.length>1&&<div className="catalogTools"><small>{filtered.length} {filtered.length===1?"producto":"productos"}</small><select aria-label="Ordenar productos" value={sort} onChange={e=>setSort(e.target.value)}><option value="relevance">Orden recomendado</option><option value="price-asc">Menor precio</option><option value="price-desc">Mayor precio</option><option value="name">Nombre A–Z</option></select></div>}
         </div>
 
         {filtered.length>0?
@@ -187,7 +187,7 @@ export default function Home(){
                 <p>{p.d}</p>
                 <div className="premiumProductBottom">
                   <strong>{money(p.p)}</strong>
-                  <button onClick={()=>add(p.id)} aria-label={"Añadir "+p.n}>Añadir</button>
+                  {cart[p.id]?<div className="productQty" aria-label={"Cantidad de "+p.n}><button onClick={()=>change(p.id,cart[p.id]-1)} aria-label="Quitar uno">−</button><span>{cart[p.id]}</span><button onClick={()=>change(p.id,cart[p.id]+1)} aria-label="Añadir uno">+</button></div>:<button onClick={()=>add(p.id)} aria-label={"Añadir "+p.n}>Añadir</button>}
                 </div>
               </div>
             </article>
