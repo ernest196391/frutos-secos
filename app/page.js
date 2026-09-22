@@ -116,7 +116,6 @@ export default function Home(){
         {tenant.hero.image&&<img className="premiumHeroPhoto" src={tenant.hero.image} alt={tenant.hero.imageAlt||tenant.hero.alt}/>}
         <div className="premiumHeroShade" aria-hidden="true"/>
         <div className="premiumHeroCopy">
-          <span className="premiumHeroBadge">Tienda online</span>
           <h1 id="hero-title">{tenant.hero.line1}<br/><strong>{tenant.hero.line2}</strong></h1>
           <p>{tenant.hero.subtitle}</p>
           <a href="#productos" className="premiumHeroCta">{tenant.hero.cta}<span aria-hidden="true">→</span></a>
