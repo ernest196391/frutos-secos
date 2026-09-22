@@ -30,11 +30,11 @@
   "hero": {
     "line1": "Tu compra,",
     "line2": "más fácil.",
-    "subtitle": "Encuentra lo que necesitas, arma tu pedido y elige entrega o recogida.",
-    "cta": "Comprar ahora",
-    "alt": "Identidad gráfica de Frutos Secos Colo",
-    "image": "",
-    "imageAlt": ""
+    "subtitle": "Todo lo que necesitas, en un solo lugar. Arma tu pedido desde el móvil y elige entrega o recogida.",
+    "cta": "Explorar productos",
+    "alt": "Frutos Secos Colo",
+    "image": "https://raw.githubusercontent.com/ernest196391/zaldivar-web/main/public/categories/mercado.png",
+    "imageAlt": "Selección de productos de mercado usada como imagen provisional de la tienda"
   },
   "catalogIntro": {
     "eyebrow": "PARA TU COMPRA",
@@ -65,28 +65,11 @@
   },
   "orderTitle": "FRUTOS SECOS COLO",
   "orderPrefix": "COLO",
-  "footerNote": "La disponibilidad, precios y condiciones se confirmarán con el inventario real del comercio.",
+  "footerNote": "Catálogo provisional para validación visual. Disponibilidad, precios y condiciones finales se sustituirán por los datos reales del comercio.",
   "shippingRates": {},
   "shippingSource": "Pendiente de tarifas aprobadas para Frutos Secos Colo.",
-  "categoryPreview": [
-    {
-      "name": "Frutos secos",
-      "image": ""
-    },
-    {
-      "name": "Dulces y snacks",
-      "image": ""
-    },
-    {
-      "name": "Despensa",
-      "image": ""
-    },
-    {
-      "name": "Bebidas",
-      "image": ""
-    }
-  ],
+  "categoryPreview": [],
   "home": {
-    "catalogStatus": "Catálogo real en preparación"
+    "catalogStatus": "Catálogo provisional cargado para inspección"
   }
 }
