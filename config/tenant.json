@@ -30,15 +30,15 @@
   "hero": {
     "line1": "Tu compra,",
     "line2": "más fácil.",
-    "subtitle": "Todo lo que necesitas, en un solo lugar. Arma tu pedido desde el móvil y elige entrega o recogida.",
-    "cta": "Explorar productos",
+    "subtitle": "Encuentra lo que necesitas y arma tu pedido en minutos.",
+    "cta": "Ver productos",
     "alt": "Frutos Secos Colo",
     "image": "/file_00000000c3f081f4b06a7e3c0ec6686f.png",
     "imageAlt": "Selección premium de frutos secos, frutas deshidratadas y productos de despensa"
   },
   "catalogIntro": {
-    "eyebrow": "PARA TU COMPRA",
-    "allTitle": "Explora la tienda"
+    "eyebrow": "",
+    "allTitle": "Elige lo que te gusta"
   },
   "theme": {
     "ink": "#1F2D44",
@@ -65,11 +65,11 @@
   },
   "orderTitle": "FRUTOS SECOS COLO",
   "orderPrefix": "COLO",
-  "footerNote": "Catálogo provisional para validación visual. Disponibilidad, precios y condiciones finales se sustituirán por los datos reales del comercio.",
+  "footerNote": "",
   "shippingRates": {},
   "shippingSource": "Pendiente de tarifas aprobadas para Frutos Secos Colo.",
   "categoryPreview": [],
   "home": {
-    "catalogStatus": "Catálogo provisional cargado para inspección"
+    "catalogStatus": ""
   }
 }
