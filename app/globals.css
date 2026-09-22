@@ -228,3 +228,32 @@ button:focus-visible,a:focus-visible,input:focus-visible{outline:3px solid #2377
  .premiumProductBottom button{min-width:66px;height:38px;padding:0 10px}
  .premiumProductName{min-height:44px}
 }
+
+
+/* Visual search suggestions — adapted from NEXO marketplace */
+.premiumSearchWrap{position:relative;z-index:30}
+.coloSearchSuggestions{position:absolute;left:0;right:0;top:calc(100% + 8px);margin:0;padding:7px;list-style:none;background:#fff;border:1px solid rgba(28,42,64,.10);border-radius:18px;box-shadow:0 18px 50px rgba(22,35,55,.16);max-height:min(430px,58vh);overflow:auto}
+.coloSearchSuggestions li+li{border-top:1px solid rgba(28,42,64,.07)}
+.coloSearchSuggestions button{width:100%;display:grid;grid-template-columns:58px minmax(0,1fr) auto;align-items:center;gap:12px;padding:9px;border:0;background:transparent;text-align:left;color:var(--colo-navy);border-radius:13px}
+.coloSearchSuggestions li.active button,.coloSearchSuggestions button:hover{background:#f8f5f2}
+.coloSearchSuggestions img{width:58px;height:58px;object-fit:contain;background:#f7f7f6;border-radius:11px}
+.coloSearchSuggestions span{min-width:0;display:grid;gap:3px}.coloSearchSuggestions b{font-size:14px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.coloSearchSuggestions small{font-size:12px;color:#737984;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.coloSearchSuggestions strong{font-size:13px;white-space:nowrap}
+
+/* Premium checkout — compact, aligned, customer-first */
+.checkoutPage{max-width:720px;margin:0 auto;padding:24px 20px 54px;color:#1c2a40}
+.checkoutPage .backLink{display:inline-flex;margin:4px 0 24px;color:#c94f5c;font-weight:700;text-decoration:none}
+.checkoutPage section,.checkoutPage form{display:grid;gap:18px}
+.checkoutPage h1{font-size:clamp(30px,7vw,46px);line-height:1.02;letter-spacing:-.04em;margin:6px 0 0}
+.checkoutPage .orderRef{display:inline-flex;width:max-content;margin:0;padding:7px 11px;border-radius:999px;background:#fff0f1;color:#c94f5c;font-size:14px;font-weight:800;letter-spacing:.03em}
+.orderLines{list-style:none;padding:0;margin:4px 0;display:grid;border:1px solid #e8e9e9;border-radius:20px;overflow:hidden;background:#fff}
+.orderLines li{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:16px;align-items:center;padding:17px 18px}
+.orderLines li+li{border-top:1px solid #ececec}.orderLines li span{min-width:0;font-weight:700}.orderLines li small{display:block;margin-top:4px;color:#77807f;font-size:13px;font-weight:500}.orderLines li b{font-size:15px;white-space:nowrap}
+.orderTotals{margin:0;padding:18px;border-radius:20px;background:#f4f8f7;display:grid;gap:11px}
+.orderTotals div{display:flex;justify-content:space-between;align-items:center;gap:20px}.orderTotals dt,.orderTotals dd{margin:0}.orderTotals dd{font-weight:800}.orderTotals div:last-child{padding-top:13px;border-top:1px solid #dfe6e4;font-size:18px}
+.checkoutPrimary{display:flex;align-items:center;justify-content:center;min-height:58px;border:0;border-radius:17px;background:#e24c5a!important;color:#fff!important;font-size:17px;font-weight:800;text-decoration:none;box-shadow:0 10px 24px rgba(226,76,90,.18)}
+.checkoutSecondary{display:inline-flex;align-items:center;justify-content:center;min-height:46px;width:max-content;max-width:100%;padding:0 16px;border:1px solid #e1e3e4;border-radius:14px;background:#fff;color:#c94f5c;text-decoration:none;font:inherit;font-weight:700}
+.checkoutPage details{border:1px solid #ececec;border-radius:15px;padding:13px 15px}.checkoutPage summary{cursor:pointer;font-weight:700}.orderText{white-space:pre-wrap;overflow-wrap:anywhere;font-size:12px}
+.checkoutPage fieldset{border:0;padding:0;margin:0}.checkoutPage legend{font-weight:800;margin-bottom:10px}.deliveryModes{display:grid;grid-template-columns:1fr 1fr;gap:10px}.deliveryModes label{border:1px solid #e2e4e5;border-radius:15px;padding:14px;background:#fff}
+.checkoutPage>form>label{display:grid;gap:7px;font-weight:700}.checkoutPage input,.checkoutPage select{width:100%;min-height:50px;border:1px solid #dfe2e3;border-radius:14px;background:#fff;padding:0 14px;font:inherit;color:#1c2a40}.pickupNote{padding:16px 18px;border-radius:17px;background:#f7f5f2}.pickupNote p{margin:5px 0 0;color:#68716f}
+.cancelOrder{color:#a54538;border-color:#ecd4d0}.cancelAsk{padding:15px;border-radius:15px;background:#fff7f5}
+@media(max-width:680px){.checkoutPage{padding:18px 18px 42px}.checkoutPage .backLink{margin-bottom:16px}.checkoutPage h1{font-size:34px}.orderLines li{padding:15px 14px;gap:10px}.orderLines li b{font-size:14px}.deliveryModes{grid-template-columns:1fr}.coloSearchSuggestions{left:0;right:0}.coloSearchSuggestions button{grid-template-columns:52px minmax(0,1fr) auto}.coloSearchSuggestions img{width:52px;height:52px}}
