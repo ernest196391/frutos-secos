@@ -10,6 +10,8 @@ const categories=["Todos",...realCategories];
 const previews=Array.isArray(tenant.categoryPreview)?tenant.categoryPreview:[];
 const CART=storeKey("cart");
 const money=n=>new Intl.NumberFormat(tenant.locale).format(n)+" "+tenant.currency;
+const normalizeSearch=value=>String(value||"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase().replace(/[^a-z0-9ñ]+/g," ").trim();
+const searchTokens=value=>normalizeSearch(value).split(/\s+/).filter(Boolean).map(t=>t.length>3&&t.endsWith("s")?t.slice(0,-1):t);
 const mapUrl=tenant.address?"https://www.google.com/maps/search/?api=1&query="+encodeURIComponent(tenant.address):null;
 const waUrl=whatsappUrl(tenant.whatsapp,"Hola, necesito ayuda con "+tenant.name+".");
 
@@ -58,10 +60,13 @@ export default function Home(){
   },[]);
 
   const filtered=useMemo(()=>{
-    const list=products.filter(x=>
-      (cat==="Todos"||x.c===cat)&&
-      ((x.n+" "+x.d+" "+x.c).toLowerCase().includes(query.trim().toLowerCase()))
-    );
+    const terms=searchTokens(query);
+    const list=products.filter(x=>{
+      if(cat!=="Todos"&&x.c!==cat)return false;
+      if(!terms.length)return true;
+      const haystack=searchTokens(x.n+" "+x.d+" "+x.c).join(" ");
+      return terms.every(term=>haystack.includes(term));
+    });
     if(sort==="price-asc") return [...list].sort((a,b)=>a.p-b.p);
     if(sort==="price-desc") return [...list].sort((a,b)=>b.p-a.p);
     if(sort==="name") return [...list].sort((a,b)=>a.n.localeCompare(b.n,"es"));
