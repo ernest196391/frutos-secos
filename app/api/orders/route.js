@@ -1,0 +1,2 @@
+const ENDPOINT="https://viwwlriwlwodrfukbgbj.supabase.co/functions/v1/colo-orders";
+export async function POST(req){try{const payload=await req.json();const r=await fetch(ENDPOINT,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({action:"create",payload}),cache:"no-store"});return Response.json(await r.json(),{status:r.status})}catch{return Response.json({ok:false},{status:400})}}
