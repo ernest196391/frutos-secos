@@ -133,7 +133,7 @@ export default function Home(){
     <main id="inicio">
       <section className="premiumHero" aria-labelledby="hero-title">
         <div className="premiumHeroPattern" aria-hidden="true"/>
-        {tenant.hero.image&&<img className="premiumHeroPhoto" src={tenant.hero.image} alt={tenant.hero.imageAlt||tenant.hero.alt}/>}
+        {tenant.hero.image&&<img className="premiumHeroPhoto" src={tenant.hero.image} srcSet={tenant.hero.imageSmall?tenant.hero.imageSmall+" 720w, "+tenant.hero.image+" 1024w":undefined} sizes="(min-width: 1204px) 1180px, 100vw" alt={tenant.hero.imageAlt||tenant.hero.alt} fetchPriority="high" decoding="async"/>}
         <div className="premiumHeroShade" aria-hidden="true"/>
         <div className="premiumHeroCopy">
           <h1 id="hero-title">{tenant.hero.line1}<br/><strong>{tenant.hero.line2}</strong></h1>
