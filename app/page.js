@@ -121,15 +121,15 @@ export default function Home(){
           <p>{tenant.hero.subtitle}</p>
           <a href="#productos" className="premiumHeroCta">{tenant.hero.cta}<span aria-hidden="true">→</span></a>
         </div>
-        <div className="premiumHeroMark" aria-hidden="true">
-          <img src={tenant.brand.isotype} alt=""/>
-        </div>
       </section>
 
       <section id="categorias" className="premiumSection premiumCategories">
         <div className="premiumSectionHead">
           <div><span>EXPLORA</span><h2>Compra por categoría</h2></div>
           {realCategories.length>0&&<button onClick={()=>setCat("Todos")}>Ver todo</button>}
+        </div>
+        <div className="premiumCategoryFilters" aria-label="Filtrar productos">
+          {categories.map(name=><button key={name} className={cat===name?"active":""} onClick={()=>setCat(name)}>{name}</button>)}
         </div>
         <div className="premiumCategoryRail">
           {categoryCards.map((item,index)=>{
