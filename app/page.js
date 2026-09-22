@@ -37,6 +37,7 @@ export default function Home(){
   const [cart,setCart]=useState({});
   const [drawer,setDrawer]=useState(false);
   const [detail,setDetail]=useState(null);
+  const [activeSuggestion,setActiveSuggestion]=useState(-1);
 
   useEffect(()=>{
     try{
@@ -73,6 +74,11 @@ export default function Home(){
     return list;
   },[cat,query,sort]);
 
+  const suggestions=useMemo(()=>query.trim().length<2?[]:products.filter(p=>{
+    const terms=searchTokens(query);
+    const haystack=searchTokens(p.n+" "+p.d+" "+p.c).join(" ");
+    return terms.every(term=>haystack.includes(term));
+  }).slice(0,6),[query]);
   const count=Object.values(cart).reduce((a,b)=>a+b,0);
   const total=products.reduce((a,p)=>a+(cart[p.id]||0)*p.p,0);
 
@@ -108,11 +114,13 @@ export default function Home(){
         </button>
       </div>
 
-      <label className="premiumSearch">
+      <div className="premiumSearchWrap"><label className="premiumSearch">
         <Icon name="search"/>
-        <input aria-label="Buscar productos" value={query} onChange={e=>setQuery(e.target.value)} placeholder="¿Qué estás buscando?"/>
-        {query&&<button type="button" onClick={()=>setQuery("")} aria-label="Limpiar búsqueda">×</button>}
+        <input aria-label="Buscar productos" role="combobox" aria-autocomplete="list" aria-expanded={suggestions.length>0} aria-controls="colo-search-suggestions" value={query} onChange={e=>{setQuery(e.target.value);setCat("Todos");setActiveSuggestion(-1)}} onKeyDown={e=>{if(e.key==="ArrowDown"){e.preventDefault();setActiveSuggestion(x=>Math.min(x+1,suggestions.length-1))}if(e.key==="ArrowUp"){e.preventDefault();setActiveSuggestion(x=>Math.max(x-1,0))}if(e.key==="Escape"){setQuery("");setActiveSuggestion(-1)}if(e.key==="Enter"&&suggestions.length){e.preventDefault();const p=suggestions[Math.max(activeSuggestion,0)];setDetail(p);setQuery(p.n);setActiveSuggestion(-1)}}} placeholder="¿Qué estás buscando?" autoComplete="off"/>
+        {query&&<button type="button" onClick={()=>{setQuery("");setActiveSuggestion(-1)}} aria-label="Limpiar búsqueda">×</button>}
       </label>
+      {suggestions.length>0&&<ul id="colo-search-suggestions" className="coloSearchSuggestions" role="listbox">{suggestions.map((p,i)=><li key={p.id} role="option" aria-selected={activeSuggestion===i} className={activeSuggestion===i?"active":""}><button type="button" onClick={()=>{setDetail(p);setQuery(p.n);setActiveSuggestion(-1)}}><img src={p.img} alt=""/><span><b>{p.n}</b><small>{p.d||p.c}</small></span><strong>{money(p.p)}</strong></button></li>)}</ul>}
+      </div>
 
       {menu&&<nav className="premiumMenu" aria-label="Menú principal">
         <a href="#inicio" onClick={()=>setMenu(false)}>Inicio</a>
