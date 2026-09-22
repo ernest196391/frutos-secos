@@ -1,0 +1,10 @@
+"use client";
+import {useState} from "react";
+import Link from "next/link";
+const labels={recibido:"Recibido",confirmado:"Confirmado",preparando:"Preparando",listo:"Listo para recoger",en_camino:"En camino",entregado:"Entregado",cancelado:"Cancelado"};
+export default function Seguimiento(){
+ const [reference,setReference]=useState(typeof window!=="undefined"?new URLSearchParams(window.location.search).get("ref")||"":"");
+ const [phone,setPhone]=useState(""),[order,setOrder]=useState(null),[error,setError]=useState("");
+ async function submit(e){e.preventDefault();setError("");setOrder(null);const r=await fetch("/api/orders/track",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({reference,phone})});const d=await r.json();if(!r.ok||!d.ok){setError("No encontramos un pedido con esa referencia y teléfono.");return}setOrder(d.order)}
+ return <main className="checkoutPage trackingPage"><Link href="/" className="backLink">← Volver a la tienda</Link><section><h1>Consulta tu pedido</h1><p>Usa la referencia de tu pedido y el teléfono con el que lo hiciste.</p><form onSubmit={submit}><label>Referencia<input required value={reference} onChange={e=>setReference(e.target.value.toUpperCase())} placeholder="COLO-XXXXXXXX"/></label><label>Teléfono<input required type="tel" value={phone} onChange={e=>setPhone(e.target.value)}/></label><button className="checkoutPrimary">Consultar estado</button></form>{error&&<p role="status">{error}</p>}{order&&<article className="trackingCard"><p className="orderRef">#{order.reference}</p><h2>{labels[order.status]||order.status}</h2><p>{order.full_name}</p><dl className="orderTotals"><div><dt>Total</dt><dd>{Number(order.total).toLocaleString("es-CU")} {order.currency}</dd></div><div><dt>Modalidad</dt><dd>{order.mode==="pickup"?"Recogida":"Entrega"}</dd></div></dl></article>}</section></main>
+}
