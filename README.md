@@ -34,7 +34,7 @@ La identidad vive en `config/tenant.json`, el inventario en `lib/catalog.js` y l
 9. SEO, indexación, dominio y publicación comercial.
 10. Sustituir catálogo provisional por inventario/fotos/precios reales y cierre final.
 
-Estado actual: **Paso 2 cerrado. Próximo: Paso 3.**
+Estado actual: **Paso 3 cerrado. Próximo: Paso 4.**
 
 
 ## Paso 2 — Seguridad Supabase (cerrado)
@@ -53,3 +53,14 @@ Estado actual: **Paso 2 cerrado. Próximo: Paso 3.**
   - eliminación de CORS abierto innecesario.
 
 La función de pedidos sigue con `verify_jwt=false` porque el checkout público debe aceptar compras sin cuenta. La protección se realiza mediante validación, rate limiting y aislamiento de base de datos.
+
+
+## Paso 3 — Catálogo provisional local (cerrado)
+
+- 40 productos de muestra.
+- 4 categorías, 10 productos por categoría.
+- precios provisionales reutilizados del catálogo de 23 y 28 para inspección.
+- las 40 imágenes están copiadas al repositorio de Colo bajo `public/products/`.
+- la web ya no depende de URLs `raw.githubusercontent.com` del repo de 23 y 28.
+- todos los productos llevan `provisional: true` para evitar confundirlos con el inventario definitivo.
+- se auditó también la biblioteca de Zaldívar; sus imágenes de mercado están disponibles allí, pero la mayoría supera el límite de contenido binario del conector de GitHub. Para este MVP se priorizaron los recursos web ya optimizados de 23 y 28 y alojados localmente.

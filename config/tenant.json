@@ -428,8 +428,25 @@
     "San Miguel del Padrón|La Rosita": 3500
   },
   "shippingSource": "Tarifario NEXO 2026-08-04-v2, heredado para Frutos Secos Colo.",
-  "categoryPreview": [],
+  "categoryPreview": [
+    {
+      "name": "Carnes, Embutidos y Lácteos",
+      "image": "/products/hamburguesas-congeladas.webp"
+    },
+    {
+      "name": "Bebidas",
+      "image": "/products/nectar-tropical.webp"
+    },
+    {
+      "name": "Despensa y Bodega",
+      "image": "/products/lentejas.webp"
+    },
+    {
+      "name": "Snacks y Dulces",
+      "image": "/products/cinnamon-crisps.webp"
+    }
+  ],
   "home": {
-    "catalogStatus": ""
+    "catalogStatus": "Catálogo provisional para inspección"
   }
 }
