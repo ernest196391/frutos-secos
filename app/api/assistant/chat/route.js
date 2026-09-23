@@ -32,7 +32,7 @@ async function openai(){if(!process.env.OPENAI_API_KEY)throw Error("OPENAI_NOT_C
 async function gemini(){if(!googleKey())throw Error("GEMINI_NOT_CONFIGURED");const parts=contents.map(x=>{if(x.type==="input_text")return {text:x.text};const value=x.image_url||x.file_data,m=value?.match(/^data:([^;]+);base64,(.*)$/s);return m?{inlineData:{mimeType:m[1],data:m[2]}}:{text:"Adjunto no disponible"}});const r=await fetch("https://generativelanguage.googleapis.com/v1beta/models/"+encodeURIComponent(geminiModel())+":generateContent",{method:"POST",headers:{"x-goog-api-key":googleKey(),"Content-Type":"application/json"},body:JSON.stringify({systemInstruction:{parts:[{text:instructions}]},contents:[{role:"user",parts}],generationConfig:{maxOutputTokens:900,responseMimeType:"application/json"}}),signal:AbortSignal.timeout(30000)});if(!r.ok){const detail=(await r.text()).slice(0,500);console.error("[asistente/Gemini]",r.status,detail);throw Error("GEMINI_"+r.status)}const p=await r.json();const out=p.candidates?.[0]?.content?.parts?.map(x=>x.text||"").join("")||"";if(!out)throw Error("GEMINI_EMPTY");return out;}
 if(!assistantReady())return json({error:tenant.assistant.name+" está pendiente de activación. Puedes seguir comprando en el catálogo."},503);
 const providers=[];if(process.env.OPENAI_API_KEY)providers.push(["openai",openai]);if(googleKey())providers.push(["gemini",gemini]);if(files.length&&googleKey())providers.sort(([a])=>a==="gemini"?-1:1);
-let text="",lastError=null;for(const [name,fn] of providers){try{text=await fn();if(text)break}catch(e){lastError=e;console.error("[asistente/provider-fallback]",name,e.message)}}
+let text="",lastError=null,usedProvider=null;for(const [name,fn] of providers){try{text=await fn();if(text){usedProvider=name;break}}catch(e){lastError=e;console.error("[asistente/provider-fallback]",name,e.message)}}
 if(!text){console.error("[asistente/all-providers-failed]",lastError?.message||"unknown");return json({error:tenant.assistant.name+" no pudo conectarse a su motor de IA ahora. Inténtalo nuevamente en unos segundos."},503)}
 let parsed;const cleaned=cleanJsonText(text);try{parsed=JSON.parse(cleaned)}catch{const m=cleaned.match(/\{[\s\S]*\}/);if(m)try{parsed=JSON.parse(m[0])}catch{} }
 if(!parsed||typeof parsed.answer!=="string"||!parsed.answer.trim())parsed={answer:cleaned.slice(0,3000)||"No pude responder esa consulta.",productIds:[],action:"show"};
@@ -41,6 +41,6 @@ const selected=products.filter(p=>ids.has(Number(p.id))).slice(0,6);
 const action=parsed.action==="add"?"add":parsed.action==="contact"?"contact":parsed.action==="checkout"?"checkout":"show";
 const contact=action==="contact"?{phone:tenant.whatsapp,url:"https://wa.me/"+tenant.whatsapp}:null;
 const checkout=action==="add"||action==="checkout"?{url:"/checkout"}:null;
-return json({answer:parsed.answer.slice(0,3000),products:selected,action,contact,checkout});
+console.info("[asistente/success]",usedProvider||"unknown",action,selected.length);return json({answer:parsed.answer.slice(0,3000),products:selected,action,contact,checkout,provider:usedProvider});
 }catch(e){console.error("[asistente/unhandled]",e?.message||e);return json({error:"No pude responder ahora. Tu consulta no se ha convertido en un pedido. Inténtalo de nuevo."},503)}
 }
