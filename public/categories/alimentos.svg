@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 540">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F8F7F4"/><stop offset="1" stop-color="#EFE7E4"/></linearGradient><clipPath id="a"><rect x="40" y="42" width="405" height="456" rx="38"/></clipPath><clipPath id="b"><rect x="405" y="88" width="275" height="366" rx="34"/></clipPath></defs>
+<rect width="720" height="540" fill="url(#g)"/>
+<circle cx="635" cy="65" r="118" fill="#E04B58" opacity=".12"/><circle cx="70" cy="505" r="150" fill="#1F2D44" opacity=".08"/>
+<g clip-path="url(#a)"><image href="/products/lentejas.webp" width="455" height="500" x="15" y="20" preserveAspectRatio="xMidYMid slice"/></g>
+<g clip-path="url(#b)"><image href="/products/papas-lays.webp" width="315" height="410" x="385" y="66" preserveAspectRatio="xMidYMid slice"/></g>
+<rect x="40" y="42" width="405" height="456" rx="38" fill="none" stroke="#fff" stroke-width="10" opacity=".85"/>
+<rect x="405" y="88" width="275" height="366" rx="34" fill="none" stroke="#fff" stroke-width="10" opacity=".85"/>
+<path d="M570 456h80" stroke="#E04B58" stroke-width="18" stroke-linecap="round"/><path d="M604 422v68" stroke="#1F2D44" stroke-width="16" stroke-linecap="round"/>
+</svg>
