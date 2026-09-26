@@ -5,9 +5,8 @@ import Support from "./Support";
 import {tenant,storeKey} from "../lib/tenant";
 import {whatsappUrl} from "../lib/commerce.mjs";
 
-const realCategories=[...new Set(products.map(p=>p.c))];
-const categories=["Todos",...realCategories];
-const previews=Array.isArray(tenant.categoryPreview)?tenant.categoryPreview:[];
+const productCategories=[...new Set(products.map(p=>p.c))];
+const categoryDefinitions=Array.isArray(tenant.categories)&&tenant.categories.length?tenant.categories:productCategories.map(name=>({name,image:products.find(p=>p.c===name)?.img||""}));
 const CART=storeKey("cart");
 const money=n=>new Intl.NumberFormat(tenant.locale).format(n)+" "+tenant.currency;
 const normalizeSearch=value=>String(value||"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase().replace(/[^a-z0-9ñ]+/g," ").trim();
@@ -99,9 +98,7 @@ export default function Home(){
     window.scrollTo({top:0,behavior:"smooth"});
   }
 
-  const categoryCards=realCategories.length
-    ? realCategories.map(name=>({name,image:products.find(p=>p.c===name)?.img||"",live:true}))
-    : previews.map(x=>({...x,live:false}));
+  const categoryCards=categoryDefinitions.map(item=>({...item,count:products.filter(p=>p.c===item.name).length}));
 
   return <div className="coloStore">
     <header className="premiumHeader">
@@ -148,23 +145,22 @@ export default function Home(){
       {!searching&&<section id="categorias" className="premiumSection premiumCategories">
         <div className="premiumSectionHead">
           <div><h2>¿Qué buscas hoy?</h2></div>
-          {realCategories.length>0&&<button onClick={()=>setCat("Todos")}>Ver todo</button>}
+          {products.length>0&&<button onClick={()=>{setCat("Todos");setQuery("")}}>Ver todo</button>}
         </div>
         <div className="premiumCategoryRail">
           {categoryCards.map((item,index)=>{
             const fallbackClass="tone"+(index%4+1);
             return <button
               key={item.name}
-              className={"premiumCategoryCard "+fallbackClass+(cat===item.name?" selected":"")}
-              onClick={()=>{if(!item.live)return;setCat(item.name);document.querySelector("#productos")?.scrollIntoView({behavior:"smooth"})}}
-              disabled={!item.live}
-              aria-label={item.live?"Ver "+item.name:item.name+", vista previa de categoría"}
+              className={"premiumCategoryCard "+fallbackClass+(cat===item.name?" selected":"")+(item.count===0?" upcoming":"")}
+              onClick={()=>{if(item.count===0){setNotice(item.name+": productos en preparación.");return}setCat(item.name);setQuery("");document.querySelector("#productos")?.scrollIntoView({behavior:"smooth"})}}
+              aria-label={item.count>0?"Ver "+item.name:item.name+", productos en preparación"}
             >
               {item.image&&<img src={item.image} alt="" loading="lazy"/>}
               <span className="premiumCategoryOverlay"/>
               <span className="premiumCategoryPattern"/>
               <b>{item.name}</b>
-              {!item.live&&<small>Vista previa</small>}
+              <small>{item.count>0?item.count+" "+(item.count===1?"producto":"productos"):"Próximamente"}</small>
             </button>
           })}
         </div>
@@ -196,8 +192,8 @@ export default function Home(){
           <div className="premiumCatalogEmpty">
             <img src={tenant.brand.isotype} alt="" aria-hidden="true"/>
             <div>
-              <h3>No encontramos ese producto</h3>
-              <p>Prueba con otro nombre o vuelve a ver todos.</p>
+              <h3>{cat!=="Todos"?"Todavía no hay productos aquí":"No encontramos ese producto"}</h3>
+              <p>{cat!=="Todos"?"Esta categoría ya forma parte de Colo Shop y se completará con inventario real.":"Prueba con otro nombre o vuelve a ver todos."}</p>
             </div>
           </div>
         }

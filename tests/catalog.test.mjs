@@ -3,13 +3,15 @@ import assert from "node:assert/strict";
 import {products} from "../lib/catalog.js";
 
 test("demo catalog has 40 products",()=>assert.equal(products.length,40));
-test("demo catalog has four balanced categories",()=>{
-  const counts=Object.fromEntries([...new Set(products.map(p=>p.c))].map(c=>[c,products.filter(p=>p.c===c).length]));
+test("demo catalog follows Colo Shop live product categories",()=>{
+  const counts=Object.fromEntries([...new Set(products.map(p=>p.c))].sort().map(c=>[c,products.filter(p=>p.c===c).length]));
   assert.deepEqual(counts,{
-    "Carnes, Embutidos y Lácteos":10,
-    "Bebidas":10,
-    "Despensa y Bodega":10,
-    "Snacks y Dulces":10
+    "Alimentos":12,
+    "Bebidas":16,
+    "Charcutería":3,
+    "Conservas":3,
+    "Cárnicos":4,
+    "Lácteos":2
   });
 });
 test("demo catalog uses only local product assets",()=>{

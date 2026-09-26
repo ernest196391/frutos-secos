@@ -1,5 +1,5 @@
 {
-  "slug": "frutos-secos-colo",
+  "slug": "colo-shop",
   "name": "Colo Shop",
   "shortName": "Colo",
   "tagline": "Tu compra, más fácil.",
@@ -428,25 +428,49 @@
     "San Miguel del Padrón|La Rosita": 3500
   },
   "shippingSource": "Tarifario NEXO 2026-08-04-v2, heredado para Colo Shop.",
-  "categoryPreview": [
+  "home": {
+    "catalogStatus": "Catálogo provisional de Colo Shop"
+  },
+  "categories": [
     {
-      "name": "Carnes, Embutidos y Lácteos",
-      "image": "/products/hamburguesas-congeladas.webp"
+      "name": "Alimentos",
+      "slug": "alimentos",
+      "image": "/categories/alimentos.svg"
+    },
+    {
+      "name": "Cárnicos",
+      "slug": "carnicos",
+      "image": "/categories/carnicos.svg"
+    },
+    {
+      "name": "Charcutería",
+      "slug": "charcuteria",
+      "image": "/categories/charcuteria.svg"
+    },
+    {
+      "name": "Frutos secos",
+      "slug": "frutos-secos",
+      "image": "/categories/frutos-secos.svg"
+    },
+    {
+      "name": "Lácteos",
+      "slug": "lacteos",
+      "image": "/categories/lacteos.svg"
+    },
+    {
+      "name": "Conservas",
+      "slug": "conservas",
+      "image": "/categories/conservas.svg"
+    },
+    {
+      "name": "Aseo",
+      "slug": "aseo",
+      "image": "/categories/aseo.svg"
     },
     {
       "name": "Bebidas",
-      "image": "/products/nectar-tropical.webp"
-    },
-    {
-      "name": "Despensa y Bodega",
-      "image": "/products/lentejas.webp"
-    },
-    {
-      "name": "Snacks y Dulces",
-      "image": "/products/cinnamon-crisps.webp"
+      "slug": "bebidas",
+      "image": "/categories/bebidas.svg"
     }
-  ],
-  "home": {
-    "catalogStatus": "Catálogo provisional para inspección"
-  }
+  ]
 }
