@@ -3,7 +3,7 @@
 Tienda online mobile-first de Colo Shop, con identidad y configuración propias sobre una arquitectura reutilizable.
 
 ## Estado
-**Bloques 0–2 cerrados. Bloque 3 en cierre técnico.**
+**MVP funcional en cierre de entrega.**
 
 - identidad y tenant propios
 - home premium mobile-first
@@ -15,7 +15,9 @@ Tienda online mobile-first de Colo Shop, con identidad y configuración propias 
 - hero optimizado bajo `public/hero/`
 - CI con tests y build
 - tarifas de mensajería pendientes de datos comerciales reales
-- catálogo definitivo e imágenes propias pendientes de carga posterior
+- taxonomía real de Colo Shop aplicada en home
+- categorías Aseo y Frutos secos visibles y listas para recibir inventario real
+- catálogo definitivo e imágenes propias de producto pendientes de sustitución posterior
 
 ## Regla
 La identidad vive en `config/tenant.json`, el inventario en `lib/catalog.js` y los recursos visuales en `public/`. No se inventan tarifas, horarios, stock ni datos comerciales.
@@ -34,7 +36,7 @@ La identidad vive en `config/tenant.json`, el inventario en `lib/catalog.js` y l
 9. SEO, indexación, dominio y publicación comercial.
 10. Sustituir catálogo provisional por inventario/fotos/precios reales y cierre final.
 
-Estado actual: **Paso 3 cerrado. Próximo: Paso 4.**
+Estado actual: **marca, hero, IA, checkout y navegación de categorías listos para inspección de MVP.**
 
 
 ## Paso 2 — Seguridad Supabase (cerrado)
@@ -64,3 +66,19 @@ La función de pedidos sigue con `verify_jwt=false` porque el checkout público 
 - la web ya no depende de URLs `raw.githubusercontent.com` del repo de 23 y 28.
 - todos los productos llevan `provisional: true` para evitar confundirlos con el inventario definitivo.
 - se auditó también la biblioteca de Zaldívar; sus imágenes de mercado están disponibles allí, pero la mayoría supera el límite de contenido binario del conector de GitHub. Para este MVP se priorizaron los recursos web ya optimizados de 23 y 28 y alojados localmente.
+
+
+## Categorías Colo Shop
+
+La navegación principal ya no depende de las categorías heredadas del catálogo demo. Colo Shop expone su estructura comercial propia:
+
+- Alimentos
+- Cárnicos
+- Charcutería
+- Frutos secos
+- Lácteos
+- Conservas
+- Aseo
+- Bebidas
+
+Las categorías sin inventario demo se muestran como próximas en lugar de inventar productos.
