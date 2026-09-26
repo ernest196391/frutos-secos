@@ -1,11 +1,11 @@
 {
   "slug": "frutos-secos-colo",
-  "name": "Frutos Secos Colo",
+  "name": "Colo Shop",
   "shortName": "Colo",
   "tagline": "Tu compra, más fácil.",
   "logoTitle": {
-    "top": "FRUTOS SECOS",
-    "bottom": "COLO"
+    "top": "COLO",
+    "bottom": "SHOP"
   },
   "address": "Calle 26 esquina 27, Nuevo Vedado, Plaza de la Revolución, La Habana",
   "addressLines": [
@@ -20,26 +20,26 @@
   "currency": "CUP",
   "locale": "es-CU",
   "brand": {
-    "logo": "/brand/logo-primary.svg",
-    "wordmark": "/brand/wordmark-frutos-secos.svg",
-    "lockup": "/brand/colo-lockup.svg",
-    "isotype": "/brand/isotipo-cart.svg",
-    "avatar": "/brand/avatar.svg",
+    "logo": "/brand/logo-colo-shop.svg",
+    "wordmark": "/brand/logo-colo.svg",
+    "lockup": "/brand/logo-colo-shop.svg",
+    "isotype": "/brand/isotipo-colo.svg",
+    "avatar": "/brand/avatar-colo.svg",
     "pattern": "/brand/pattern-food.svg"
   },
   "seo": {
-    "title": "Frutos Secos Colo — tienda online",
-    "description": "Compra desde el móvil y elige entrega o recogida en tienda."
+    "title": "Colo Shop — tienda online",
+    "description": "Compra desde el móvil en Colo Shop y elige entrega o recogida en tienda."
   },
   "hero": {
     "line1": "Tu compra,",
     "line2": "más fácil.",
     "subtitle": "Encuentra lo que necesitas y arma tu pedido en minutos.",
     "cta": "Ver productos",
-    "alt": "Frutos Secos Colo",
+    "alt": "Colo Shop",
     "image": "/hero/hero-frutos-secos.webp",
     "imageSmall": "/hero/hero-frutos-secos-720.webp",
-    "imageAlt": "Selección premium de frutos secos, frutas deshidratadas y productos de despensa"
+    "imageAlt": "Tienda Colo Shop en Nuevo Vedado"
   },
   "catalogIntro": {
     "eyebrow": "",
@@ -59,8 +59,8 @@
   },
   "assistant": {
     "name": "Asistente Colo",
-    "avatar": "/brand/avatar.svg",
-    "role": "Asistente de compra de Frutos Secos Colo",
+    "avatar": "/brand/avatar-colo.svg",
+    "role": "Asistente de compra de Colo Shop",
     "greeting": "Hola, soy el Asistente Colo.",
     "greetingSub": "¿Qué necesitas encontrar hoy?",
     "intro": "Puedo ayudarte a buscar productos, armar tu compra y orientarte con la entrega o recogida.",
@@ -68,7 +68,7 @@
     "persona": "asistente de {name}. Responde en español breve, cálido y resolutivo. No inventes precios, stock, horarios, dirección ni políticas.",
     "nudge": "¿Te ayudo?"
   },
-  "orderTitle": "FRUTOS SECOS COLO",
+  "orderTitle": "COLO SHOP",
   "orderPrefix": "COLO",
   "footerNote": "",
   "shippingRates": {
@@ -427,7 +427,7 @@
     "San Miguel del Padrón|Las Palmas": 3500,
     "San Miguel del Padrón|La Rosita": 3500
   },
-  "shippingSource": "Tarifario NEXO 2026-08-04-v2, heredado para Frutos Secos Colo.",
+  "shippingSource": "Tarifario NEXO 2026-08-04-v2, heredado para Colo Shop.",
   "categoryPreview": [
     {
       "name": "Carnes, Embutidos y Lácteos",
