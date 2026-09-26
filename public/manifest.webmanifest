@@ -1,5 +1,5 @@
 {
-  "name": "Frutos Secos Colo",
+  "name": "Colo Shop",
   "short_name": "Colo",
   "start_url": "/",
   "display": "standalone",
@@ -7,7 +7,7 @@
   "theme_color": "#E04B58",
   "icons": [
     {
-      "src": "/brand/avatar.svg",
+      "src": "/brand/avatar-colo.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"

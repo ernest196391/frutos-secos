@@ -143,7 +143,7 @@ export default function Support({onAdd,onSet,onClear,cart={}}){
     setQ(text);ask(text);
   }
 
-  const avatar=AI.avatar||"/brand/isotipo-cart.svg";
+  const avatar=AI.avatar||"/brand/isotipo-colo.svg";
   const avatarNode=(cls="")=>avatarFailed?<span className={(cls?cls+" ":"")+"assistantAvatarFallback"} aria-label={AI.name}>{AI.name.slice(0,1)}</span>:<img className={cls} src={avatar} alt={AI.name} onError={()=>setAvatarFailed(true)}/>;
   const quick=[["search","Buscar productos","Encuentra lo que necesitas","Quiero buscar productos del catálogo."],["cart","Armar compra","Te ayudo paso a paso","Ayúdame a armar una compra. Pregúntame primero para qué la necesito y mi presupuesto."],["truck","Envío","Consulta zonas y precios","Quiero saber el costo de mensajería. Pregúntame municipio y localidad si hace falta."],["shop","Recoger en tienda","Compra online y recoge","Explícame cómo funciona recoger mi compra en "+tenant.name+"."]];
 

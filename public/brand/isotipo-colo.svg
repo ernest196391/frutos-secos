@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420" role="img" aria-labelledby="title desc">
+<title id="title">Colo</title><desc id="desc">Isotipo Colo, carrito veloz</desc>
+<path d="M38 95h105M65 160h110M103 226h92" fill="none" stroke="#202127" stroke-width="34" stroke-linecap="round"/>
+<circle cx="38" cy="160" r="17" fill="#202127"/><circle cx="74" cy="226" r="17" fill="#202127"/>
+<path d="M160 88h45l45 160h118" fill="none" stroke="#202127" stroke-width="36" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="250" cy="315" r="28" fill="#202127"/><circle cx="344" cy="315" r="28" fill="#202127"/>
+<path d="M220 88h140c20 0 34 15 34 34v10h-42v-6H257l25 96h70v-7h42v10c0 22-17 39-39 39H266c-17 0-29-10-34-27l-39-135c-2-8 3-14 12-14h15Z" fill="#E64045"/>
+</svg>

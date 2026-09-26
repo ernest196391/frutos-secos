@@ -1,6 +1,6 @@
-# Frutos Secos Colo
+# Colo Shop
 
-Tienda online mobile-first con identidad y configuración propias, construida sobre una arquitectura reutilizable.
+Tienda online mobile-first de Colo Shop, con identidad y configuración propias sobre una arquitectura reutilizable.
 
 ## Estado
 **Bloques 0–2 cerrados. Bloque 3 en cierre técnico.**
