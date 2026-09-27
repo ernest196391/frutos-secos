@@ -435,42 +435,43 @@
     {
       "name": "Alimentos",
       "slug": "alimentos",
-      "image": "/categories/alimentos.svg"
+      "sprite": 0
     },
     {
       "name": "Cárnicos",
       "slug": "carnicos",
-      "image": "/categories/carnicos.svg"
+      "sprite": 1
     },
     {
       "name": "Charcutería",
       "slug": "charcuteria",
-      "image": "/categories/charcuteria.svg"
+      "sprite": 2
     },
     {
       "name": "Frutos secos",
       "slug": "frutos-secos",
-      "image": "/categories/frutos-secos.svg"
+      "sprite": 3
     },
     {
       "name": "Lácteos",
       "slug": "lacteos",
-      "image": "/categories/lacteos.svg"
+      "sprite": 4
     },
     {
       "name": "Conservas",
       "slug": "conservas",
-      "image": "/categories/conservas.svg"
+      "sprite": 5
     },
     {
       "name": "Aseo",
       "slug": "aseo",
-      "image": "/categories/aseo.svg"
+      "sprite": 6
     },
     {
       "name": "Bebidas",
       "slug": "bebidas",
-      "image": "/categories/bebidas.svg"
+      "image": "/products/nectar-tropical.webp"
     }
-  ]
+  ],
+  "categorySprite": "/categories/categories-sprite.webp"
 }
