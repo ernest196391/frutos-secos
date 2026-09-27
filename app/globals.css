@@ -355,3 +355,13 @@ body:has(.adminLogin){margin:0;background:#f5f2ed}
   .premiumCategoryCard{min-height:0;scroll-snap-align:start}
 }
 @media(min-width:560px) and (max-width:900px){.premiumCategoryRail{grid-auto-columns:minmax(170px,27vw)}}
+
+/* Colo Shop hero: storefront photo, keep sign + entrance visible */
+.premiumHeroPhoto{object-position:50% 34%;filter:none;opacity:1}
+.premiumHeroShade{background:linear-gradient(90deg,rgba(18,28,47,.88) 0%,rgba(18,28,47,.62) 38%,rgba(18,28,47,.12) 68%,rgba(18,28,47,0) 100%)}
+@media(max-width:680px){
+  .premiumHero{min-height:clamp(500px,138vw,600px)}
+  .premiumHeroPhoto{object-position:50% 30%}
+  .premiumHeroShade{background:linear-gradient(0deg,rgba(18,28,47,.95) 0%,rgba(18,28,47,.78) 30%,rgba(18,28,47,.18) 55%,rgba(18,28,47,0) 70%)}
+  .premiumHeroCopy{padding:24px 20px 26px}
+}
