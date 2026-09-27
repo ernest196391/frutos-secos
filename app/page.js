@@ -156,9 +156,7 @@ export default function Home(){
               onClick={()=>{if(item.count===0){setNotice(item.name+": productos en preparación.");return}setCat(item.name);setQuery("");document.querySelector("#productos")?.scrollIntoView({behavior:"smooth"})}}
               aria-label={item.count>0?"Ver "+item.name:item.name+", productos en preparación"}
             >
-              {Number.isInteger(item.sprite)&&tenant.categorySprite
-                ?<span className="premiumCategoryPhoto" aria-hidden="true" style={{backgroundImage:`url(${tenant.categorySprite})`,backgroundPosition:`center ${item.sprite*100/6}%`}}/>
-                :item.image?<img src={item.image} alt="" loading="lazy"/>:null}
+              {item.image&&<img src={item.image} alt="" width="720" height="900" loading={index<3?"eager":"lazy"} decoding="async"/>}
               <span className="premiumCategoryOverlay"/>
               <span className="premiumCategoryPattern"/>
               <b>{item.name}</b>

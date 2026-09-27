@@ -37,9 +37,9 @@
     "subtitle": "Encuentra lo que necesitas y arma tu pedido en minutos.",
     "cta": "Ver productos",
     "alt": "Colo Shop",
-    "image": "/hero/hero-colo-shop-mobile.webp",
-    "imageSmall": "/hero/hero-colo-shop-mobile.webp",
-    "imageAlt": "Fachada premium de Colo Shop"
+    "image": "/hero/hero-frutos-secos.webp",
+    "imageSmall": "/hero/hero-frutos-secos-720.webp",
+    "imageAlt": "Selección de productos de Colo Shop"
   },
   "catalogIntro": {
     "eyebrow": "",
@@ -435,43 +435,42 @@
     {
       "name": "Alimentos",
       "slug": "alimentos",
-      "sprite": 0
+      "image": "/categories/alimentos.webp"
     },
     {
       "name": "Cárnicos",
       "slug": "carnicos",
-      "sprite": 1
+      "image": "/categories/carnicos.webp"
     },
     {
       "name": "Charcutería",
       "slug": "charcuteria",
-      "sprite": 2
+      "image": "/categories/charcuteria.webp"
     },
     {
       "name": "Frutos secos",
       "slug": "frutos-secos",
-      "sprite": 3
+      "image": "/categories/frutos-secos.webp"
     },
     {
       "name": "Lácteos",
       "slug": "lacteos",
-      "sprite": 4
+      "image": "/categories/lacteos.webp"
     },
     {
       "name": "Conservas",
       "slug": "conservas",
-      "sprite": 5
+      "image": "/categories/conservas.webp"
     },
     {
       "name": "Aseo",
       "slug": "aseo",
-      "sprite": 6
+      "image": "/categories/aseo.webp"
     },
     {
       "name": "Bebidas",
       "slug": "bebidas",
-      "image": "/products/nectar-tropical.webp"
+      "image": "/categories/bebidas.webp"
     }
-  ],
-  "categorySprite": "/categories/categories-sprite.webp"
+  ]
 }
