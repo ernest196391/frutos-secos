@@ -133,7 +133,7 @@ export default function Home(){
     <main id="inicio">
       {!searching&&<section className="premiumHero" aria-labelledby="hero-title">
         <div className="premiumHeroPattern" aria-hidden="true"/>
-        {tenant.hero.image&&<img className="premiumHeroPhoto" src={tenant.hero.image} srcSet={tenant.hero.imageSmall?tenant.hero.imageSmall+" 720w, "+tenant.hero.image+" 1024w":undefined} sizes="(min-width: 1204px) 1180px, 100vw" alt={tenant.hero.imageAlt||tenant.hero.alt} fetchPriority="high" decoding="async"/>}
+        {tenant.hero.image&&<img className="premiumHeroPhoto" src={tenant.hero.image} srcSet={tenant.hero.imageSmall?tenant.hero.imageSmall+" 720w, "+tenant.hero.image+" 941w":undefined} sizes="(min-width: 1204px) 1180px, 100vw" alt={tenant.hero.imageAlt||tenant.hero.alt} fetchPriority="high" decoding="async"/>}
         <div className="premiumHeroShade" aria-hidden="true"/>
         <div className="premiumHeroCopy">
           <h1 id="hero-title">{tenant.hero.line1}<br/><strong>{tenant.hero.line2}</strong></h1>
@@ -156,9 +156,7 @@ export default function Home(){
               onClick={()=>{if(item.count===0){setNotice(item.name+": productos en preparación.");return}setCat(item.name);setQuery("");document.querySelector("#productos")?.scrollIntoView({behavior:"smooth"})}}
               aria-label={item.count>0?"Ver "+item.name:item.name+", productos en preparación"}
             >
-              {Number.isInteger(item.sprite)&&tenant.categorySprite
-                ?<span className="premiumCategoryPhoto" aria-hidden="true" style={{backgroundImage:`url(${tenant.categorySprite})`,backgroundPosition:`center ${item.sprite*100/6}%`}}/>
-                :item.image?<img src={item.image} alt="" loading="lazy"/>:null}
+              {item.image&&<img src={item.image} alt="" width="720" height="900" loading={index<3?"eager":"lazy"} decoding="async"/>}
               <span className="premiumCategoryOverlay"/>
               <span className="premiumCategoryPattern"/>
               <b>{item.name}</b>

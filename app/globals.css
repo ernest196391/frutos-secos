@@ -341,3 +341,27 @@ body:has(.adminLogin){margin:0;background:#f5f2ed}
   .premiumCategoryRail::-webkit-scrollbar{display:none}
   .premiumCategoryCard{min-height:210px;scroll-snap-align:start}
 }
+
+/* Colo Shop MVP: category photos + single-row rail on mobile/tablet */
+.premiumCategoryCard>img{position:absolute;inset:0;z-index:-3;width:100%;height:100%;object-fit:cover;object-position:center}
+.premiumCategoryOverlay{background:linear-gradient(180deg,rgba(18,28,47,0) 38%,rgba(18,28,47,.55) 68%,rgba(18,28,47,.9) 100%)}
+.premiumCategoryCard.upcoming .premiumCategoryOverlay{background:linear-gradient(180deg,rgba(18,28,47,.05) 30%,rgba(18,28,47,.62) 64%,rgba(18,28,47,.92) 100%)}
+.premiumCategoryCard .premiumCategoryPattern{display:none}
+.premiumCategoryCard b{text-shadow:0 1px 10px rgba(0,0,0,.35)}
+.premiumCategoryCard{aspect-ratio:4/5;min-height:0}
+@media(max-width:900px){
+  .premiumCategoryRail{display:grid;grid-template-columns:none;grid-auto-flow:column;grid-auto-columns:minmax(150px,40vw);gap:12px;overflow-x:auto;overscroll-behavior-inline:contain;scroll-snap-type:x mandatory;scroll-padding-left:2px;scrollbar-width:none;padding:3px 12px 12px 2px;margin-right:-12px;-webkit-overflow-scrolling:touch}
+  .premiumCategoryRail::-webkit-scrollbar{display:none}
+  .premiumCategoryCard{min-height:0;scroll-snap-align:start}
+}
+@media(min-width:560px) and (max-width:900px){.premiumCategoryRail{grid-auto-columns:minmax(170px,27vw)}}
+
+/* Colo Shop hero: storefront photo, keep sign + entrance visible */
+.premiumHeroPhoto{object-position:50% 34%;filter:none;opacity:1}
+.premiumHeroShade{background:linear-gradient(90deg,rgba(18,28,47,.88) 0%,rgba(18,28,47,.62) 38%,rgba(18,28,47,.12) 68%,rgba(18,28,47,0) 100%)}
+@media(max-width:680px){
+  .premiumHero{min-height:clamp(500px,138vw,600px)}
+  .premiumHeroPhoto{object-position:50% 30%}
+  .premiumHeroShade{background:linear-gradient(0deg,rgba(18,28,47,.95) 0%,rgba(18,28,47,.78) 30%,rgba(18,28,47,.18) 55%,rgba(18,28,47,0) 70%)}
+  .premiumHeroCopy{padding:24px 20px 26px}
+}
