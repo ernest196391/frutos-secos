@@ -309,3 +309,35 @@ body:has(.adminLogin){margin:0;background:#f5f2ed}
 
 /* Colo admin login alignment */
 .adminLoginBrand{justify-content:center!important}.adminLoginBrand img{object-position:center!important}.adminLoginIntro{text-align:center!important}.adminLoginIntro span{text-align:center!important}.adminLoginIntro h1{text-align:center!important}
+
+
+/* Final Colo Shop visual asset pass */
+.premiumLogo{width:min(202px,55vw);height:56px;overflow:visible}
+.premiumLogo img{max-height:54px;max-width:100%;object-fit:contain;object-position:center}
+.premiumCategoryPhoto{position:absolute;inset:0;z-index:-3;background-repeat:no-repeat;background-size:100% 700%;background-position-x:center}
+.premiumCategoryCard>img{object-fit:cover}
+@media(max-width:680px){
+  .premiumHero{min-height:430px;margin-top:8px}
+  .premiumHeroPhoto{object-position:50% 50%;opacity:1}
+  .premiumHeroShade{background:linear-gradient(0deg,rgba(18,28,47,.94) 0%,rgba(18,28,47,.62) 45%,rgba(18,28,47,.10) 82%,rgba(18,28,47,.03) 100%)}
+  .premiumHeroCopy{padding:28px 20px 30px}
+  .premiumHeroCopy h1{color:#fff;max-width:350px;text-shadow:0 2px 18px rgba(0,0,0,.18)}
+  .premiumHeroCopy h1 strong{color:#ff6672}
+  .premiumHeroCopy p{color:rgba(255,255,255,.92);max-width:330px}
+  .premiumHeroCta{background:#fff;color:var(--colo-navy);box-shadow:0 10px 24px rgba(0,0,0,.14)}
+  .premiumCategoryRail{
+    display:grid;
+    grid-template-columns:none;
+    grid-auto-flow:column;
+    grid-auto-columns:minmax(158px,42vw);
+    gap:12px;
+    overflow-x:auto;
+    overscroll-behavior-inline:contain;
+    scroll-snap-type:x mandatory;
+    scrollbar-width:none;
+    padding:3px 16px 12px 2px;
+    margin-right:-16px
+  }
+  .premiumCategoryRail::-webkit-scrollbar{display:none}
+  .premiumCategoryCard{min-height:210px;scroll-snap-align:start}
+}
