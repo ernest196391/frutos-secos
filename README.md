@@ -17,7 +17,9 @@ Tienda online mobile-first de Colo Shop, con identidad y configuración propias 
 - tarifas de mensajería pendientes de datos comerciales reales
 - taxonomía real de Colo Shop aplicada en home
 - categorías Aseo y Frutos secos visibles y listas para recibir inventario real
-- catálogo definitivo e imágenes propias de producto pendientes de sustitución posterior
+- 32 productos reales con imágenes comerciales y precios CUP; 16 candidatos pendientes de revisión
+- tabla de productos en `/admin/productos`, exportación CSV y trazabilidad de fotos
+- base de Pictures en `pictures/` y `docs/pictures/README.md`
 
 ## Regla
 La identidad vive en `config/tenant.json`, el inventario en `lib/catalog.js` y los recursos visuales en `public/`. No se inventan tarifas, horarios, stock ni datos comerciales.

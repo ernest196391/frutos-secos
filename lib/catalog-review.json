@@ -1,0 +1,189 @@
+[
+  {
+    "sharedProductId": "gain-flings-pequeno",
+    "n": "Gain Flings Original 213 g",
+    "sourcePhoto": "IMG_20261009_164942_1.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_164942_1.jpg",
+    "status": "needs-review",
+    "reason": "Dos paquetes similares junto a 5.000 y 7.000 CUP; falta distinguir presentación o precio.",
+    "priceCandidatesCUP": [
+      5000,
+      7000
+    ],
+    "img": "/products/real/gain-flings-pequeno.webp"
+  },
+  {
+    "sharedProductId": "snickers",
+    "n": "Chocolate Snickers",
+    "sourcePhoto": "IMG_20261009_164921.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_164921.jpg",
+    "status": "needs-review",
+    "reason": "Sin cartel propio legible.",
+    "priceCandidatesCUP": [],
+    "img": null
+  },
+  {
+    "sharedProductId": "mms",
+    "n": "M&M's",
+    "sourcePhoto": "IMG_20261009_164918_1.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_164918_1.jpg",
+    "status": "needs-review",
+    "reason": "Sin cartel propio legible; falta presentación.",
+    "priceCandidatesCUP": [],
+    "img": null
+  },
+  {
+    "sharedProductId": "downy-cool-cotton",
+    "n": "Suavizante Downy Cool Cotton 306 mL",
+    "sourcePhoto": "IMG_20261009_164949_1.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_164949_1.jpg",
+    "status": "needs-review",
+    "reason": "Cartel 5.000 CUP compartido con varios productos; confirmar aplicación.",
+    "priceCandidatesCUP": [
+      5000
+    ],
+    "img": null
+  },
+  {
+    "sharedProductId": "tide-simply",
+    "n": "Tide Simply All in One 306 mL",
+    "sourcePhoto": "IMG_20261009_164949_1.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_164949_1.jpg",
+    "status": "needs-review",
+    "reason": "Cartel compartido; confirmar precio de esta variante.",
+    "priceCandidatesCUP": [
+      5000
+    ],
+    "img": null
+  },
+  {
+    "sharedProductId": "gain-ultra-oxi",
+    "n": "Gain Ultra Oxi 306 mL",
+    "sourcePhoto": "IMG_20261009_164949_1.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_164949_1.jpg",
+    "status": "needs-review",
+    "reason": "Cartel compartido; confirmar precio de esta variante.",
+    "priceCandidatesCUP": [
+      5000
+    ],
+    "img": null
+  },
+  {
+    "sharedProductId": "tide-free-gentle",
+    "n": "Tide Free & Gentle 237 mL",
+    "sourcePhoto": "IMG_20261009_164949_1.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_164949_1.jpg",
+    "status": "needs-review",
+    "reason": "Cartel compartido; confirmar precio de esta variante.",
+    "priceCandidatesCUP": [
+      5000
+    ],
+    "img": null
+  },
+  {
+    "sharedProductId": "tide-downy",
+    "n": "Tide Ultra Downy",
+    "sourcePhoto": "IMG_20261009_164949_1.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_164949_1.jpg",
+    "status": "needs-review",
+    "reason": "Cartel compartido; confirmar precio y volumen.",
+    "priceCandidatesCUP": [
+      5000
+    ],
+    "img": null
+  },
+  {
+    "sharedProductId": "magali-coco",
+    "n": "Gel de baño Magali Coco",
+    "sourcePhoto": "IMG_20261009_164957_1.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_164957_1.jpg",
+    "status": "needs-review",
+    "reason": "Confirmar si comparte el precio de Mora.",
+    "priceCandidatesCUP": [
+      2300
+    ],
+    "img": null
+  },
+  {
+    "sharedProductId": "snonas-splash",
+    "n": "Colonia S'nonas Splash 750 mL",
+    "sourcePhoto": "IMG_20261009_164957_1.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_164957_1.jpg",
+    "status": "needs-review",
+    "reason": "Confirmar si comparte el precio de la colonia amarilla.",
+    "priceCandidatesCUP": [
+      3300
+    ],
+    "img": null
+  },
+  {
+    "sharedProductId": "terrifik",
+    "n": "Ambientador para lavavajillas Terrifik",
+    "sourcePhoto": "IMG_20261009_165004.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165004.jpg",
+    "status": "needs-review",
+    "reason": "No se ve precio propio.",
+    "priceCandidatesCUP": [],
+    "img": null
+  },
+  {
+    "sharedProductId": "homebright-verde",
+    "n": "Homebright Scent Booster verde",
+    "sourcePhoto": "IMG_20261009_165026_1.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165026_1.jpg",
+    "status": "needs-review",
+    "reason": "Confirmar si comparte el precio de 4.400 CUP del envase morado.",
+    "priceCandidatesCUP": [
+      4400
+    ],
+    "img": null
+  },
+  {
+    "sharedProductId": "homebright-morado",
+    "n": "Homebright Scent Booster morado",
+    "sourcePhoto": "IMG_20261009_165026_1.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165026_1.jpg",
+    "status": "needs-review",
+    "reason": "Frontal parcialmente cortado; falta identificar variante/presentación.",
+    "priceCandidatesCUP": [
+      4400
+    ],
+    "img": null
+  },
+  {
+    "sharedProductId": "glade",
+    "n": "Ambientador Glade",
+    "sourcePhoto": "IMG_20261009_165026_1.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165026_1.jpg",
+    "status": "needs-review",
+    "reason": "Confirmar si comparte el precio de Febreze y variante.",
+    "priceCandidatesCUP": [
+      6000
+    ],
+    "img": null
+  },
+  {
+    "sharedProductId": "palmolive",
+    "n": "Gel de baño Palmolive Oliva Verde",
+    "sourcePhoto": "IMG_20261009_165026_1.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165026_1.jpg",
+    "status": "needs-review",
+    "reason": "No se ve precio propio ni volumen.",
+    "priceCandidatesCUP": [],
+    "img": null
+  },
+  {
+    "sharedProductId": "la-salud",
+    "n": "Productos de limpieza La Salud",
+    "sourcePhoto": "IMG_20261009_165016_1.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165016_1.jpg",
+    "status": "needs-review",
+    "reason": "Se ven varias presentaciones y carteles; faltan frentes completos para asignar precios.",
+    "priceCandidatesCUP": [
+      2900,
+      4900
+    ],
+    "img": null
+  }
+]
+

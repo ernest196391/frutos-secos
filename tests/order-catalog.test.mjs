@@ -1,0 +1,6 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {canonicalOrder} from '../lib/order-catalog.mjs';
+const products=[{id:1001,n:'Producto',p:1250}],tenant={currency:'CUP',shippingRates:{'Centro|':100}};
+const order={items:[{id:1001,name:'Texto cliente',price:1250,quantity:2}],mode:'pickup',subtotal:2500,fee:0,total:2500,currency:'CUP'};
+test('server uses catalog identity and prices',()=>{assert.equal(canonicalOrder(order,products,tenant).items[0].name,'Producto')});
+test('stale products, modified prices and invalid quantities are rejected',()=>{for(const item of [{id:1,price:1250,quantity:1},{id:1001,price:1,quantity:2},{id:1001,price:1250,quantity:0.5}])assert.throws(()=>canonicalOrder({...order,items:[item]},products,tenant));assert.throws(()=>canonicalOrder({...order,total:1},products,tenant));assert.throws(()=>canonicalOrder({...order,items:[...order.items,...order.items]},products,tenant))});
+test('delivery rate and pending shipping are retained',()=>{const delivery={...order,mode:'delivery',municipality:'Centro',fee:100,total:2600};assert.equal(canonicalOrder(delivery,products,tenant).fee,100);assert.equal(canonicalOrder({...delivery,municipality:'Otro',fee:null,total:2500},products,tenant).fee,null)});

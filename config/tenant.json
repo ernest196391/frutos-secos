@@ -429,7 +429,7 @@
   },
   "shippingSource": "Tarifario NEXO 2026-08-04-v2, heredado para Colo Shop.",
   "home": {
-    "catalogStatus": "Catálogo provisional de Colo Shop"
+    "catalogStatus": "Productos de tienda · Precios en CUP"
   },
   "categories": [
     {
@@ -471,6 +471,11 @@
       "name": "Bebidas",
       "slug": "bebidas",
       "image": "/categories/bebidas.webp"
+    },
+    {
+      "name": "Accesorios",
+      "slug": "accesorios",
+      "image": "/categories/accesorios.webp"
     }
   ]
 }

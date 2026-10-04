@@ -1,0 +1,185 @@
+{
+  "images": [
+    {
+      "file": "public/catalog-sources/IMG_20261009_164901.jpg",
+      "sha256": "97871442102b5e69fa119bc473229a28992a663b98a271d3069cdbff06078b9b",
+      "dhash": "d18b8f0f090a0e0e",
+      "dimensions": [
+        1050,
+        1400
+      ]
+    },
+    {
+      "file": "public/catalog-sources/IMG_20261009_164902_1.jpg",
+      "sha256": "0416398a144bc6fb4794306345a85939965fc5596f1581d0c32e6b8f22715a53",
+      "dhash": "3fbb6fe66f6f7bf9",
+      "dimensions": [
+        1050,
+        1400
+      ]
+    },
+    {
+      "file": "public/catalog-sources/IMG_20261009_164905_1.jpg",
+      "sha256": "5fb45f53be4ee5d80451cf89fa569ed5b41437c9ffa438d4cb675da508390585",
+      "dhash": "a7373f37571793bf",
+      "dimensions": [
+        1050,
+        1400
+      ]
+    },
+    {
+      "file": "public/catalog-sources/IMG_20261009_164907_1.jpg",
+      "sha256": "7f6bcd4108172c037dab01e5b0eee049164a2aac1af91a3422f4ae9aa1609c2b",
+      "dhash": "3664687c58c0c0ce",
+      "dimensions": [
+        1050,
+        1400
+      ]
+    },
+    {
+      "file": "public/catalog-sources/IMG_20261009_164913_1.jpg",
+      "sha256": "eb3a8d4b41c82193d7efe97dba200a901642a2df84fb02e65c3a1c4fa011bb4a",
+      "dhash": "03138ccc1806c2c0",
+      "dimensions": [
+        1050,
+        1400
+      ]
+    },
+    {
+      "file": "public/catalog-sources/IMG_20261009_164915_1.jpg",
+      "sha256": "7065f45660198f16310a450e660f472437e900bf850d8a8bf734485d0bfc5cb6",
+      "dhash": "312997858f456141",
+      "dimensions": [
+        1050,
+        1400
+      ]
+    },
+    {
+      "file": "public/catalog-sources/IMG_20261009_164918_1.jpg",
+      "sha256": "2effbd20770e6e2d1c10323ef5d1ff241abf771bb8ccdae3d6e035064b465dea",
+      "dhash": "660181b99696d0c0",
+      "dimensions": [
+        1050,
+        1400
+      ]
+    },
+    {
+      "file": "public/catalog-sources/IMG_20261009_164921.jpg",
+      "sha256": "dbe0c9b1471e41af8f3cded95918d5f1f8e4d223b8a666a0f344a41ee3e6717e",
+      "dhash": "8081958280101010",
+      "dimensions": [
+        1050,
+        1400
+      ]
+    },
+    {
+      "file": "public/catalog-sources/IMG_20261009_164927_1.jpg",
+      "sha256": "f14bd44a315abee04e528b8d784d9d1c150de4b447d6f0f0c0ab538a4884210f",
+      "dhash": "81896ce6b3ed97e6",
+      "dimensions": [
+        1050,
+        1400
+      ]
+    },
+    {
+      "file": "public/catalog-sources/IMG_20261009_164933.jpg",
+      "sha256": "6ea7f1e322117ee45cf534edb5d341aebb336290bb345f8067a973fc7b5e4814",
+      "dhash": "5979a0cec76908f9",
+      "dimensions": [
+        1050,
+        1400
+      ]
+    },
+    {
+      "file": "public/catalog-sources/IMG_20261009_164936_1.jpg",
+      "sha256": "2a6711ea8335f626e870032d017a8bbb380d5399e4aa1278677d52ee2ba9d65b",
+      "dhash": "0023ccd8ca4480f8",
+      "dimensions": [
+        1050,
+        1400
+      ]
+    },
+    {
+      "file": "public/catalog-sources/IMG_20261009_164939.jpg",
+      "sha256": "d40d25f4c8a6c27b97e9e5d86880ec29ed5d84644fb8efeea84b49f911cab254",
+      "dhash": "3a7c3c30382c2f79",
+      "dimensions": [
+        1050,
+        1400
+      ]
+    },
+    {
+      "file": "public/catalog-sources/IMG_20261009_164942_1.jpg",
+      "sha256": "e6ab26574fe7cef0fd99d1cdee5709bdac48d6e1511b9135656e8d68e9fd3fa4",
+      "dhash": "ecc80166663839d8",
+      "dimensions": [
+        1050,
+        1400
+      ]
+    },
+    {
+      "file": "public/catalog-sources/IMG_20261009_164949_1.jpg",
+      "sha256": "734a524658d9fb0b45c331251f6317828e31a6fbe7be26272e5569f672350be6",
+      "dhash": "6161c4c6d0707871",
+      "dimensions": [
+        1400,
+        1050
+      ]
+    },
+    {
+      "file": "public/catalog-sources/IMG_20261009_164957_1.jpg",
+      "sha256": "a3ed5b104713005ee35c665aad1aabfa75cc05fd2020f5f0a0531f4631c49b1d",
+      "dhash": "a0a6266766e66164",
+      "dimensions": [
+        1400,
+        1050
+      ]
+    },
+    {
+      "file": "public/catalog-sources/IMG_20261009_165004.jpg",
+      "sha256": "43976e991d7d151276f32e371e4b1efb7ea4e9d20cce963d0cfb7cbd248ba5fa",
+      "dhash": "9b99626260f071f4",
+      "dimensions": [
+        1400,
+        1050
+      ]
+    },
+    {
+      "file": "public/catalog-sources/IMG_20261009_165013_1.jpg",
+      "sha256": "03a7a318105e117b7aa84f5cea7e3fc2c625e2d397fb562d240f4568d78e8549",
+      "dhash": "320c0d0e0c446646",
+      "dimensions": [
+        1050,
+        1400
+      ]
+    },
+    {
+      "file": "public/catalog-sources/IMG_20261009_165016_1.jpg",
+      "sha256": "b72c3dc8bd3294305819bdcfd89cbf4eabf9e962361f17a8457b76176ea37811",
+      "dhash": "0e473c3833ab0f0d",
+      "dimensions": [
+        1050,
+        1400
+      ]
+    },
+    {
+      "file": "public/catalog-sources/IMG_20261009_165019_1.jpg",
+      "sha256": "1d4ee60f6f330d1d49c1e53e57077923994051209ba61cac1a9d95fade3e2154",
+      "dhash": "e0616970706840c8",
+      "dimensions": [
+        1050,
+        1400
+      ]
+    },
+    {
+      "file": "public/catalog-sources/IMG_20261009_165026_1.jpg",
+      "sha256": "14f59ba24c239687a9c005bd1c8be0abaa28e4c46d2b05531f7c63e87d288614",
+      "dhash": "ccd9252222ec6871",
+      "dimensions": [
+        1400,
+        1050
+      ]
+    }
+  ],
+  "duplicateSuggestions": []
+}

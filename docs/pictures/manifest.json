@@ -1,0 +1,333 @@
+{
+  "currency": "CUP",
+  "priceAuthority": "Confirmación del propietario y etiquetas de las fotos",
+  "sources": [
+    {
+      "file": "IMG_20261009_164927_1.jpg",
+      "originalSha256": "c980cc88b1a496577247787282837517eb660a15880f402e1f7c8fd040daa7ca",
+      "dimensions": [
+        1536,
+        2048
+      ]
+    },
+    {
+      "file": "IMG_20261009_164915_1.jpg",
+      "originalSha256": "9a5a91d02197937c3fbe91fadf249d3f48de9759024cc4715e566778cd5996bc",
+      "dimensions": [
+        1536,
+        2048
+      ]
+    },
+    {
+      "file": "IMG_20261009_164936_1.jpg",
+      "originalSha256": "3fbcf8e91c3704594d32cc21dec001fdcb9ff01ee3b6925fd0075a667d0aa4dd",
+      "dimensions": [
+        1536,
+        2048
+      ]
+    },
+    {
+      "file": "IMG_20261009_165019_1.jpg",
+      "originalSha256": "1862911a17c1a33e800809e9d401a5defdcdee9a187cc3a7dee709a9892ef92d",
+      "dimensions": [
+        1536,
+        2048
+      ]
+    },
+    {
+      "file": "IMG_20261009_165013_1.jpg",
+      "originalSha256": "4b582c46301a71b85cb2b7a2c2bf3222ad44473ba323a6648b5c57f3bb511bbc",
+      "dimensions": [
+        1536,
+        2048
+      ]
+    },
+    {
+      "file": "IMG_20261009_165016_1.jpg",
+      "originalSha256": "f0d1b6f4aaa0228c273726e9a00f437a00808543d5d9353811b2f9430d998255",
+      "dimensions": [
+        1536,
+        2048
+      ]
+    },
+    {
+      "file": "IMG_20261009_164939.jpg",
+      "originalSha256": "814bd3fd5ba5f248e7f4af9cea3e5944948708afd3bea1d1793b814b052d0b15",
+      "dimensions": [
+        1536,
+        2048
+      ]
+    },
+    {
+      "file": "IMG_20261009_164957_1.jpg",
+      "originalSha256": "de67f819c04f49c39447e5dab5b8185d7c50a6f78cd48008cb16d5570f95e2c1",
+      "dimensions": [
+        2048,
+        1536
+      ]
+    },
+    {
+      "file": "IMG_20261009_164901.jpg",
+      "originalSha256": "4b357236c28a60ecd7ff5a598576be099f5f9f7cd803869b9c9de9aac093da3e",
+      "dimensions": [
+        1536,
+        2048
+      ]
+    },
+    {
+      "file": "IMG_20261009_164933.jpg",
+      "originalSha256": "8bac153993bf8d26871db3c32918361606f5dc7c926fd97bb8d09a6ce1531c86",
+      "dimensions": [
+        1536,
+        2048
+      ]
+    },
+    {
+      "file": "IMG_20261009_165004.jpg",
+      "originalSha256": "6e0f415fe0b10653bcefa9e9edbcf4ceccb4f1da9cb500ff4e4f4a48a4b1b11b",
+      "dimensions": [
+        2048,
+        1536
+      ]
+    },
+    {
+      "file": "IMG_20261009_164905_1.jpg",
+      "originalSha256": "3b7e7d18ab03e8eae1464c3f72cd58edf54d3485824afc65dcca757c976a12f7",
+      "dimensions": [
+        1536,
+        2048
+      ]
+    },
+    {
+      "file": "IMG_20261009_164942_1.jpg",
+      "originalSha256": "a3425f3abf45e099aafa28d031adf9a236a64d7e15ab2a203a3d3d4e9a0ba6a8",
+      "dimensions": [
+        1536,
+        2048
+      ]
+    },
+    {
+      "file": "IMG_20261009_164913_1.jpg",
+      "originalSha256": "ed4f36ff696990c7bf413f6d6d3c9ab7fd0413f5e2d30fd065e8d8dddcbc5028",
+      "dimensions": [
+        1536,
+        2048
+      ]
+    },
+    {
+      "file": "IMG_20261009_165026_1.jpg",
+      "originalSha256": "cf465b0948b26c43f028ff493d0d07ca66fa32313219571331397563963edce1",
+      "dimensions": [
+        2048,
+        1536
+      ]
+    },
+    {
+      "file": "IMG_20261009_164921.jpg",
+      "originalSha256": "5947d5ba156769b90b6ab27fcc05c5da762fc00747bbb7ac80d06947b96e5995",
+      "dimensions": [
+        1536,
+        2048
+      ]
+    },
+    {
+      "file": "IMG_20261009_164907_1.jpg",
+      "originalSha256": "f5d2b40d0bce47f2e62b204784318d050272daa624d326efcba9799d2bdeb6fd",
+      "dimensions": [
+        1536,
+        2048
+      ]
+    },
+    {
+      "file": "IMG_20261009_164918_1.jpg",
+      "originalSha256": "dd27a19ae6dbb915828b9f5d78802896e1e4a45359f8224d8cf2783aea196226",
+      "dimensions": [
+        1536,
+        2048
+      ]
+    },
+    {
+      "file": "IMG_20261009_164902_1.jpg",
+      "originalSha256": "49b94a28d233f275b0cb9ca3ee133ba35f839f53e5e1a1540aedaf06fd6df199",
+      "dimensions": [
+        1536,
+        2048
+      ]
+    },
+    {
+      "file": "IMG_20261009_164949_1.jpg",
+      "originalSha256": "a996b484a2746abad44aeab92cb3d60fd4c86f8b4de2afad7cd969036fb68050",
+      "dimensions": [
+        2048,
+        1536
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "sharedProductId": "pobeda-madagascar",
+      "image": "/products/real/pobeda-madagascar.webp",
+      "sha256": "7891ccc4e9c48283dead6bbe9964301e77723d2bbf9127aa1ebb937bd4957b17"
+    },
+    {
+      "sharedProductId": "pobeda-ecuador",
+      "image": "/products/real/pobeda-ecuador.webp",
+      "sha256": "8c321e07fcbafba4cb571266a83c2ce2a580d68710585aab6b371ccd977871a7"
+    },
+    {
+      "sharedProductId": "pobeda-cote-ivoire",
+      "image": "/products/real/pobeda-cote-ivoire.webp",
+      "sha256": "28427ff107b6073fe54fe454e17dd105a189637128257cdbbbf1bb0a2813ab1d"
+    },
+    {
+      "sharedProductId": "lacasa-menta",
+      "image": "/products/real/lacasa-menta.webp",
+      "sha256": "ea0fd3496499468e4e5491ffe9d225f4bc6c2350612129e5b45e7338d59c5279"
+    },
+    {
+      "sharedProductId": "bentons-fresa",
+      "image": "/products/real/bentons-fresa.webp",
+      "sha256": "964537e93e92306f55d20be43a7dc72000107cd5b7ffd36ae78e617f4a2cc768"
+    },
+    {
+      "sharedProductId": "bentons-arandano",
+      "image": "/products/real/bentons-arandano.webp",
+      "sha256": "d56052f27958531c9e7f0cb03d8b2253eb390241e986962ff2b991103cb1648b"
+    },
+    {
+      "sharedProductId": "choceur-cups",
+      "image": "/products/real/choceur-cups.webp",
+      "sha256": "67c1bd21059b97fad3aa55257fa9af474216b8e0981ecaa6cf989abbd4056433"
+    },
+    {
+      "sharedProductId": "mounds",
+      "image": "/products/real/mounds.webp",
+      "sha256": "1e54772d4da659fec34f9cc22fd7458a6f8630ce9d00ee902d221c2009a332fb"
+    },
+    {
+      "sharedProductId": "milky-way",
+      "image": "/products/real/milky-way.webp",
+      "sha256": "7fd622997cbfd54eaf358fda0a1b87ddb52b2314f45bd382767758a43f6e7b33"
+    },
+    {
+      "sharedProductId": "papel-excelencia",
+      "image": "/products/real/papel-excelencia.webp",
+      "sha256": "22b0a5aa5382de498e65e5e8ca39c1eda6486b05f8444dce87c0421245129340"
+    },
+    {
+      "sharedProductId": "members-pacs",
+      "image": "/products/real/members-pacs.webp",
+      "sha256": "3c9555661e6abfddc07a843bde88b357991f098ec4a1a00271167fdaf4cfe6d5"
+    },
+    {
+      "sharedProductId": "tide-spring",
+      "image": "/products/real/tide-spring.webp",
+      "sha256": "5c5ae13ea6d773bf5fe1b7ae9ff33c11ed4f164d7fca7b02014f51f36cffd478"
+    },
+    {
+      "sharedProductId": "gain-original-grande",
+      "image": "/products/real/gain-original-grande.webp",
+      "sha256": "f93a37299679c4e8357d7cf104cb5640114f627ecafb3570a34ab8d7d480d767"
+    },
+    {
+      "sharedProductId": "tide-oxi",
+      "image": "/products/real/tide-oxi.webp",
+      "sha256": "3b12436a09fa24284085786055ed8eaf5b993192e268f69229f1d077502583d3"
+    },
+    {
+      "sharedProductId": "gain-suavizante",
+      "image": "/products/real/gain-suavizante.webp",
+      "sha256": "3a3d48b476b13a41005a23ce25a33f4f7575cba7216fd7654f6df538b65b68b3"
+    },
+    {
+      "sharedProductId": "magali-mora",
+      "image": "/products/real/magali-mora.webp",
+      "sha256": "bcab75cbc38e2ee93995131eeda4405a929486decdfef080962dca9bf8bc9d71"
+    },
+    {
+      "sharedProductId": "snonas-candy",
+      "image": "/products/real/snonas-candy.webp",
+      "sha256": "f5e4cac2a9e4a3eacc99e73cc73b071b92f36867256e0e3b5848f59a6e3d7aa8"
+    },
+    {
+      "sharedProductId": "snonas-honey",
+      "image": "/products/real/snonas-honey.webp",
+      "sha256": "67370aeb292c9cdbbce94f9887be00824392aa936dcee69a66ed4e3c2863fc37"
+    },
+    {
+      "sharedProductId": "almendras-chocolate",
+      "image": "/products/real/almendras-chocolate.webp",
+      "sha256": "971477a35d9004d8dfcd504b54c81eb8de3101ca38e1a7679f471f9116471fd9"
+    },
+    {
+      "sharedProductId": "pasas-chocolate",
+      "image": "/products/real/pasas-chocolate.webp",
+      "sha256": "5079d98cf2a2c0e38435a61646f7945f2daba48900b1ac299230bdfc76ffec5b"
+    },
+    {
+      "sharedProductId": "dicora-avena",
+      "image": "/products/real/dicora-avena.webp",
+      "sha256": "d92a16e299083551bfc72fbe22ea451d0efc41ed7ef18de97945a25328a7add1"
+    },
+    {
+      "sharedProductId": "dicora-citrus",
+      "image": "/products/real/dicora-citrus.webp",
+      "sha256": "edfad2e555eb3a738b5c2f6ffd49efbd570ec65f63ebc4c2ec64bceec948ef2e"
+    },
+    {
+      "sharedProductId": "snonas-body",
+      "image": "/products/real/snonas-body.webp",
+      "sha256": "cdfaaa306fb73974e138b98e074df1b2dc5d727469aa4576bedf4decd1f92201"
+    },
+    {
+      "sharedProductId": "snonas-coco-pina",
+      "image": "/products/real/snonas-coco-pina.webp",
+      "sha256": "1b7eb476119776236b150547bce6fe239c24a2bb6ecff4e85153ff649b6b1251"
+    },
+    {
+      "sharedProductId": "peine-flexys",
+      "image": "/products/real/peine-flexys.webp",
+      "sha256": "e77510f680f960d250344695fee5f5415fa4459299378508d80062e59c924a93"
+    },
+    {
+      "sharedProductId": "balsamos-paul-frank",
+      "image": "/products/real/balsamos-paul-frank.webp",
+      "sha256": "a6c5e4aad4fc394da50b7e98d61f9f4be454a52fe35205fd8e51b448ae313fe9"
+    },
+    {
+      "sharedProductId": "ventilador-pure-silk",
+      "image": "/products/real/ventilador-pure-silk.webp",
+      "sha256": "25aa948d1390fb32de3c2e60d251473d3bbf22cdac691b711b7428d28bcf3d2e"
+    },
+    {
+      "sharedProductId": "nordic-ar",
+      "image": "/products/real/nordic-ar.webp",
+      "sha256": "1ae34f570d5e90a97ed3b85679e017f3ad08c716dd31fe5a72b8d45c5563bcca"
+    },
+    {
+      "sharedProductId": "un-n09",
+      "image": "/products/real/un-n09.webp",
+      "sha256": "2aa09e5e5b56fb3735a8218ce06421d216e0dc55d816c7555924b5f6525e3052"
+    },
+    {
+      "sharedProductId": "ohmy-azul",
+      "image": "/products/real/ohmy-azul.webp",
+      "sha256": "32bd31dfbbfbc6a735fb41e2c9f8e933f6389c121b1937a9a004fee0804f8f88"
+    },
+    {
+      "sharedProductId": "ohmy-rojo",
+      "image": "/products/real/ohmy-rojo.webp",
+      "sha256": "3b03b62c42497233b52dd6570b532bacc3b0d3f6082ebd2b05b63c490b0503e4"
+    },
+    {
+      "sharedProductId": "febreze-luxe",
+      "image": "/products/real/febreze-luxe.webp",
+      "sha256": "11a6c9a6dda7c6d8879b4ceb90b38bc0c391b0a5288afac5b7c3086ed7495207"
+    },
+    {
+      "sharedProductId": "gain-flings-pequeno",
+      "image": "/products/real/gain-flings-pequeno.webp",
+      "sha256": "f7520e65b3566eca0ea1bd1365e0909ad08ba69541ea0fb721756b7f01a4b0b2"
+    }
+  ]
+}

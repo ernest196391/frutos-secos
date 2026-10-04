@@ -365,3 +365,4 @@ body:has(.adminLogin){margin:0;background:#f5f2ed}
   .premiumHeroShade{background:linear-gradient(0deg,rgba(18,28,47,.95) 0%,rgba(18,28,47,.78) 30%,rgba(18,28,47,.18) 55%,rgba(18,28,47,0) 70%)}
   .premiumHeroCopy{padding:24px 20px 26px}
 }
+.detail>img,.cartItem img{object-fit:contain;background:#fff}.productAdmin{width:100%;border-collapse:collapse;background:#fff}.productAdmin th,.productAdmin td{text-align:left;padding:12px;border-bottom:1px solid var(--line);vertical-align:top}.productAdmin img{object-fit:contain}.productAdmin small{display:block;margin-top:6px;color:#566578}.productAdmin a{overflow-wrap:anywhere}
