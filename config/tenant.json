@@ -476,6 +476,11 @@
       "name": "Accesorios",
       "slug": "accesorios",
       "image": "/categories/accesorios.webp"
+    },
+    {
+      "name": "Mascotas",
+      "slug": "mascotas",
+      "image": "/categories/mascotas.webp"
     }
   ]
 }

@@ -1,0 +1,87 @@
+[
+  {
+    "sharedProductId": "barilla-pesto",
+    "sourcePhoto": "IMG_20261009_165913.jpg",
+    "prompt": "Create an accurate commercial catalogue photo by isolating the specified actual product from the attached shop photo. One sale unit only, centered fully visible on a square pure white background, gentle natural shadow, crisp realistic lighting. Preserve exact brand, variant, package material, shape, closure, label artwork and colors. Do not redesign or replace the packaging. No shelf, neighboring products, price stickers, props or extra overlay words. Do not invent weight, claims, ingredients, logos or specifications when unreadable. Target: short glass jar in CENTER-LEFT with wide blue screw lid, dark blue upper label, lime green lower label, red Barilla oval, PESTO alla GENOVESE. No weight legible; omit all weights."
+  },
+  {
+    "sharedProductId": "trader-olive-pesto",
+    "sourcePhoto": "IMG_20261009_165913.jpg",
+    "prompt": "Create an accurate commercial catalogue photo by isolating the specified actual product from the attached shop photo. One sale unit only, centered fully visible on a square pure white background, gentle natural shadow, crisp realistic lighting. Preserve exact brand, variant, package material, shape, closure, label artwork and colors. Do not redesign or replace the packaging. No shelf, neighboring products, price stickers, props or extra overlay words. Do not invent weight, claims, ingredients, logos or specifications when unreadable. Target: short broad glass jar FRONT RIGHT with black metal lid and cream tan label OLIVE and BASIL PESTO SAUCE, TRADER JOE’S small red brand, green olive illustration, NET WT 6.35 OZ (180g). NOT the other taller Basil Pesto jar."
+  },
+  {
+    "sharedProductId": "trader-basil-pesto",
+    "sourcePhoto": "IMG_20261009_165916.jpg",
+    "prompt": "Create an accurate commercial catalogue photo by isolating the specified actual product from the attached shop photo. One sale unit only, centered fully visible on a square pure white background, gentle natural shadow, crisp realistic lighting. Preserve exact brand, variant, package material, shape, closure, label artwork and colors. Do not redesign or replace the packaging. No shelf, neighboring products, price stickers, props or extra overlay words. Do not invent weight, claims, ingredients, logos or specifications when unreadable. Target: glass jar FRONT LEFT, black metal lid, pale green label TRADER JOE’S BASIL PESTO Sauce, Product of Italy, green basil drawing, NET WT 6.7 OZ (190g). Preserve this plain BASIL variant, NOT olive basil."
+  },
+  {
+    "sharedProductId": "huerta-pepinos",
+    "sourcePhoto": "IMG_20261009_165916.jpg",
+    "prompt": "Create an accurate commercial catalogue photo by isolating the specified actual product from the attached shop photo. One sale unit only, centered fully visible on a square pure white background, gentle natural shadow, crisp realistic lighting. Preserve exact brand, variant, package material, shape, closure, label artwork and colors. Do not redesign or replace the packaging. No shelf, neighboring products, price stickers, props or extra overlay words. Do not invent weight, claims, ingredients, logos or specifications when unreadable. Target: one jar FRONT RIGHT, black screw lid, large whole pickled cucumbers visible in brine, cream label with line drawing ship logo, LA HUERTA de al LADO and Pepinos grandes en vinagre. Weight not legible, omit."
+  },
+  {
+    "sharedProductId": "huerta-cocktail",
+    "sourcePhoto": "IMG_20261009_165920.jpg",
+    "prompt": "Create an accurate commercial catalogue photo by isolating the specified actual product from the attached shop photo. One sale unit only, centered fully visible on a square pure white background, gentle natural shadow, crisp realistic lighting. Preserve exact brand, variant, package material, shape, closure, label artwork and colors. Do not redesign or replace the packaging. No shelf, neighboring products, price stickers, props or extra overlay words. Do not invent weight, claims, ingredients, logos or specifications when unreadable. Target: jar FRONT CENTER-LEFT, black screw lid, cream label ship logo and LA HUERTA de al LADO Cocktail de encurtidos; mixed cucumber/onion/peppers in brine. Visible net 345g, drained 180g. NOT skewers jar."
+  },
+  {
+    "sharedProductId": "huerta-banderillas",
+    "sourcePhoto": "IMG_20261009_165920.jpg",
+    "prompt": "Create an accurate commercial catalogue photo by isolating the specified actual product from the attached shop photo. One sale unit only, centered fully visible on a square pure white background, gentle natural shadow, crisp realistic lighting. Preserve exact brand, variant, package material, shape, closure, label artwork and colors. Do not redesign or replace the packaging. No shelf, neighboring products, price stickers, props or extra overlay words. Do not invent weight, claims, ingredients, logos or specifications when unreadable. Target: jar FRONT RIGHT black lid cream ship logo label LA HUERTA de al LADO Banderillas; wooden toothpick skewers with pickled vegetables visible in brine. No readable weight, omit."
+  },
+  {
+    "sharedProductId": "vima-negras",
+    "sourcePhoto": "IMG_20261009_165924.jpg",
+    "prompt": "Create an accurate commercial catalogue photo by isolating the specified actual product from the attached shop photo. One sale unit only, centered fully visible on a square pure white background, gentle natural shadow, crisp realistic lighting. Preserve exact brand, variant, package material, shape, closure, label artwork and colors. Do not redesign or replace the packaging. No shelf, neighboring products, price stickers, props or extra overlay words. Do not invent weight, claims, ingredients, logos or specifications when unreadable. Target: large tall glass jar FRONT LEFT with green plastic lid, BLACK pitted olives in brine, white vertical line patterned label dark green Vima FOODS oval and ACEITUNAS NEGRAS SIN HUESO, green bottom band. Actual label says 1966ml, net1820g drained930g. No cord or phone, no green olives."
+  },
+  {
+    "sharedProductId": "vima-alinadas",
+    "sourcePhoto": "IMG_20261009_165928.jpg",
+    "prompt": "Create an accurate commercial catalogue photo by isolating the specified actual product from the attached shop photo. One sale unit only, centered fully visible on a square pure white background, gentle natural shadow, crisp realistic lighting. Preserve exact brand, variant, package material, shape, closure, label artwork and colors. Do not redesign or replace the packaging. No shelf, neighboring products, price stickers, props or extra overlay words. Do not invent weight, claims, ingredients, logos or specifications when unreadable. Target: large tall glass jar FRONT CENTER green lid with GREEN WHOLE marinated olives, some garlic and orange pepper at bottom, dark green rectangular label Vima FOODS, ACEITUNAS VERDES ALIÑADAS Marinated olives Spanish TAPAS. NOT pimiento stuffed. Weight is not legible on target variant so omit all weights."
+  },
+  {
+    "sharedProductId": "qbanito-cebollitas",
+    "sourcePhoto": "IMG_20261009_165932.jpg",
+    "prompt": "Create an accurate commercial catalogue photo by isolating the specified actual product from the attached shop photo. One sale unit only, centered fully visible on a square pure white background, gentle natural shadow, crisp realistic lighting. Preserve exact brand, variant, package material, shape, closure, label artwork and colors. Do not redesign or replace the packaging. No shelf, neighboring products, price stickers, props or extra overlay words. Do not invent weight, claims, ingredients, logos or specifications when unreadable. Target: slender tall glass jar FRONT LEFT white lid, small white onions in brine. Label green top horizontal stripe, brown to red gradient, white cursive Qbanito and CEBOLLITAS. Net230g drained120g as visible in companion view, not olives."
+  },
+  {
+    "sharedProductId": "didi-peras",
+    "sourcePhoto": "IMG_20261009_165932.jpg",
+    "prompt": "Create an accurate commercial catalogue photo by isolating the specified actual product from the attached shop photo. One sale unit only, centered fully visible on a square pure white background, gentle natural shadow, crisp realistic lighting. Preserve exact brand, variant, package material, shape, closure, label artwork and colors. Do not redesign or replace the packaging. No shelf, neighboring products, price stickers, props or extra overlay words. Do not invent weight, claims, ingredients, logos or specifications when unreadable. Target: one SHORT squat can FRONT CENTER/RIGHT, cream label red cursive Didi Tradición familiar, green PERAS and MITADES EN ALMÍBAR LIGERO text, yellow pear halves illustration, green bottom stripe. Weight not legible, omit. Exactly one can not two stacked."
+  },
+  {
+    "sharedProductId": "tom-frijol-cocido",
+    "sourcePhoto": "IMG_20261009_165935.jpg",
+    "prompt": "Create an accurate commercial catalogue photo by isolating the specified actual product from the attached shop photo. One sale unit only, centered fully visible on a square pure white background, gentle natural shadow, crisp realistic lighting. Preserve exact brand, variant, package material, shape, closure, label artwork and colors. Do not redesign or replace the packaging. No shelf, neighboring products, price stickers, props or extra overlay words. Do not invent weight, claims, ingredients, logos or specifications when unreadable. Target: tall can FRONT LEFT bright green upper label and white lower, large brown white TOM FOOD logo, FEIJÃO ENCARNADO cozido, illustration cooked red kidney beans lowerhalf. Weight not legible omit. Portuguese original label retained."
+  },
+  {
+    "sharedProductId": "fairhill-maiz",
+    "sourcePhoto": "IMG_20261009_165935.jpg",
+    "prompt": "Create an accurate commercial catalogue photo by isolating the specified actual product from the attached shop photo. One sale unit only, centered fully visible on a square pure white background, gentle natural shadow, crisp realistic lighting. Preserve exact brand, variant, package material, shape, closure, label artwork and colors. Do not redesign or replace the packaging. No shelf, neighboring products, price stickers, props or extra overlay words. Do not invent weight, claims, ingredients, logos or specifications when unreadable. Target: can CENTER Whole Kernel golden sweet corn. White background label with golden maize cobs, tan Fairhill FARMS scripted brand, rectangular dark green WHOLE KERNEL, yellow corn kernels image bottom, NET WT15.25OZ(432g). NOT vegetables mix."
+  },
+  {
+    "sharedProductId": "fairhill-vegetales",
+    "sourcePhoto": "IMG_20261009_165940.jpg",
+    "prompt": "Create an accurate commercial catalogue photo by isolating the specified actual product from the attached shop photo. One sale unit only, centered fully visible on a square pure white background, gentle natural shadow, crisp realistic lighting. Preserve exact brand, variant, package material, shape, closure, label artwork and colors. Do not redesign or replace the packaging. No shelf, neighboring products, price stickers, props or extra overlay words. Do not invent weight, claims, ingredients, logos or specifications when unreadable. Target: can LEFT CENTER white label tan Fairhill FARMS script, dark BLUE rectangle MIXED VEGETABLES, colorful mix carrot/corn/peas/potato illustrations lower area, NET WT15OZ(425g). NOT corn or fruit."
+  },
+  {
+    "sharedProductId": "fairhill-frutas",
+    "sourcePhoto": "IMG_20261009_165940.jpg",
+    "prompt": "Create an accurate commercial catalogue photo by isolating the specified actual product from the attached shop photo. One sale unit only, centered fully visible on a square pure white background, gentle natural shadow, crisp realistic lighting. Preserve exact brand, variant, package material, shape, closure, label artwork and colors. Do not redesign or replace the packaging. No shelf, neighboring products, price stickers, props or extra overlay words. Do not invent weight, claims, ingredients, logos or specifications when unreadable. Target: can CENTER RIGHT Fairhill FARMS white tan label magenta rectangle FRUIT COCKTAIL, yellow band IN100%FRUIT JUICE, peaches/pineapple/grape/pear illustrations, NETWT15OZ(425g). Exactly this Fairhill brand, NOT neighboring Vima."
+  },
+  {
+    "sharedProductId": "delcampo-colorados",
+    "sourcePhoto": "IMG_20261009_165956.jpg",
+    "prompt": "Create an accurate commercial catalogue photo by isolating the specified actual product from the attached shop photo. One sale unit only, centered fully visible on a square pure white background, gentle natural shadow, crisp realistic lighting. Preserve exact brand, variant, package material, shape, closure, label artwork and colors. Do not redesign or replace the packaging. No shelf, neighboring products, price stickers, props or extra overlay words. Do not invent weight, claims, ingredients, logos or specifications when unreadable. Target: one flexible plastic packet shown CENTER, royal blue perimeter yellow outlined transparent oval showing RED kidney beans, blue white DEL CAMPO logo, FRIJOLES COLORADOS RED KIDNEY BEANS, Peso Neto Net Weight1Lb. Not black beans or lentils. Preserve pillow pouch shape, not upright gusset fancy bag."
+  },
+  {
+    "sharedProductId": "energy-negros",
+    "sourcePhoto": "IMG_20261009_165953.jpg",
+    "prompt": "Create an accurate commercial catalogue photo by isolating the specified actual product from the attached shop photo. One sale unit only, centered fully visible on a square pure white background, gentle natural shadow, crisp realistic lighting. Preserve exact brand, variant, package material, shape, closure, label artwork and colors. Do not redesign or replace the packaging. No shelf, neighboring products, price stickers, props or extra overlay words. Do not invent weight, claims, ingredients, logos or specifications when unreadable. Target: one FRONT RIGHT transparent flexible pillow packet containing black beans. Red orange top rectangle golden cursive Energy logo, BLACK BEANS FRIJOLES NEGROS TYPE1-TIPO1, picture blackbeans bowl with orange oval below,1kg2.2lb, white Energy logo bottom. NOT blue DelCampo bag."
+  },
+  {
+    "sharedProductId": "happyone-adulto",
+    "sourcePhoto": "IMG_20261009_171633.jpg",
+    "prompt": "Create an accurate commercial catalogue photo by isolating the specified actual product from the attached shop photo. One sale unit only, centered fully visible on a square pure white background, gentle natural shadow, crisp realistic lighting. Preserve exact brand, variant, package material, shape, closure, label artwork and colors. Do not redesign or replace the packaging. No shelf, neighboring products, price stickers, props or extra overlay words. Do not invent weight, claims, ingredients, logos or specifications when unreadable. Target: one brown and blue handled standup retail dogfood bag FRONT RIGHT with Bernese mountain dog photo centered, vertical white happyOne logo right, blue Adulto badge upperright, multicolor BIO COMPLEX lowerleft, com Frango with chicken con Pollo lowerblueband, net4kg. Preserve package handle and dogphoto. Remove ONLY handwritten 18700 price sticker. No extra bag or live dog."
+  }
+]

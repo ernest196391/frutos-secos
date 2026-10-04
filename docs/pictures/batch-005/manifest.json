@@ -1,0 +1,180 @@
+{
+  "batch": "005",
+  "sourceCount": 14,
+  "newSourceCount": 14,
+  "duplicateSourceCount": 0,
+  "sources": [
+    {
+      "file": "IMG_20261009_165913.jpg",
+      "originalSha256": "4b653a65d02e89aa70f787f181b9fe239fffd5f90db9df36814d37852c146e53",
+      "dimensions": [
+        2048,
+        1536
+      ],
+      "readStatus": "inspected",
+      "sourceImage": "/catalog-sources/IMG_20261009_165913.jpg",
+      "optimizedSha256": "5918a9255302769e5f086b88fba31ac87311639bad88f303ec45d5ee59fddc47"
+    },
+    {
+      "file": "IMG_20261009_165916.jpg",
+      "originalSha256": "8f3cc22d116c7c57e46e3c64a840a7d3212a1aafec1786d49beee9a3655e526b",
+      "dimensions": [
+        2048,
+        1536
+      ],
+      "readStatus": "inspected",
+      "sourceImage": "/catalog-sources/IMG_20261009_165916.jpg",
+      "optimizedSha256": "6b69a3bce5a609f46b7b10d6ec29c762573ba068ed8398cc9844a77f375b80de"
+    },
+    {
+      "file": "IMG_20261009_165920.jpg",
+      "originalSha256": "fa7e012bc392dcb081473d22df72c6ee7246a0acf837a4fcd4a75b1f1c5a3732",
+      "dimensions": [
+        2048,
+        1536
+      ],
+      "readStatus": "inspected",
+      "sourceImage": "/catalog-sources/IMG_20261009_165920.jpg",
+      "optimizedSha256": "16f6049dfcd4b2c311bd73831067d33e94baf9f257798d6c7b1b7551192a2509"
+    },
+    {
+      "file": "IMG_20261009_165924.jpg",
+      "originalSha256": "b42beaedfc375373c8f48e46c5a5d57d62677a048d8a4a41d008d591c3942fec",
+      "dimensions": [
+        2048,
+        1536
+      ],
+      "readStatus": "inspected",
+      "sourceImage": "/catalog-sources/IMG_20261009_165924.jpg",
+      "optimizedSha256": "faf6626842f2fe22b54a167d1dc7fb3c979edc2c24042dc9585c41805ea62a80"
+    },
+    {
+      "file": "IMG_20261009_165928.jpg",
+      "originalSha256": "55cf99d6e0b55bcdd35f665e33503e97b170471a162ea0e9fee5580658886dd3",
+      "dimensions": [
+        2048,
+        1536
+      ],
+      "readStatus": "inspected",
+      "sourceImage": "/catalog-sources/IMG_20261009_165928.jpg",
+      "optimizedSha256": "b9e5ff3bda62deaddec6a43be310961a825a817253fc469f018236f386d17625"
+    },
+    {
+      "file": "IMG_20261009_165932.jpg",
+      "originalSha256": "f55ccc7bf082314cd72af8ac88a3939ffc9148efde6903680af3c14bce74ffcb",
+      "dimensions": [
+        2048,
+        1536
+      ],
+      "readStatus": "inspected",
+      "sourceImage": "/catalog-sources/IMG_20261009_165932.jpg",
+      "optimizedSha256": "288bf4def258d44d17deab3471954117889217e0dc9c4588a9a7219357021124"
+    },
+    {
+      "file": "IMG_20261009_165935.jpg",
+      "originalSha256": "3100107652560582ac4ffda559e35abfeb5ebe34a07ab875cea655fbdb483267",
+      "dimensions": [
+        2048,
+        1536
+      ],
+      "readStatus": "inspected",
+      "sourceImage": "/catalog-sources/IMG_20261009_165935.jpg",
+      "optimizedSha256": "cfca0a55675f4d4e824671e389c7e3e1a4a6becab855e9e41ba155a22debe96f"
+    },
+    {
+      "file": "IMG_20261009_165940.jpg",
+      "originalSha256": "c623b4a87c9ee48a288a60866d62b3c68dd86394d7470187814144f9abfcce91",
+      "dimensions": [
+        2048,
+        1536
+      ],
+      "readStatus": "inspected",
+      "sourceImage": "/catalog-sources/IMG_20261009_165940.jpg",
+      "optimizedSha256": "094e7426fde8f4ad5e3f6930a780b3f6cc808dc89baa4ed29cf1fe735b143460"
+    },
+    {
+      "file": "IMG_20261009_165943.jpg",
+      "originalSha256": "c53956575c1b6dd1a0c8d5ac14b5d401fedde18a36508d097d10c0bcd14bb8ba",
+      "dimensions": [
+        2048,
+        1536
+      ],
+      "readStatus": "inspected",
+      "sourceImage": "/catalog-sources/IMG_20261009_165943.jpg",
+      "optimizedSha256": "936651a3908124a0bbc6fdb958f36c9d910c58df78d1cd7364d19f57e821c1db"
+    },
+    {
+      "file": "IMG_20261009_165949.jpg",
+      "originalSha256": "027ee4198f21d31e4819acb0b1ec9655057f4a3a3795bd5846c606e645102eec",
+      "dimensions": [
+        2048,
+        1536
+      ],
+      "readStatus": "inspected",
+      "sourceImage": "/catalog-sources/IMG_20261009_165949.jpg",
+      "optimizedSha256": "64e911a46e019b2d179a545924d3bf1c95b4ff68157dccfb981b7a0560132c62"
+    },
+    {
+      "file": "IMG_20261009_165953.jpg",
+      "originalSha256": "91d070fe009318eb7c62b4e9dc18d334c6b87dd188be1fa6a7ed1aea6beef62b",
+      "dimensions": [
+        2048,
+        1536
+      ],
+      "readStatus": "inspected",
+      "sourceImage": "/catalog-sources/IMG_20261009_165953.jpg",
+      "optimizedSha256": "56b7a3032eb386e1b8ddf85acc177330809af45912a0742061163f8a6f84f7ad"
+    },
+    {
+      "file": "IMG_20261009_165956.jpg",
+      "originalSha256": "1806e9f300f6f232f1fd77622310f7fe1fac8e95bf64a10bbd13e91c4a71adf4",
+      "dimensions": [
+        2048,
+        1536
+      ],
+      "readStatus": "inspected",
+      "sourceImage": "/catalog-sources/IMG_20261009_165956.jpg",
+      "optimizedSha256": "210f7352453ea5bd58290afe6e80a84ce97353725f6dbfce6c8db8c472dc7fe7"
+    },
+    {
+      "file": "IMG_20261009_165959.jpg",
+      "originalSha256": "4f459e50c0b4a52368b6d297dad255837ddaa12bf6c954a8bcfcf288544288e8",
+      "dimensions": [
+        2048,
+        1536
+      ],
+      "readStatus": "inspected",
+      "sourceImage": "/catalog-sources/IMG_20261009_165959.jpg",
+      "optimizedSha256": "71e2c0b6fb283fb6bf0c47770f6468b8e9e0c8fb3e0e34d251594225309b4a28"
+    },
+    {
+      "file": "IMG_20261009_171633.jpg",
+      "originalSha256": "307162c05051609ed93864a48929aaf5968303979925e801460204d7d0b65e8f",
+      "dimensions": [
+        1536,
+        2048
+      ],
+      "readStatus": "inspected",
+      "sourceImage": "/catalog-sources/IMG_20261009_171633.jpg",
+      "optimizedSha256": "af8e307584204a37fccaa5d3ba1c4fed134ca5d4f53d87e4a11ac9f3c96eb1ee"
+    }
+  ],
+  "currency": "CUP",
+  "published": false,
+  "stage": "reviewed",
+  "activeWorker": "Codex root; do not process concurrently",
+  "generationCalls": 17,
+  "productCount": 17,
+  "pendingCount": 9,
+  "repeatedProductViewsConsolidated": true,
+  "initialGenerationCalls": 17,
+  "correctionCalls": 0,
+  "approvedImages": 17,
+  "reviewed": true,
+  "existingCatalogComparison": "Compared 17 identities against 104 published products. Repeated views consolidated; no duplicate source hashes.",
+  "verification": {
+    "tests": "19 passed",
+    "build": "passed",
+    "production": "pending"
+  }
+}

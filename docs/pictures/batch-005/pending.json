@@ -1,0 +1,100 @@
+[
+  {
+    "sharedProductId": "lasota-alcaparras",
+    "n": "Alcaparras La Sota",
+    "sourcePhoto": "IMG_20261009_165913.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165913.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [],
+    "reason": "Precio cortado en la foto; confirmar precio del frasco. Contenido neto100g, escurrido60g.",
+    "img": null
+  },
+  {
+    "sharedProductId": "sonatural-pesto",
+    "n": "Pesto So Natural Basil",
+    "sourcePhoto": "IMG_20261009_165916.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165916.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [
+      4700
+    ],
+    "reason": "Etiqueta de precio bajo Trader Joe’s; confirmar precio propio.",
+    "img": null
+  },
+  {
+    "sharedProductId": "vima-rellenas",
+    "n": "Aceitunas verdes rellenas de pimiento Vima",
+    "sourcePhoto": "IMG_20261009_165924.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165924.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [
+      13000
+    ],
+    "reason": "Precio compartido cercano a negras; confirmar precio de variante rellena.",
+    "img": null
+  },
+  {
+    "sharedProductId": "vima-frutas",
+    "n": "Cóctel de frutas Vima",
+    "sourcePhoto": "IMG_20261009_165940.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165940.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [
+      2300
+    ],
+    "reason": "Etiqueta bajo Fairhill; confirmar precio propio de Vima425g.",
+    "img": null
+  },
+  {
+    "sharedProductId": "delcampo-negros",
+    "n": "Frijoles negros Del Campo",
+    "sourcePhoto": "IMG_20261009_165949.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165949.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [
+      1600
+    ],
+    "reason": "Etiqueta1600 bajo frijoles colorados; confirmar precio de negros1lb.",
+    "img": null
+  },
+  {
+    "sharedProductId": "delcampo-garbanzos",
+    "n": "Garbanzos Del Campo",
+    "sourcePhoto": "IMG_20261009_165959.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165959.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [],
+    "reason": "No hay precio propio visible; bolsa1lb.",
+    "img": null
+  },
+  {
+    "sharedProductId": "delcampo-lentejas",
+    "n": "Lentejas Del Campo",
+    "sourcePhoto": "IMG_20261009_165959.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165959.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [],
+    "reason": "No hay precio propio visible; bolsa1lb.",
+    "img": null
+  },
+  {
+    "sharedProductId": "arroz-alfinete",
+    "n": "Arroz Alfinete",
+    "sourcePhoto": "IMG_20261009_165920.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165920.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [],
+    "reason": "Presentación parcialmente oculta y sin precio legible.",
+    "img": null
+  },
+  {
+    "sharedProductId": "arroz-torre",
+    "n": "Arroz Torre de la Vega",
+    "sourcePhoto": "IMG_20261009_165956.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165956.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [],
+    "reason": "Bolsa en estante inferior; confirmar presentación y precio propios.",
+    "img": null
+  }
+]
