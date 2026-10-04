@@ -184,6 +184,184 @@
       4900
     ],
     "img": null
+  },
+  {
+    "sharedProductId": "salud-antical-gel",
+    "n": "Gel antical La Salud",
+    "sourcePhoto": "IMG_20261009_165036.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [],
+    "reason": "Sin precio propio visible.",
+    "sourceImage": "/catalog-sources/IMG_20261009_165036.jpg",
+    "img": null
+  },
+  {
+    "sharedProductId": "salud-banos-pino",
+    "n": "Limpiador de baños La Salud Pino",
+    "sourcePhoto": "IMG_20261009_165039_1.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [
+      2900
+    ],
+    "reason": "Envase parcialmente oculto; confirmar presentación y precio.",
+    "sourceImage": "/catalog-sources/IMG_20261009_165039_1.jpg",
+    "img": null
+  },
+  {
+    "sharedProductId": "ultra-deluxe-floral",
+    "n": "Lavavajillas Ultra Deluxe Floral",
+    "sourcePhoto": "IMG_20261009_165045.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [
+      3100,
+      3400
+    ],
+    "reason": "Etiqueta manuscrita: distinguir 3.100 de 3.400 CUP.",
+    "sourceImage": "/catalog-sources/IMG_20261009_165045.jpg",
+    "img": null
+  },
+  {
+    "sharedProductId": "ultra-deluxe-citrus",
+    "n": "Lavavajillas Ultra Deluxe Citrus",
+    "sourcePhoto": "IMG_20261009_165045.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [
+      3100,
+      3400
+    ],
+    "reason": "Precio compartido con Floral; confirmar aplicación y cifra.",
+    "sourceImage": "/catalog-sources/IMG_20261009_165045.jpg",
+    "img": null
+  },
+  {
+    "sharedProductId": "dawn-watermelon",
+    "n": "Dawn Powerwash Summer Watermelon",
+    "sourcePhoto": "IMG_20261009_165050_1.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [
+      21500
+    ],
+    "reason": "Confirmar que comparte precio con Crisp Lilac.",
+    "sourceImage": "/catalog-sources/IMG_20261009_165050_1.jpg",
+    "img": null
+  },
+  {
+    "sharedProductId": "dawn-tropical",
+    "n": "Dawn Powerwash Tropical Blend",
+    "sourcePhoto": "IMG_20261009_165050_1.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [
+      21500
+    ],
+    "reason": "Envase con pulverizador frente a recargas; confirmar precio propio.",
+    "sourceImage": "/catalog-sources/IMG_20261009_165050_1.jpg",
+    "img": null
+  },
+  {
+    "sharedProductId": "actoner-mint",
+    "n": "Enjuague bucal Actoner Mint Explosion 500 mL",
+    "sourcePhoto": "IMG_20261009_165106_1.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [],
+    "reason": "Primera cifra del cartel inferior plegada; solo se ve terminación 000.",
+    "sourceImage": "/catalog-sources/IMG_20261009_165106_1.jpg",
+    "img": null
+  },
+  {
+    "sharedProductId": "great-value-inodoro",
+    "n": "Pastillas limpiadoras Great Value",
+    "sourcePhoto": "IMG_20261009_165114.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [
+      3500
+    ],
+    "reason": "Cartel dice 3.500 c/u; confirmar si vende pastilla individual o paquete de dos.",
+    "sourceImage": "/catalog-sources/IMG_20261009_165114.jpg",
+    "img": null
+  },
+  {
+    "sharedProductId": "homebright-bleach",
+    "n": "Pastillas Homebright Bleach 20 unidades",
+    "sourcePhoto": "IMG_20261009_165120.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [
+      2000,
+      7000
+    ],
+    "reason": "Confirmar primera cifra manuscrita del precio.",
+    "sourceImage": "/catalog-sources/IMG_20261009_165120.jpg",
+    "img": null
+  },
+  {
+    "sharedProductId": "bastoncillos-pequenos",
+    "n": "Bastoncillos de algodón envase pequeño",
+    "sourcePhoto": "IMG_20261009_165123_1.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [
+      700
+    ],
+    "reason": "Dos tamaños; cartel 700 delante del grande. Confirmar precio del pequeño.",
+    "sourceImage": "/catalog-sources/IMG_20261009_165123_1.jpg",
+    "img": null
+  },
+  {
+    "sharedProductId": "basura-gato",
+    "n": "Bolsas de basura con diseño de gato",
+    "sourcePhoto": "IMG_20261009_165148.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [
+      2500
+    ],
+    "reason": "Falta leer tamaño, unidades y si ambos colores son la misma presentación.",
+    "sourceImage": "/catalog-sources/IMG_20261009_165148.jpg",
+    "img": null
+  },
+  {
+    "sharedProductId": "speed-stick-irish",
+    "n": "Speed Stick Irish Spring 51 g",
+    "sourcePhoto": "IMG_20261009_165157.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [
+      3500
+    ],
+    "reason": "Cartel centrado en Amber; confirmar precio para esta marca.",
+    "sourceImage": "/catalog-sources/IMG_20261009_165157.jpg",
+    "img": null
+  },
+  {
+    "sharedProductId": "lady-speed-stick",
+    "n": "Lady Speed Stick Powder Fresh 39,6 g",
+    "sourcePhoto": "IMG_20261009_165157.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [
+      3500
+    ],
+    "reason": "Confirmar precio; cartel compartido con otros desodorantes.",
+    "sourceImage": "/catalog-sources/IMG_20261009_165157.jpg",
+    "img": null
+  },
+  {
+    "sharedProductId": "suave-tropical",
+    "n": "Suave Tropical Citrus 28 g",
+    "sourcePhoto": "IMG_20261009_165157.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [
+      3500
+    ],
+    "reason": "Confirmar precio; presentación distinta.",
+    "sourceImage": "/catalog-sources/IMG_20261009_165157.jpg",
+    "img": null
+  },
+  {
+    "sharedProductId": "alident-kids",
+    "n": "Pasta dental Alident Kids 100 g",
+    "sourcePhoto": "IMG_20261009_165203.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [
+      1500
+    ],
+    "reason": "Cartel 1.500 situado delante de Astera; confirmar aplicación a Alident.",
+    "sourceImage": "/catalog-sources/IMG_20261009_165203.jpg",
+    "img": null
   }
 ]
-
