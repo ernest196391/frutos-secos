@@ -1,0 +1,124 @@
+[
+  {
+    "sharedProductId": "oli-uva",
+    "n": "Gelatina Oli Uva",
+    "sourcePhoto": "IMG_20261009_165353.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165353.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [
+      530
+    ],
+    "reason": "Confirmar precio de esta variante.",
+    "img": null
+  },
+  {
+    "sharedProductId": "oli-lemon",
+    "n": "Gelatina Oli Lemon",
+    "sourcePhoto": "IMG_20261009_165353.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165353.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [
+      530
+    ],
+    "reason": "Confirmar precio de esta variante.",
+    "img": null
+  },
+  {
+    "sharedProductId": "oli-tutti",
+    "n": "Gelatina Oli Tutti Frutti",
+    "sourcePhoto": "IMG_20261009_165353.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165353.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [
+      530
+    ],
+    "reason": "Confirmar precio de esta variante.",
+    "img": null
+  },
+  {
+    "sharedProductId": "granola-amarilla",
+    "n": "Granola de bolsa amarilla",
+    "sourcePhoto": "IMG_20261009_165401.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165401.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [],
+    "reason": "Envase parcialmente oculto y sin precio propio.",
+    "img": null
+  },
+  {
+    "sharedProductId": "southern-dry-blue",
+    "n": "Southern Grove Dry Roasted Peanuts Sea Salt",
+    "sourcePhoto": "IMG_20261009_165407.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165407.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [
+      6500
+    ],
+    "reason": "Confirmar precio propio; etiqueta bajo Honey Roasted.",
+    "img": null
+  },
+  {
+    "sharedProductId": "southern-dry-original",
+    "n": "Southern Grove Dry Roasted Peanuts Original",
+    "sourcePhoto": "IMG_20261009_165407.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165407.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [
+      6500
+    ],
+    "reason": "Confirmar precio propio del frasco con tapa roja.",
+    "img": null
+  },
+  {
+    "sharedProductId": "gv-caramel-mix",
+    "n": "Great Value Caramel Mountain Trail Mix",
+    "sourcePhoto": "IMG_20261009_165423.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165423.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [],
+    "reason": "Sin precio propio visible.",
+    "img": null
+  },
+  {
+    "sharedProductId": "gv-honey-mix",
+    "n": "Great Value Nut & Honey Trail Mix",
+    "sourcePhoto": "IMG_20261009_165423.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165423.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [],
+    "reason": "Sin precio propio visible.",
+    "img": null
+  },
+  {
+    "sharedProductId": "gv-omega-mix",
+    "n": "Great Value Omega-3 Trail Mix",
+    "sourcePhoto": "IMG_20261009_165423.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165423.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [],
+    "reason": "Sin precio propio visible.",
+    "img": null
+  },
+  {
+    "sharedProductId": "wonderful-pistachios-680",
+    "n": "Pistachos Wonderful Roasted & Salted 680 g",
+    "sourcePhoto": "IMG_20261009_165430.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165430.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [
+      25500
+    ],
+    "reason": "Precio junto a otra presentación; confirmar precio de bolsa 24 oz.",
+    "img": null
+  },
+  {
+    "sharedProductId": "wonderful-vinegar",
+    "n": "Pistachos Wonderful Sea Salt & Vinegar",
+    "sourcePhoto": "IMG_20261009_165430.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165430.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [],
+    "reason": "Bolsa azul parcialmente oculta; confirmar tamaño y precio.",
+    "img": null
+  }
+]
