@@ -1,0 +1,205 @@
+[
+  {
+    "sharedProductId": "coca-cola-355",
+    "prompt": "Use case: precise-object-edit. Asset type: square ecommerce product photograph. Input image: edit target, photographed retail shelf. Extract and clean ONLY this exact sale unit: One red Coca-Cola Original Taste can 355mL, standard can, white script logo, silver pull tab. Pure white seamless background, soft realistic contact shadow, centered upright front-facing entire closed package with generous margins, commercial studio lighting, square image. Keep actual brand, variant, packaging shape, colors, closure and label design faithfully. Remove hands, shelves, neighbors, price tags and all surroundings. One unit only. No price, extra captions, invented sizes, ingredients props, watermark or additional products. Improve lighting without redesigning the packaging.",
+    "referenced_image_paths": [
+      "/workspace/scratch/f5c7d932b6ef/upload/IMG_20261009_165625.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "koffio-vainilla",
+    "prompt": "Use case: precise-object-edit. Asset type: square ecommerce product photograph. Input image: edit target, photographed retail shelf. Extract and clean ONLY this exact sale unit: One tall slim pale blue koffio VANILLA coffee&milk can at left, blue fine contour lines, cream bottom and circular coffee cup emblem. Preserve koffio spelling. Pure white seamless background, soft realistic contact shadow, centered upright front-facing entire closed package with generous margins, commercial studio lighting, square image. Keep actual brand, variant, packaging shape, colors, closure and label design faithfully. Remove hands, shelves, neighbors, price tags and all surroundings. One unit only. No price, extra captions, invented sizes, ingredients props, watermark or additional products. Improve lighting without redesigning the packaging.",
+    "referenced_image_paths": [
+      "/workspace/scratch/f5c7d932b6ef/upload/IMG_20261009_165627_1.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "pepsi-lata",
+    "prompt": "Use case: precise-object-edit. Asset type: square ecommerce product photograph. Input image: edit target, photographed retail shelf. Extract and clean ONLY this exact sale unit: One standard blue Pepsi can in middle. Orient upright with PEPSI lettering readable; preserve photographed red white blue globe and silver pull tab. Do not use modern black packaging. Pure white seamless background, soft realistic contact shadow, centered upright front-facing entire closed package with generous margins, commercial studio lighting, square image. Keep actual brand, variant, packaging shape, colors, closure and label design faithfully. Remove hands, shelves, neighbors, price tags and all surroundings. One unit only. No price, extra captions, invented sizes, ingredients props, watermark or additional products. Improve lighting without redesigning the packaging.",
+    "referenced_image_paths": [
+      "/workspace/scratch/f5c7d932b6ef/upload/IMG_20261009_165627_1.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "tigon-energy",
+    "prompt": "Use case: precise-object-edit. Asset type: square ecommerce product photograph. Input image: edit target, photographed retail shelf. Extract and clean ONLY this exact sale unit: One tall slim red Tigon ENERGY DRINK can on right with white vertical Tigon logo and tiger at bottom. Pure white seamless background, soft realistic contact shadow, centered upright front-facing entire closed package with generous margins, commercial studio lighting, square image. Keep actual brand, variant, packaging shape, colors, closure and label design faithfully. Remove hands, shelves, neighbors, price tags and all surroundings. One unit only. No price, extra captions, invented sizes, ingredients props, watermark or additional products. Improve lighting without redesigning the packaging.",
+    "referenced_image_paths": [
+      "/workspace/scratch/f5c7d932b6ef/upload/IMG_20261009_165627_1.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "kurtz-mayonesa",
+    "prompt": "Use case: precise-object-edit. Asset type: square ecommerce product photograph. Input image: edit target, photographed retail shelf. Extract and clean ONLY this exact sale unit: One wide glass Kurtz REAL MAYONNAISE jar at left, blue plastic screw lid, yellow label with blue rectangular panel and egg illustration, 30 FL OZ (887mL). Pure white seamless background, soft realistic contact shadow, centered upright front-facing entire closed package with generous margins, commercial studio lighting, square image. Keep actual brand, variant, packaging shape, colors, closure and label design faithfully. Remove hands, shelves, neighbors, price tags and all surroundings. One unit only. No price, extra captions, invented sizes, ingredients props, watermark or additional products. Improve lighting without redesigning the packaging.",
+    "referenced_image_paths": [
+      "/workspace/scratch/f5c7d932b6ef/upload/IMG_20261009_165856_1.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "hollandpark-mayonesa",
+    "prompt": "Use case: precise-object-edit. Asset type: square ecommerce product photograph. Input image: edit target, photographed retail shelf. Extract and clean ONLY this exact sale unit: One HollandPark mayonnaise glass jar in middle, blue metal lid, yellow and blue label, red HollandPark windmill logo, mayonnaise tomatoes egg lemon illustration. Preserve actual jar and do not invent unreadable weight. Pure white seamless background, soft realistic contact shadow, centered upright front-facing entire closed package with generous margins, commercial studio lighting, square image. Keep actual brand, variant, packaging shape, colors, closure and label design faithfully. Remove hands, shelves, neighbors, price tags and all surroundings. One unit only. No price, extra captions, invented sizes, ingredients props, watermark or additional products. Improve lighting without redesigning the packaging.",
+    "referenced_image_paths": [
+      "/workspace/scratch/f5c7d932b6ef/upload/IMG_20261009_165856_1.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "ayala-mayonesa",
+    "prompt": "Use case: precise-object-edit. Asset type: square ecommerce product photograph. Input image: edit target, photographed retail shelf. Extract and clean ONLY this exact sale unit: One tall glass Ayala MAYONESA Sabor Tradicional jar at left, white metal lid, cream and yellow label, black oval yellow Ayala logo, ingredients illustrations. Preserve brand spelling and exact existing package. Pure white seamless background, soft realistic contact shadow, centered upright front-facing entire closed package with generous margins, commercial studio lighting, square image. Keep actual brand, variant, packaging shape, colors, closure and label design faithfully. Remove hands, shelves, neighbors, price tags and all surroundings. One unit only. No price, extra captions, invented sizes, ingredients props, watermark or additional products. Improve lighting without redesigning the packaging.",
+    "referenced_image_paths": [
+      "/workspace/scratch/f5c7d932b6ef/upload/IMG_20261009_165853_1.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "jolyni-spaghetti",
+    "prompt": "Use case: precise-object-edit. Asset type: square ecommerce product photograph. Input image: edit target, photographed retail shelf. Extract and clean ONLY this exact sale unit: One long olive green JOLYNI S.I.R.L. Spaghetti N.5 plastic packet, transparent rectangular window showing dry spaghetti, white rectangular JOLYNI logo, 450g; remove hand. Pure white seamless background, soft realistic contact shadow, centered upright front-facing entire closed package with generous margins, commercial studio lighting, square image. Keep actual brand, variant, packaging shape, colors, closure and label design faithfully. Remove hands, shelves, neighbors, price tags and all surroundings. One unit only. No price, extra captions, invented sizes, ingredients props, watermark or additional products. Improve lighting without redesigning the packaging.",
+    "referenced_image_paths": [
+      "/workspace/scratch/f5c7d932b6ef/upload/IMG_20261009_165656.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "primo-linguine",
+    "prompt": "Use case: precise-object-edit. Asset type: square ecommerce product photograph. Input image: edit target, photographed retail shelf. Extract and clean ONLY this exact sale unit: One long green PRIMO Linguine 900g pasta packet, transparent window showing flat linguine strands, red rectangle yellow PRIMO logo, Canadian red maple leaf seal. Remove hand. Pure white seamless background, soft realistic contact shadow, centered upright front-facing entire closed package with generous margins, commercial studio lighting, square image. Keep actual brand, variant, packaging shape, colors, closure and label design faithfully. Remove hands, shelves, neighbors, price tags and all surroundings. One unit only. No price, extra captions, invented sizes, ingredients props, watermark or additional products. Improve lighting without redesigning the packaging.",
+    "referenced_image_paths": [
+      "/workspace/scratch/f5c7d932b6ef/upload/IMG_20261009_165714.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "italpasta-pennine",
+    "prompt": "Use case: precise-object-edit. Asset type: square ecommerce product photograph. Input image: edit target, photographed retail shelf. Extract and clean ONLY this exact sale unit: One wide blue ITALPASTA PENNINE RIGATE 900g pillow packet, clear centre with short ridged penne tubes, white blue wheat crest LP ITALPASTA, red white Made in Canada circle. Preserve wide short pasta package, not spaghetti bag. Pure white seamless background, soft realistic contact shadow, centered upright front-facing entire closed package with generous margins, commercial studio lighting, square image. Keep actual brand, variant, packaging shape, colors, closure and label design faithfully. Remove hands, shelves, neighbors, price tags and all surroundings. One unit only. No price, extra captions, invented sizes, ingredients props, watermark or additional products. Improve lighting without redesigning the packaging.",
+    "referenced_image_paths": [
+      "/workspace/scratch/f5c7d932b6ef/upload/IMG_20261009_165741.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "socheezy-macaroni",
+    "prompt": "Use case: precise-object-edit. Asset type: square ecommerce product photograph. Input image: edit target, photographed retail shelf. Extract and clean ONLY this exact sale unit: One closed tall dark blue So Cheezy MACARONI & CHEESE DINNER box, original flavor, yellow logo, cheese macaroni photos printed at top and bowl bottom, net wt 7.25oz (206g). No loose pasta props. Pure white seamless background, soft realistic contact shadow, centered upright front-facing entire closed package with generous margins, commercial studio lighting, square image. Keep actual brand, variant, packaging shape, colors, closure and label design faithfully. Remove hands, shelves, neighbors, price tags and all surroundings. One unit only. No price, extra captions, invented sizes, ingredients props, watermark or additional products. Improve lighting without redesigning the packaging.",
+    "referenced_image_paths": [
+      "/workspace/scratch/f5c7d932b6ef/upload/IMG_20261009_165824_1.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "aldaketa-mostaza",
+    "prompt": "Use case: precise-object-edit. Asset type: square ecommerce product photograph. Input image: edit target, photographed retail shelf. Extract and clean ONLY this exact sale unit: One yellow plastic ALDAKETA Mostaza squeeze bottle at left-middle, wide white flip cap, red green logo, hot dog photo on yellow label. Brand ALDAKETA, not Aldaneta. Pure white seamless background, soft realistic contact shadow, centered upright front-facing entire closed package with generous margins, commercial studio lighting, square image. Keep actual brand, variant, packaging shape, colors, closure and label design faithfully. Remove hands, shelves, neighbors, price tags and all surroundings. One unit only. No price, extra captions, invented sizes, ingredients props, watermark or additional products. Improve lighting without redesigning the packaging.",
+    "referenced_image_paths": [
+      "/workspace/scratch/f5c7d932b6ef/upload/IMG_20261009_165830.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "azotea-mostaza",
+    "prompt": "Use case: precise-object-edit. Asset type: square ecommerce product photograph. Input image: edit target, photographed retail shelf. Extract and clean ONLY this exact sale unit: One yellow AZOTEA Mostaza original squeeze bottle at middle-right, wide white flip cap, green AZOTEA logo, hot dog with mustard illustration, exact rounded photographed bottle. Pure white seamless background, soft realistic contact shadow, centered upright front-facing entire closed package with generous margins, commercial studio lighting, square image. Keep actual brand, variant, packaging shape, colors, closure and label design faithfully. Remove hands, shelves, neighbors, price tags and all surroundings. One unit only. No price, extra captions, invented sizes, ingredients props, watermark or additional products. Improve lighting without redesigning the packaging.",
+    "referenced_image_paths": [
+      "/workspace/scratch/f5c7d932b6ef/upload/IMG_20261009_165830.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "kurtz-mostaza",
+    "prompt": "Use case: precise-object-edit. Asset type: square ecommerce product photograph. Input image: edit target, photographed retail shelf. Extract and clean ONLY this exact sale unit: One yellow Kurtz YELLOW MUSTARD bottle immediately left of giant Vima, narrow yellow nozzle cap, cream label with hot dog, NET WT20oz (567g). No handle. Pure white seamless background, soft realistic contact shadow, centered upright front-facing entire closed package with generous margins, commercial studio lighting, square image. Keep actual brand, variant, packaging shape, colors, closure and label design faithfully. Remove hands, shelves, neighbors, price tags and all surroundings. One unit only. No price, extra captions, invented sizes, ingredients props, watermark or additional products. Improve lighting without redesigning the packaging.",
+    "referenced_image_paths": [
+      "/workspace/scratch/f5c7d932b6ef/upload/IMG_20261009_165830.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "vima-mostaza",
+    "prompt": "Use case: precise-object-edit. Asset type: square ecommerce product photograph. Input image: edit target, photographed retail shelf. Extract and clean ONLY this exact sale unit: One giant squat rounded yellow Vima MOSTAZA plastic bottle at far right, yellow ribbed screw cap, white label with pale swirling lines, green oval Vima logo, hot dog illustration,1850g. No invented handle. Pure white seamless background, soft realistic contact shadow, centered upright front-facing entire closed package with generous margins, commercial studio lighting, square image. Keep actual brand, variant, packaging shape, colors, closure and label design faithfully. Remove hands, shelves, neighbors, price tags and all surroundings. One unit only. No price, extra captions, invented sizes, ingredients props, watermark or additional products. Improve lighting without redesigning the packaging.",
+    "referenced_image_paths": [
+      "/workspace/scratch/f5c7d932b6ef/upload/IMG_20261009_165830.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "kurtz-italian",
+    "prompt": "Use case: precise-object-edit. Asset type: square ecommerce product photograph. Input image: edit target, photographed retail shelf. Extract and clean ONLY this exact sale unit: One Kurtz ZESTY ITALIAN DRESSING transparent bottle at far left, visible speckled dressing, green full-height label and wrapped neck, salad illustration. Preserve photographed plastic bottle. Pure white seamless background, soft realistic contact shadow, centered upright front-facing entire closed package with generous margins, commercial studio lighting, square image. Keep actual brand, variant, packaging shape, colors, closure and label design faithfully. Remove hands, shelves, neighbors, price tags and all surroundings. One unit only. No price, extra captions, invented sizes, ingredients props, watermark or additional products. Improve lighting without redesigning the packaging.",
+    "referenced_image_paths": [
+      "/workspace/scratch/f5c7d932b6ef/upload/IMG_20261009_165834.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "bullseye-original",
+    "prompt": "Use case: precise-object-edit. Asset type: square ecommerce product photograph. Input image: edit target, photographed retail shelf. Extract and clean ONLY this exact sale unit: One brown broad-shouldered Bull’s-Eye EVERYDAY ORIGINAL BBQ sauce bottle in centre, black cap, beige label with orange ORIGINAL band and beige bull illustration,17.5oz 507g. Pure white seamless background, soft realistic contact shadow, centered upright front-facing entire closed package with generous margins, commercial studio lighting, square image. Keep actual brand, variant, packaging shape, colors, closure and label design faithfully. Remove hands, shelves, neighbors, price tags and all surroundings. One unit only. No price, extra captions, invented sizes, ingredients props, watermark or additional products. Improve lighting without redesigning the packaging.",
+    "referenced_image_paths": [
+      "/workspace/scratch/f5c7d932b6ef/upload/IMG_20261009_165834.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "burmans-spicybrown",
+    "prompt": "Use case: precise-object-edit. Asset type: square ecommerce product photograph. Input image: edit target, photographed retail shelf. Extract and clean ONLY this exact sale unit: One Burman’s SPICY BROWN MUSTARD speckled tan sauce squeeze bottle, orange-red flip cap, cream label, orange upper band,340g. Specifically SPICY BROWN, not Sweet&Heat nor Dill Pickle. Pure white seamless background, soft realistic contact shadow, centered upright front-facing entire closed package with generous margins, commercial studio lighting, square image. Keep actual brand, variant, packaging shape, colors, closure and label design faithfully. Remove hands, shelves, neighbors, price tags and all surroundings. One unit only. No price, extra captions, invented sizes, ingredients props, watermark or additional products. Improve lighting without redesigning the packaging.",
+    "referenced_image_paths": [
+      "/workspace/scratch/f5c7d932b6ef/upload/IMG_20261009_165834.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "jade-soya",
+    "prompt": "Use case: precise-object-edit. Asset type: square ecommerce product photograph. Input image: edit target, photographed retail shelf. Extract and clean ONLY this exact sale unit: One dark glass JADE DRAGON Soy Sauce All-purpose seasoning bottle, red branded shrink neck cap, cream yellow red label,12FL OZ356mL. Not Sakura. Pure white seamless background, soft realistic contact shadow, centered upright front-facing entire closed package with generous margins, commercial studio lighting, square image. Keep actual brand, variant, packaging shape, colors, closure and label design faithfully. Remove hands, shelves, neighbors, price tags and all surroundings. One unit only. No price, extra captions, invented sizes, ingredients props, watermark or additional products. Improve lighting without redesigning the packaging.",
+    "referenced_image_paths": [
+      "/workspace/scratch/f5c7d932b6ef/upload/IMG_20261009_165846.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "sakura-soya",
+    "prompt": "Use case: precise-object-edit. Asset type: square ecommerce product photograph. Input image: edit target, photographed retail shelf. Extract and clean ONLY this exact sale unit: One rounded ribbed dark plastic Sakura Salsa de Soja TRADICIONAL500mL bottle, yellow cap, orange top label and pale yellow bottom with burger meat and vegetables illustration. Preserve label. Pure white seamless background, soft realistic contact shadow, centered upright front-facing entire closed package with generous margins, commercial studio lighting, square image. Keep actual brand, variant, packaging shape, colors, closure and label design faithfully. Remove hands, shelves, neighbors, price tags and all surroundings. One unit only. No price, extra captions, invented sizes, ingredients props, watermark or additional products. Improve lighting without redesigning the packaging.",
+    "referenced_image_paths": [
+      "/workspace/scratch/f5c7d932b6ef/upload/IMG_20261009_165846.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "castelo-italiano",
+    "prompt": "Use case: precise-object-edit. Asset type: square ecommerce product photograph. Input image: edit target, photographed retail shelf. Extract and clean ONLY this exact sale unit: One Castelo Italiano molho para salada236ml bottle, orange-brown full wrap cover with white swoosh, orange tall cap/neck, white script Italiano and dark blue CASTELO band. Not vinaigrette transparent bottle. Pure white seamless background, soft realistic contact shadow, centered upright front-facing entire closed package with generous margins, commercial studio lighting, square image. Keep actual brand, variant, packaging shape, colors, closure and label design faithfully. Remove hands, shelves, neighbors, price tags and all surroundings. One unit only. No price, extra captions, invented sizes, ingredients props, watermark or additional products. Improve lighting without redesigning the packaging.",
+    "referenced_image_paths": [
+      "/workspace/scratch/f5c7d932b6ef/upload/IMG_20261009_165840.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "countrybarn-french",
+    "prompt": "Use case: precise-object-edit. Asset type: square ecommerce product photograph. Input image: edit target, photographed retail shelf. Extract and clean ONLY this exact sale unit: One broad squat clear Country Barn FRENCH Style DRESSING473ml bottle at right with orange dressing, tall pale blue wrapped cap, orange and green salad label. Pure white seamless background, soft realistic contact shadow, centered upright front-facing entire closed package with generous margins, commercial studio lighting, square image. Keep actual brand, variant, packaging shape, colors, closure and label design faithfully. Remove hands, shelves, neighbors, price tags and all surroundings. One unit only. No price, extra captions, invented sizes, ingredients props, watermark or additional products. Improve lighting without redesigning the packaging.",
+    "referenced_image_paths": [
+      "/workspace/scratch/f5c7d932b6ef/upload/IMG_20261009_165840.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "burmans-dill-mayo",
+    "prompt": "Use case: precise-object-edit. Asset type: square ecommerce product photograph. Input image: edit target, photographed retail shelf. Extract and clean ONLY this exact sale unit: One pale cream speckled Burman’s Dill MAYONNAISE Dressing354ml plastic squeeze bottle with bright lime green flip cap and green dill sprigs illustrated label. Not Spicy orange variant. Pure white seamless background, soft realistic contact shadow, centered upright front-facing entire closed package with generous margins, commercial studio lighting, square image. Keep actual brand, variant, packaging shape, colors, closure and label design faithfully. Remove hands, shelves, neighbors, price tags and all surroundings. One unit only. No price, extra captions, invented sizes, ingredients props, watermark or additional products. Improve lighting without redesigning the packaging.",
+    "referenced_image_paths": [
+      "/workspace/scratch/f5c7d932b6ef/upload/IMG_20261009_165851.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "friend-brava",
+    "prompt": "Use case: precise-object-edit. Asset type: square ecommerce product photograph. Input image: edit target, photographed retail shelf. Extract and clean ONLY this exact sale unit: One orange sauce Friend COOK SALSA BRAVA BRAVE SAUCE330ml plastic bottle, wide black flip cap, navy oval label with white Friend Cook oval logo and fried potato picture. Pure white seamless background, soft realistic contact shadow, centered upright front-facing entire closed package with generous margins, commercial studio lighting, square image. Keep actual brand, variant, packaging shape, colors, closure and label design faithfully. Remove hands, shelves, neighbors, price tags and all surroundings. One unit only. No price, extra captions, invented sizes, ingredients props, watermark or additional products. Improve lighting without redesigning the packaging.",
+    "referenced_image_paths": [
+      "/workspace/scratch/f5c7d932b6ef/upload/IMG_20261009_165851.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "friend-barbacoa",
+    "prompt": "Use case: precise-object-edit. Asset type: square ecommerce product photograph. Input image: edit target, photographed retail shelf. Extract and clean ONLY this exact sale unit: One dark brown Friend COOK SALSA BARBACOA BARBECUE SAUCE GRILL TEXAS BBQ330ml plastic bottle, wide black flip cap, dark navy label with white oval Friend Cook logo and grilled meat image. Not Salsa Brava. Pure white seamless background, soft realistic contact shadow, centered upright front-facing entire closed package with generous margins, commercial studio lighting, square image. Keep actual brand, variant, packaging shape, colors, closure and label design faithfully. Remove hands, shelves, neighbors, price tags and all surroundings. One unit only. No price, extra captions, invented sizes, ingredients props, watermark or additional products. Improve lighting without redesigning the packaging.",
+    "referenced_image_paths": [
+      "/workspace/scratch/f5c7d932b6ef/upload/IMG_20261009_165851.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "trader-truffle-aioli",
+    "prompt": "Use case: precise-object-edit. Asset type: square ecommerce product photograph. Input image: edit target, photographed retail shelf. Extract and clean ONLY this exact sale unit: One short glass Trader Joe’s TRUFFLE AIOLI VEGAN jar285g10.05oz with black metal lid, cream sauce, dark label bold cream TRUFFLE AIOLI with white outline garlic/truffle icon. Exact jar from middle. Pure white seamless background, soft realistic contact shadow, centered upright front-facing entire closed package with generous margins, commercial studio lighting, square image. Keep actual brand, variant, packaging shape, colors, closure and label design faithfully. Remove hands, shelves, neighbors, price tags and all surroundings. One unit only. No price, extra captions, invented sizes, ingredients props, watermark or additional products. Improve lighting without redesigning the packaging.",
+    "referenced_image_paths": [
+      "/workspace/scratch/f5c7d932b6ef/upload/IMG_20261009_165853_1.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "kurtz-relish",
+    "prompt": "Use case: precise-object-edit. Asset type: square ecommerce product photograph. Input image: edit target, photographed retail shelf. Extract and clean ONLY this exact sale unit: One glass Kurtz SWEET RELISH473ml jar on right, orange red metal lid, chopped green pickles, green label with white panel red SWEET green RELISH, hot dog picture. Pure white seamless background, soft realistic contact shadow, centered upright front-facing entire closed package with generous margins, commercial studio lighting, square image. Keep actual brand, variant, packaging shape, colors, closure and label design faithfully. Remove hands, shelves, neighbors, price tags and all surroundings. One unit only. No price, extra captions, invented sizes, ingredients props, watermark or additional products. Improve lighting without redesigning the packaging.",
+    "referenced_image_paths": [
+      "/workspace/scratch/f5c7d932b6ef/upload/IMG_20261009_165853_1.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "huerta-alcaparras",
+    "prompt": "Use case: precise-object-edit. Asset type: square ecommerce product photograph. Input image: edit target, photographed retail shelf. Extract and clean ONLY this exact sale unit: One short cylindrical glass LA HUERTA de al LADO Alcaparras en vinagre jar, black metal lid, cream paper label with small ship drawing and black Alcaparras script, capers in brine. Keep exact short jar not tall La Sota. Pure white seamless background, soft realistic contact shadow, centered upright front-facing entire closed package with generous margins, commercial studio lighting, square image. Keep actual brand, variant, packaging shape, colors, closure and label design faithfully. Remove hands, shelves, neighbors, price tags and all surroundings. One unit only. No price, extra captions, invented sizes, ingredients props, watermark or additional products. Improve lighting without redesigning the packaging.",
+    "referenced_image_paths": [
+      "/workspace/scratch/f5c7d932b6ef/upload/IMG_20261009_165910.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "lasota-alcaparras",
+    "prompt": "Use case: precise-object-edit. Asset type: square ecommerce product photograph. Input image: edit target, photographed retail shelf. Extract and clean ONLY this exact sale unit: One tall narrow glass La Sota Alcaparras jar at right, white metal lid, large white La Sota words over magenta geometric square on transparent capers,100g net60g drained. Exact tall shape. Pure white seamless background, soft realistic contact shadow, centered upright front-facing entire closed package with generous margins, commercial studio lighting, square image. Keep actual brand, variant, packaging shape, colors, closure and label design faithfully. Remove hands, shelves, neighbors, price tags and all surroundings. One unit only. No price, extra captions, invented sizes, ingredients props, watermark or additional products. Improve lighting without redesigning the packaging.",
+    "referenced_image_paths": [
+      "/workspace/scratch/f5c7d932b6ef/upload/IMG_20261009_165910.jpg"
+    ]
+  }
+]

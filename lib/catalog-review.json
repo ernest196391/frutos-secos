@@ -769,16 +769,6 @@
     "img": null
   },
   {
-    "sharedProductId": "lasota-alcaparras",
-    "n": "Alcaparras La Sota",
-    "sourcePhoto": "IMG_20261009_165913.jpg",
-    "sourceImage": "/catalog-sources/IMG_20261009_165913.jpg",
-    "status": "needs-review",
-    "priceCandidatesCUP": [],
-    "reason": "Precio cortado en la foto; confirmar precio del frasco. Contenido neto100g, escurrido60g.",
-    "img": null
-  },
-  {
     "sharedProductId": "sonatural-pesto",
     "n": "Pesto So Natural Basil",
     "sourcePhoto": "IMG_20261009_165916.jpg",
@@ -864,6 +854,82 @@
     "status": "needs-review",
     "priceCandidatesCUP": [],
     "reason": "Bolsa en estante inferior; confirmar presentación y precio propios.",
+    "img": null
+  },
+  {
+    "sharedProductId": "italpasta-fettuccine",
+    "n": "Fettuccine Italpasta 900 g",
+    "sourcePhoto": "IMG_20261009_165703.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165703.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [],
+    "reason": "Foto en mano sin precio propio; no asignar precio de Pennine ni Primo.",
+    "img": null
+  },
+  {
+    "sharedProductId": "kenko-bbq-mel",
+    "n": "Salsa Barbecue Kenko Mel 370 g",
+    "sourcePhoto": "IMG_20261009_165834.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165834.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [
+      4200
+    ],
+    "reason": "Etiqueta entre Mel y Americano; confirmar precio por variante.",
+    "img": null
+  },
+  {
+    "sharedProductId": "kenko-bbq-americano",
+    "n": "Salsa Barbecue Kenko Americano 370 g",
+    "sourcePhoto": "IMG_20261009_165834.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165834.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [
+      4200
+    ],
+    "reason": "Etiqueta compartida con Mel; confirmar precio por variante.",
+    "img": null
+  },
+  {
+    "sharedProductId": "aldaketa-ketchup",
+    "n": "Ketchup Aldaketa 300 mL",
+    "sourcePhoto": "IMG_20261009_165834.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165834.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [],
+    "reason": "No tiene etiqueta propia visible.",
+    "img": null
+  },
+  {
+    "sharedProductId": "burmans-sweetheat",
+    "n": "Mostaza Burman’s Sweet & Heat 340 g",
+    "sourcePhoto": "IMG_20261009_165834.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165834.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [],
+    "reason": "Precio2200 está debajo de Spicy Brown; no extenderlo a Sweet&Heat.",
+    "img": null
+  },
+  {
+    "sharedProductId": "burmans-dill-mustard",
+    "n": "Mostaza Burman’s Dill Pickle 340 g",
+    "sourcePhoto": "IMG_20261009_165830.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165830.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [],
+    "reason": "Etiqueta propia fuera de encuadre;1500 pertenece a Aldaketa.",
+    "img": null
+  },
+  {
+    "sharedProductId": "burmans-spicy-mayo",
+    "n": "Mayonesa Burman’s Spicy 354 mL",
+    "sourcePhoto": "IMG_20261009_165851.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165851.jpg",
+    "status": "needs-review",
+    "priceCandidatesCUP": [
+      5500
+    ],
+    "reason": "5500 bajo Dill; confirmar precio de Spicy de jalapeño y cayena.",
     "img": null
   }
 ]

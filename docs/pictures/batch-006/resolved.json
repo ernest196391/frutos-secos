@@ -1,0 +1,14 @@
+[
+  {
+    "sharedProductId": "lasota-alcaparras",
+    "n": "Alcaparras La Sota",
+    "sourcePhoto": "IMG_20261009_165913.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165913.jpg",
+    "status": "resolved-published-in-batch-006",
+    "priceCandidatesCUP": [],
+    "reason": "Precio cortado en la foto; confirmar precio del frasco. Contenido neto100g, escurrido60g.",
+    "img": null,
+    "confirmedPriceCUP": 1600,
+    "priceSourcePhoto": "IMG_20261009_165902.jpg"
+  }
+]

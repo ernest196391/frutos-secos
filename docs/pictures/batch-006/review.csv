@@ -1,0 +1,37 @@
+producto,precio_CUP,estado,foto_producto,foto_precio,motivo
+Coca-Cola Original,1200,ready-to-publish,IMG_20261009_165625.jpg,IMG_20261009_165625.jpg,
+Café con leche Koffo Vanilla,500,ready-to-publish,IMG_20261009_165627_1.jpg,IMG_20261009_165627_1.jpg,
+Pepsi,1150,ready-to-publish,IMG_20261009_165627_1.jpg,IMG_20261009_165627_1.jpg,
+Tigon Energy Drink,1000,ready-to-publish,IMG_20261009_165627_1.jpg,IMG_20261009_165627_1.jpg,
+Mayonesa Kurtz Real,5000,ready-to-publish,IMG_20261009_165856_1.jpg,IMG_20261009_165856_1.jpg,
+Mayonesa HollandPark,3000,ready-to-publish,IMG_20261009_165856_1.jpg,IMG_20261009_165856_1.jpg,
+Mayonesa Ayala Tradicional,2650,ready-to-publish,IMG_20261009_165853_1.jpg,IMG_20261009_165853_1.jpg,
+Espaguetis Jolyni,600,ready-to-publish,IMG_20261009_165656.jpg,IMG_20261009_165642_1.jpg,
+Linguine Primo,1050,ready-to-publish,IMG_20261009_165714.jpg,IMG_20261009_165705_1.jpg,
+Pennine Rigate Italpasta,1050,ready-to-publish,IMG_20261009_165741.jpg,IMG_20261009_165743_1.jpg,
+Macarrones con queso So Cheezy,1050,ready-to-publish,IMG_20261009_165824_1.jpg,IMG_20261009_165824_1.jpg,
+Mostaza Aldaketa,1500,ready-to-publish,IMG_20261009_165830.jpg,IMG_20261009_165830.jpg,
+Mostaza Azotea Original,2000,ready-to-publish,IMG_20261009_165830.jpg,IMG_20261009_165830.jpg,
+Mostaza Kurtz Yellow,1400,ready-to-publish,IMG_20261009_165830.jpg,IMG_20261009_165830.jpg,
+Mostaza Vima,4300,ready-to-publish,IMG_20261009_165830.jpg,IMG_20261009_165830.jpg,
+Aderezo Kurtz Zesty Italian,2300,ready-to-publish,IMG_20261009_165834.jpg,IMG_20261009_165834.jpg,
+Salsa BBQ Bull’s-Eye Everyday,6000,ready-to-publish,IMG_20261009_165834.jpg,IMG_20261009_165834.jpg,
+Mostaza Burman’s Spicy Brown,2200,ready-to-publish,IMG_20261009_165834.jpg,IMG_20261009_165834.jpg,
+Salsa de soya Jade Dragon,2200,ready-to-publish,IMG_20261009_165846.jpg,IMG_20261009_165846.jpg,
+Salsa de soya Sakura Tradicional,1000,ready-to-publish,IMG_20261009_165846.jpg,IMG_20261009_165846.jpg,
+Aderezo Castelo Italiano,700,ready-to-publish,IMG_20261009_165840.jpg,IMG_20261009_165840.jpg,
+Aderezo Country Barn French,1750,ready-to-publish,IMG_20261009_165840.jpg,IMG_20261009_165840.jpg,
+Aderezo de mayonesa Burman’s Dill,5500,ready-to-publish,IMG_20261009_165851.jpg,IMG_20261009_165851.jpg,
+Salsa Brava Friend Cook,1800,ready-to-publish,IMG_20261009_165851.jpg,IMG_20261009_165851.jpg,
+Salsa Barbacoa Friend Cook,2000,ready-to-publish,IMG_20261009_165851.jpg,IMG_20261009_165851.jpg,
+Alioli de trufa Trader Joe’s,7000,ready-to-publish,IMG_20261009_165853_1.jpg,IMG_20261009_165853_1.jpg,
+Kurtz Sweet Relish,1550,ready-to-publish,IMG_20261009_165853_1.jpg,IMG_20261009_165853_1.jpg,
+Alcaparras La Huerta de al Lado,1600,ready-to-publish,IMG_20261009_165910.jpg,IMG_20261009_165902.jpg,
+Alcaparras La Sota,1600,ready-to-publish,IMG_20261009_165910.jpg,IMG_20261009_165902.jpg,
+Fettuccine Italpasta 900 g,,needs-review,IMG_20261009_165703.jpg,,Foto en mano sin precio propio; no asignar precio de Pennine ni Primo.
+Salsa Barbecue Kenko Mel 370 g,4200,needs-review,IMG_20261009_165834.jpg,,Etiqueta entre Mel y Americano; confirmar precio por variante.
+Salsa Barbecue Kenko Americano 370 g,4200,needs-review,IMG_20261009_165834.jpg,,Etiqueta compartida con Mel; confirmar precio por variante.
+Ketchup Aldaketa 300 mL,,needs-review,IMG_20261009_165834.jpg,,No tiene etiqueta propia visible.
+Mostaza Burman’s Sweet & Heat 340 g,,needs-review,IMG_20261009_165834.jpg,,Precio2200 está debajo de Spicy Brown; no extenderlo a Sweet&Heat.
+Mostaza Burman’s Dill Pickle 340 g,,needs-review,IMG_20261009_165830.jpg,,Etiqueta propia fuera de encuadre;1500 pertenece a Aldaketa.
+Mayonesa Burman’s Spicy 354 mL,5500,needs-review,IMG_20261009_165851.jpg,,5500 bajo Dill; confirmar precio de Spicy de jalapeño y cayena.
