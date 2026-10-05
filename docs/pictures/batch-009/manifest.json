@@ -1,13 +1,14 @@
 {
   "batch": "009",
-  "published": false,
-  "stage": "ready-to-publish",
+  "published": true,
+  "stage": "published",
   "products": 10,
   "approvedImages": 10,
   "remainingReviewRecords": 403,
   "verification": {
     "tests": "20 passed",
     "build": "passed",
-    "production": "pending"
-  }
+    "production": "READY; live catalog 183 products; Badia images loaded; Mojo cart subtotal 1500 CUP verified"
+  },
+  "deploymentId": "dpl_CTkpBz2LmsFW4fN5FV1aidMRudGp"
 }

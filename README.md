@@ -17,7 +17,7 @@ Tienda online mobile-first de Colo Shop, con identidad y configuración propias 
 - tarifas de mensajería pendientes de datos comerciales reales
 - taxonomía real de Colo Shop aplicada en home
 - categorías Aseo y Frutos secos visibles y listas para recibir inventario real
-- 183 productos preparados con imágenes comerciales y precios CUP; 403 registros pendientes de revisión (familias y posibles coincidencias incluidas)
+- 183 productos publicados con imágenes comerciales y precios CUP; 403 registros pendientes de revisión (familias y posibles coincidencias incluidas)
 - tabla de productos en `/admin/productos`, exportación CSV y trazabilidad de fotos
 - base de Pictures en `pictures/` y `docs/pictures/README.md`
 
