@@ -4,15 +4,13 @@ import {products} from "../lib/catalog";
 import Support from "./Support";
 import {tenant,storeKey} from "../lib/tenant";
 import {whatsappUrl} from "../lib/commerce.mjs";
+import taxonomy from "../lib/catalog-taxonomy.json";
+import {matchesSearch} from "../lib/catalog-search.mjs";
 
 const productCategories=[...new Set(products.map(p=>p.c))];
 const categoryDefinitions=Array.isArray(tenant.categories)&&tenant.categories.length?tenant.categories:productCategories.map(name=>({name,image:products.find(p=>p.c===name)?.img||""}));
 const CART=storeKey("cart");
 const money=n=>new Intl.NumberFormat(tenant.locale).format(n)+" "+tenant.currency;
-const normalizeSearch=value=>String(value||"").normalize("NFD").replace(/[\u0300-\u036f]/g,"").toLowerCase().replace(/[^a-z0-9ñ]+/g," ").trim();
-const searchTokens=value=>normalizeSearch(value).split(/\s+/).filter(Boolean).map(t=>t.length>3&&t.endsWith("s")?t.slice(0,-1):t);
-const SEARCH_ALIASES={jugo:["jugo","nectar","bebida"],nectar:["nectar","jugo","bebida"],bebida:["bebida","jugo","nectar"],dulce:["dulce","caramelo","chocolate","galleta"],caramelo:["caramelo","dulce"],carne:["carne","cerdo","hamburguesa","albondiga","embutido","salchichon"],frijol:["frijol","lenteja"]};
-const expandedTerms=value=>searchTokens(value).map(t=>SEARCH_ALIASES[t]||[t]);
 const mapUrl=tenant.address?"https://www.google.com/maps/search/?api=1&query="+encodeURIComponent(tenant.address):null;
 const waUrl=whatsappUrl(tenant.whatsapp,"Hola, necesito ayuda con "+tenant.name+".");
 
@@ -33,6 +31,7 @@ export default function Home(){
   const [notice,setNotice]=useState("");
   const [hydrated,setHydrated]=useState(false);
   const [cat,setCat]=useState("Todos");
+  const [subcat,setSubcat]=useState("Todos");
   const [query,setQuery]=useState("");
   const [sort,setSort]=useState("relevance");
   const [cart,setCart]=useState({});
@@ -55,6 +54,7 @@ export default function Home(){
 
   useEffect(()=>{if(hydrated)try{localStorage.setItem(CART,JSON.stringify(cart))}catch{}},[cart,hydrated]);
   useEffect(()=>{if(!notice)return;const t=setTimeout(()=>setNotice(""),4200);return()=>clearTimeout(t)},[notice]);
+  useEffect(()=>setSubcat("Todos"),[cat]);
   useEffect(()=>{
     const close=e=>{if(e.key==="Escape"){setMenu(false);setDrawer(false);setDetail(null)}};
     window.addEventListener("keydown",close);
@@ -62,23 +62,19 @@ export default function Home(){
   },[]);
 
   const filtered=useMemo(()=>{
-    const groups=expandedTerms(query);
     const list=products.filter(x=>{
       if(cat!=="Todos"&&x.c!==cat)return false;
-      if(!groups.length)return true;
-      const haystack=searchTokens(x.n+" "+x.d+" "+x.c).join(" ");
-      return groups.every(group=>group.some(term=>haystack.includes(term)));
+      if(subcat!=="Todos"&&taxonomy[x.sharedProductId]!==subcat)return false;
+      return matchesSearch(x,query,taxonomy[x.sharedProductId]);
     });
     if(sort==="price-asc") return [...list].sort((a,b)=>a.p-b.p);
     if(sort==="price-desc") return [...list].sort((a,b)=>b.p-a.p);
     if(sort==="name") return [...list].sort((a,b)=>a.n.localeCompare(b.n,"es"));
     return list;
-  },[cat,query,sort]);
+  },[cat,subcat,query,sort]);
 
   const suggestions=useMemo(()=>query.trim().length<2?[]:products.filter(p=>{
-    const groups=expandedTerms(query);
-    const haystack=searchTokens(p.n+" "+p.d+" "+p.c).join(" ");
-    return groups.every(group=>group.some(term=>haystack.includes(term)));
+    return matchesSearch(p,query,taxonomy[p.sharedProductId]);
   }).slice(0,6),[query]);
   const searching=query.trim().length>0;
   const count=Object.values(cart).reduce((a,b)=>a+b,0);
@@ -99,6 +95,7 @@ export default function Home(){
   }
 
   const categoryCards=categoryDefinitions.map(item=>({...item,count:products.filter(p=>p.c===item.name).length}));
+  const subcategories=cat==="Todos"?[]:[...new Set(products.filter(p=>p.c===cat).map(p=>taxonomy[p.sharedProductId]).filter(Boolean))].sort((a,b)=>a.localeCompare(b,"es"));
 
   return <div className="coloStore">
     <header className="premiumHeader">
@@ -167,6 +164,7 @@ export default function Home(){
       </section>}
 
       <section id="productos" className="premiumSection premiumCatalog">
+        {subcategories.length>1&&<div className="subcategoryRail" role="group" aria-label={"Tipos de productos en "+cat}>{["Todos",...subcategories].map(name=><button key={name} aria-pressed={subcat===name} onClick={()=>setSubcat(name)}>{name}</button>)}</div>}
         <div className={"premiumSectionHead "+(!query&&cat==="Todos"?"minimal":"")}>
           <div>{query?<h2>{query.trim()}</h2>:cat!=="Todos"?<h2>{cat}</h2>:null}</div>
           {products.length>0&&filtered.length>1&&<div className="catalogTools"><small>{filtered.length} {filtered.length===1?"producto":"productos"}</small><select aria-label="Ordenar productos" value={sort} onChange={e=>setSort(e.target.value)}><option value="relevance">Orden recomendado</option><option value="price-asc">Menor precio</option><option value="price-desc">Mayor precio</option><option value="name">Nombre A–Z</option></select></div>}

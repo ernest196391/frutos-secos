@@ -366,3 +366,5 @@ body:has(.adminLogin){margin:0;background:#f5f2ed}
   .premiumHeroCopy{padding:24px 20px 26px}
 }
 .detail>img,.cartItem img{object-fit:contain;background:#fff}.productAdmin{width:100%;border-collapse:collapse;background:#fff}.productAdmin th,.productAdmin td{text-align:left;padding:12px;border-bottom:1px solid var(--line);vertical-align:top}.productAdmin img{object-fit:contain}.productAdmin small{display:block;margin-top:6px;color:#566578}.productAdmin a{overflow-wrap:anywhere}
+
+.subcategoryRail{display:flex;gap:8px;overflow-x:auto;padding:0 0 16px;scrollbar-width:thin}.subcategoryRail button{flex-shrink:0;min-height:44px;border:1px solid #e3e3e3;border-radius:24px;background:#fff;color:var(--ink);padding:10px 16px;font-size:13px}.subcategoryRail button[aria-pressed=true]{background:var(--ink);border-color:var(--ink);color:white}.subcategoryRail button:focus-visible{outline:2px solid var(--orange);outline-offset:2px}

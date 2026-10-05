@@ -1,0 +1,21 @@
+{
+  "mode": "built-in-imagegen",
+  "common": "Isolate one exact product from store photo; preserve original brand, variant, packaging, wording and seal; white square studio backdrop, soft shadow, no price or promotional text.",
+  "targets": [
+    {
+      "sharedProductId": "homebright-verde",
+      "referencePhoto": "IMG_20261009_165026_1.jpg",
+      "target": "Perlas aromáticas Homebright Moonlight Fresh"
+    },
+    {
+      "sharedProductId": "delcampo-lentejas",
+      "referencePhoto": "IMG_20261009_165959.jpg",
+      "target": "Lentejas Del Campo"
+    },
+    {
+      "sharedProductId": "delcampo-negros",
+      "referencePhoto": "IMG_20261009_165949.jpg",
+      "target": "Frijoles negros Del Campo"
+    }
+  ]
+}

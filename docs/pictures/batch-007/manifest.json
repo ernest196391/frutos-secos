@@ -1,0 +1,16 @@
+{
+  "batch": "007",
+  "published": false,
+  "stage": "ready-to-publish",
+  "products": 3,
+  "generationCalls": 3,
+  "approvedImages": 3,
+  "priorPendingResolved": 3,
+  "remainingReviewRecords": 433,
+  "originalSourceBlock": "Original ZIP files are unavailable in this execution. Recover original files before generating products that lack a locally available reference.",
+  "verification": {
+    "tests": "20 passed",
+    "build": "passed",
+    "production": "pending"
+  }
+}

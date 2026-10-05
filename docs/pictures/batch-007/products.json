@@ -1,0 +1,83 @@
+[
+  {
+    "id": 7001,
+    "sharedProductId": "homebright-verde",
+    "n": "Perlas aromáticas Homebright Moonlight Fresh",
+    "d": "Moonlight Fresh · Perlas aromáticas para lavandería",
+    "c": "Aseo",
+    "p": 4400,
+    "currency": "CUP",
+    "img": "/products/real/homebright-verde.webp",
+    "provisional": false,
+    "source": "store-photo",
+    "sourcePhoto": "IMG_20261009_165026_1.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165026_1.jpg",
+    "stock": null,
+    "status": "ready-to-publish",
+    "imageSha256": "0b3de9910179748cf7b0ea7da8c291daf72e9a4124c57161256a86ad386aea12",
+    "imageReview": "Reviewed original and generated packaging: exact brand and variant; one sale unit; no shelf or price captions. Unconfirmed weight omitted.",
+    "priceSourcePhotos": [
+      "IMG_20261009_165030_1.jpg"
+    ],
+    "sourcePhotos": [
+      "IMG_20261009_165026_1.jpg",
+      "IMG_20261009_165030_1.jpg"
+    ],
+    "generationMethod": "built-in-imagegen",
+    "generatedFile": "exec-b6eac53b-077c-4744-9038-3ea4e251e665.png"
+  },
+  {
+    "id": 7002,
+    "sharedProductId": "delcampo-lentejas",
+    "n": "Lentejas Del Campo",
+    "d": "Bolsa · Lentejas secas",
+    "c": "Alimentos",
+    "p": 1400,
+    "currency": "CUP",
+    "img": "/products/real/delcampo-lentejas.webp",
+    "provisional": false,
+    "source": "store-photo",
+    "sourcePhoto": "IMG_20261009_165959.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165959.jpg",
+    "stock": null,
+    "status": "ready-to-publish",
+    "imageSha256": "31b7378938a89914df7e16f474db5850884a5dd5bfb5b64e8cd13893b560b26f",
+    "imageReview": "Reviewed original and generated packaging: exact brand and variant; one sale unit; no shelf or price captions. Unconfirmed weight omitted.",
+    "priceSourcePhotos": [
+      "IMG_20261009_165501.jpg"
+    ],
+    "sourcePhotos": [
+      "IMG_20261009_165959.jpg",
+      "IMG_20261009_165501.jpg"
+    ],
+    "generationMethod": "built-in-imagegen",
+    "generatedFile": "exec-58d42a38-5f6a-40d6-bf75-37b0b682d758.png"
+  },
+  {
+    "id": 7003,
+    "sharedProductId": "delcampo-negros",
+    "n": "Frijoles negros Del Campo",
+    "d": "Bolsa de1lb · Frijoles negros secos",
+    "c": "Alimentos",
+    "p": 1600,
+    "currency": "CUP",
+    "img": "/products/real/delcampo-negros.webp",
+    "provisional": false,
+    "source": "store-photo",
+    "sourcePhoto": "IMG_20261009_165949.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165949.jpg",
+    "stock": null,
+    "status": "ready-to-publish",
+    "imageSha256": "c42701dc394de3cde7557616fad012eba060e0b2754798a87cc065631cb15110",
+    "imageReview": "Reviewed original and generated packaging: exact brand and variant; one sale unit; no shelf or price captions. Unconfirmed weight omitted.",
+    "priceSourcePhotos": [
+      "IMG_20261009_170003.jpg"
+    ],
+    "sourcePhotos": [
+      "IMG_20261009_170003.jpg",
+      "IMG_20261009_165949.jpg"
+    ],
+    "generationMethod": "built-in-imagegen",
+    "generatedFile": "exec-812d03ff-5c45-4947-9158-6ddb5589fa81.png"
+  }
+]
