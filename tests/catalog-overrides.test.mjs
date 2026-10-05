@@ -13,3 +13,14 @@ test('unknown prices and quantities above stock cannot become orders',()=>{
  assert.throws(()=>canonicalOrder(order,base,{currency:'CUP'}));
  assert.throws(()=>canonicalOrder({...order,items:[{id:2,price:null,quantity:1}],subtotal:0,total:0},base,{currency:'CUP'}));
 });
+
+test('new owner products enter the public catalog and hidden rows remain manageable',()=>{
+ const row={product_id:1000000,name:'Producto nuevo',description:'Unidad',category:'Alimentos',price:250,stock:10,image:'https://example.com/product.webp',active:true};
+ const next=mergeCatalog(base,[row]);assert.equal(next.length,3);assert.equal(next[2].id,1000000);assert.equal(next[2].p,250);
+ assert.equal(mergeCatalog(base,[{...row,active:false}]).length,2);assert.equal(mergeCatalog(base,[{...row,active:false}],true).length,3);
+ const order=canonicalOrder({items:[{id:1000000,price:250,quantity:1}],mode:'pickup',subtotal:250,fee:0,total:250,currency:'CUP'},next,{currency:'CUP'});assert.equal(order.items[0].name,'Producto nuevo');assert.equal(order.total,250);
+});
+test('replacing a shelf image removes its shelf-photo classification',()=>{
+ const next=mergeCatalog([{...base[0],img:'/shelf.jpg',imageKind:'store-photo',provisional:true}],[{product_id:1,name:'Original',description:'Unidad',category:'Aseo',price:100,stock:10,image:'/owner.webp',active:true}]);
+ assert.equal(next[0].imageKind,'owner');assert.equal(next[0].provisional,false);
+});

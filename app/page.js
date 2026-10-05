@@ -188,7 +188,7 @@ export default function Home(){
                 <p>{p.d}</p>
                 <div className="premiumProductBottom">
                   <strong>{money(p.p)}</strong>
-                  {cart[p.id]?<div className="productQty" aria-label={"Cantidad de "+p.n}><button onClick={()=>change(p.id,cart[p.id]-1)} aria-label="Quitar uno">−</button><span>{cart[p.id]}</span><button onClick={()=>change(p.id,cart[p.id]+1)} aria-label="Añadir uno">+</button></div>:<button onClick={()=>add(p.id)} aria-label={(p.p==null?"Consultar ":"Añadir ")+p.n}>{p.stock===0?"Agotado":p.p==null?"Consultar":"Añadir"}</button>}
+                  {cart[p.id]?<div className="productQty" aria-label={"Cantidad de "+p.n}><button onClick={()=>change(p.id,cart[p.id]-1)} aria-label="Quitar uno">−</button><span>{cart[p.id]}</span><button disabled={cart[p.id]>=p.stock} onClick={()=>change(p.id,cart[p.id]+1)} aria-label="Añadir uno">+</button></div>:<button disabled={p.stock===0} onClick={()=>add(p.id)} aria-label={(p.p==null?"Consultar ":"Añadir ")+p.n}>{p.stock===0?"Agotado":p.p==null?"Consultar":"Añadir"}</button>}
                 </div>
               </div>
             </article>
@@ -240,7 +240,7 @@ export default function Home(){
               <div className="cartItem" key={p.id}>
                 <img src={p.img} alt=""/>
                 <div><b>{p.n}</b><small>{p.d}</small><small>{money(p.p)}</small>
-                  <div className="qty"><button onClick={()=>change(p.id,cart[p.id]-1)}>−</button><span>{cart[p.id]}</span><button onClick={()=>change(p.id,cart[p.id]+1)}>＋</button></div>
+                  <div className="qty"><button onClick={()=>change(p.id,cart[p.id]-1)}>−</button><span>{cart[p.id]}</span><button disabled={cart[p.id]>=p.stock} onClick={()=>change(p.id,cart[p.id]+1)}>＋</button></div>
                   <button className="removeProduct" onClick={()=>change(p.id,0)}>Eliminar</button>
                 </div>
                 <strong>{money(p.p*cart[p.id])}</strong>
@@ -256,7 +256,7 @@ export default function Home(){
       <section className="detail" onClick={e=>e.stopPropagation()}>
         <button className="close" onClick={()=>setDetail(null)}>×</button>
         <img src={detail.img} alt={detail.n}/>
-        <div><small>{detail.c}</small><h2>{detail.n}</h2><p>{detail.d}</p>{detail.imageKind==="store-photo"&&<p>La foto muestra el producto en la tienda. El nombre y la presentación de esta ficha identifican la unidad que compras.</p>}<a href={detail.sourceImage} target="_blank" rel="noreferrer">Ver foto y etiqueta de precio</a><strong>{money(detail.p)}</strong><button onClick={()=>{add(detail.id);setDetail(null)}}>{detail.p==null?"Consultar precio":"Añadir al carrito"}</button></div>
+        <div><small>{detail.c}</small><h2>{detail.n}</h2><p>{detail.d}</p>{detail.imageKind==="store-photo"&&<p>La foto muestra el producto en la tienda. El nombre y la presentación de esta ficha identifican la unidad que compras.</p>}<a href={detail.sourceImage} target="_blank" rel="noreferrer">{detail.sharedProductId?.startsWith("custom-")?"Ver imagen original":"Ver foto y etiqueta de precio"}</a><strong>{money(detail.p)}</strong><button disabled={detail.stock===0} onClick={()=>{add(detail.id);setDetail(null)}}>{detail.stock===0?"Agotado":detail.p==null?"Consultar precio":"Añadir al carrito"}</button></div>
       </section>
     </div>}
 

@@ -27,5 +27,5 @@
 .supportDock .assistantLaunch{width:86px;height:96px;background:transparent;border:0;box-shadow:none;border-radius:0;overflow:visible}
 .supportDock .assistantLaunch img{object-fit:contain!important;border-radius:0!important;filter:drop-shadow(0 5px 6px #1f2d4426)}
 .supportDock .assistantLaunch::after{display:none}
-.supportDock .assistantNudge{bottom:166px;white-space:normal;max-width:260px}
+.supportDock .assistantNudge{bottom:166px;width:max-content;max-width:min(260px,calc(100vw - 32px));height:auto;min-height:0;min-width:0;white-space:normal;border:1px solid #d9ece9;border-radius:18px 18px 4px 18px;padding:12px 16px;gap:10px;line-height:1.35;text-align:left;background:#fff;box-shadow:0 10px 30px #163d4028}.assistantNudgeText{display:block}.assistantNudgeWave{flex-shrink:0}
 @media(max-width:600px){.supportDock .assistantLaunch{width:76px;height:86px}.supportDock .assistantNudge{bottom:142px;max-width:240px}}

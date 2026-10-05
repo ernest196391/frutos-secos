@@ -1,21 +1,26 @@
-# Colo Shop — publicación verificada
+# Colo Shop
 
 Tienda: https://frutos-secos-drab.vercel.app/
+Panel: https://frutos-secos-drab.vercel.app/admin
 
-477 productos publicados en las 10 categorías, con nombres, presentaciones y precios CUP leídos de las fotos. Se añadieron 294 productos a los 183 anteriores. Las nuevas fichas conservan la foto original de tienda y acceso a la etiqueta de precio; las imágenes comerciales existentes se mantienen.
+## Catálogo y operación
 
-Se recuperaron y revisaron las 297 fotos de los 4 ZIP. Se resolvieron 4 duplicados. Quedan 105 observaciones que requieren confirmación del dueño sobre identidad, presentación o precio por unidad; no son necesariamente 105 productos distintos y no están a la venta.
+581 productos en 10 categorías. Se conservan los 477 precios anteriores y se añaden 104 fichas con «Precio por confirmar». Estos productos se consultan por WhatsApp y no se cobran como gratuitos. Una observación Southern Dry Roasted sigue pendiente de identificar como variante o duplicado, por lo que no se ha duplicado la ficha.
 
-## Verificación
+Todos los productos parten de 10 unidades por indicación del propietario. El panel permite añadir productos y cambiar existencias, precios, nombres, categorías, visibilidad e imágenes. Las existencias limitan la cantidad solicitada y se editan manualmente; no hay descuento automático de inventario al confirmar un pedido.
 
-- 20 pruebas automáticas y compilación de producción correctas.
-- 435 archivos de imágenes comprobados en la tienda pública, todos correctos.
-- Búsqueda, categorías, carrito y cálculo de cantidades comprobados en navegador.
-- Pedido técnico de recogida y seguimiento correctos, 6.000 CUP, cancelado tras la prueba. No se envió WhatsApp.
-- API y función pública de pedidos v6 recalculan precios con el catálogo del servidor y rechazan importes manipulados y cantidades inválidas.
+Horario: 9:00 a. m. a 9:00 p. m. Los pedidos se registran antes de continuar a WhatsApp, donde se confirma disponibilidad y entrega.
 
-## Entrega comercial pendiente
+## Administración
 
-Confirmar las 105 observaciones en docs/pictures/full-catalog-audit/revision-dueno.html. Confirmar disponibilidad actual, tarifas y zonas de entrega, horarios y datos comerciales. Validar acceso real del dueño al panel administrativo y realizar con él una prueba operativa. No se inventan existencias, horarios ni tarifas. El dominio personalizado y su configuración quedan sujetos a los datos del negocio.
+Acceso habilitado para ernest196391@gmail.com con su cuenta existente. La contraseña se introduce únicamente en la tienda. El enlace «¿Olvidaste la contraseña?» permite solicitar recuperación. Los cambios del catálogo se guardan con permisos limitados a administradores autorizados.
 
-El catálogo y los controles técnicos están publicados. Estos datos comerciales pendientes impiden declarar la entrega operativa completa.
+## Imágenes y revisión
+
+Se mantienen las 183 imágenes comerciales existentes y se están sustituyendo las fotos de estantería por imágenes generadas provisionales basadas en las fuentes originales. El personaje El Colo es un cartoon 3D pelirrojo, sonriente y animado, con movimiento reducido respetado.
+
+Los CSV de `docs/handoff` enumeran el catálogo, los precios por confirmar y las imágenes provisionales. `/revision-catalogo.html` ofrece una revisión visual con enlaces a las etiquetas originales. Los archivos de auditorías anteriores se conservan como histórico.
+
+## Validación
+
+`npm test` comprueba catálogo, precios canónicos, límites de cantidad y cambios de administración. `npm run build` verifica la compilación de producción. El catálogo público y la función de pedidos aplican las mismas modificaciones persistentes del panel.
