@@ -1,0 +1,283 @@
+[
+  {
+    "id": 9001,
+    "sharedProductId": "badia-lemon",
+    "n": "Jugo de limón Badia",
+    "d": "Lemon Juice · Botella de 295,74 ml",
+    "c": "Alimentos",
+    "p": 2100,
+    "currency": "CUP",
+    "img": "/products/real/badia-lemon.webp",
+    "provisional": false,
+    "source": "store-photo",
+    "sourcePhoto": "IMG_20261009_170306_1.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_170306_1.jpg",
+    "stock": null,
+    "status": "ready-to-publish",
+    "subcategory": "Salsas",
+    "sourcePhotos": [
+      "IMG_20261009_170306_1.jpg",
+      "IMG_20261009_170308_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170306_1.jpg",
+      "IMG_20261009_170308_1.jpg"
+    ],
+    "generationMethod": "built-in-imagegen",
+    "generatedFile": "/workspace/scratch/f5c7d932b6ef/generated_images/exec-432684a4-441f-4a82-bdcc-3f3f2200d2ac.png",
+    "imageSha256": "33a27af2d5c442bcd9008ad26c257cfad7b92105f56457c57833028f40cbfb41",
+    "imageReview": "Original and output visually compared; exact packaging variant and unit verified."
+  },
+  {
+    "id": 9002,
+    "sharedProductId": "badia-mojo",
+    "n": "Marinado Mojo Badia",
+    "d": "Mojo Marinade · Botella de 295,74 ml",
+    "c": "Alimentos",
+    "p": 1500,
+    "currency": "CUP",
+    "img": "/products/real/badia-mojo.webp",
+    "provisional": false,
+    "source": "store-photo",
+    "sourcePhoto": "IMG_20261009_170306_1.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_170306_1.jpg",
+    "stock": null,
+    "status": "ready-to-publish",
+    "subcategory": "Salsas",
+    "sourcePhotos": [
+      "IMG_20261009_170306_1.jpg",
+      "IMG_20261009_170308_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170306_1.jpg",
+      "IMG_20261009_170308_1.jpg"
+    ],
+    "generationMethod": "built-in-imagegen",
+    "generatedFile": "/workspace/scratch/f5c7d932b6ef/generated_images/exec-bd5abfaf-35a2-4a69-a1b9-88e08ed160db.png",
+    "imageSha256": "d9f2575f25f0a4dd898ac8264a69ebbba33d635e074ddaa6736592d0cedb5b25",
+    "imageReview": "Original and output visually compared; exact packaging variant and unit verified."
+  },
+  {
+    "id": 9003,
+    "sharedProductId": "badia-naranja",
+    "n": "Naranja agria Badia",
+    "d": "Sour Orange · Botella de 295,74 ml",
+    "c": "Alimentos",
+    "p": 2000,
+    "currency": "CUP",
+    "img": "/products/real/badia-naranja.webp",
+    "provisional": false,
+    "source": "store-photo",
+    "sourcePhoto": "IMG_20261009_170306_1.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_170306_1.jpg",
+    "stock": null,
+    "status": "ready-to-publish",
+    "subcategory": "Salsas",
+    "sourcePhotos": [
+      "IMG_20261009_170306_1.jpg",
+      "IMG_20261009_170308_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170306_1.jpg",
+      "IMG_20261009_170308_1.jpg"
+    ],
+    "generationMethod": "built-in-imagegen",
+    "generatedFile": "/workspace/scratch/f5c7d932b6ef/generated_images/exec-373bff9f-a7c0-4ede-8f19-42a76bbcb601.png",
+    "imageSha256": "7bc56b977615f2226377ffe9b795d3a6af6b63066feed9021c150d83ade35391",
+    "imageReview": "Original and output visually compared; exact packaging variant and unit verified."
+  },
+  {
+    "id": 9004,
+    "sharedProductId": "carbonell-balsamico",
+    "n": "Aderezo de vinagre balsámico Carbonell",
+    "d": "Botella de 275 ml",
+    "c": "Alimentos",
+    "p": 3500,
+    "currency": "CUP",
+    "img": "/products/real/carbonell-balsamico.webp",
+    "provisional": false,
+    "source": "store-photo",
+    "sourcePhoto": "IMG_20261009_170306_1.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_170306_1.jpg",
+    "stock": null,
+    "status": "ready-to-publish",
+    "subcategory": "Salsas",
+    "sourcePhotos": [
+      "IMG_20261009_170306_1.jpg",
+      "IMG_20261009_170308_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170306_1.jpg",
+      "IMG_20261009_170308_1.jpg"
+    ],
+    "generationMethod": "built-in-imagegen",
+    "generatedFile": "/workspace/scratch/f5c7d932b6ef/generated_images/exec-835afb0e-00b6-4e9a-a207-1496a0bade68.png",
+    "imageSha256": "cf2597e4abb22f982938dc6d22e193ba102ba0d859c58d4c2d9df935c436b3f4",
+    "imageReview": "Original and output visually compared; exact packaging variant and unit verified."
+  },
+  {
+    "id": 9005,
+    "sharedProductId": "bentons-original-cookies",
+    "n": "Galletas Benton’s Original Chocolate",
+    "d": "Layered Cookies · Bolsa de 105 g",
+    "c": "Alimentos",
+    "p": 5500,
+    "currency": "CUP",
+    "img": "/products/real/bentons-original-cookies.webp",
+    "provisional": false,
+    "source": "store-photo",
+    "sourcePhoto": "IMG_20261009_170609.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_170609.jpg",
+    "stock": null,
+    "status": "ready-to-publish",
+    "subcategory": "Galletas",
+    "sourcePhotos": [
+      "IMG_20261009_170609.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170609.jpg"
+    ],
+    "generationMethod": "built-in-imagegen",
+    "generatedFile": "/workspace/scratch/f5c7d932b6ef/generated_images/exec-7e38e4a2-b75f-4ed7-8c04-b1581d8b1686.png",
+    "imageSha256": "bdf9254ba23354d1c1fb1c2aa5ab02351093abcf8426b41d0f7df30a944937a0",
+    "imageReview": "Original and output visually compared; exact packaging variant and unit verified."
+  },
+  {
+    "id": 9006,
+    "sharedProductId": "bentons-hazelnut",
+    "n": "Galletas Benton’s Hazelnut",
+    "d": "Avellana · 12 galletas · Bolsa de 172 g",
+    "c": "Alimentos",
+    "p": 5500,
+    "currency": "CUP",
+    "img": "/products/real/bentons-hazelnut.webp",
+    "provisional": false,
+    "source": "store-photo",
+    "sourcePhoto": "IMG_20261009_170609.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_170609.jpg",
+    "stock": null,
+    "status": "ready-to-publish",
+    "subcategory": "Galletas",
+    "sourcePhotos": [
+      "IMG_20261009_170609.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170609.jpg"
+    ],
+    "generationMethod": "built-in-imagegen",
+    "generatedFile": "/workspace/scratch/f5c7d932b6ef/generated_images/exec-369b2b36-267c-447a-af49-04ba4509cf88.png",
+    "imageSha256": "f325cb9e647d62b9d20c7a492a38e53bc691700f1c506d70fc13be57a9e1b2a7",
+    "imageReview": "Original and output visually compared; exact packaging variant and unit verified."
+  },
+  {
+    "id": 9007,
+    "sharedProductId": "bentons-keylime",
+    "n": "Galletas Benton’s Cookie Thins Key Lime",
+    "d": "Lima · Bolsa de 113 g",
+    "c": "Alimentos",
+    "p": 4200,
+    "currency": "CUP",
+    "img": "/products/real/bentons-keylime.webp",
+    "provisional": false,
+    "source": "store-photo",
+    "sourcePhoto": "IMG_20261009_170614.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_170614.jpg",
+    "stock": null,
+    "status": "ready-to-publish",
+    "subcategory": "Galletas",
+    "sourcePhotos": [
+      "IMG_20261009_170614.jpg",
+      "IMG_20261009_170609.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170614.jpg",
+      "IMG_20261009_170609.jpg"
+    ],
+    "generationMethod": "built-in-imagegen",
+    "generatedFile": "/workspace/scratch/f5c7d932b6ef/generated_images/exec-d94d273b-4373-4bb0-a262-804624f61989.png",
+    "imageSha256": "98891a0f78075b602a9757b5582c5e58e1ddb6d2cc7e7e358c1be7eac26b1e03",
+    "imageReview": "Original and output visually compared; exact packaging variant and unit verified."
+  },
+  {
+    "id": 9008,
+    "sharedProductId": "badia-adobo",
+    "n": "Sazonador Adobo Badia",
+    "d": "Frasco de 361,4 g",
+    "c": "Alimentos",
+    "p": 3800,
+    "currency": "CUP",
+    "img": "/products/real/badia-adobo.webp",
+    "provisional": false,
+    "source": "store-photo",
+    "sourcePhoto": "IMG_20261009_170241.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_170241.jpg",
+    "stock": null,
+    "status": "ready-to-publish",
+    "subcategory": "Condimentos",
+    "sourcePhotos": [
+      "IMG_20261009_170241.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170241.jpg"
+    ],
+    "generationMethod": "built-in-imagegen",
+    "generatedFile": "/workspace/scratch/f5c7d932b6ef/generated_images/exec-d84838cc-978a-460c-b0a8-9e630d9488a5.png",
+    "imageSha256": "0a1332d9dd2d359f38d3f597129facc5934ded76aa038a7105bb98b7ea7a16b9",
+    "imageReview": "Original and output visually compared; exact packaging variant and unit verified."
+  },
+  {
+    "id": 9009,
+    "sharedProductId": "danos-original",
+    "n": "Sazonador Dan-O’s Original",
+    "d": "Frasco de 567 g",
+    "c": "Alimentos",
+    "p": 8500,
+    "currency": "CUP",
+    "img": "/products/real/danos-original.webp",
+    "provisional": false,
+    "source": "store-photo",
+    "sourcePhoto": "IMG_20261009_170241.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_170241.jpg",
+    "stock": null,
+    "status": "ready-to-publish",
+    "subcategory": "Condimentos",
+    "sourcePhotos": [
+      "IMG_20261009_170241.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170241.jpg"
+    ],
+    "generationMethod": "built-in-imagegen",
+    "generatedFile": "/workspace/scratch/f5c7d932b6ef/generated_images/exec-c7dffbb5-fdc3-4e91-8a47-92baabcf8933.png",
+    "imageSha256": "33bde4b960e662a30c51e73f01d6a6efc98d238560eb068306c8e3fe83420293",
+    "imageReview": "Original and output visually compared; exact packaging variant and unit verified."
+  },
+  {
+    "id": 9010,
+    "sharedProductId": "mccormick-montrealchicken",
+    "n": "Sazonador McCormick Montreal Chicken",
+    "d": "Grill Mates · Frasco de 652 g",
+    "c": "Alimentos",
+    "p": 14000,
+    "currency": "CUP",
+    "img": "/products/real/mccormick-montrealchicken.webp",
+    "provisional": false,
+    "source": "store-photo",
+    "sourcePhoto": "IMG_20261009_170241.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_170241.jpg",
+    "stock": null,
+    "status": "ready-to-publish",
+    "subcategory": "Condimentos",
+    "sourcePhotos": [
+      "IMG_20261009_170211.jpg",
+      "IMG_20261009_170241.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170241.jpg"
+    ],
+    "generationMethod": "built-in-imagegen",
+    "generatedFile": "/workspace/scratch/f5c7d932b6ef/generated_images/exec-56b77ed4-343d-44d1-a681-a24b2a32f937.png",
+    "imageSha256": "b086c22c5081d3f69a159038b07c663a36f613805a35032f801b2549bf3af13a",
+    "imageReview": "Original and output visually compared; exact packaging variant and unit verified."
+  }
+]

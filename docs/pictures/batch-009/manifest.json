@@ -1,0 +1,13 @@
+{
+  "batch": "009",
+  "published": false,
+  "stage": "ready-to-publish",
+  "products": 10,
+  "approvedImages": 10,
+  "remainingReviewRecords": 403,
+  "verification": {
+    "tests": "20 passed",
+    "build": "passed",
+    "production": "pending"
+  }
+}

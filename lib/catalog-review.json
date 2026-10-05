@@ -2505,28 +2505,6 @@
     "possibleExistingIds": []
   },
   {
-    "sharedProductId": "mccormick-montrealchicken",
-    "n": "McCormick Grill Mates Montreal Chicken",
-    "d": "Frasco grande",
-    "c": "Alimentos",
-    "subcategory": "Condimentos",
-    "p": 14000,
-    "priceCandidatesCUP": [
-      14000
-    ],
-    "sourcePhoto": "IMG_20261009_170211.jpg",
-    "sourcePhotos": [
-      "IMG_20261009_170211.jpg",
-      "IMG_20261009_170241.jpg"
-    ],
-    "sourceImage": null,
-    "status": "needs-review",
-    "reason": "No heredar precio de Montreal Steak",
-    "img": null,
-    "priceStatus": "direct",
-    "possibleExistingIds": []
-  },
-  {
     "sharedProductId": "members-redpepper",
     "n": "Member's Mark Crushed Red Pepper",
     "d": "Frasco grande",
@@ -5712,48 +5690,6 @@
     "possibleExistingIds": []
   },
   {
-    "sharedProductId": "danos-original",
-    "n": "Dan-O's Original Seasoning",
-    "d": "Frasco",
-    "c": "Alimentos",
-    "subcategory": "Condimentos",
-    "p": 8500,
-    "priceCandidatesCUP": [
-      8500
-    ],
-    "sourcePhoto": "IMG_20261009_170241.jpg",
-    "sourcePhotos": [
-      "IMG_20261009_170241.jpg"
-    ],
-    "sourceImage": null,
-    "status": "needs-review",
-    "reason": "Peso pendiente",
-    "img": null,
-    "priceStatus": "direct",
-    "possibleExistingIds": []
-  },
-  {
-    "sharedProductId": "badia-adobo",
-    "n": "Badia Adobo",
-    "d": "Frasco",
-    "c": "Alimentos",
-    "subcategory": "Condimentos",
-    "p": 3800,
-    "priceCandidatesCUP": [
-      3800
-    ],
-    "sourcePhoto": "IMG_20261009_170241.jpg",
-    "sourcePhotos": [
-      "IMG_20261009_170241.jpg"
-    ],
-    "sourceImage": null,
-    "status": "needs-review",
-    "reason": "Peso pendiente",
-    "img": null,
-    "priceStatus": "direct",
-    "possibleExistingIds": []
-  },
-  {
     "sharedProductId": "worcestershire-leaperrins",
     "n": "Salsa Lea & Perrins Worcestershire",
     "d": "Botella",
@@ -5984,72 +5920,6 @@
     "possibleExistingIds": []
   },
   {
-    "sharedProductId": "badia-lemon",
-    "n": "Jugo de limón Badia",
-    "d": "Botella",
-    "c": "Alimentos",
-    "subcategory": "Salsas",
-    "p": 2100,
-    "priceCandidatesCUP": [
-      2100
-    ],
-    "sourcePhoto": "IMG_20261009_170306_1.jpg",
-    "sourcePhotos": [
-      "IMG_20261009_170306_1.jpg",
-      "IMG_20261009_170308_1.jpg"
-    ],
-    "sourceImage": null,
-    "status": "needs-review",
-    "reason": "Volumen pendiente",
-    "img": null,
-    "priceStatus": "direct",
-    "possibleExistingIds": []
-  },
-  {
-    "sharedProductId": "badia-mojo",
-    "n": "Badia Mojo Marinade",
-    "d": "Botella",
-    "c": "Alimentos",
-    "subcategory": "Salsas",
-    "p": 1500,
-    "priceCandidatesCUP": [
-      1500
-    ],
-    "sourcePhoto": "IMG_20261009_170306_1.jpg",
-    "sourcePhotos": [
-      "IMG_20261009_170306_1.jpg",
-      "IMG_20261009_170308_1.jpg"
-    ],
-    "sourceImage": null,
-    "status": "needs-review",
-    "reason": "Volumen pendiente",
-    "img": null,
-    "priceStatus": "direct",
-    "possibleExistingIds": []
-  },
-  {
-    "sharedProductId": "badia-naranja",
-    "n": "Badia Naranja Agria",
-    "d": "Botella",
-    "c": "Alimentos",
-    "subcategory": "Salsas",
-    "p": 2000,
-    "priceCandidatesCUP": [
-      2000
-    ],
-    "sourcePhoto": "IMG_20261009_170306_1.jpg",
-    "sourcePhotos": [
-      "IMG_20261009_170306_1.jpg",
-      "IMG_20261009_170308_1.jpg"
-    ],
-    "sourceImage": null,
-    "status": "needs-review",
-    "reason": "Volumen pendiente",
-    "img": null,
-    "priceStatus": "direct",
-    "possibleExistingIds": []
-  },
-  {
     "sharedProductId": "varveio-condimento",
     "n": "Varveio Condimento",
     "d": "Botella",
@@ -6067,28 +5937,6 @@
     "sourceImage": null,
     "status": "needs-review",
     "reason": "Tipo exacto y volumen pendientes",
-    "img": null,
-    "priceStatus": "direct",
-    "possibleExistingIds": []
-  },
-  {
-    "sharedProductId": "carbonell-balsamico",
-    "n": "Vinagre balsámico Carbonell",
-    "d": "Botella",
-    "c": "Alimentos",
-    "subcategory": "Vinagres",
-    "p": 3500,
-    "priceCandidatesCUP": [
-      3500
-    ],
-    "sourcePhoto": "IMG_20261009_170306_1.jpg",
-    "sourcePhotos": [
-      "IMG_20261009_170306_1.jpg",
-      "IMG_20261009_170308_1.jpg"
-    ],
-    "sourceImage": null,
-    "status": "needs-review",
-    "reason": "Volumen pendiente",
     "img": null,
     "priceStatus": "direct",
     "possibleExistingIds": []
@@ -7761,70 +7609,6 @@
     "reason": "Confirmar precio propio y peso",
     "img": null,
     "priceStatus": "shared",
-    "possibleExistingIds": []
-  },
-  {
-    "sharedProductId": "bentons-original-cookies",
-    "n": "Benton's Original Chocolate Covered Cookies",
-    "d": "Caja azul",
-    "c": "Alimentos",
-    "subcategory": "Galletas",
-    "p": 5500,
-    "priceCandidatesCUP": [
-      5500
-    ],
-    "sourcePhoto": "IMG_20261009_170609.jpg",
-    "sourcePhotos": [
-      "IMG_20261009_170609.jpg"
-    ],
-    "sourceImage": null,
-    "status": "needs-review",
-    "reason": "Peso pendiente",
-    "img": null,
-    "priceStatus": "direct",
-    "possibleExistingIds": []
-  },
-  {
-    "sharedProductId": "bentons-hazelnut",
-    "n": "Benton's Hazelnut Cookies",
-    "d": "Caja",
-    "c": "Alimentos",
-    "subcategory": "Galletas",
-    "p": 5500,
-    "priceCandidatesCUP": [
-      5500
-    ],
-    "sourcePhoto": "IMG_20261009_170609.jpg",
-    "sourcePhotos": [
-      "IMG_20261009_170609.jpg"
-    ],
-    "sourceImage": null,
-    "status": "needs-review",
-    "reason": "Peso pendiente",
-    "img": null,
-    "priceStatus": "direct",
-    "possibleExistingIds": []
-  },
-  {
-    "sharedProductId": "bentons-keylime",
-    "n": "Benton's Cookie Thins Key Lime",
-    "d": "Bolsa113g",
-    "c": "Alimentos",
-    "subcategory": "Galletas",
-    "p": 4200,
-    "priceCandidatesCUP": [
-      4200
-    ],
-    "sourcePhoto": "IMG_20261009_170614.jpg",
-    "sourcePhotos": [
-      "IMG_20261009_170614.jpg",
-      "IMG_20261009_170609.jpg"
-    ],
-    "sourceImage": null,
-    "status": "needs-review",
-    "reason": "Crear y revisar imagen comercial",
-    "img": null,
-    "priceStatus": "direct",
     "possibleExistingIds": []
   },
   {
