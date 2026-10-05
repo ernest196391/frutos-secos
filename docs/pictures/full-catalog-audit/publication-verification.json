@@ -1,0 +1,35 @@
+{
+  "status": "published-and-verified",
+  "verifiedDate": "2026-10-05",
+  "productionUrl": "https://frutos-secos-drab.vercel.app/",
+  "catalogCommit": "53cf50e14fe7434af88c2a165697580e53dd7054",
+  "deploymentId": "dpl_GodRnrz3d8NDKSnGkZyvCVUaz9do",
+  "publishedProducts": 477,
+  "categories": 10,
+  "newProductsPublished": 294,
+  "ownerReviewObservations": 105,
+  "duplicatesResolved": 4,
+  "originalPhotos": 297,
+  "originalArchives": 4,
+  "imageAssetsChecked": 435,
+  "imageAssetsPassed": 435,
+  "automatedTestsPassed": 20,
+  "productionBuild": "passed",
+  "orderFunctionVersion": 6,
+  "orderTest": {
+    "reference": "COLO-VERIFY-20261005",
+    "canonicalSubtotalCUP": 6000,
+    "tracking": "passed",
+    "finalStatus": "cancelado",
+    "priceTampering": "rejected-409",
+    "invalidQuantity": "rejected-409",
+    "whatsappSent": false
+  },
+  "browserChecks": [
+    "477 products and 10 populated categories",
+    "corrected names and prices",
+    "search Baileys",
+    "cart quantity 2 and subtotal 5000 CUP",
+    "test cart cleared"
+  ]
+}

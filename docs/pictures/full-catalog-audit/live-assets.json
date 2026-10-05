@@ -1,0 +1,3052 @@
+{
+  "assetsChecked": 435,
+  "allPassed": true,
+  "failures": [],
+  "results": [
+    {
+      "path": "/catalog-sources/IMG_20261009_164901.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 196072,
+      "expected": 196072
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_164902_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 199058,
+      "expected": 199058
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_164905_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 213759,
+      "expected": 213759
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_164907_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 144191,
+      "expected": 144191
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_164913_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 172096,
+      "expected": 172096
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_164915_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 161270,
+      "expected": 161270
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_164918_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 185608,
+      "expected": 185608
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_164921.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 176648,
+      "expected": 176648
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_164927_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 248596,
+      "expected": 248596
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_164933.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 248670,
+      "expected": 248670
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_164936_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 243560,
+      "expected": 243560
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_164939.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 244648,
+      "expected": 244648
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_164942_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 185625,
+      "expected": 185625
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_164949_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 197788,
+      "expected": 197788
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_164957_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 170381,
+      "expected": 170381
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165004.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 215736,
+      "expected": 215736
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165013_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 175329,
+      "expected": 175329
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165016_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 202522,
+      "expected": 202522
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165019_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 231444,
+      "expected": 231444
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165026_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 221471,
+      "expected": 221471
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165030_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 276610,
+      "expected": 276610
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165036.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 182912,
+      "expected": 182912
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165039_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 234703,
+      "expected": 234703
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165045.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 236192,
+      "expected": 236192
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165050_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 234298,
+      "expected": 234298
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165055_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 219745,
+      "expected": 219745
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165059_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 257501,
+      "expected": 257501
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165106_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 263658,
+      "expected": 263658
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165110_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 196898,
+      "expected": 196898
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165114.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 208419,
+      "expected": 208419
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165120.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 235797,
+      "expected": 235797
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165123_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 203992,
+      "expected": 203992
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165128.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 197530,
+      "expected": 197530
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165138.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 267588,
+      "expected": 267588
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165144.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 308670,
+      "expected": 308670
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165148.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 233847,
+      "expected": 233847
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165150.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 214156,
+      "expected": 214156
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165157.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 201091,
+      "expected": 201091
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165200.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 169905,
+      "expected": 169905
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165203.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 156606,
+      "expected": 156606
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165207.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 251840,
+      "expected": 251840
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165211.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 159515,
+      "expected": 159515
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165214.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 208837,
+      "expected": 208837
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165219.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 245447,
+      "expected": 245447
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165222.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 216039,
+      "expected": 216039
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165227.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 278538,
+      "expected": 278538
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165236.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 300991,
+      "expected": 300991
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165242.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 191092,
+      "expected": 191092
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165247.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 266374,
+      "expected": 266374
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165257.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 251807,
+      "expected": 251807
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165303.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 189376,
+      "expected": 189376
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165309.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 160092,
+      "expected": 160092
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165313.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 176960,
+      "expected": 176960
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165321.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 201697,
+      "expected": 201697
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165328.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 260063,
+      "expected": 260063
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165333.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 242401,
+      "expected": 242401
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165337.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 277912,
+      "expected": 277912
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165341.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 194765,
+      "expected": 194765
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165345.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 249691,
+      "expected": 249691
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165347.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 240552,
+      "expected": 240552
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165353.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 332332,
+      "expected": 332332
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165401.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 303062,
+      "expected": 303062
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165407.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 217135,
+      "expected": 217135
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165412.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 272850,
+      "expected": 272850
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165423.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 327145,
+      "expected": 327145
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165430.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 363971,
+      "expected": 363971
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165436.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 365235,
+      "expected": 365235
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165441.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 376740,
+      "expected": 376740
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165446.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 311481,
+      "expected": 311481
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165450.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 311413,
+      "expected": 311413
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165457.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 277418,
+      "expected": 277418
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165501.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 315883,
+      "expected": 315883
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165507.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 274185,
+      "expected": 274185
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165512.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 279369,
+      "expected": 279369
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165516.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 305541,
+      "expected": 305541
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165521.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 227758,
+      "expected": 227758
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165526.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 242399,
+      "expected": 242399
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165530.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 379745,
+      "expected": 379745
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165536.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 340997,
+      "expected": 340997
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165556.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 268142,
+      "expected": 268142
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165602.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 273488,
+      "expected": 273488
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165604_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 230887,
+      "expected": 230887
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165615.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 307123,
+      "expected": 307123
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165618.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 313007,
+      "expected": 313007
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165622.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 302346,
+      "expected": 302346
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165625.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 247430,
+      "expected": 247430
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165627_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 202586,
+      "expected": 202586
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165656.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 284039,
+      "expected": 284039
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165703.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 261743,
+      "expected": 261743
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165714.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 286503,
+      "expected": 286503
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165741.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 295889,
+      "expected": 295889
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165824_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 214252,
+      "expected": 214252
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165830.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 167939,
+      "expected": 167939
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165834.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 253519,
+      "expected": 253519
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165840.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 292360,
+      "expected": 292360
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165846.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 306730,
+      "expected": 306730
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165851.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 241109,
+      "expected": 241109
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165853_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 230575,
+      "expected": 230575
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165856_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 188673,
+      "expected": 188673
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165910.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 277241,
+      "expected": 277241
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165913.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 299704,
+      "expected": 299704
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165916.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 299047,
+      "expected": 299047
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165920.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 270833,
+      "expected": 270833
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165924.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 313973,
+      "expected": 313973
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165928.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 317391,
+      "expected": 317391
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165932.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 298437,
+      "expected": 298437
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165935.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 233830,
+      "expected": 233830
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165940.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 283618,
+      "expected": 283618
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165949.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 332152,
+      "expected": 332152
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165953.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 301942,
+      "expected": 301942
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165956.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 354010,
+      "expected": 354010
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_165959.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 367631,
+      "expected": 367631
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170008.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 318921,
+      "expected": 318921
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170014.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 220437,
+      "expected": 220437
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170022.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 244987,
+      "expected": 244987
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170025.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 376110,
+      "expected": 376110
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170027.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 220697,
+      "expected": 220697
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170032.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 289193,
+      "expected": 289193
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170038.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 312125,
+      "expected": 312125
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170045.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 222237,
+      "expected": 222237
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170047.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 251063,
+      "expected": 251063
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170051.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 168023,
+      "expected": 168023
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170054.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 217055,
+      "expected": 217055
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170105_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 254909,
+      "expected": 254909
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170108.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 370627,
+      "expected": 370627
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170110_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 347518,
+      "expected": 347518
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170114.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 289757,
+      "expected": 289757
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170117.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 179037,
+      "expected": 179037
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170126.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 379524,
+      "expected": 379524
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170128.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 265230,
+      "expected": 265230
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170131.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 206754,
+      "expected": 206754
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170152.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 229298,
+      "expected": 229298
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170157.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 168945,
+      "expected": 168945
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170211.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 331310,
+      "expected": 331310
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170217.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 355386,
+      "expected": 355386
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170221.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 284401,
+      "expected": 284401
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170222_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 214387,
+      "expected": 214387
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170225_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 255674,
+      "expected": 255674
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170228.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 260330,
+      "expected": 260330
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170232.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 242796,
+      "expected": 242796
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170234.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 271336,
+      "expected": 271336
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170237.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 296982,
+      "expected": 296982
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170241.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 360061,
+      "expected": 360061
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170250.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 307370,
+      "expected": 307370
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170254.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 347268,
+      "expected": 347268
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170303_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 289996,
+      "expected": 289996
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170306_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 360062,
+      "expected": 360062
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170308_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 357069,
+      "expected": 357069
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170311_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 280773,
+      "expected": 280773
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170314.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 303829,
+      "expected": 303829
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170320_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 314270,
+      "expected": 314270
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170330.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 345264,
+      "expected": 345264
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170333.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 386037,
+      "expected": 386037
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170336.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 381829,
+      "expected": 381829
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170341.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 296602,
+      "expected": 296602
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170346_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 274813,
+      "expected": 274813
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170351.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 381671,
+      "expected": 381671
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170358.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 389244,
+      "expected": 389244
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170404.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 402854,
+      "expected": 402854
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170406_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 394792,
+      "expected": 394792
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170410_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 314768,
+      "expected": 314768
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170417.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 248050,
+      "expected": 248050
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170421.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 261493,
+      "expected": 261493
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170428_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 249876,
+      "expected": 249876
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170440_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 195282,
+      "expected": 195282
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170447_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 257164,
+      "expected": 257164
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170501.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 291498,
+      "expected": 291498
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170504.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 295752,
+      "expected": 295752
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170518.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 237776,
+      "expected": 237776
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170532.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 288215,
+      "expected": 288215
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170540.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 328647,
+      "expected": 328647
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170543_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 286916,
+      "expected": 286916
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170548.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 355935,
+      "expected": 355935
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170550.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 325884,
+      "expected": 325884
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170554.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 379323,
+      "expected": 379323
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170556.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 353584,
+      "expected": 353584
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170600.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 299616,
+      "expected": 299616
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170603.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 294936,
+      "expected": 294936
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170609.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 360061,
+      "expected": 360061
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170614.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 360062,
+      "expected": 360062
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170618.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 355903,
+      "expected": 355903
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170623.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 408771,
+      "expected": 408771
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170626.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 305993,
+      "expected": 305993
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170629.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 431232,
+      "expected": 431232
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170633.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 329493,
+      "expected": 329493
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170637.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 301198,
+      "expected": 301198
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170642.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 408450,
+      "expected": 408450
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170645.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 386245,
+      "expected": 386245
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170649.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 484604,
+      "expected": 484604
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170653.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 462696,
+      "expected": 462696
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170704_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 292816,
+      "expected": 292816
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170826_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 303236,
+      "expected": 303236
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170831.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 272005,
+      "expected": 272005
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170834_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 271694,
+      "expected": 271694
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170846.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 219715,
+      "expected": 219715
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170848.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 191216,
+      "expected": 191216
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170851_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 240326,
+      "expected": 240326
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170903_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 290542,
+      "expected": 290542
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170906_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 362029,
+      "expected": 362029
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170911_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 280933,
+      "expected": 280933
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170930.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 267404,
+      "expected": 267404
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170941.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 354212,
+      "expected": 354212
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170943_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 395478,
+      "expected": 395478
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170948_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 348098,
+      "expected": 348098
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_170954_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 270466,
+      "expected": 270466
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171001_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 219200,
+      "expected": 219200
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171010.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 433979,
+      "expected": 433979
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171016.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 236427,
+      "expected": 236427
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171027.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 395834,
+      "expected": 395834
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171031.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 355236,
+      "expected": 355236
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171034.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 349458,
+      "expected": 349458
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171036.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 379542,
+      "expected": 379542
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171154_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 338627,
+      "expected": 338627
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171202_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 318896,
+      "expected": 318896
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171207.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 244886,
+      "expected": 244886
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171218_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 213395,
+      "expected": 213395
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171221.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 207574,
+      "expected": 207574
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171247.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 277656,
+      "expected": 277656
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171251_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 261999,
+      "expected": 261999
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171258.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 231102,
+      "expected": 231102
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171304.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 204601,
+      "expected": 204601
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171306.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 197350,
+      "expected": 197350
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171308_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 195919,
+      "expected": 195919
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171321.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 215033,
+      "expected": 215033
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171323_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 226316,
+      "expected": 226316
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171327.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 203661,
+      "expected": 203661
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171328_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 237234,
+      "expected": 237234
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171331_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 218291,
+      "expected": 218291
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171335.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 133131,
+      "expected": 133131
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171339.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 246628,
+      "expected": 246628
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171341.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 314637,
+      "expected": 314637
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171345.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 303156,
+      "expected": 303156
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171348.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 254968,
+      "expected": 254968
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171351.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 275923,
+      "expected": 275923
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171405.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 292907,
+      "expected": 292907
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171408.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 279803,
+      "expected": 279803
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171417.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 290811,
+      "expected": 290811
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171420.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 318002,
+      "expected": 318002
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171423.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 259604,
+      "expected": 259604
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171427.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 241459,
+      "expected": 241459
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171438.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 357974,
+      "expected": 357974
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171446.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 208225,
+      "expected": 208225
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171447_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 192271,
+      "expected": 192271
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171545_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 350488,
+      "expected": 350488
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171549.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 298717,
+      "expected": 298717
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171552.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 296843,
+      "expected": 296843
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171601_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 329259,
+      "expected": 329259
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171605_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 290234,
+      "expected": 290234
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171612.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 288079,
+      "expected": 288079
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171616_1.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 286379,
+      "expected": 286379
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171627.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 190553,
+      "expected": 190553
+    },
+    {
+      "path": "/catalog-sources/IMG_20261009_171633.jpg",
+      "ok": true,
+      "status": 200,
+      "bytes": 194457,
+      "expected": 194457
+    },
+    {
+      "path": "/products/real/actii-butter-lovers.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 130336,
+      "expected": 130336
+    },
+    {
+      "path": "/products/real/aldaketa-mostaza.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 32470,
+      "expected": 32470
+    },
+    {
+      "path": "/products/real/aldi-gummy-worms.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 108334,
+      "expected": 108334
+    },
+    {
+      "path": "/products/real/alfa-molinillos.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 58194,
+      "expected": 58194
+    },
+    {
+      "path": "/products/real/almendras-chocolate.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 81400,
+      "expected": 81400
+    },
+    {
+      "path": "/products/real/amanhecer-whitepepper.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 43094,
+      "expected": 43094
+    },
+    {
+      "path": "/products/real/amber-sugar-cookie.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 32268,
+      "expected": 32268
+    },
+    {
+      "path": "/products/real/apti-basil.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 139902,
+      "expected": 139902
+    },
+    {
+      "path": "/products/real/arroz-alfinete.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 84442,
+      "expected": 84442
+    },
+    {
+      "path": "/products/real/astera-kids.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 39168,
+      "expected": 39168
+    },
+    {
+      "path": "/products/real/ayala-mayonesa.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 51014,
+      "expected": 51014
+    },
+    {
+      "path": "/products/real/azotea-mostaza.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 33698,
+      "expected": 33698
+    },
+    {
+      "path": "/products/real/badia-adobo.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 70304,
+      "expected": 70304
+    },
+    {
+      "path": "/products/real/badia-lemon.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 32736,
+      "expected": 32736
+    },
+    {
+      "path": "/products/real/badia-mojo.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 49340,
+      "expected": 49340
+    },
+    {
+      "path": "/products/real/badia-naranja.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 43574,
+      "expected": 43574
+    },
+    {
+      "path": "/products/real/balsamos-paul-frank.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 93592,
+      "expected": 93592
+    },
+    {
+      "path": "/products/real/barilla-pesto.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 62740,
+      "expected": 62740
+    },
+    {
+      "path": "/products/real/bastoncillos-grandes.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 47208,
+      "expected": 47208
+    },
+    {
+      "path": "/products/real/bauducco-maria.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 41136,
+      "expected": 41136
+    },
+    {
+      "path": "/products/real/bauducco-wafer-straw.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 41468,
+      "expected": 41468
+    },
+    {
+      "path": "/products/real/belle-france-antitransfert.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 54594,
+      "expected": 54594
+    },
+    {
+      "path": "/products/real/bentons-arandano.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 67286,
+      "expected": 67286
+    },
+    {
+      "path": "/products/real/bentons-fresa.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 65816,
+      "expected": 65816
+    },
+    {
+      "path": "/products/real/bentons-hazelnut.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 76258,
+      "expected": 76258
+    },
+    {
+      "path": "/products/real/bentons-keylime.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 82102,
+      "expected": 82102
+    },
+    {
+      "path": "/products/real/bentons-original-cookies.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 95382,
+      "expected": 95382
+    },
+    {
+      "path": "/products/real/bettergoods-granola.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 80432,
+      "expected": 80432
+    },
+    {
+      "path": "/products/real/boom-frutos-rojos.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 93370,
+      "expected": 93370
+    },
+    {
+      "path": "/products/real/bullseye-original.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 57798,
+      "expected": 57798
+    },
+    {
+      "path": "/products/real/burmans-dill-mayo.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 59596,
+      "expected": 59596
+    },
+    {
+      "path": "/products/real/burmans-spicybrown.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 49548,
+      "expected": 49548
+    },
+    {
+      "path": "/products/real/carbonell-balsamico.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 47770,
+      "expected": 47770
+    },
+    {
+      "path": "/products/real/carmencita-paella.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 64066,
+      "expected": 64066
+    },
+    {
+      "path": "/products/real/castelo-italiano.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 63260,
+      "expected": 63260
+    },
+    {
+      "path": "/products/real/chipsahoy.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 85164,
+      "expected": 85164
+    },
+    {
+      "path": "/products/real/choceur-cups.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 74054,
+      "expected": 74054
+    },
+    {
+      "path": "/products/real/coca-cola-355.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 43566,
+      "expected": 43566
+    },
+    {
+      "path": "/products/real/colgate-advanced.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 58822,
+      "expected": 58822
+    },
+    {
+      "path": "/products/real/colgate-triple.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 50174,
+      "expected": 50174
+    },
+    {
+      "path": "/products/real/colonna-ranch.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 47872,
+      "expected": 47872
+    },
+    {
+      "path": "/products/real/countrybarn-french.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 64644,
+      "expected": 64644
+    },
+    {
+      "path": "/products/real/danos-original.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 68260,
+      "expected": 68260
+    },
+    {
+      "path": "/products/real/davia-passata.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 42252,
+      "expected": 42252
+    },
+    {
+      "path": "/products/real/dawn-crisp-lilac.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 52258,
+      "expected": 52258
+    },
+    {
+      "path": "/products/real/delcampo-colorados.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 96896,
+      "expected": 96896
+    },
+    {
+      "path": "/products/real/delcampo-lentejas.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 73206,
+      "expected": 73206
+    },
+    {
+      "path": "/products/real/delcampo-negros.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 106098,
+      "expected": 106098
+    },
+    {
+      "path": "/products/real/dicora-avena.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 29708,
+      "expected": 29708
+    },
+    {
+      "path": "/products/real/dicora-citrus.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 28798,
+      "expected": 28798
+    },
+    {
+      "path": "/products/real/didi-peras.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 60550,
+      "expected": 60550
+    },
+    {
+      "path": "/products/real/dove-pudding.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 68770,
+      "expected": 68770
+    },
+    {
+      "path": "/products/real/durian-cepillos-5.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 79810,
+      "expected": 79810
+    },
+    {
+      "path": "/products/real/energy-negros.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 91482,
+      "expected": 91482
+    },
+    {
+      "path": "/products/real/fairhill-frutas.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 74380,
+      "expected": 74380
+    },
+    {
+      "path": "/products/real/fairhill-maiz.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 72840,
+      "expected": 72840
+    },
+    {
+      "path": "/products/real/fairhill-vegetales.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 83022,
+      "expected": 83022
+    },
+    {
+      "path": "/products/real/febreze-luxe.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 29386,
+      "expected": 29386
+    },
+    {
+      "path": "/products/real/febreze-plug.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 63800,
+      "expected": 63800
+    },
+    {
+      "path": "/products/real/friend-barbacoa.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 56044,
+      "expected": 56044
+    },
+    {
+      "path": "/products/real/friend-brava.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 51336,
+      "expected": 51336
+    },
+    {
+      "path": "/products/real/futuro-pitillos-200.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 108216,
+      "expected": 108216
+    },
+    {
+      "path": "/products/real/gain-original-grande.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 114732,
+      "expected": 114732
+    },
+    {
+      "path": "/products/real/gain-suavizante.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 37948,
+      "expected": 37948
+    },
+    {
+      "path": "/products/real/goraw-chili-lime.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 72264,
+      "expected": 72264
+    },
+    {
+      "path": "/products/real/gv-chocolate-peanut-mix.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 113956,
+      "expected": 113956
+    },
+    {
+      "path": "/products/real/gv-cranberry-mix.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 130598,
+      "expected": 130598
+    },
+    {
+      "path": "/products/real/gv-probiotic-mix.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 113876,
+      "expected": 113876
+    },
+    {
+      "path": "/products/real/happy-baby-soap.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 68344,
+      "expected": 68344
+    },
+    {
+      "path": "/products/real/happyone-adulto.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 110022,
+      "expected": 110022
+    },
+    {
+      "path": "/products/real/harmony-lemon.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 82226,
+      "expected": 82226
+    },
+    {
+      "path": "/products/real/hilo-dental.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 37858,
+      "expected": 37858
+    },
+    {
+      "path": "/products/real/hollandpark-mayonesa.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 40864,
+      "expected": 40864
+    },
+    {
+      "path": "/products/real/homebright-verde.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 50594,
+      "expected": 50594
+    },
+    {
+      "path": "/products/real/huerta-alcaparras.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 63980,
+      "expected": 63980
+    },
+    {
+      "path": "/products/real/huerta-banderillas.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 61574,
+      "expected": 61574
+    },
+    {
+      "path": "/products/real/huerta-cocktail.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 67154,
+      "expected": 67154
+    },
+    {
+      "path": "/products/real/huerta-pepinos.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 67292,
+      "expected": 67292
+    },
+    {
+      "path": "/products/real/italpasta-pennine.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 115024,
+      "expected": 115024
+    },
+    {
+      "path": "/products/real/jade-soya.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 33688,
+      "expected": 33688
+    },
+    {
+      "path": "/products/real/jif-creamy.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 46076,
+      "expected": 46076
+    },
+    {
+      "path": "/products/real/jolyni-spaghetti.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 58212,
+      "expected": 58212
+    },
+    {
+      "path": "/products/real/khawla-lavavajillas.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 32604,
+      "expected": 32604
+    },
+    {
+      "path": "/products/real/kirkland-cashew-clusters.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 99074,
+      "expected": 99074
+    },
+    {
+      "path": "/products/real/kirkland-cashews.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 84362,
+      "expected": 84362
+    },
+    {
+      "path": "/products/real/kirkland-peanuts.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 62320,
+      "expected": 62320
+    },
+    {
+      "path": "/products/real/koffio-vainilla.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 49812,
+      "expected": 49812
+    },
+    {
+      "path": "/products/real/kurtz-italian.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 71850,
+      "expected": 71850
+    },
+    {
+      "path": "/products/real/kurtz-mayonesa.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 43500,
+      "expected": 43500
+    },
+    {
+      "path": "/products/real/kurtz-mostaza.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 29022,
+      "expected": 29022
+    },
+    {
+      "path": "/products/real/kurtz-relish.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 63660,
+      "expected": 63660
+    },
+    {
+      "path": "/products/real/lacasa-menta.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 58546,
+      "expected": 58546
+    },
+    {
+      "path": "/products/real/lasota-alcaparras.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 47594,
+      "expected": 47594
+    },
+    {
+      "path": "/products/real/lex-wc-limp.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 18816,
+      "expected": 18816
+    },
+    {
+      "path": "/products/real/luv-fresh-tropic.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 84804,
+      "expected": 84804
+    },
+    {
+      "path": "/products/real/macrofood-pina.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 60928,
+      "expected": 60928
+    },
+    {
+      "path": "/products/real/magali-avena.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 28874,
+      "expected": 28874
+    },
+    {
+      "path": "/products/real/magali-mora.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 25566,
+      "expected": 25566
+    },
+    {
+      "path": "/products/real/mccormick-montrealchicken.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 83198,
+      "expected": 83198
+    },
+    {
+      "path": "/products/real/members-pacs.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 122372,
+      "expected": 122372
+    },
+    {
+      "path": "/products/real/members-pistachios.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 99686,
+      "expected": 99686
+    },
+    {
+      "path": "/products/real/mical-film.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 33812,
+      "expected": 33812
+    },
+    {
+      "path": "/products/real/milky-way.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 52744,
+      "expected": 52744
+    },
+    {
+      "path": "/products/real/mister-pack-congelacion.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 49274,
+      "expected": 49274
+    },
+    {
+      "path": "/products/real/mounds.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 46912,
+      "expected": 46912
+    },
+    {
+      "path": "/products/real/nature-cinnamon.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 49374,
+      "expected": 49374
+    },
+    {
+      "path": "/products/real/nature-spearmint.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 48492,
+      "expected": 48492
+    },
+    {
+      "path": "/products/real/nevada-strawberry.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 69398,
+      "expected": 69398
+    },
+    {
+      "path": "/products/real/nordic-ar.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 42574,
+      "expected": 42574
+    },
+    {
+      "path": "/products/real/nutrail-cinnamon.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 79840,
+      "expected": 79840
+    },
+    {
+      "path": "/products/real/ohmy-azul.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 34374,
+      "expected": 34374
+    },
+    {
+      "path": "/products/real/ohmy-rojo.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 32024,
+      "expected": 32024
+    },
+    {
+      "path": "/products/real/oli-pina.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 66358,
+      "expected": 66358
+    },
+    {
+      "path": "/products/real/ourhouse-tomato.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 84254,
+      "expected": 84254
+    },
+    {
+      "path": "/products/real/palillos.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 30860,
+      "expected": 30860
+    },
+    {
+      "path": "/products/real/pano-amarillo.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 52384,
+      "expected": 52384
+    },
+    {
+      "path": "/products/real/pano-blanco.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 46286,
+      "expected": 46286
+    },
+    {
+      "path": "/products/real/papel-excelencia.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 77838,
+      "expected": 77838
+    },
+    {
+      "path": "/products/real/parex-m.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 45826,
+      "expected": 45826
+    },
+    {
+      "path": "/products/real/parex-s.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 46306,
+      "expected": 46306
+    },
+    {
+      "path": "/products/real/pasas-chocolate.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 92654,
+      "expected": 92654
+    },
+    {
+      "path": "/products/real/peine-flexys.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 45202,
+      "expected": 45202
+    },
+    {
+      "path": "/products/real/pepsi-lata.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 34878,
+      "expected": 34878
+    },
+    {
+      "path": "/products/real/personal-care-afeitar.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 40300,
+      "expected": 40300
+    },
+    {
+      "path": "/products/real/pobeda-cote-ivoire.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 80210,
+      "expected": 80210
+    },
+    {
+      "path": "/products/real/pobeda-ecuador.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 79830,
+      "expected": 79830
+    },
+    {
+      "path": "/products/real/pobeda-madagascar.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 84882,
+      "expected": 84882
+    },
+    {
+      "path": "/products/real/prego-traditional.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 61094,
+      "expected": 61094
+    },
+    {
+      "path": "/products/real/primo-linguine.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 68610,
+      "expected": 68610
+    },
+    {
+      "path": "/products/real/pure-silk-mini.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 41520,
+      "expected": 41520
+    },
+    {
+      "path": "/products/real/purely-cookie-granola.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 71128,
+      "expected": 71128
+    },
+    {
+      "path": "/products/real/qbanito-cebollitas.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 44090,
+      "expected": 44090
+    },
+    {
+      "path": "/products/real/quaker-granola.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 120850,
+      "expected": 120850
+    },
+    {
+      "path": "/products/real/ronza-lemon.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 52184,
+      "expected": 52184
+    },
+    {
+      "path": "/products/real/rose-honey.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 58286,
+      "expected": 58286
+    },
+    {
+      "path": "/products/real/sakura-soya.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 56800,
+      "expected": 56800
+    },
+    {
+      "path": "/products/real/salud-antical-spray.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 33148,
+      "expected": 33148
+    },
+    {
+      "path": "/products/real/salud-multiusos.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 48636,
+      "expected": 48636
+    },
+    {
+      "path": "/products/real/salud-salfuman.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 29822,
+      "expected": 29822
+    },
+    {
+      "path": "/products/real/snonas-body.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 28940,
+      "expected": 28940
+    },
+    {
+      "path": "/products/real/snonas-candy.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 29942,
+      "expected": 29942
+    },
+    {
+      "path": "/products/real/snonas-coco-pina.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 55318,
+      "expected": 55318
+    },
+    {
+      "path": "/products/real/snonas-honey.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 31118,
+      "expected": 31118
+    },
+    {
+      "path": "/products/real/socheezy-macaroni.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 69488,
+      "expected": 69488
+    },
+    {
+      "path": "/products/real/sour-punch-banana.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 90204,
+      "expected": 90204
+    },
+    {
+      "path": "/products/real/southern-cajun.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 103210,
+      "expected": 103210
+    },
+    {
+      "path": "/products/real/southern-cocktail.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 86170,
+      "expected": 86170
+    },
+    {
+      "path": "/products/real/southern-honey.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 72942,
+      "expected": 72942
+    },
+    {
+      "path": "/products/real/southern-indulgent.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 85824,
+      "expected": 85824
+    },
+    {
+      "path": "/products/real/southern-tropical.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 86032,
+      "expected": 86032
+    },
+    {
+      "path": "/products/real/stinky-bowl-citrus.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 66300,
+      "expected": 66300
+    },
+    {
+      "path": "/products/real/suavitel-hojas.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 77078,
+      "expected": 77078
+    },
+    {
+      "path": "/products/real/summers-eve-fresh.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 21650,
+      "expected": 21650
+    },
+    {
+      "path": "/products/real/supreme-black-pepper.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 92170,
+      "expected": 92170
+    },
+    {
+      "path": "/products/real/tagliamonte-pomodoro.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 81412,
+      "expected": 81412
+    },
+    {
+      "path": "/products/real/tango-verde.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 27234,
+      "expected": 27234
+    },
+    {
+      "path": "/products/real/tfs-utensilios-3.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 39136,
+      "expected": 39136
+    },
+    {
+      "path": "/products/real/tide-oxi.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 97184,
+      "expected": 97184
+    },
+    {
+      "path": "/products/real/tide-spring.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 115610,
+      "expected": 115610
+    },
+    {
+      "path": "/products/real/tigon-energy.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 34704,
+      "expected": 34704
+    },
+    {
+      "path": "/products/real/tom-frijol-cocido.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 58546,
+      "expected": 58546
+    },
+    {
+      "path": "/products/real/trader-basil-pesto.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 77440,
+      "expected": 77440
+    },
+    {
+      "path": "/products/real/trader-olive-pesto.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 91540,
+      "expected": 91540
+    },
+    {
+      "path": "/products/real/trader-truffle-aioli.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 46140,
+      "expected": 46140
+    },
+    {
+      "path": "/products/real/truearth-spring.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 69914,
+      "expected": 69914
+    },
+    {
+      "path": "/products/real/un-n09.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 42090,
+      "expected": 42090
+    },
+    {
+      "path": "/products/real/vapour-rub.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 48666,
+      "expected": 48666
+    },
+    {
+      "path": "/products/real/ventilador-pure-silk.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 47906,
+      "expected": 47906
+    },
+    {
+      "path": "/products/real/veslee-aerosol.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 33896,
+      "expected": 33896
+    },
+    {
+      "path": "/products/real/viking-sensitive.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 20166,
+      "expected": 20166
+    },
+    {
+      "path": "/products/real/vima-alinadas.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 77580,
+      "expected": 77580
+    },
+    {
+      "path": "/products/real/vima-mostaza.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 41966,
+      "expected": 41966
+    },
+    {
+      "path": "/products/real/vima-negras.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 77166,
+      "expected": 77166
+    },
+    {
+      "path": "/products/real/wellsley-peanut-mix.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 114032,
+      "expected": 114032
+    },
+    {
+      "path": "/products/real/wonderful-dill.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 60102,
+      "expected": 60102
+    },
+    {
+      "path": "/products/real/wonderful-lightly.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 61072,
+      "expected": 61072
+    },
+    {
+      "path": "/products/real/wonderful-pepper-shell.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 59832,
+      "expected": 59832
+    },
+    {
+      "path": "/products/real/wonderful-pepper.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 66924,
+      "expected": 66924
+    },
+    {
+      "path": "/products/real/wonderful-pistachios-340.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 68700,
+      "expected": 68700
+    },
+    {
+      "path": "/products/real/wonderful-pistachios-454.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 87504,
+      "expected": 87504
+    },
+    {
+      "path": "/products/real/wonderful-sweetchili.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 76686,
+      "expected": 76686
+    },
+    {
+      "path": "/products/real/wonderful-vinegar.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 77212,
+      "expected": 77212
+    },
+    {
+      "path": "/products/real/xtracare-afeitar.webp",
+      "ok": true,
+      "status": 200,
+      "bytes": 43950,
+      "expected": 43950
+    }
+  ]
+}

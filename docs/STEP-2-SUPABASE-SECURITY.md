@@ -24,3 +24,8 @@ El endpoint sigue siendo público para permitir checkout sin cuenta, pero ahora:
 
 ## Resultado
 El warning de acceso anónimo a una función SECURITY DEFINER fue eliminado. La función administrativa ya no eleva privilegios.
+
+
+## Verificación final — 2026-10-05
+
+Función colo-orders v6 ACTIVE sincronizada con los 477 productos. canonicalOrder valida SKU, cantidad y precio y recalcula subtotal, entrega y total a partir del catálogo y configuración de servidor. Manipulación de precio y cantidad cero rechazadas con 409. Pedido técnico y seguimiento verificados, luego cancelado. Sin envío de WhatsApp.

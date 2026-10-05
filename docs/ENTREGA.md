@@ -1,25 +1,21 @@
-# Entrega de Colo Shop
+# Colo Shop — publicación verificada
 
-Estado: tienda publicada, catálogo en ampliación. No marcar entrega comercial final hasta completar los puntos verificables siguientes.
+Tienda: https://frutos-secos-drab.vercel.app/
 
-## Catálogo
+477 productos publicados en las 10 categorías, con nombres, presentaciones y precios CUP leídos de las fotos. Se añadieron 294 productos a los 183 anteriores. Las nuevas fichas conservan la foto original de tienda y acceso a la etiqueta de precio; las imágenes comerciales existentes se mantienen.
 
-- Conservar un identificador por unidad de venta y variante; otra fotografía no crea otro producto.
-- Publicar solamente precios CUP respaldados por la etiqueta de la tienda.
-- Mantener pesos o cantidades no legibles fuera de la descripción.
-- No interpretar un precio por peso como precio por paquete sin verificar su etiqueta.
-- Los registros de revisión incluyen familias y posibles coincidencias; su cantidad no equivale al número final de productos.
-- Originales: cuatro archivos ZIP, 297 fotos verificadas. Referencias y recuperación en el repositorio Pictures, `data/coloshop/source-archives.json`.
+Se recuperaron y revisaron las 297 fotos de los 4 ZIP. Se resolvieron 4 duplicados. Quedan 105 observaciones que requieren confirmación del dueño sobre identidad, presentación o precio por unidad; no son necesariamente 105 productos distintos y no están a la venta.
 
-## Comprobaciones para el dueño
+## Verificación
 
-1. Acceso del administrador real y recuperación de contraseña por el flujo seguro.
-2. Confirmación de horarios, disponibilidad y tarifas de mensajería de Colo Shop. El tarifario configurado está identificado como heredado; requiere confirmación comercial.
-3. Pedido de prueba completo: cantidades, precio autorizado, recogida o entrega, referencia, seguimiento y visibilidad en administración.
-4. Comprobar validación de precios tanto en la API web como en la función pública de pedidos.
-5. Recorrido móvil: categorías, buscador, ficha, carrito, checkout, seguimiento y asistente.
-6. Confirmación del dominio y procedimiento del dueño para mantener precios y disponibilidad.
+- 20 pruebas automáticas y compilación de producción correctas.
+- 435 archivos de imágenes comprobados en la tienda pública, todos correctos.
+- Búsqueda, categorías, carrito y cálculo de cantidades comprobados en navegador.
+- Pedido técnico de recogida y seguimiento correctos, 6.000 CUP, cancelado tras la prueba. No se envió WhatsApp.
+- API y función pública de pedidos v6 recalculan precios con el catálogo del servidor y rechazan importes manipulados y cantidades inválidas.
 
-## Uso de las fotos
+## Entrega comercial pendiente
 
-Cada lote conserva identificador, foto original, evidencia de precio, imagen comercial aprobada y estado de publicación. El catálogo público y la cola de revisión deben actualizarse después de comprobar el despliegue.
+Confirmar las 105 observaciones en docs/pictures/full-catalog-audit/revision-dueno.html. Confirmar disponibilidad actual, tarifas y zonas de entrega, horarios y datos comerciales. Validar acceso real del dueño al panel administrativo y realizar con él una prueba operativa. No se inventan existencias, horarios ni tarifas. El dominio personalizado y su configuración quedan sujetos a los datos del negocio.
+
+El catálogo y los controles técnicos están publicados. Estos datos comerciales pendientes impiden declarar la entrega operativa completa.
