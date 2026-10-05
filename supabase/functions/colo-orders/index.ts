@@ -2,6 +2,7 @@ import "jsr:@supabase/functions-js/edge-runtime.d.ts";
 import { createClient } from "jsr:@supabase/supabase-js@2";
 import {products} from "./catalog.js";
 import tenant from "./tenant.json" with {type:"json"};
+import {mergeCatalog} from "./catalog-overrides.mjs";
 import {canonicalOrder} from "./order-catalog.mjs";
 
 const jsonHeaders={"Content-Type":"application/json","Cache-Control":"no-store"};
@@ -44,7 +45,11 @@ Deno.serve(async(req)=>{
 
     if(action==="create"){
       let p;
-      try { p=canonicalOrder(body.payload,products,tenant); }
+      try {
+        const {data:overrides,error:catalogError}=await db.from("colo_product_overrides").select("*");
+        if(catalogError)throw catalogError;
+        p=canonicalOrder(body.payload,mergeCatalog(products,overrides||[]),tenant);
+      }
       catch { return reply({ok:false,error:"Revisa el carrito y los precios actuales."},409); }
       const reference=trim(p.reference,32).toUpperCase();
       const phone=trim(p.phone,24);

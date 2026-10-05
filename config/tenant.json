@@ -15,7 +15,7 @@
   ],
   "pickupPoint": "Calle 26 esquina 27, Nuevo Vedado, Plaza de la Revolución, La Habana",
   "whatsapp": "5353315414",
-  "hours": "",
+  "hours": "Horario: 9:00 a. m. – 9:00 p. m.",
   "instagram": "",
   "currency": "CUP",
   "locale": "es-CU",
@@ -24,7 +24,7 @@
     "wordmark": "/brand/logo-colo.svg",
     "lockup": "/brand/logo-colo-shop.svg",
     "isotype": "/brand/isotipo-colo.svg",
-    "avatar": "/brand/avatar-colo.svg",
+    "avatar": "/brand/el-colo.webp",
     "pattern": "/brand/pattern-food.svg"
   },
   "seo": {
@@ -58,15 +58,15 @@
     "assistantSoftHover": "#FBEAEC"
   },
   "assistant": {
-    "name": "Asistente Colo",
-    "avatar": "/brand/avatar-colo.svg",
+    "name": "El Colo",
+    "avatar": "/brand/el-colo.webp",
     "role": "Asistente de compra de Colo Shop",
-    "greeting": "Hola, soy el Asistente Colo.",
-    "greetingSub": "¿Qué necesitas encontrar hoy?",
+    "greeting": "¡Hola! Soy El Colo.",
+    "greetingSub": "¿Cómo puedo ayudarte?",
     "intro": "Puedo ayudarte a buscar productos, armar tu compra y orientarte con la entrega o recogida.",
     "closing": "Listo para ayudarte con tu compra.",
     "persona": "asistente de {name}. Responde en español breve, cálido y resolutivo. No inventes precios, stock, horarios, dirección ni políticas.",
-    "nudge": "¿Te ayudo?"
+    "nudge": "¡Hola! ¿Cómo puedo ayudarte?"
   },
   "orderTitle": "COLO SHOP",
   "orderPrefix": "COLO",

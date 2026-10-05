@@ -23,3 +23,9 @@
 .cancelOrder{color:#b3341c!important;border-color:#e6c4bb!important}.cancelAsk{border:1px solid #e6c4bb;background:#fff6f3;border-radius:12px;padding:12px;margin-top:12px;font-size:14px;line-height:1.5}
 
 .assistantConnecting{display:block;color:#9a6b16;font-weight:700}
+/* El Colo: personaje visible, con saludo suave. */
+.supportDock .assistantLaunch{width:86px;height:96px;background:transparent;border:0;box-shadow:none;border-radius:0;overflow:visible}
+.supportDock .assistantLaunch img{object-fit:contain!important;border-radius:0!important;filter:drop-shadow(0 5px 6px #1f2d4426)}
+.supportDock .assistantLaunch::after{display:none}
+.supportDock .assistantNudge{bottom:166px;white-space:normal;max-width:260px}
+@media(max-width:600px){.supportDock .assistantLaunch{width:76px;height:86px}.supportDock .assistantNudge{bottom:142px;max-width:240px}}

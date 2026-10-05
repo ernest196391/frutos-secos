@@ -1,16 +1,16 @@
 "use client";
 import {useEffect,useMemo,useState} from "react";
-import {products} from "../lib/catalog";
+import {products as initialProducts} from "../lib/catalog";
 import Support from "./Support";
 import {tenant,storeKey} from "../lib/tenant";
 import {whatsappUrl} from "../lib/commerce.mjs";
 import taxonomy from "../lib/catalog-taxonomy.json";
 import {matchesSearch} from "../lib/catalog-search.mjs";
 
-const productCategories=[...new Set(products.map(p=>p.c))];
-const categoryDefinitions=Array.isArray(tenant.categories)&&tenant.categories.length?tenant.categories:productCategories.map(name=>({name,image:products.find(p=>p.c===name)?.img||""}));
+const productCategories=[...new Set(initialProducts.map(p=>p.c))];
+const categoryDefinitions=Array.isArray(tenant.categories)&&tenant.categories.length?tenant.categories:productCategories.map(name=>({name,image:initialProducts.find(p=>p.c===name)?.img||""}));
 const CART=storeKey("cart");
-const money=n=>new Intl.NumberFormat(tenant.locale).format(n)+" "+tenant.currency;
+const money=n=>n==null?"Precio por confirmar":new Intl.NumberFormat(tenant.locale).format(n)+" "+tenant.currency;
 const mapUrl=tenant.address?"https://www.google.com/maps/search/?api=1&query="+encodeURIComponent(tenant.address):null;
 const waUrl=whatsappUrl(tenant.whatsapp,"Hola, necesito ayuda con "+tenant.name+".");
 
@@ -27,6 +27,8 @@ function Icon({name,...props}){
 }
 
 export default function Home(){
+  const [products,setProducts]=useState(initialProducts);
+  useEffect(()=>{fetch("/api/catalog",{cache:"no-store"}).then(r=>r.ok?r.json():null).then(d=>{if(d?.products)setProducts(d.products)}).catch(()=>{})},[]);
   const [menu,setMenu]=useState(false);
   const [notice,setNotice]=useState("");
   const [hydrated,setHydrated]=useState(false);
@@ -46,7 +48,7 @@ export default function Home(){
       const clean={};
       for(const p of products){
         const q=saved[p.id];
-        if(Number.isInteger(q)&&q>0)clean[p.id]=Math.min(q,99);
+        if(p.p!=null&&Number.isInteger(q)&&q>0)clean[p.id]=Math.min(q,p.stock??99);
       }
       setCart(clean);
     }catch{}
@@ -54,6 +56,7 @@ export default function Home(){
   },[]);
 
   useEffect(()=>{if(hydrated)try{localStorage.setItem(CART,JSON.stringify(cart))}catch{}},[cart,hydrated]);
+  useEffect(()=>{if(!hydrated)return;setCart(saved=>Object.fromEntries(products.filter(p=>p.p!=null&&p.stock>0&&saved[p.id]>0).map(p=>[p.id,Math.min(saved[p.id],p.stock)])))},[products,hydrated]);
   useEffect(()=>{if(!notice)return;const t=setTimeout(()=>setNotice(""),4200);return()=>clearTimeout(t)},[notice]);
   useEffect(()=>setSubcat("Todos"),[cat]);
   useEffect(()=>{
@@ -68,15 +71,15 @@ export default function Home(){
       if(subcat!=="Todos"&&taxonomy[x.sharedProductId]!==subcat)return false;
       return matchesSearch(x,query,taxonomy[x.sharedProductId]);
     });
-    if(sort==="price-asc") return [...list].sort((a,b)=>a.p-b.p);
-    if(sort==="price-desc") return [...list].sort((a,b)=>b.p-a.p);
+    if(sort==="price-asc") return [...list].sort((a,b)=>(a.p??Infinity)-(b.p??Infinity));
+    if(sort==="price-desc") return [...list].sort((a,b)=>(b.p??-Infinity)-(a.p??-Infinity));
     if(sort==="name") return [...list].sort((a,b)=>a.n.localeCompare(b.n,"es"));
     return list;
-  },[cat,subcat,query,sort]);
+  },[cat,subcat,query,sort,products]);
 
   const suggestions=useMemo(()=>query.trim().length<2?[]:products.filter(p=>{
     return matchesSearch(p,query,taxonomy[p.sharedProductId]);
-  }).slice(0,6),[query]);
+  }).slice(0,6),[query,products]);
   const searching=query.trim().length>0;
   const count=Object.values(cart).reduce((a,b)=>a+b,0);
   const total=products.reduce((a,p)=>a+(cart[p.id]||0)*p.p,0);
@@ -84,11 +87,13 @@ export default function Home(){
   function add(id){
     const product=products.find(p=>p.id===id);
     if(!product)return;
-    setCart(x=>({...x,[id]:Math.min((x[id]||0)+1,99)}));
+    if(product.stock===0){setNotice("Este producto está agotado.");return;}
+    if(product.p==null){window.open(whatsappUrl(tenant.whatsapp,"Hola, quiero confirmar el precio y la presentación de "+product.n+". ID: "+product.sharedProductId),"_blank","noopener,noreferrer");return;}
+    setCart(x=>({...x,[id]:Math.min((x[id]||0)+1,product.stock??99)}));
     setNotice(product.n+" añadido al carrito");
   }
   function change(id,v){
-    setCart(x=>{const n={...x};if(v<=0)delete n[id];else n[id]=Math.min(v,99);return n});
+    setCart(x=>{const n={...x};if(v<=0)delete n[id];else n[id]=Math.min(v,products.find(p=>p.id===id)?.stock??99);return n});
   }
   function goSearch(){
     document.querySelector(".premiumSearch input")?.focus();
@@ -183,7 +188,7 @@ export default function Home(){
                 <p>{p.d}</p>
                 <div className="premiumProductBottom">
                   <strong>{money(p.p)}</strong>
-                  {cart[p.id]?<div className="productQty" aria-label={"Cantidad de "+p.n}><button onClick={()=>change(p.id,cart[p.id]-1)} aria-label="Quitar uno">−</button><span>{cart[p.id]}</span><button onClick={()=>change(p.id,cart[p.id]+1)} aria-label="Añadir uno">+</button></div>:<button onClick={()=>add(p.id)} aria-label={"Añadir "+p.n}>Añadir</button>}
+                  {cart[p.id]?<div className="productQty" aria-label={"Cantidad de "+p.n}><button onClick={()=>change(p.id,cart[p.id]-1)} aria-label="Quitar uno">−</button><span>{cart[p.id]}</span><button onClick={()=>change(p.id,cart[p.id]+1)} aria-label="Añadir uno">+</button></div>:<button onClick={()=>add(p.id)} aria-label={(p.p==null?"Consultar ":"Añadir ")+p.n}>{p.stock===0?"Agotado":p.p==null?"Consultar":"Añadir"}</button>}
                 </div>
               </div>
             </article>
@@ -251,7 +256,7 @@ export default function Home(){
       <section className="detail" onClick={e=>e.stopPropagation()}>
         <button className="close" onClick={()=>setDetail(null)}>×</button>
         <img src={detail.img} alt={detail.n}/>
-        <div><small>{detail.c}</small><h2>{detail.n}</h2><p>{detail.d}</p>{detail.imageKind==="store-photo"&&<p>La foto muestra el producto en la tienda. El nombre y la presentación de esta ficha identifican la unidad que compras.</p>}<a href={detail.sourceImage} target="_blank" rel="noreferrer">Ver foto y etiqueta de precio</a><strong>{money(detail.p)}</strong><button onClick={()=>{add(detail.id);setDetail(null)}}>Añadir al carrito</button></div>
+        <div><small>{detail.c}</small><h2>{detail.n}</h2><p>{detail.d}</p>{detail.imageKind==="store-photo"&&<p>La foto muestra el producto en la tienda. El nombre y la presentación de esta ficha identifican la unidad que compras.</p>}<a href={detail.sourceImage} target="_blank" rel="noreferrer">Ver foto y etiqueta de precio</a><strong>{money(detail.p)}</strong><button onClick={()=>{add(detail.id);setDetail(null)}}>{detail.p==null?"Consultar precio":"Añadir al carrito"}</button></div>
       </section>
     </div>}
 

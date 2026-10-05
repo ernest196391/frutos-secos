@@ -8,7 +8,7 @@ const CART=storeKey("cart");
 import localities from "../../config/localities.json";
 export default function Checkout(){
 const [lines,setLines]=useState(null),[draft,setDraft]=useState({mode:"pickup",fullName:"",phone:"",municipality:"",locality:"",address:"",referenceAddress:"",location:""}),[order,setOrder]=useState(null),[wa,setWa]=useState(null),[error,setError]=useState(""),[locating,setLocating]=useState(false),[confirmClear,setConfirmClear]=useState(false);
-useEffect(()=>{try{const cart=JSON.parse(localStorage.getItem(CART)||"{}");setLines(products.filter(p=>Number.isInteger(cart[p.id])&&cart[p.id]>0).map(p=>({...p,quantity:Math.min(cart[p.id],99)})))}catch{setLines([])}fetch("/api/commerce/config").then(r=>r.json()).then(c=>setWa(c.whatsapp)).catch(()=>{});},[]);
+useEffect(()=>{let live=true;(async()=>{try{const r=await fetch("/api/catalog",{cache:"no-store"});if(!r.ok)throw Error();const {products:current}=await r.json();const cart=JSON.parse(localStorage.getItem(CART)||"{}");if(live)setLines(current.filter(p=>p.p!=null&&p.stock>0&&Number.isInteger(cart[p.id])&&cart[p.id]>0).map(p=>({...p,quantity:Math.min(cart[p.id],p.stock)})))}catch{if(live){setLines([]);setError("No se pudo cargar el carrito actualizado. Vuelve a la tienda e inténtalo de nuevo.")}}})();fetch("/api/commerce/config").then(r=>r.json()).then(c=>setWa(c.whatsapp)).catch(()=>{});return()=>{live=false}},[]);
 const set=(key,value)=>setDraft(d=>({...d,[key]:value}));
 function clearCart(){try{localStorage.removeItem(CART)}catch{}setLines([]);setOrder(null);setConfirmClear(false);setError("")}
 const subtotal=(lines||[]).reduce((sum,p)=>sum+p.quantity*p.p,0),fee=shipping(draft.mode,draft.municipality,draft.locality,tenant.shippingRates);
