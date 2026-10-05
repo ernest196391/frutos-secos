@@ -1,0 +1,4383 @@
+[
+  {
+    "sharedProductId": "gain-flings-pequeno",
+    "decision": "owner-review",
+    "reason": "Dos paquetes similares junto a 5.000 y 7.000 CUP; falta distinguir presentación o precio.",
+    "sourcePhotos": [
+      "IMG_20261009_164942_1.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "snickers",
+    "decision": "owner-review",
+    "reason": "Sin cartel propio legible.",
+    "sourcePhotos": [
+      "IMG_20261009_164921.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "mms",
+    "decision": "owner-review",
+    "reason": "Sin cartel propio legible; falta presentación.",
+    "sourcePhotos": [
+      "IMG_20261009_164918_1.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "downy-cool-cotton",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_164949_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_164949_1.jpg",
+    "priceCUP": 5000,
+    "correction": {
+      "name": "Suavizante Downy Sport",
+      "description": "Envase individual"
+    },
+    "previousPriceStatus": null
+  },
+  {
+    "sharedProductId": "tide-simply",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_164949_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_164949_1.jpg",
+    "priceCUP": 5000,
+    "correction": null,
+    "previousPriceStatus": null
+  },
+  {
+    "sharedProductId": "gain-ultra-oxi",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_164949_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_164949_1.jpg",
+    "priceCUP": 5000,
+    "correction": null,
+    "previousPriceStatus": null
+  },
+  {
+    "sharedProductId": "tide-free-gentle",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_164949_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_164949_1.jpg",
+    "priceCUP": 5000,
+    "correction": null,
+    "previousPriceStatus": null
+  },
+  {
+    "sharedProductId": "tide-downy",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_164949_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_164949_1.jpg",
+    "priceCUP": 5000,
+    "correction": null,
+    "previousPriceStatus": null
+  },
+  {
+    "sharedProductId": "magali-coco",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_164957_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_164957_1.jpg",
+    "priceCUP": 2300,
+    "correction": null,
+    "previousPriceStatus": null
+  },
+  {
+    "sharedProductId": "snonas-splash",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_164957_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_164957_1.jpg",
+    "priceCUP": 3300,
+    "correction": null,
+    "previousPriceStatus": null
+  },
+  {
+    "sharedProductId": "terrifik",
+    "decision": "owner-review",
+    "reason": "No se ve precio propio.",
+    "sourcePhotos": [
+      "IMG_20261009_165004.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "homebright-morado",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165026_1.jpg",
+      "IMG_20261009_165030_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165030_1.jpg",
+    "priceCUP": 4400,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "glade",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165026_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165026_1.jpg",
+    "priceCUP": 6000,
+    "correction": null,
+    "previousPriceStatus": null
+  },
+  {
+    "sharedProductId": "palmolive",
+    "decision": "owner-review",
+    "reason": "No se ve precio propio ni volumen.",
+    "sourcePhotos": [
+      "IMG_20261009_165026_1.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "la-salud",
+    "decision": "owner-review",
+    "reason": "Se ven varias presentaciones y carteles; faltan frentes completos para asignar precios.",
+    "sourcePhotos": [
+      "IMG_20261009_165016_1.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "salud-antical-gel",
+    "decision": "owner-review",
+    "reason": "Sin precio propio visible.",
+    "sourcePhotos": [
+      "IMG_20261009_165036.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "salud-banos-pino",
+    "decision": "duplicate",
+    "sourcePhotos": [
+      "IMG_20261009_165039_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165039_1.jpg",
+    "priceCUP": 4000,
+    "correction": null,
+    "previousPriceStatus": null,
+    "duplicateOf": "salud-antical-spray",
+    "reason": "Misma presentación ya identificada con salud-antical-spray"
+  },
+  {
+    "sharedProductId": "ultra-deluxe-floral",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165045.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165045.jpg",
+    "priceCUP": 3400,
+    "correction": null,
+    "previousPriceStatus": null
+  },
+  {
+    "sharedProductId": "ultra-deluxe-citrus",
+    "decision": "owner-review",
+    "reason": "Precio compartido con Floral; confirmar aplicación y cifra.",
+    "sourcePhotos": [
+      "IMG_20261009_165045.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "dawn-watermelon",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165050_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165050_1.jpg",
+    "priceCUP": 21500,
+    "correction": null,
+    "previousPriceStatus": null
+  },
+  {
+    "sharedProductId": "dawn-tropical",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165050_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165050_1.jpg",
+    "priceCUP": 21500,
+    "correction": null,
+    "previousPriceStatus": null
+  },
+  {
+    "sharedProductId": "actoner-mint",
+    "decision": "owner-review",
+    "reason": "Primera cifra del cartel inferior plegada; solo se ve terminación 000.",
+    "sourcePhotos": [
+      "IMG_20261009_165106_1.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "great-value-inodoro",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165114.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165114.jpg",
+    "priceCUP": 3500,
+    "correction": null,
+    "previousPriceStatus": null
+  },
+  {
+    "sharedProductId": "homebright-bleach",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165120.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165120.jpg",
+    "priceCUP": 7000,
+    "correction": null,
+    "previousPriceStatus": null
+  },
+  {
+    "sharedProductId": "bastoncillos-pequenos",
+    "decision": "owner-review",
+    "sourcePhotos": [
+      "IMG_20261009_165123_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165123_1.jpg",
+    "priceCUP": 700,
+    "correction": null,
+    "previousPriceStatus": null,
+    "reason": "La etiqueta de 700 CUP corresponde al envase grande ya publicado. Confirmar precio del envase pequeño."
+  },
+  {
+    "sharedProductId": "basura-gato",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165148.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165148.jpg",
+    "priceCUP": 2500,
+    "correction": null,
+    "previousPriceStatus": null
+  },
+  {
+    "sharedProductId": "speed-stick-irish",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165157.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165157.jpg",
+    "priceCUP": 3500,
+    "correction": null,
+    "previousPriceStatus": null
+  },
+  {
+    "sharedProductId": "lady-speed-stick",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165157.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165157.jpg",
+    "priceCUP": 3500,
+    "correction": {
+      "name": "Lady Speed Stick Invisible Dry",
+      "description": "Desodorante en barra"
+    },
+    "previousPriceStatus": null
+  },
+  {
+    "sharedProductId": "suave-tropical",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165157.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165157.jpg",
+    "priceCUP": 3500,
+    "correction": null,
+    "previousPriceStatus": null
+  },
+  {
+    "sharedProductId": "alident-kids",
+    "decision": "owner-review",
+    "reason": "Cartel 1.500 situado delante de Astera; confirmar aplicación a Alident.",
+    "sourcePhotos": [
+      "IMG_20261009_165203.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "zuecos",
+    "decision": "owner-review",
+    "reason": "Confirmar par, modelo y tallas; varias unidades embolsadas.",
+    "sourcePhotos": [
+      "IMG_20261009_165211.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "panuelos",
+    "decision": "owner-review",
+    "reason": "Precio diferente entre tomas; confirmar tipo y cantidad.",
+    "sourcePhotos": [
+      "IMG_20261009_165219.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "magali-dermo",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165227.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165227.jpg",
+    "priceCUP": 1800,
+    "correction": null,
+    "previousPriceStatus": null
+  },
+  {
+    "sharedProductId": "magali-ambar",
+    "decision": "owner-review",
+    "reason": "Confirmar variante y precio propio.",
+    "sourcePhotos": [
+      "IMG_20261009_165227.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "magali-frutos-rojos",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165227.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165227.jpg",
+    "priceCUP": 1800,
+    "correction": null,
+    "previousPriceStatus": null
+  },
+  {
+    "sharedProductId": "multi-surface-wipes",
+    "decision": "owner-review",
+    "reason": "Sin precio propio visible; bote de 30 toallitas.",
+    "sourcePhotos": [
+      "IMG_20261009_165227.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "homebright-wipes",
+    "decision": "owner-review",
+    "reason": "Sin precio propio visible.",
+    "sourcePhotos": [
+      "IMG_20261009_165227.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "viking-active",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165236.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165236.jpg",
+    "priceCUP": 4000,
+    "correction": null,
+    "previousPriceStatus": null
+  },
+  {
+    "sharedProductId": "tango-rojo",
+    "decision": "owner-review",
+    "sourcePhotos": [
+      "IMG_20261009_165236.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165236.jpg",
+    "priceCUP": 1200,
+    "correction": null,
+    "previousPriceStatus": null,
+    "reason": "Confirmar variante roja de Tango y su precio propio; no confundir con Personal Care Shave Cream."
+  },
+  {
+    "sharedProductId": "tango-azul",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165242.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165242.jpg",
+    "priceCUP": 1200,
+    "correction": null,
+    "previousPriceStatus": null
+  },
+  {
+    "sharedProductId": "crest-scope-drops",
+    "decision": "owner-review",
+    "reason": "Etiqueta cercana a crema de afeitar; confirmar precio del blíster.",
+    "sourcePhotos": [
+      "IMG_20261009_165236.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "luv-citrus",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165247.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165247.jpg",
+    "priceCUP": 5500,
+    "correction": {
+      "name": "Crema de manos LuvFresh Citrus Blast",
+      "description": "Blíster individual"
+    },
+    "previousPriceStatus": null
+  },
+  {
+    "sharedProductId": "nevada-papaya",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165303.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165303.jpg",
+    "priceCUP": 1000,
+    "correction": null,
+    "previousPriceStatus": null
+  },
+  {
+    "sharedProductId": "esponjas",
+    "decision": "owner-review",
+    "reason": "Presentación parcialmente oculta; confirmar precio y unidades.",
+    "sourcePhotos": [
+      "IMG_20261009_165303.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "rollos-hogar",
+    "decision": "owner-review",
+    "reason": "Confirmar tipo de producto y medidas.",
+    "sourcePhotos": [
+      "IMG_20261009_165309.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "acolchado-beige",
+    "decision": "owner-review",
+    "reason": "Confirmar tipo de producto y medidas.",
+    "sourcePhotos": [
+      "IMG_20261009_165313.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "sandalias",
+    "decision": "owner-review",
+    "reason": "Etiqueta y unidad ambiguas; confirmar precio, modelo y tallas.",
+    "sourcePhotos": [
+      "IMG_20261009_165321.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "goraw-sunflower",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165328.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165328.jpg",
+    "priceCUP": 250,
+    "correction": null,
+    "previousPriceStatus": null
+  },
+  {
+    "sharedProductId": "goraw-pumpkin",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165328.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165328.jpg",
+    "priceCUP": 250,
+    "correction": null,
+    "previousPriceStatus": null
+  },
+  {
+    "sharedProductId": "aldi-sharks",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165333.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165333.jpg",
+    "priceCUP": 3500,
+    "correction": null,
+    "previousPriceStatus": null
+  },
+  {
+    "sharedProductId": "sour-punch-verde",
+    "decision": "owner-review",
+    "reason": "Variante parcialmente oculta y sin precio propio.",
+    "sourcePhotos": [
+      "IMG_20261009_165333.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "sonic-pudding",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165341.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165341.jpg",
+    "priceCUP": 3500,
+    "correction": null,
+    "previousPriceStatus": null
+  },
+  {
+    "sharedProductId": "boom-uva",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165345.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165345.jpg",
+    "priceCUP": 1550,
+    "correction": null,
+    "previousPriceStatus": null
+  },
+  {
+    "sharedProductId": "macrofood-naranja",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165347.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165347.jpg",
+    "priceCUP": 1280,
+    "correction": null,
+    "previousPriceStatus": null
+  },
+  {
+    "sharedProductId": "oli-uva",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165353.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165353.jpg",
+    "priceCUP": 530,
+    "correction": null,
+    "previousPriceStatus": null
+  },
+  {
+    "sharedProductId": "oli-lemon",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165353.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165353.jpg",
+    "priceCUP": 530,
+    "correction": null,
+    "previousPriceStatus": null
+  },
+  {
+    "sharedProductId": "oli-tutti",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165353.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165353.jpg",
+    "priceCUP": 530,
+    "correction": null,
+    "previousPriceStatus": null
+  },
+  {
+    "sharedProductId": "granola-amarilla",
+    "decision": "owner-review",
+    "reason": "Envase parcialmente oculto y sin precio propio.",
+    "sourcePhotos": [
+      "IMG_20261009_165401.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "southern-dry-blue",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165407.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165407.jpg",
+    "priceCUP": 6500,
+    "correction": null,
+    "previousPriceStatus": null
+  },
+  {
+    "sharedProductId": "southern-dry-original",
+    "decision": "owner-review",
+    "reason": "Confirmar precio propio del frasco con tapa roja.",
+    "sourcePhotos": [
+      "IMG_20261009_165407.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "gv-caramel-mix",
+    "decision": "owner-review",
+    "reason": "Sin precio propio visible.",
+    "sourcePhotos": [
+      "IMG_20261009_165423.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "gv-honey-mix",
+    "decision": "owner-review",
+    "reason": "Sin precio propio visible.",
+    "sourcePhotos": [
+      "IMG_20261009_165423.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "gv-omega-mix",
+    "decision": "owner-review",
+    "reason": "Sin precio propio visible.",
+    "sourcePhotos": [
+      "IMG_20261009_165423.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "wonderful-pistachios-680",
+    "decision": "owner-review",
+    "reason": "Precio junto a otra presentación; confirmar precio de bolsa 24 oz.",
+    "sourcePhotos": [
+      "IMG_20261009_165430.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "sonatural-pesto",
+    "decision": "owner-review",
+    "reason": "Etiqueta de precio bajo Trader Joe’s; confirmar precio propio.",
+    "sourcePhotos": [
+      "IMG_20261009_165916.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "vima-rellenas",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165924.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165924.jpg",
+    "priceCUP": 13000,
+    "correction": null,
+    "previousPriceStatus": null
+  },
+  {
+    "sharedProductId": "vima-frutas",
+    "decision": "owner-review",
+    "reason": "Etiqueta bajo Fairhill; confirmar precio propio de Vima425g.",
+    "sourcePhotos": [
+      "IMG_20261009_165940.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "delcampo-garbanzos",
+    "decision": "owner-review",
+    "reason": "No hay precio propio visible; bolsa1lb.",
+    "sourcePhotos": [
+      "IMG_20261009_165959.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "arroz-torre",
+    "decision": "owner-review",
+    "reason": "Bolsa en estante inferior; confirmar presentación y precio propios.",
+    "sourcePhotos": [
+      "IMG_20261009_165956.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "italpasta-fettuccine",
+    "decision": "owner-review",
+    "reason": "Foto en mano sin precio propio; no asignar precio de Pennine ni Primo.",
+    "sourcePhotos": [
+      "IMG_20261009_165703.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "kenko-bbq-mel",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165834.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165834.jpg",
+    "priceCUP": 4200,
+    "correction": null,
+    "previousPriceStatus": null
+  },
+  {
+    "sharedProductId": "kenko-bbq-americano",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165834.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165834.jpg",
+    "priceCUP": 4200,
+    "correction": null,
+    "previousPriceStatus": null
+  },
+  {
+    "sharedProductId": "aldaketa-ketchup",
+    "decision": "owner-review",
+    "reason": "No tiene etiqueta propia visible.",
+    "sourcePhotos": [
+      "IMG_20261009_165834.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "burmans-sweetheat",
+    "decision": "owner-review",
+    "reason": "Precio2200 está debajo de Spicy Brown; no extenderlo a Sweet&Heat.",
+    "sourcePhotos": [
+      "IMG_20261009_165834.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "burmans-dill-mustard",
+    "decision": "owner-review",
+    "reason": "Etiqueta propia fuera de encuadre;1500 pertenece a Aldaketa.",
+    "sourcePhotos": [
+      "IMG_20261009_165830.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "burmans-spicy-mayo",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165851.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165851.jpg",
+    "priceCUP": 5500,
+    "correction": null,
+    "previousPriceStatus": null
+  },
+  {
+    "sharedProductId": "southern-dry-roasted",
+    "decision": "owner-review",
+    "reason": "Precio y peso pendientes",
+    "sourcePhotos": [
+      "IMG_20261009_165556.jpg",
+      "IMG_20261009_165547_1.jpg",
+      "IMG_20261009_165551_1.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "kirkland-salted-mixed",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165602.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165602.jpg",
+    "priceCUP": 28000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "kirkland-unsalted-mixed",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165602.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165602.jpg",
+    "priceCUP": 23000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "kirkland-keto-mix",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165602.jpg",
+      "IMG_20261009_165604_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165602.jpg",
+    "priceCUP": 22000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "biena-edamame",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165604_1.jpg",
+      "IMG_20261009_165602.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165604_1.jpg",
+    "priceCUP": 12800,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "pockets-almonds",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165604_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165604_1.jpg",
+    "priceCUP": 20500,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "monster-viking",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165615.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165615.jpg",
+    "priceCUP": 3000,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "monster-pacific",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165615.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165615.jpg",
+    "priceCUP": 3000,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "fattoria-guayaba",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165615.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165615.jpg",
+    "priceCUP": 660,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "cristal-botella",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165618.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165618.jpg",
+    "priceCUP": 1050,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "unlaguer-330",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165622.jpg",
+      "IMG_20261009_170138.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165622.jpg",
+    "priceCUP": 620,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "arroz-blanco-bolsa",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170014.jpg",
+      "IMG_20261009_170008.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170014.jpg",
+    "priceCUP": 1000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "trigo-bolsa-1kg",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170022.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170022.jpg",
+    "priceCUP": 2100,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "trigo-gloria",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170022.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170022.jpg",
+    "priceCUP": 1300,
+    "correction": {
+      "name": "Harina de trigo Grécia"
+    },
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "maicena-450",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170022.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170022.jpg",
+    "priceCUP": 3000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "chefscupboard-buterry",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170025.jpg",
+      "IMG_20261009_170027.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170027.jpg",
+    "priceCUP": 1800,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "cookies-bulk",
+    "decision": "owner-review",
+    "reason": "Confirmar contenido/peso de cada bolsa de galletas sin etiqueta.",
+    "sourcePhotos": [
+      "IMG_20261009_170032.jpg",
+      "IMG_20261009_170014.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "savvyfare-rice",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170038.jpg",
+      "IMG_20261009_170041.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170038.jpg",
+    "priceCUP": 2700,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "spanish-rice",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170038.jpg",
+      "IMG_20261009_170041.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170038.jpg",
+    "priceCUP": 2700,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "timeowise-rice",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170038.jpg",
+      "IMG_20261009_170041.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170038.jpg",
+    "priceCUP": 2700,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "santa-lasagna",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170038.jpg",
+      "IMG_20261009_170041.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170038.jpg",
+    "priceCUP": 800,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "marchi-salt",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170045.jpg",
+      "IMG_20261009_170038.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170045.jpg",
+    "priceCUP": 1800,
+    "correction": {
+      "name": "Sal yodada March",
+      "description": "Envase cilíndrico"
+    },
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "white-bulk",
+    "decision": "owner-review",
+    "reason": "Identificar el alimento y confirmar contenido por bolsa; el polvo blanco no se puede identificar por la foto.",
+    "sourcePhotos": [
+      "IMG_20261009_170047.jpg",
+      "IMG_20261009_170045.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "torre-pink-salt",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170051.jpg",
+      "IMG_20261009_170054.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170051.jpg",
+    "priceCUP": 1700,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "sal-fina-azul",
+    "decision": "owner-review",
+    "reason": "Marca y precio pendientes",
+    "sourcePhotos": [
+      "IMG_20261009_170054.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "taoro-guayaba",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170105_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170105_1.jpg",
+    "priceCUP": 680,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "monster-pipeline",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170108.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170108.jpg",
+    "priceCUP": 3000,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "monster-mango",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170108.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170108.jpg",
+    "priceCUP": 3000,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "monster-tropical",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170108.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170108.jpg",
+    "priceCUP": 3000,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "tropigusto-mango",
+    "decision": "owner-review",
+    "reason": "Comparar tamaños y confirmar precio vigente",
+    "sourcePhotos": [
+      "IMG_20261009_170110_1.jpg",
+      "IMG_20261009_170140.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "tropigusto-pineapple",
+    "decision": "owner-review",
+    "reason": "Confirmar tamaño y precio propio",
+    "sourcePhotos": [
+      "IMG_20261009_170110_1.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "tropigusto-banana",
+    "decision": "owner-review",
+    "reason": "Comparar tamaños y confirmar precio vigente",
+    "sourcePhotos": [
+      "IMG_20261009_170110_1.jpg",
+      "IMG_20261009_170140.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "tropigusto-peach",
+    "decision": "owner-review",
+    "reason": "Confirmar tamaño y precio propio",
+    "sourcePhotos": [
+      "IMG_20261009_170110_1.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "bahamas-juice",
+    "decision": "owner-review",
+    "reason": "Separar sabores y volumen con lectura de etiqueta",
+    "sourcePhotos": [
+      "IMG_20261009_170114.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "bali-juice",
+    "decision": "owner-review",
+    "reason": "Separar sabores y volumen con lectura de etiqueta",
+    "sourcePhotos": [
+      "IMG_20261009_170114.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "water-whitecap",
+    "decision": "owner-review",
+    "reason": "Carteles sin asociación clara; no fijar precio",
+    "sourcePhotos": [
+      "IMG_20261009_170117.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "boom-cola",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170126.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170126.jpg",
+    "priceCUP": 750,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "boom-lime",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170126.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170126.jpg",
+    "priceCUP": 750,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "sunny-tamarind",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170128.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170128.jpg",
+    "priceCUP": 900,
+    "correction": {
+      "priceCUP": 900,
+      "name": "Néctar Sunny de tamarindo"
+    },
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "water-blue",
+    "decision": "owner-review",
+    "reason": "Confirmar marca y volumen de la botella antes de distinguirla del agua de tapa blanca.",
+    "sourcePhotos": [
+      "IMG_20261009_170131.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "shani",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170152.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170152.jpg",
+    "priceCUP": 780,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "sunny-peach",
+    "decision": "owner-review",
+    "reason": "No heredar precio de tamarindo",
+    "sourcePhotos": [
+      "IMG_20261009_170157.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "members-lemonpepper",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170211.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170211.jpg",
+    "priceCUP": 14000,
+    "correction": {
+      "description": "Member’s Mark · Frasco de 878 g"
+    },
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "mccormick-montrealsteak",
+    "decision": "owner-review",
+    "reason": "La etiqueta 14000 está bajo Montreal Chicken; falta precio propio de Montreal Steak.",
+    "sourcePhotos": [
+      "IMG_20261009_170211.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "members-redpepper",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170211.jpg",
+      "IMG_20261009_170241.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170211.jpg",
+    "priceCUP": 6700,
+    "correction": {
+      "name": "Pimiento rojo triturado Wellsley Farms",
+      "description": "Crushed Red Pepper · Frasco de 383 g"
+    },
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "members-thyme",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170211.jpg",
+      "IMG_20261009_170241.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170211.jpg",
+    "priceCUP": 5500,
+    "correction": {
+      "name": "Tomillo en hojas Wellsley Farms",
+      "description": "Whole Thyme Leaves · Frasco de 181 g"
+    },
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "kitano-basil",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170211.jpg",
+      "IMG_20261009_170241.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170211.jpg",
+    "priceCUP": 4680,
+    "correction": {
+      "name": "Albahaca en hojas MasterChef",
+      "description": "Manjericão em folha · Frasco de 200 g"
+    },
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "amanhecer-turmeric",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170217.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170217.jpg",
+    "priceCUP": 1450,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "amanhecer-clove",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170217.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170217.jpg",
+    "priceCUP": 1450,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "homebrothers-bbq",
+    "decision": "owner-review",
+    "reason": "No heredar1450",
+    "sourcePhotos": [
+      "IMG_20261009_170217.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "heavenly-garlic",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170217.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170217.jpg",
+    "priceCUP": 2100,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "kingsford-lemon",
+    "decision": "owner-review",
+    "reason": "Precio propio no visible",
+    "sourcePhotos": [
+      "IMG_20261009_170217.jpg",
+      "IMG_20261009_170254.jpg",
+      "IMG_20261009_170257.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "badia-oregano",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170217.jpg",
+      "IMG_20261009_170254.jpg",
+      "IMG_20261009_170257.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170217.jpg",
+    "priceCUP": 1450,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "amanhecer-parsley",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170217.jpg",
+      "IMG_20261009_170254.jpg",
+      "IMG_20261009_170257.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170217.jpg",
+    "priceCUP": 1450,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "carmencita-marisco",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170217.jpg",
+      "IMG_20261009_170254.jpg",
+      "IMG_20261009_170257.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170217.jpg",
+    "priceCUP": 3100,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "carmencita-bbq",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170217.jpg",
+      "IMG_20261009_170254.jpg",
+      "IMG_20261009_170257.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170217.jpg",
+    "priceCUP": 3100,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "carmencita-picante",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170217.jpg",
+      "IMG_20261009_170254.jpg",
+      "IMG_20261009_170257.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170217.jpg",
+    "priceCUP": 3100,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "carmencita-pollo",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170217.jpg",
+      "IMG_20261009_170254.jpg",
+      "IMG_20261009_170257.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170217.jpg",
+    "priceCUP": 3100,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "tomate-triturado",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170222_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170222_1.jpg",
+    "priceCUP": 4500,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "ragu-garlic",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170232.jpg",
+      "IMG_20261009_170234.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170232.jpg",
+    "priceCUP": 6500,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "mantias-parmesan",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170232.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170232.jpg",
+    "priceCUP": 4900,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "gv-cheddar-wow",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170232.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170232.jpg",
+    "priceCUP": 3000,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "gv-american-wow",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170232.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170232.jpg",
+    "priceCUP": 3000,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "gv-extrasharp-wow",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170232.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170232.jpg",
+    "priceCUP": 3000,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "offley-white",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170954_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170954_1.jpg",
+    "priceCUP": 6000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "gatonegro-white",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171001_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171001_1.jpg",
+    "priceCUP": 4000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "havana-ritual",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171010.jpg",
+      "IMG_20261009_171013.jpg",
+      "IMG_20261009_171400.jpg",
+      "IMG_20261009_171356.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171010.jpg",
+    "priceCUP": 5800,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "havana-especial",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171010.jpg",
+      "IMG_20261009_171013.jpg",
+      "IMG_20261009_171405.jpg",
+      "IMG_20261009_171356.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171010.jpg",
+    "priceCUP": 5900,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "suau-15",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171010.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171010.jpg",
+    "priceCUP": 15000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "suau-8",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171010.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171010.jpg",
+    "priceCUP": 8000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "havana-reserva",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171016.jpg",
+      "IMG_20261009_171405.jpg",
+      "IMG_20261009_171356.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171016.jpg",
+    "priceCUP": 8500,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "planta-santa",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171027.jpg",
+      "IMG_20261009_171321.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171027.jpg",
+    "priceCUP": 13000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "gordons",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171027.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171027.jpg",
+    "priceCUP": 9000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "jodhpur-reserve",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171027.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171027.jpg",
+    "priceCUP": 9000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "jodhpur-mandore",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171027.jpg",
+      "IMG_20261009_171341.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171027.jpg",
+    "priceCUP": 9000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "jodhpur-spicy",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171027.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171027.jpg",
+    "priceCUP": 9000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "santacarolina-rose",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171031.jpg",
+      "IMG_20261009_171034.jpg",
+      "IMG_20261009_171036.jpg",
+      "IMG_20261009_171435.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171031.jpg",
+    "priceCUP": 5000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "santacarolina-sauvignon",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171031.jpg",
+      "IMG_20261009_171034.jpg",
+      "IMG_20261009_171435.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171031.jpg",
+    "priceCUP": 5000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "celeste-verdejo",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171031.jpg",
+      "IMG_20261009_171034.jpg",
+      "IMG_20261009_171435.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171031.jpg",
+    "priceCUP": 3500,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "vinasol",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171031.jpg",
+      "IMG_20261009_171432.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171031.jpg",
+    "priceCUP": 3500,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "vina-esmeralda",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171031.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171031.jpg",
+    "priceCUP": 4000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "sangretoro-red",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171034.jpg",
+      "IMG_20261009_171036.jpg",
+      "IMG_20261009_171427.jpg",
+      "IMG_20261009_171432.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171034.jpg",
+    "priceCUP": 5000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "sangretoro-white",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171034.jpg",
+      "IMG_20261009_171036.jpg",
+      "IMG_20261009_171432.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171034.jpg",
+    "priceCUP": 5000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "sangretoro-rose",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171036.jpg",
+      "IMG_20261009_171427.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171036.jpg",
+    "priceCUP": 5000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "nestia-plantain",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171154_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171154_1.jpg",
+    "priceCUP": 9100,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "wapa-chorizo",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171202_1.jpg",
+      "IMG_20261009_171215.jpg",
+      "IMG_20261009_171605_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171202_1.jpg",
+    "priceCUP": 5300,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "wapa-butifarra",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171202_1.jpg",
+      "IMG_20261009_171605_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171202_1.jpg",
+    "priceCUP": 5540,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "morcilla",
+    "decision": "owner-review",
+    "reason": "Marca peso y precio pendientes",
+    "sourcePhotos": [
+      "IMG_20261009_171207.jpg",
+      "IMG_20261009_171212.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "bratwurst-cerdo",
+    "decision": "owner-review",
+    "reason": "Marca peso y precio pendientes",
+    "sourcePhotos": [
+      "IMG_20261009_171207.jpg",
+      "IMG_20261009_171212.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "bolitas-queso",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171218_1.jpg",
+      "IMG_20261009_171225.jpg",
+      "IMG_20261009_171202_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171218_1.jpg",
+    "priceCUP": 4420,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "raviolis",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171218_1.jpg",
+      "IMG_20261009_171225.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171218_1.jpg",
+    "priceCUP": 4080,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "hamburguesas-cerdo",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171221.jpg",
+      "IMG_20261009_171228.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171221.jpg",
+    "priceCUP": 3568,
+    "correction": {
+      "name": "Hamburguesas de cerdo Productos del Bodegón",
+      "description": "Bandeja"
+    },
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "albondigas-cerdo",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171221.jpg",
+      "IMG_20261009_171228.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171221.jpg",
+    "priceCUP": 4960,
+    "correction": {
+      "name": "Albóndigas de cerdo Productos del Bodegón",
+      "description": "Bandeja"
+    },
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "bravo-mortadela",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171247.jpg",
+      "IMG_20261009_171605_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171247.jpg",
+    "priceCUP": 5060,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "bravo-jamon-york",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171605_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171605_1.jpg",
+    "priceCUP": 7015,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "bravo-jamon-barra",
+    "decision": "owner-review",
+    "reason": "Confirmar si 16370 CUP corresponde a la pieza entera o a una unidad de peso.",
+    "sourcePhotos": [
+      "IMG_20261009_171251_1.jpg",
+      "IMG_20261009_171614_1.jpg",
+      "IMG_20261009_171608_1.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "bravo-jamon-cocido",
+    "decision": "owner-review",
+    "reason": "Confirmar si 17300 CUP corresponde a la pieza entera o a una unidad de peso.",
+    "sourcePhotos": [
+      "IMG_20261009_171251_1.jpg",
+      "IMG_20261009_171612.jpg",
+      "IMG_20261009_171616_1.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "queso-iberico",
+    "decision": "owner-review",
+    "reason": "Peso y unidad de venta pendientes; no asumir por kg",
+    "sourcePhotos": [
+      "IMG_20261009_171258.jpg",
+      "IMG_20261009_171304.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "bravo-pasta-boca",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171304.jpg",
+      "IMG_20261009_171605_1.jpg",
+      "IMG_20261009_171616_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171304.jpg",
+    "priceCUP": 1720,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "renypicot-mantequilla",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171306.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171306.jpg",
+    "priceCUP": 2880,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "president-camembert",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171308_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171308_1.jpg",
+    "priceCUP": 4560,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "president-brie",
+    "decision": "owner-review",
+    "reason": "Cartel parcialmente tapado",
+    "sourcePhotos": [
+      "IMG_20261009_171308_1.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "pacto-navio",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171321.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171321.jpg",
+    "priceCUP": 20000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "carafiestas",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171323_1.jpg",
+      "IMG_20261009_171321.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171323_1.jpg",
+    "priceCUP": 8000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "altos-reposado",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171327.jpg",
+      "IMG_20261009_171323_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171327.jpg",
+    "priceCUP": 13140,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "olmeca-reposado",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171327.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171327.jpg",
+    "priceCUP": 14180,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "jw-doubleblack",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171328_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171328_1.jpg",
+    "priceCUP": 34520,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "glenlivet-founders",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171328_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171328_1.jpg",
+    "priceCUP": 20850,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "jw-redlabel",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171331_1.jpg",
+      "IMG_20261009_171328_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171331_1.jpg",
+    "priceCUP": 16000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "jw-bluelabel",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171331_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171331_1.jpg",
+    "priceCUP": 280000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "jameson",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171335.jpg",
+      "IMG_20261009_171331_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171335.jpg",
+    "priceCUP": 15900,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "ballantines",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171335.jpg",
+      "IMG_20261009_171331_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171335.jpg",
+    "priceCUP": 5270,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "armageddon",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171339.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171339.jpg",
+    "priceCUP": 7600,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "absolut",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171339.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171339.jpg",
+    "priceCUP": 16020,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "ciroc",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171339.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171339.jpg",
+    "priceCUP": 24600,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "jodhpur-londondry",
+    "decision": "duplicate",
+    "sourcePhotos": [
+      "IMG_20261009_171341.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171341.jpg",
+    "priceCUP": 9000,
+    "correction": null,
+    "previousPriceStatus": "direct",
+    "duplicateOf": "jodhpur-reserve",
+    "reason": "Misma presentación ya identificada con jodhpur-reserve"
+  },
+  {
+    "sharedProductId": "beefeater",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171341.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171341.jpg",
+    "priceCUP": 7400,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "tanqueray",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171345.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171345.jpg",
+    "priceCUP": 9900,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "santiago-11",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171345.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171345.jpg",
+    "priceCUP": 19400,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "santiago-12",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171345.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171345.jpg",
+    "priceCUP": 22500,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "santiago-8",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171348.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171348.jpg",
+    "priceCUP": 10400,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "santiago-blanca",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171348.jpg",
+      "IMG_20261009_171351.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171348.jpg",
+    "priceCUP": 6200,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "santiago-anejo",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171351.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171351.jpg",
+    "priceCUP": 10600,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "santiago-oscura",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171351.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171351.jpg",
+    "priceCUP": 9200,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "havana-profundo",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171405.jpg",
+      "IMG_20261009_171408.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171405.jpg",
+    "priceCUP": 5600,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "havana-maestros",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171408.jpg",
+      "IMG_20261009_171405.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171408.jpg",
+    "priceCUP": 10200,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "havana-spiced",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171408.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171408.jpg",
+    "priceCUP": 8670,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "havana-7",
+    "decision": "owner-review",
+    "reason": "Leer volúmenes y asociar precio; una fila provisional de familia no dosSKU confirmados",
+    "sourcePhotos": [
+      "IMG_20261009_171408.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "molinari",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171438.jpg",
+      "IMG_20261009_171417.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171438.jpg",
+    "priceCUP": 11500,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "legendario",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171417.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171417.jpg",
+    "priceCUP": 5700,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "havana-3",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171420.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171420.jpg",
+    "priceCUP": 7140,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "jagermeister-1l",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171423.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171423.jpg",
+    "priceCUP": 10900,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "sangretoro-special",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171427.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171427.jpg",
+    "priceCUP": 9000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "res-molida",
+    "decision": "owner-review",
+    "reason": "0,40kg3010CUP y0,31kg2330CUP; guardar precios por bandeja no fijar precioSKU ni inferir tarifa porkg",
+    "sourcePhotos": [
+      "IMG_20261009_171446.jpg",
+      "IMG_20261009_171457.jpg",
+      "IMG_20261009_171500.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "bacon-slices",
+    "decision": "owner-review",
+    "reason": "Precios individuales observados:0,25kg4840;0,26kg5030;0,19kg3680;0,24kg4650;0,22kg4260. No fijar precio SKU ni inferir tarifa por kg",
+    "sourcePhotos": [
+      "IMG_20261009_171447_1.jpg",
+      "IMG_20261009_171506.jpg",
+      "IMG_20261009_171512.jpg",
+      "IMG_20261009_171517.jpg",
+      "IMG_20261009_171521.jpg",
+      "IMG_20261009_171529.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "roncari-blue",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171545_1.jpg",
+      "IMG_20261009_171556_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171545_1.jpg",
+    "priceCUP": 2980,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "valle-curado",
+    "decision": "owner-review",
+    "reason": "Precio por presentación pendiente; no heredar de queso azul",
+    "sourcePhotos": [
+      "IMG_20261009_171545_1.jpg",
+      "IMG_20261009_171556_1.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "ribera-semicurado",
+    "decision": "owner-review",
+    "reason": "Marca lectura Ribera; precio/peso propios pendientes",
+    "sourcePhotos": [
+      "IMG_20261009_171545_1.jpg",
+      "IMG_20261009_171556_1.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "valle-trufa",
+    "decision": "owner-review",
+    "reason": "Vincular cada porción con marca y peso antes de precio",
+    "sourcePhotos": [
+      "IMG_20261009_171549.jpg",
+      "IMG_20261009_171556_1.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "queso-azul-porcion",
+    "decision": "owner-review",
+    "reason": "Marca no confirmada;0,24kg4620 y0,35kg6740 visibles; no asumir Roncari100g",
+    "sourcePhotos": [
+      "IMG_20261009_171545_1.jpg",
+      "IMG_20261009_171549.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "queso-vacio-generico",
+    "decision": "owner-review",
+    "reason": "3740 visible en varias; confirmar peso y marca; no precio porkg",
+    "sourcePhotos": [
+      "IMG_20261009_171552.jpg",
+      "IMG_20261009_171549.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "hollandmar-mozzarella",
+    "decision": "owner-review",
+    "reason": "Precio peso y lectura de marca pendientes",
+    "sourcePhotos": [
+      "IMG_20261009_171601_1.jpg",
+      "IMG_20261009_171605_1.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "cello-variety",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171605_1.jpg",
+      "IMG_20261009_171601_1.jpg",
+      "IMG_20261009_171608_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171605_1.jpg",
+    "priceCUP": 17000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "pate-bandeja",
+    "decision": "owner-review",
+    "reason": "Identificar el contenido de la bandeja; no hay etiqueta que confirme que sea paté.",
+    "sourcePhotos": [
+      "IMG_20261009_171605_1.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "fiambre-lonchas",
+    "decision": "owner-review",
+    "reason": "Identidad pendiente; no confundir con resmolida/bacon",
+    "sourcePhotos": [
+      "IMG_20261009_171605_1.jpg",
+      "IMG_20261009_171608_1.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "bravo-salami",
+    "decision": "owner-review",
+    "reason": "Peso y precio propios pendientes",
+    "sourcePhotos": [
+      "IMG_20261009_171612.jpg",
+      "IMG_20261009_171614_1.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "bravo-bacon-bloque",
+    "decision": "owner-review",
+    "reason": "Peso y precio propios pendientes",
+    "sourcePhotos": [
+      "IMG_20261009_171612.jpg",
+      "IMG_20261009_171614_1.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "eltoro-mortadela",
+    "decision": "owner-review",
+    "reason": "Precio y peso fueraencuadre",
+    "sourcePhotos": [
+      "IMG_20261009_171616_1.jpg",
+      "IMG_20261009_171608_1.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "roinat-puppy",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171627.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171627.jpg",
+    "priceCUP": 30940,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "jagermeister-700",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_171423.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_171423.jpg",
+    "priceCUP": 10900,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "frico-gouda",
+    "decision": "owner-review",
+    "reason": "Peso y precio propios pendientes",
+    "sourcePhotos": [
+      "IMG_20261009_171304.jpg",
+      "IMG_20261009_171306.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "downy-fresh-perlas",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165030_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165030_1.jpg",
+    "priceCUP": 9400,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "downy-lush-perlas",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165030_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165030_1.jpg",
+    "priceCUP": 9400,
+    "correction": null,
+    "previousPriceStatus": "missing"
+  },
+  {
+    "sharedProductId": "wonderful-roasted-227",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165441.jpg",
+      "IMG_20261009_165436.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165441.jpg",
+    "priceCUP": 9000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "wonderful-chocolate",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165446.jpg",
+      "IMG_20261009_165441.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165446.jpg",
+    "priceCUP": 6500,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "southern-pistachios-unsalted",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165446.jpg",
+      "IMG_20261009_165441.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165446.jpg",
+    "priceCUP": 8500,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "southern-pistachios-shelled",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165450.jpg",
+      "IMG_20261009_165446.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165450.jpg",
+    "priceCUP": 6000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "gv-bacon-bits",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165450.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165450.jpg",
+    "priceCUP": 4700,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "hormel-bacon",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165450.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165450.jpg",
+    "priceCUP": 4200,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "kirkland-trail-28",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165450.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165450.jpg",
+    "priceCUP": 33600,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "simply-coconut-oil",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165457.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165457.jpg",
+    "priceCUP": 9500,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "natures-coconut-oil",
+    "decision": "owner-review",
+    "reason": "Cartel compartido; confirmar precio y volumen propios",
+    "sourcePhotos": [
+      "IMG_20261009_165457.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "tuscan-caesar",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165457.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165457.jpg",
+    "priceCUP": 4000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "tuscan-italian",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165457.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165457.jpg",
+    "priceCUP": 4000,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "flakes-bulk",
+    "decision": "owner-review",
+    "reason": "Identificar si es avena u otro cereal; no heredar1400",
+    "sourcePhotos": [
+      "IMG_20261009_165501.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "simply-quinoa",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165507.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165507.jpg",
+    "priceCUP": 7600,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "simply-flax",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165507.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165507.jpg",
+    "priceCUP": 5500,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "organic-coconut-flour",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165507.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165507.jpg",
+    "priceCUP": 3500,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "southern-mixed-salt",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165512.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165512.jpg",
+    "priceCUP": 20500,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "southern-mixed-unsalt",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165512.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165512.jpg",
+    "priceCUP": 20500,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "southern-almonds",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165512.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165512.jpg",
+    "priceCUP": 10000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "southern-pumpkin",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165512.jpg",
+      "IMG_20261009_165516.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165512.jpg",
+    "priceCUP": 5000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "southern-cashews-salt",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165516.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165516.jpg",
+    "priceCUP": 8400,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "southern-cashews-unsalt",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165516.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165516.jpg",
+    "priceCUP": 8400,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "kirkland-almonds",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165516.jpg",
+      "IMG_20261009_165521.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165516.jpg",
+    "priceCUP": 22800,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "jojos-almond",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165521.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165521.jpg",
+    "priceCUP": 13000,
+    "correction": {
+      "name": "Chocolate JOJO’s con pistacho, almendra y arándano",
+      "description": "Bolsa"
+    },
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "crispy-jalapeno",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165521.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165521.jpg",
+    "priceCUP": 5800,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "thatsit-blueberry",
+    "decision": "owner-review",
+    "reason": "Peso y precio propios pendientes",
+    "sourcePhotos": [
+      "IMG_20261009_165521.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "millville-oats-honey",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165526.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165526.jpg",
+    "priceCUP": 6000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "millville-darkchocolate",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165526.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165526.jpg",
+    "priceCUP": 6000,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "millville-cranberry",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165526.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165526.jpg",
+    "priceCUP": 6000,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "trader-passion",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165530.jpg",
+      "IMG_20261009_165536.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165530.jpg",
+    "priceCUP": 8500,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "trader-vanilla",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165530.jpg",
+      "IMG_20261009_165536.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165530.jpg",
+    "priceCUP": 8000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "trader-maple",
+    "decision": "owner-review",
+    "reason": "Sin cartel propio; no heredar8500 o8000",
+    "sourcePhotos": [
+      "IMG_20261009_165530.jpg",
+      "IMG_20261009_165536.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "trader-salted-honey",
+    "decision": "owner-review",
+    "reason": "Precio propio pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_165530.jpg",
+      "IMG_20261009_165536.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "gv-protein-granola",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165530.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165530.jpg",
+    "priceCUP": 5800,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "members-honey-granola",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165536.jpg",
+      "IMG_20261009_165541.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165536.jpg",
+    "priceCUP": 15000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "purely-vanilla-granola",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_165536.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_165536.jpg",
+    "priceCUP": 6500,
+    "correction": null,
+    "previousPriceStatus": "missing"
+  },
+  {
+    "sharedProductId": "maggi-sazon",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170237.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170237.jpg",
+    "priceCUP": 2150,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "carmencita-salrosa",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170237.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170237.jpg",
+    "priceCUP": 11000,
+    "correction": {
+      "name": "Sal rosada en molinillo",
+      "description": "Molinillo grande"
+    },
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "carmencita-sal3",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170237.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170237.jpg",
+    "priceCUP": 11000,
+    "correction": {
+      "name": "Sal y tres pimientas en molinillo",
+      "description": "Molinillo grande"
+    },
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "carmencita-pimienta",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170237.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170237.jpg",
+    "priceCUP": 11000,
+    "correction": {
+      "name": "Pimienta negra en molinillo",
+      "description": "Molinillo grande"
+    },
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "carmencita-pimientas",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170237.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170237.jpg",
+    "priceCUP": 11000,
+    "correction": {
+      "name": "Mezcla de pimientas en molinillo",
+      "description": "Molinillo grande"
+    },
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "worcestershire-leaperrins",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170250.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170250.jpg",
+    "priceCUP": 12800,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "kens-ranch",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170250.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170250.jpg",
+    "priceCUP": 5500,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "hot-sauce",
+    "decision": "owner-review",
+    "reason": "Marca variante volumen y precio propios pendientes",
+    "sourcePhotos": [
+      "IMG_20261009_170250.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "italian-dressing",
+    "decision": "owner-review",
+    "reason": "Confirmar identidad del aderezo de botella blanca y asociación con el precio 9000.",
+    "sourcePhotos": [
+      "IMG_20261009_170250.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "lime-juice",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170250.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170250.jpg",
+    "priceCUP": 2200,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "spray-oil",
+    "decision": "owner-review",
+    "reason": "Separar marcas variedades y precio propio",
+    "sourcePhotos": [
+      "IMG_20261009_170250.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "carmencita-molinillo-pimienta",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170254.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170254.jpg",
+    "priceCUP": 3100,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "varveio-balsamico",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170303_1.jpg",
+      "IMG_20261009_170306_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170303_1.jpg",
+    "priceCUP": 3500,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "varveio-manzana",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170303_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170303_1.jpg",
+    "priceCUP": 3500,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "vima-vino-vinagre",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170303_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170303_1.jpg",
+    "priceCUP": 2000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "milideas-vinagre",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170303_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170303_1.jpg",
+    "priceCUP": 1300,
+    "correction": {
+      "priceCUP": 1300
+    },
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "varveio-condimento",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170306_1.jpg",
+      "IMG_20261009_170308_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170306_1.jpg",
+    "priceCUP": 3300,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "gourmet-vinagre",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170306_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170306_1.jpg",
+    "priceCUP": 1100,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "vinagre-blanco",
+    "decision": "owner-review",
+    "reason": "Confirmar que la botella transparente corresponda a vinagre blanco y su presentación.",
+    "sourcePhotos": [
+      "IMG_20261009_170308_1.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "hersheys-syrup",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170311_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170311_1.jpg",
+    "priceCUP": 13000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "millville-butter-syrup",
+    "decision": "owner-review",
+    "reason": "Cartel de grupo; confirmar precio propio",
+    "sourcePhotos": [
+      "IMG_20261009_170314.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "millville-lite-syrup",
+    "decision": "owner-review",
+    "reason": "Cartel de grupo; confirmar precio propio",
+    "sourcePhotos": [
+      "IMG_20261009_170314.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "fresco-maple",
+    "decision": "owner-review",
+    "reason": "Cartel compartido; confirmar marca peso precio",
+    "sourcePhotos": [
+      "IMG_20261009_170314.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "vanilla-bottle",
+    "decision": "owner-review",
+    "reason": "Marca presentación y precio propios pendientes",
+    "sourcePhotos": [
+      "IMG_20261009_170314.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "sirape-bottle",
+    "decision": "owner-review",
+    "reason": "Marca sabor y precio propios pendientes",
+    "sourcePhotos": [
+      "IMG_20261009_170314.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "welchs-grape",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170314.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170314.jpg",
+    "priceCUP": 6000,
+    "correction": {
+      "priceCUP": 6000,
+      "name": "Mermelada de uva Welch’s",
+      "description": "Grape · Frasco"
+    },
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "helios-manzana",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170320_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170320_1.jpg",
+    "priceCUP": 3900,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "helios-ciruela-kiwi",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170320_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170320_1.jpg",
+    "priceCUP": 3900,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "helios-fresa-arandano",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170320_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170320_1.jpg",
+    "priceCUP": 3900,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "mermelada-amarilla",
+    "decision": "owner-review",
+    "reason": "Confirmar marca y sabor de la mermelada del frasco amarillo.",
+    "sourcePhotos": [
+      "IMG_20261009_170320_1.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "caramel-syrup",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170320_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170320_1.jpg",
+    "priceCUP": 2400,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "pampa-fruit-spread",
+    "decision": "owner-review",
+    "reason": "Separar fresa y uva y confirmar precio por sabor",
+    "sourcePhotos": [
+      "IMG_20261009_170320_1.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "cafe-frasco",
+    "decision": "owner-review",
+    "reason": "Separar marca y tamaño; no confirmar todos con5700",
+    "sourcePhotos": [
+      "IMG_20261009_170330.jpg",
+      "IMG_20261009_170333.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "nescafe-small",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170330.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170330.jpg",
+    "priceCUP": 5500,
+    "correction": {
+      "priceCUP": 5500
+    },
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "nescafe-tasters",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170330.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170330.jpg",
+    "priceCUP": 26000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "nescafe-clasico",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170330.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170330.jpg",
+    "priceCUP": 27500,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "coffeemate-frascos",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170333.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170333.jpg",
+    "priceCUP": 5800,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "coffee-mate-bolsa",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170336.jpg",
+      "IMG_20261009_170333.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170336.jpg",
+    "priceCUP": 2200,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "splenda-small",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170333.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170333.jpg",
+    "priceCUP": 4300,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "coffee-sebraz-250",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170341.jpg",
+      "IMG_20261009_170336.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170341.jpg",
+    "priceCUP": 2500,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "coffee-sebraz-other",
+    "decision": "owner-review",
+    "reason": "Determinar peso; no duplicar2500 sin confirmar formato",
+    "sourcePhotos": [
+      "IMG_20261009_170336.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "coffee-mcdaniels",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170336.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170336.jpg",
+    "priceCUP": 4900,
+    "correction": {
+      "name": "Café McDaniel’s Espresso",
+      "description": "Bolsa individual"
+    },
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "coffee-whitener",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170336.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170336.jpg",
+    "priceCUP": 3000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "coffee-dark-bag",
+    "decision": "owner-review",
+    "reason": "Confirmar marca y presentación del café en bolsa oscura.",
+    "sourcePhotos": [
+      "IMG_20261009_170341.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "nesquik-choco-tin",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170346_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170346_1.jpg",
+    "priceCUP": 18000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "nesquik-straw-tin",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170346_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170346_1.jpg",
+    "priceCUP": 16500,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "colacao-original",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170351.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170351.jpg",
+    "priceCUP": 10200,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "colacao-turbo",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170351.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170351.jpg",
+    "priceCUP": 6500,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "nesquik-choco-bag",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170351.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170351.jpg",
+    "priceCUP": 5500,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "chocolisto-choco",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170358.jpg",
+      "IMG_20261009_170402.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170358.jpg",
+    "priceCUP": 4800,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "chocolisto-straw",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170358.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170358.jpg",
+    "priceCUP": 3000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "cacao-black",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170358.jpg",
+      "IMG_20261009_170402.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170358.jpg",
+    "priceCUP": 3000,
+    "correction": {
+      "name": "Cacao amargo en polvo Macro Food",
+      "description": "Bolsa de 250 g"
+    },
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "cacao-brown",
+    "decision": "duplicate",
+    "duplicateOf": "cacao-black",
+    "sourcePhotos": [
+      "IMG_20261009_170402.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "te-limon",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170404.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170404.jpg",
+    "priceCUP": 2000,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "te-manzanilla",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170404.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170404.jpg",
+    "priceCUP": 2000,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "te-hierbabuena",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170404.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170404.jpg",
+    "priceCUP": 2000,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "te-manzanilla-jengibre",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170406_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170406_1.jpg",
+    "priceCUP": 900,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "te-manzanilla-arandano",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170406_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170406_1.jpg",
+    "priceCUP": 900,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "vima-albondigas-lata",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170410_1.jpg",
+      "IMG_20261009_170406_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170410_1.jpg",
+    "priceCUP": 1460,
+    "correction": {
+      "priceCUP": 1460
+    },
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "plumrose-lata",
+    "decision": "owner-review",
+    "reason": "Identificar el alimento dentro de la lata amarilla, no solo su marca.",
+    "sourcePhotos": [
+      "IMG_20261009_170410_1.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "novo-lata",
+    "decision": "owner-review",
+    "reason": "Identificar el alimento dentro de la lata azul, no solo su marca.",
+    "sourcePhotos": [
+      "IMG_20261009_170410_1.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "peanut-cookies-18",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170417.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170417.jpg",
+    "priceCUP": 2500,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "trasto-rollos",
+    "decision": "owner-review",
+    "reason": "Variante y precio propios pendientes",
+    "sourcePhotos": [
+      "IMG_20261009_170417.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "candy-green-bottle",
+    "decision": "owner-review",
+    "reason": "Marca denominación y precio propios pendientes",
+    "sourcePhotos": [
+      "IMG_20261009_170417.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "britannia-biscafe",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170421.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170421.jpg",
+    "priceCUP": 2300,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "gourmet-double",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170428_1.jpg",
+      "IMG_20261009_170421.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170428_1.jpg",
+    "priceCUP": 100,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "supremos-packet",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170440_1.jpg",
+      "IMG_20261009_170501.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170440_1.jpg",
+    "priceCUP": 300,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "ricoss-280",
+    "decision": "owner-review",
+    "reason": "Separar sabores y confirmar precio propio",
+    "sourcePhotos": [
+      "IMG_20261009_170440_1.jpg",
+      "IMG_20261009_170501.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "fruit-straw-45",
+    "decision": "owner-review",
+    "reason": "Marca y unidad de venta pendientes; puedeprecio por tira",
+    "sourcePhotos": [
+      "IMG_20261009_170447_1.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "trident-1350",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170504.jpg",
+      "IMG_20261009_170501.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170504.jpg",
+    "priceCUP": 1350,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "extra-gum",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170501.jpg",
+      "IMG_20261009_170504.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170501.jpg",
+    "priceCUP": 3500,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "five-gum",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170501.jpg",
+      "IMG_20261009_170504.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170501.jpg",
+    "priceCUP": 3500,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "bauducco-wafer-choco",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170518.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170518.jpg",
+    "priceCUP": 1500,
+    "correction": null,
+    "previousPriceStatus": "ambiguous"
+  },
+  {
+    "sharedProductId": "berry-croco",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170540.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170540.jpg",
+    "priceCUP": 3400,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "morgin-coconut",
+    "decision": "owner-review",
+    "reason": "Confirmar cifra y denominación exacta",
+    "sourcePhotos": [
+      "IMG_20261009_170540.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "quaker-fruitcream",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170540.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170540.jpg",
+    "priceCUP": 19000,
+    "correction": null,
+    "previousPriceStatus": "ambiguous"
+  },
+  {
+    "sharedProductId": "kitkat-minis",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170543_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170543_1.jpg",
+    "priceCUP": 19500,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "cocoa-pebbles-cup",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170543_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170543_1.jpg",
+    "priceCUP": 1800,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "honeybunches-cup",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170543_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170543_1.jpg",
+    "priceCUP": 1800,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "frostedflakes-cup",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170543_1.jpg",
+      "IMG_20261009_170548.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170543_1.jpg",
+    "priceCUP": 1800,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "cheerios-cup",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170548.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170548.jpg",
+    "priceCUP": 1800,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "ricekrispies-mini",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170548.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170548.jpg",
+    "priceCUP": 200,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "pops-mini",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170548.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170548.jpg",
+    "priceCUP": 200,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "miniwheats-mini",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170548.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170548.jpg",
+    "priceCUP": 200,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "carrs-assortment",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170550.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170550.jpg",
+    "priceCUP": 22500,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "nerds-clusters",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170554.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170554.jpg",
+    "priceCUP": 19000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "toblerone",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170554.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170554.jpg",
+    "priceCUP": 4000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "mms-sharebag",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170556.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170556.jpg",
+    "priceCUP": 8500,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "hersheys-nuggets",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170556.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170556.jpg",
+    "priceCUP": 9500,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "reeses-bar",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170556.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170556.jpg",
+    "priceCUP": 3500,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "reeses-pieces",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170556.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170556.jpg",
+    "priceCUP": 8500,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "mms-caramel-bag",
+    "decision": "owner-review",
+    "reason": "Confirmar precio propio y peso",
+    "sourcePhotos": [
+      "IMG_20261009_170600.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "mms-honey-bag",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170600.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170600.jpg",
+    "priceCUP": 9500,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "mms-milk-jar",
+    "decision": "owner-review",
+    "reason": "Precio del grupo; peso pendiente",
+    "sourcePhotos": [
+      "IMG_20261009_170603.jpg",
+      "IMG_20261009_170600.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "mms-peanut-jar",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170603.jpg",
+      "IMG_20261009_170600.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170603.jpg",
+    "priceCUP": 29000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "bentons-mint-cookies",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170609.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170609.jpg",
+    "priceCUP": 5500,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "bentons-lemon",
+    "decision": "duplicate",
+    "sourcePhotos": [
+      "IMG_20261009_170609.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170609.jpg",
+    "priceCUP": 4200,
+    "correction": {
+      "name": "Galletas Benton’s Cookie Thins Key Lime",
+      "description": "Bolsa de 113 g"
+    },
+    "previousPriceStatus": "shared",
+    "duplicateOf": "bentons-keylime",
+    "reason": "Misma presentación ya identificada con bentons-keylime"
+  },
+  {
+    "sharedProductId": "bentons-coconut",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170614.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170614.jpg",
+    "priceCUP": 4200,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "members-cookie-thins",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170614.jpg",
+      "IMG_20261009_170618.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170614.jpg",
+    "priceCUP": 6000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "milano-double",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170618.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170618.jpg",
+    "priceCUP": 650,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "oreo-snack",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170623.jpg",
+      "IMG_20261009_170618.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170623.jpg",
+    "priceCUP": 500,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "oreo-choco-box",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170623.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170623.jpg",
+    "priceCUP": 5200,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "oreo-chocofill-box",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170623.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170623.jpg",
+    "priceCUP": 9500,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "oreo-roll",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170626.jpg",
+      "IMG_20261009_170623.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170626.jpg",
+    "priceCUP": 2500,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "lotus-biscoff",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170629.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170629.jpg",
+    "priceCUP": 4200,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "lemoncreme-cookie",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170633.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170633.jpg",
+    "priceCUP": 4800,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "vanillacreme-cookie",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170633.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170633.jpg",
+    "priceCUP": 4800,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "duplex-cookie",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170633.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170633.jpg",
+    "priceCUP": 7500,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "vanilla-sandwich",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170633.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170633.jpg",
+    "priceCUP": 7500,
+    "correction": {
+      "priceCUP": 7500,
+      "name": "Galletas Benton’s Vanilla Sandwich Crème",
+      "description": "Paquete"
+    },
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "oatmeal-cookie",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170637.jpg",
+      "IMG_20261009_170640.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170637.jpg",
+    "priceCUP": 3800,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "chocochip-cookie",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170637.jpg",
+      "IMG_20261009_170640.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170637.jpg",
+    "priceCUP": 3800,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "almond-windmill",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170637.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170637.jpg",
+    "priceCUP": 3000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "fresko-butter",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170642.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170642.jpg",
+    "priceCUP": 4000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "fresko-cappuccino",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170642.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170642.jpg",
+    "priceCUP": 4000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "fresko-coffee",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170642.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170642.jpg",
+    "priceCUP": 4000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "kitkat-16",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170645.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170645.jpg",
+    "priceCUP": 40000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "choco-variety14",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170645.jpg",
+      "IMG_20261009_170649.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170645.jpg",
+    "priceCUP": 35000,
+    "correction": {
+      "name": "Surtido de chocolates Snickers, Milky Way y M&M’s",
+      "description": "Caja de 14 piezas"
+    },
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "cadbury-bar",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170645.jpg",
+      "IMG_20261009_170649.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170645.jpg",
+    "priceCUP": 2500,
+    "correction": {
+      "name": "Chocolate Baileys Caramel",
+      "description": "Tableta"
+    },
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "simply-coconut-clusters",
+    "decision": "owner-review",
+    "reason": "Peso y precio propios pendientes",
+    "sourcePhotos": [
+      "IMG_20261009_170645.jpg",
+      "IMG_20261009_170649.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "crepel-bar",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170649.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170649.jpg",
+    "priceCUP": 900,
+    "correction": {
+      "name": "Crepes rellenas de chocolate Crepel",
+      "description": "Caja"
+    },
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "todeschini-picapau",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170653.jpg",
+      "IMG_20261009_170649.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170653.jpg",
+    "priceCUP": 560,
+    "correction": {
+      "priceCUP": 560,
+      "priceCandidatesCUP": [
+        560
+      ]
+    },
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "vima-ensaladilla",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170704_1.jpg",
+      "IMG_20261009_170715.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170704_1.jpg",
+    "priceCUP": 3200,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "vima-maiz-frozen",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170826_1.jpg",
+      "IMG_20261009_170831.jpg",
+      "IMG_20261009_170715.jpg",
+      "IMG_20261009_170834_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170831.jpg",
+    "priceCUP": 3200,
+    "correction": {
+      "priceSourcePhotos": [
+        "IMG_20261009_170831.jpg"
+      ]
+    },
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "dor-coles",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170834_1.jpg",
+      "IMG_20261009_170838.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170834_1.jpg",
+    "priceCUP": 3000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "cvale-nuggets",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170846.jpg",
+      "IMG_20261009_170848.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170848.jpg",
+    "priceCUP": 5000,
+    "correction": {
+      "priceSourcePhotos": [
+        "IMG_20261009_170848.jpg"
+      ]
+    },
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "eurofrits-papas",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170851_1.jpg",
+      "IMG_20261009_170855.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170851_1.jpg",
+    "priceCUP": 5700,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "driedapple",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170903_1.jpg",
+      "IMG_20261009_170909_1.jpg",
+      "IMG_20261009_170911_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170903_1.jpg",
+    "priceCUP": 2000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "takis-fuego",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170903_1.jpg",
+      "IMG_20261009_170909_1.jpg",
+      "IMG_20261009_170906_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170903_1.jpg",
+    "priceCUP": 1300,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "kars-mix",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170906_1.jpg",
+      "IMG_20261009_170903_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170906_1.jpg",
+    "priceCUP": 1300,
+    "correction": null,
+    "previousPriceStatus": "missing"
+  },
+  {
+    "sharedProductId": "thatsit-crunch",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170911_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170911_1.jpg",
+    "priceCUP": 750,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "juve-solo-vida",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170930.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170930.jpg",
+    "priceCUP": 21000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "gran-juve-camps",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170930.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170930.jpg",
+    "priceCUP": 21000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "vallformosa-gala-white",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170941.jpg",
+      "IMG_20261009_170943_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170941.jpg",
+    "priceCUP": 5200,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "vinaesmeralda-sparkling",
+    "decision": "owner-review",
+    "reason": "Cartel5200 adyacente; confirmar precio propio, variedad y volumen",
+    "sourcePhotos": [
+      "IMG_20261009_170941.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "misting-brut",
+    "decision": "owner-review",
+    "reason": "Dos carteles5500/6000; separar variedades y precio propio",
+    "sourcePhotos": [
+      "IMG_20261009_170941.jpg"
+    ]
+  },
+  {
+    "sharedProductId": "vallformosa-gala-rose",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170943_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170943_1.jpg",
+    "priceCUP": 6000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "vallformosa-cava-rose",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170948_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170948_1.jpg",
+    "priceCUP": 6000,
+    "correction": null,
+    "previousPriceStatus": "shared"
+  },
+  {
+    "sharedProductId": "vallformosa-cava-brut",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170948_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170948_1.jpg",
+    "priceCUP": 6000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  },
+  {
+    "sharedProductId": "vallformosa-cava-ice",
+    "decision": "publish",
+    "sourcePhotos": [
+      "IMG_20261009_170948_1.jpg"
+    ],
+    "priceSourcePhoto": "IMG_20261009_170948_1.jpg",
+    "priceCUP": 6000,
+    "correction": null,
+    "previousPriceStatus": "direct"
+  }
+]

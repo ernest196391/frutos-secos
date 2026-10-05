@@ -174,8 +174,9 @@ export default function Home(){
         {filtered.length>0?
           <div className="premiumProductGrid">{filtered.map(p=>
             <article className="premiumProductCard" key={p.id}>
-              <button className="premiumProductPhoto" onClick={()=>setDetail(p)} aria-label={"Ver "+p.n}>
+              <button className={"premiumProductPhoto"+(p.imageKind==="store-photo"?" originalStorePhoto":"")} onClick={()=>setDetail(p)} aria-label={"Ver "+p.n}>
                 <img src={p.img} alt={p.n} loading="lazy"/>
+                {p.imageKind==="store-photo"&&<small className="storePhotoLabel">Foto de tienda</small>}
               </button>
               <div className="premiumProductBody">
                 <button className="premiumProductName" onClick={()=>setDetail(p)}>{p.n}</button>
@@ -250,7 +251,7 @@ export default function Home(){
       <section className="detail" onClick={e=>e.stopPropagation()}>
         <button className="close" onClick={()=>setDetail(null)}>×</button>
         <img src={detail.img} alt={detail.n}/>
-        <div><small>{detail.c}</small><h2>{detail.n}</h2><p>{detail.d}</p><strong>{money(detail.p)}</strong><button onClick={()=>{add(detail.id);setDetail(null)}}>Añadir al carrito</button></div>
+        <div><small>{detail.c}</small><h2>{detail.n}</h2><p>{detail.d}</p>{detail.imageKind==="store-photo"&&<p>La foto muestra el producto en la tienda. El nombre y la presentación de esta ficha identifican la unidad que compras.</p>}<a href={detail.sourceImage} target="_blank" rel="noreferrer">Ver foto y etiqueta de precio</a><strong>{money(detail.p)}</strong><button onClick={()=>{add(detail.id);setDetail(null)}}>Añadir al carrito</button></div>
       </section>
     </div>}
 

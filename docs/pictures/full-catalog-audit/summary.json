@@ -1,0 +1,23 @@
+{
+  "photosRecovered": 297,
+  "archiveCount": 4,
+  "previousPublished": 183,
+  "newVerified": 294,
+  "totalPrepared": 477,
+  "remainingOwnerReview": 105,
+  "duplicatesResolved": 4,
+  "masterRecordCount": 586,
+  "categories": {
+    "Accesorios": 9,
+    "Alimentos": 222,
+    "Aseo": 84,
+    "Bebidas": 74,
+    "Charcutería": 5,
+    "Conservas": 24,
+    "Cárnicos": 3,
+    "Frutos secos": 46,
+    "Lácteos": 8,
+    "Mascotas": 2
+  },
+  "status": "prepared-not-yet-deployed"
+}
