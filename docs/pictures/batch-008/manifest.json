@@ -1,0 +1,15 @@
+{
+  "batch": "008",
+  "published": false,
+  "stage": "ready-to-publish",
+  "products": 20,
+  "approvedImages": 20,
+  "generationCalls": 21,
+  "remainingReviewRecords": 413,
+  "originalSourceBlock": null,
+  "verification": {
+    "tests": "20 passed",
+    "build": "passed",
+    "production": "pending"
+  }
+}

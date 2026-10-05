@@ -1324,28 +1324,6 @@
     "possibleExistingIds": []
   },
   {
-    "sharedProductId": "wonderful-vinegar",
-    "n": "Pistachos Wonderful Sea Salt & Vinegar",
-    "d": "Sin cáscara; bolsa311g",
-    "c": "Frutos secos",
-    "subcategory": "Pistachos",
-    "p": 18000,
-    "priceCandidatesCUP": [
-      18000
-    ],
-    "sourcePhoto": "IMG_20261009_165430.jpg",
-    "sourcePhotos": [
-      "IMG_20261009_165430.jpg",
-      "IMG_20261009_165436.jpg"
-    ],
-    "sourceImage": "/catalog-sources/IMG_20261009_165430.jpg",
-    "status": "needs-review",
-    "reason": "Crear y revisar imagen comercial",
-    "img": null,
-    "priceStatus": "direct",
-    "possibleExistingIds": []
-  },
-  {
     "sharedProductId": "sonatural-pesto",
     "n": "Pesto So Natural Basil",
     "d": null,
@@ -1425,28 +1403,6 @@
     "reason": "No hay precio propio visible; bolsa1lb.",
     "img": null,
     "priceStatus": "missing",
-    "possibleExistingIds": []
-  },
-  {
-    "sharedProductId": "arroz-alfinete",
-    "n": "Arroz blanco Alfinete",
-    "d": "Bolsa de1kg",
-    "c": "Alimentos",
-    "subcategory": "Arroz",
-    "p": 1300,
-    "priceCandidatesCUP": [
-      1300
-    ],
-    "sourcePhoto": "IMG_20261009_170008.jpg",
-    "sourcePhotos": [
-      "IMG_20261009_170008.jpg",
-      "IMG_20261009_170010.jpg"
-    ],
-    "sourceImage": null,
-    "status": "needs-review",
-    "reason": "Crear y revisar imagen comercial",
-    "img": null,
-    "priceStatus": "direct",
     "possibleExistingIds": []
   },
   {
@@ -2637,27 +2593,6 @@
     "possibleExistingIds": []
   },
   {
-    "sharedProductId": "amanhecer-whitepepper",
-    "n": "Pimienta blanca molida Amanhecer",
-    "d": "Frasco",
-    "c": "Alimentos",
-    "subcategory": "Condimentos",
-    "p": 1450,
-    "priceCandidatesCUP": [
-      1450
-    ],
-    "sourcePhoto": "IMG_20261009_170217.jpg",
-    "sourcePhotos": [
-      "IMG_20261009_170217.jpg"
-    ],
-    "sourceImage": null,
-    "status": "needs-review",
-    "reason": "Peso pendiente",
-    "img": null,
-    "priceStatus": "direct",
-    "possibleExistingIds": []
-  },
-  {
     "sharedProductId": "amanhecer-turmeric",
     "n": "Azafrán de las Indias molido Amanhecer",
     "d": "Cúrcuma; frasco",
@@ -2899,28 +2834,6 @@
     "possibleExistingIds": []
   },
   {
-    "sharedProductId": "davia-passata",
-    "n": "Davia Passata",
-    "d": "Botella de vidrio",
-    "c": "Conservas",
-    "subcategory": "Tomate",
-    "p": 2500,
-    "priceCandidatesCUP": [
-      2500
-    ],
-    "sourcePhoto": "IMG_20261009_170221.jpg",
-    "sourcePhotos": [
-      "IMG_20261009_170221.jpg",
-      "IMG_20261009_170234.jpg"
-    ],
-    "sourceImage": null,
-    "status": "needs-review",
-    "reason": "Volumen pendiente",
-    "img": null,
-    "priceStatus": "direct",
-    "possibleExistingIds": []
-  },
-  {
     "sharedProductId": "tomate-triturado",
     "n": "Tomate triturado en lata",
     "d": "Lata",
@@ -2937,71 +2850,6 @@
     "sourceImage": null,
     "status": "needs-review",
     "reason": "Marca y peso pendientes",
-    "img": null,
-    "priceStatus": "direct",
-    "possibleExistingIds": []
-  },
-  {
-    "sharedProductId": "ourhouse-tomato",
-    "n": "Pasta de tomate OurHouse",
-    "d": "Lata111oz",
-    "c": "Conservas",
-    "subcategory": "Tomate",
-    "p": 5000,
-    "priceCandidatesCUP": [
-      5000
-    ],
-    "sourcePhoto": "IMG_20261009_170225_1.jpg",
-    "sourcePhotos": [
-      "IMG_20261009_170225_1.jpg",
-      "IMG_20261009_170222_1.jpg"
-    ],
-    "sourceImage": null,
-    "status": "needs-review",
-    "reason": "Crear y revisar imagen comercial",
-    "img": null,
-    "priceStatus": "direct",
-    "possibleExistingIds": []
-  },
-  {
-    "sharedProductId": "tagliamonte-pomodoro",
-    "n": "Tomates pelados enteros Tagliamonte",
-    "d": "Lata400g",
-    "c": "Conservas",
-    "subcategory": "Tomate",
-    "p": 1650,
-    "priceCandidatesCUP": [
-      1650
-    ],
-    "sourcePhoto": "IMG_20261009_170228.jpg",
-    "sourcePhotos": [
-      "IMG_20261009_170228.jpg"
-    ],
-    "sourceImage": null,
-    "status": "needs-review",
-    "reason": "Confirmar peso escurrido240g",
-    "img": null,
-    "priceStatus": "direct",
-    "possibleExistingIds": []
-  },
-  {
-    "sharedProductId": "prego-traditional",
-    "n": "Salsa Prego Traditional",
-    "d": "Frasco",
-    "c": "Conservas",
-    "subcategory": "Salsas para pasta",
-    "p": 6000,
-    "priceCandidatesCUP": [
-      6000
-    ],
-    "sourcePhoto": "IMG_20261009_170234.jpg",
-    "sourcePhotos": [
-      "IMG_20261009_170234.jpg",
-      "IMG_20261009_170221.jpg"
-    ],
-    "sourceImage": null,
-    "status": "needs-review",
-    "reason": "Peso pendiente",
     "img": null,
     "priceStatus": "direct",
     "possibleExistingIds": []
@@ -5021,93 +4869,6 @@
     "possibleExistingIds": []
   },
   {
-    "sharedProductId": "wonderful-dill",
-    "n": "Pistachos Wonderful Dill Pickle",
-    "d": "Bolsa311g; variante dill pickle",
-    "c": "Frutos secos",
-    "subcategory": "Pistachos",
-    "p": 17000,
-    "priceCandidatesCUP": [
-      17000
-    ],
-    "sourcePhoto": "IMG_20261009_165436.jpg",
-    "sourcePhotos": [
-      "IMG_20261009_165436.jpg"
-    ],
-    "sourceImage": null,
-    "status": "needs-review",
-    "reason": "Confirmar sin cáscara desde envase completo",
-    "img": null,
-    "priceStatus": "direct",
-    "possibleExistingIds": []
-  },
-  {
-    "sharedProductId": "wonderful-lightly",
-    "n": "Pistachos Wonderful Lightly Salted",
-    "d": "Con cáscara; bolsa454g",
-    "c": "Frutos secos",
-    "subcategory": "Pistachos",
-    "p": 25500,
-    "priceCandidatesCUP": [
-      25500
-    ],
-    "sourcePhoto": "IMG_20261009_165436.jpg",
-    "sourcePhotos": [
-      "IMG_20261009_165436.jpg",
-      "IMG_20261009_165441.jpg"
-    ],
-    "sourceImage": null,
-    "status": "needs-review",
-    "reason": "No unir a Roasted & Salted sin cáscara publicado",
-    "img": null,
-    "priceStatus": "direct",
-    "possibleExistingIds": []
-  },
-  {
-    "sharedProductId": "wonderful-sweetchili",
-    "n": "Pistachos Wonderful Sweet Chili",
-    "d": "Con cáscara; bolsa396g",
-    "c": "Frutos secos",
-    "subcategory": "Pistachos",
-    "p": 25500,
-    "priceCandidatesCUP": [
-      25500
-    ],
-    "sourcePhoto": "IMG_20261009_165436.jpg",
-    "sourcePhotos": [
-      "IMG_20261009_165436.jpg",
-      "IMG_20261009_165441.jpg"
-    ],
-    "sourceImage": null,
-    "status": "needs-review",
-    "reason": "Crear y revisar imagen comercial",
-    "img": null,
-    "priceStatus": "direct",
-    "possibleExistingIds": []
-  },
-  {
-    "sharedProductId": "wonderful-pepper-shell",
-    "n": "Pistachos Wonderful Salt & Pepper",
-    "d": "Con cáscara; bolsa396g",
-    "c": "Frutos secos",
-    "subcategory": "Pistachos",
-    "p": 25500,
-    "priceCandidatesCUP": [
-      25500
-    ],
-    "sourcePhoto": "IMG_20261009_165436.jpg",
-    "sourcePhotos": [
-      "IMG_20261009_165436.jpg",
-      "IMG_20261009_165441.jpg"
-    ],
-    "sourceImage": null,
-    "status": "needs-review",
-    "reason": "Distinto de Sea Salt & Pepper sin cáscara311g publicado",
-    "img": null,
-    "priceStatus": "direct",
-    "possibleExistingIds": []
-  },
-  {
     "sharedProductId": "wonderful-roasted-227",
     "n": "Pistachos Wonderful Roasted & Salted",
     "d": "Con cáscara; bolsa227g",
@@ -5552,27 +5313,6 @@
     "possibleExistingIds": []
   },
   {
-    "sharedProductId": "kirkland-cashews",
-    "n": "Kirkland Whole Cashews Unsalted Unroasted",
-    "d": "Bolsa1134g; orgánicos sin sal ni tostar",
-    "c": "Frutos secos",
-    "subcategory": "Marañones",
-    "p": 28800,
-    "priceCandidatesCUP": [
-      28800
-    ],
-    "sourcePhoto": "IMG_20261009_165516.jpg",
-    "sourcePhotos": [
-      "IMG_20261009_165516.jpg"
-    ],
-    "sourceImage": null,
-    "status": "needs-review",
-    "reason": "Crear y revisar imagen comercial",
-    "img": null,
-    "priceStatus": "direct",
-    "possibleExistingIds": []
-  },
-  {
     "sharedProductId": "kirkland-almonds",
     "n": "Kirkland Roasted Almonds Sea Salt",
     "d": "Bolsa1134g; tostadas con sal marina",
@@ -5802,27 +5542,6 @@
     "reason": "Precio propio pendiente",
     "img": null,
     "priceStatus": "missing",
-    "possibleExistingIds": []
-  },
-  {
-    "sharedProductId": "bettergoods-granola",
-    "n": "Granola Bettergoods Chocolate Sea Salt",
-    "d": "Bolsa311g",
-    "c": "Alimentos",
-    "subcategory": "Granolas",
-    "p": 6200,
-    "priceCandidatesCUP": [
-      6200
-    ],
-    "sourcePhoto": "IMG_20261009_165530.jpg",
-    "sourcePhotos": [
-      "IMG_20261009_165530.jpg"
-    ],
-    "sourceImage": null,
-    "status": "needs-review",
-    "reason": "Crear y revisar imagen comercial",
-    "img": null,
-    "priceStatus": "direct",
     "possibleExistingIds": []
   },
   {
@@ -6156,91 +5875,6 @@
     "reason": "Separar marcas variedades y precio propio",
     "img": null,
     "priceStatus": "shared",
-    "possibleExistingIds": []
-  },
-  {
-    "sharedProductId": "apti-basil",
-    "n": "Albahaca Apti Manjericão",
-    "d": "Sobre5g",
-    "c": "Alimentos",
-    "subcategory": "Condimentos",
-    "p": 500,
-    "priceCandidatesCUP": [
-      500
-    ],
-    "sourcePhoto": "IMG_20261009_170254.jpg",
-    "sourcePhotos": [
-      "IMG_20261009_170254.jpg",
-      "IMG_20261009_170250.jpg"
-    ],
-    "sourceImage": null,
-    "status": "needs-review",
-    "reason": "Crear y revisar imagen comercial",
-    "img": null,
-    "priceStatus": "direct",
-    "possibleExistingIds": []
-  },
-  {
-    "sharedProductId": "carmencita-paella",
-    "n": "Carmencita Sazonador Paella",
-    "d": "Frasco",
-    "c": "Alimentos",
-    "subcategory": "Condimentos",
-    "p": 1700,
-    "priceCandidatesCUP": [
-      1700
-    ],
-    "sourcePhoto": "IMG_20261009_170254.jpg",
-    "sourcePhotos": [
-      "IMG_20261009_170254.jpg"
-    ],
-    "sourceImage": null,
-    "status": "needs-review",
-    "reason": "Peso pendiente",
-    "img": null,
-    "priceStatus": "direct",
-    "possibleExistingIds": []
-  },
-  {
-    "sharedProductId": "colonna-ranch",
-    "n": "Colonna Ranch Seasoning",
-    "d": "Frasco99g",
-    "c": "Alimentos",
-    "subcategory": "Condimentos",
-    "p": 1300,
-    "priceCandidatesCUP": [
-      1300
-    ],
-    "sourcePhoto": "IMG_20261009_170254.jpg",
-    "sourcePhotos": [
-      "IMG_20261009_170254.jpg"
-    ],
-    "sourceImage": null,
-    "status": "needs-review",
-    "reason": "Crear y revisar imagen comercial",
-    "img": null,
-    "priceStatus": "direct",
-    "possibleExistingIds": []
-  },
-  {
-    "sharedProductId": "supreme-black-pepper",
-    "n": "Supreme Tradition Black Pepper Ground",
-    "d": "Caja",
-    "c": "Alimentos",
-    "subcategory": "Condimentos",
-    "p": 2100,
-    "priceCandidatesCUP": [
-      2100
-    ],
-    "sourcePhoto": "IMG_20261009_170254.jpg",
-    "sourcePhotos": [
-      "IMG_20261009_170254.jpg"
-    ],
-    "sourceImage": null,
-    "status": "needs-review",
-    "reason": "Peso pendiente",
-    "img": null,
-    "priceStatus": "direct",
     "possibleExistingIds": []
   },
   {
@@ -7623,27 +7257,6 @@
     "possibleExistingIds": []
   },
   {
-    "sharedProductId": "bauducco-wafer-straw",
-    "n": "Wafer Bauducco fresa",
-    "d": "Paquete",
-    "c": "Alimentos",
-    "subcategory": "Galletas",
-    "p": 1300,
-    "priceCandidatesCUP": [
-      1300
-    ],
-    "sourcePhoto": "IMG_20261009_170518.jpg",
-    "sourcePhotos": [
-      "IMG_20261009_170518.jpg"
-    ],
-    "sourceImage": null,
-    "status": "needs-review",
-    "reason": "Peso pendiente",
-    "img": null,
-    "priceStatus": "direct",
-    "possibleExistingIds": []
-  },
-  {
     "sharedProductId": "bauducco-wafer-choco",
     "n": "Wafer Bauducco chocolate",
     "d": "Paquete",
@@ -7662,27 +7275,6 @@
     "reason": "Etiqueta raspada; ampliar precio y peso antes de fijar importe",
     "img": null,
     "priceStatus": "ambiguous",
-    "possibleExistingIds": []
-  },
-  {
-    "sharedProductId": "bauducco-maria",
-    "n": "Galletas Bauducco Maria",
-    "d": "Rollo",
-    "c": "Alimentos",
-    "subcategory": "Galletas",
-    "p": 1200,
-    "priceCandidatesCUP": [
-      1200
-    ],
-    "sourcePhoto": "IMG_20261009_170532.jpg",
-    "sourcePhotos": [
-      "IMG_20261009_170532.jpg"
-    ],
-    "sourceImage": null,
-    "status": "needs-review",
-    "reason": "Peso pendiente",
-    "img": null,
-    "priceStatus": "direct",
     "possibleExistingIds": []
   },
   {
@@ -8402,27 +7994,6 @@
     "sourceImage": null,
     "status": "needs-review",
     "reason": "Peso/cantidad pendientes",
-    "img": null,
-    "priceStatus": "direct",
-    "possibleExistingIds": []
-  },
-  {
-    "sharedProductId": "chipsahoy",
-    "n": "Chips Ahoy Original",
-    "d": "Paquete",
-    "c": "Alimentos",
-    "subcategory": "Galletas",
-    "p": 5800,
-    "priceCandidatesCUP": [
-      5800
-    ],
-    "sourcePhoto": "IMG_20261009_170629.jpg",
-    "sourcePhotos": [
-      "IMG_20261009_170629.jpg"
-    ],
-    "sourceImage": null,
-    "status": "needs-review",
-    "reason": "Peso pendiente",
     "img": null,
     "priceStatus": "direct",
     "possibleExistingIds": []

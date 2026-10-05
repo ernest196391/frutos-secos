@@ -1,0 +1,109 @@
+{
+  "mode": "built-in-imagegen",
+  "common": "Extract one exact original package from reference store photo onto white square studio background, preserve brand, variant, logos, colors, wording and sale-unit proportions; no shelves, prices, added claims or props; soft contact shadow.",
+  "targets": [
+    {
+      "sharedProductId": "wonderful-vinegar",
+      "referencePhoto": "IMG_20261009_165436.jpg",
+      "product": "Pistachos Wonderful Sea Salt & Vinegar"
+    },
+    {
+      "sharedProductId": "arroz-alfinete",
+      "referencePhoto": "IMG_20261009_170008.jpg",
+      "product": "Arroz blanco Alfinete"
+    },
+    {
+      "sharedProductId": "amanhecer-whitepepper",
+      "referencePhoto": "IMG_20261009_170217.jpg",
+      "product": "Pimienta blanca molida Amanhecer"
+    },
+    {
+      "sharedProductId": "bauducco-maria",
+      "referencePhoto": "IMG_20261009_170532.jpg",
+      "product": "Galletas María Bauducco"
+    },
+    {
+      "sharedProductId": "apti-basil",
+      "referencePhoto": "IMG_20261009_170254.jpg",
+      "product": "Albahaca Apti"
+    },
+    {
+      "sharedProductId": "carmencita-paella",
+      "referencePhoto": "IMG_20261009_170254.jpg",
+      "product": "Sazonador para paella Carmencita"
+    },
+    {
+      "sharedProductId": "bauducco-wafer-straw",
+      "referencePhoto": "IMG_20261009_170518.jpg",
+      "product": "Wafer de fresa Bauducco"
+    },
+    {
+      "sharedProductId": "bettergoods-granola",
+      "referencePhoto": "IMG_20261009_165530.jpg",
+      "product": "Granola Bettergoods Chocolate Sea Salt"
+    },
+    {
+      "sharedProductId": "chipsahoy",
+      "referencePhoto": "IMG_20261009_170629.jpg",
+      "product": "Galletas Chips Ahoy Original"
+    },
+    {
+      "sharedProductId": "wonderful-dill",
+      "referencePhoto": "IMG_20261009_165436.jpg",
+      "product": "Pistachos Wonderful Dill Pickle"
+    },
+    {
+      "sharedProductId": "wonderful-lightly",
+      "referencePhoto": "IMG_20261009_165436.jpg",
+      "product": "Pistachos Wonderful Lightly Salted"
+    },
+    {
+      "sharedProductId": "wonderful-pepper-shell",
+      "referencePhoto": "IMG_20261009_165436.jpg",
+      "product": "Pistachos Wonderful Salt & Pepper"
+    },
+    {
+      "sharedProductId": "wonderful-sweetchili",
+      "referencePhoto": "IMG_20261009_165436.jpg",
+      "product": "Pistachos Wonderful Sweet Chili"
+    },
+    {
+      "sharedProductId": "davia-passata",
+      "referencePhoto": "IMG_20261009_170221.jpg",
+      "product": "Passata de tomate Davia Gragnano"
+    },
+    {
+      "sharedProductId": "prego-traditional",
+      "referencePhoto": "IMG_20261009_170234.jpg",
+      "product": "Salsa de tomate Prego Traditional"
+    },
+    {
+      "sharedProductId": "tagliamonte-pomodoro",
+      "referencePhoto": "IMG_20261009_170228.jpg",
+      "product": "Tomates pelados enteros Tagliamonte"
+    },
+    {
+      "sharedProductId": "ourhouse-tomato",
+      "referencePhoto": "IMG_20261009_170225_1.jpg",
+      "product": "Pasta de tomate Our House"
+    },
+    {
+      "sharedProductId": "colonna-ranch",
+      "referencePhoto": "IMG_20261009_170254.jpg",
+      "product": "Sazonador Ranch Colonna"
+    },
+    {
+      "sharedProductId": "supreme-black-pepper",
+      "referencePhoto": "IMG_20261009_170254.jpg",
+      "product": "Pimienta negra molida Supreme Tradition"
+    },
+    {
+      "sharedProductId": "kirkland-cashews",
+      "referencePhoto": "IMG_20261009_165516.jpg",
+      "product": "Anacardos orgánicos Kirkland Signature"
+    }
+  ],
+  "correction": {
+    "amanhecer-whitepepper": "Reject added pepper illustration; lower label must remain plain white, preserve original typography."
+  }
+}

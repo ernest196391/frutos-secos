@@ -1,0 +1,559 @@
+[
+  {
+    "id": 8001,
+    "sharedProductId": "wonderful-vinegar",
+    "n": "Pistachos Wonderful Sea Salt & Vinegar",
+    "d": "Sin cáscara · Bolsa de 311 g",
+    "c": "Frutos secos",
+    "p": 18000,
+    "currency": "CUP",
+    "img": "/products/real/wonderful-vinegar.webp",
+    "provisional": false,
+    "source": "store-photo",
+    "sourcePhoto": "IMG_20261009_165436.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165436.jpg",
+    "stock": null,
+    "status": "ready-to-publish",
+    "subcategory": "Pistachos",
+    "sourcePhotos": [
+      "IMG_20261009_165430.jpg",
+      "IMG_20261009_165436.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_165436.jpg"
+    ],
+    "generationMethod": "built-in-imagegen",
+    "generatedFile": "/workspace/scratch/f5c7d932b6ef/generated_images/exec-ff7aaefe-3609-4a57-9240-7224fb1665c3.png",
+    "imageSha256": "0d2a91beab1c3d5892d119808621f1e5bc920bee417d32ef1b6bc1360d2bcbe1",
+    "imageReview": "Original and output visually compared: brand, exact variant and sale unit confirmed. Unreadable weights omitted."
+  },
+  {
+    "id": 8002,
+    "sharedProductId": "arroz-alfinete",
+    "n": "Arroz blanco Alfinete",
+    "d": "Grano largo fino · Bolsa de 1 kg",
+    "c": "Alimentos",
+    "p": 1300,
+    "currency": "CUP",
+    "img": "/products/real/arroz-alfinete.webp",
+    "provisional": false,
+    "source": "store-photo",
+    "sourcePhoto": "IMG_20261009_170008.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_170008.jpg",
+    "stock": null,
+    "status": "ready-to-publish",
+    "subcategory": "Granos",
+    "sourcePhotos": [
+      "IMG_20261009_170008.jpg",
+      "IMG_20261009_170010.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170008.jpg",
+      "IMG_20261009_170010.jpg"
+    ],
+    "generationMethod": "built-in-imagegen",
+    "generatedFile": "/workspace/scratch/f5c7d932b6ef/generated_images/exec-2b5f0080-cbdd-42b6-a8ff-c5443dcafe75.png",
+    "imageSha256": "9d963d1f6c501e42b5264822bddd737b444efda885e7243c285733653234265a",
+    "imageReview": "Original and output visually compared: brand, exact variant and sale unit confirmed. Unreadable weights omitted."
+  },
+  {
+    "id": 8003,
+    "sharedProductId": "amanhecer-whitepepper",
+    "n": "Pimienta blanca molida Amanhecer",
+    "d": "Pimenta branca moída · Frasco",
+    "c": "Alimentos",
+    "p": 1450,
+    "currency": "CUP",
+    "img": "/products/real/amanhecer-whitepepper.webp",
+    "provisional": false,
+    "source": "store-photo",
+    "sourcePhoto": "IMG_20261009_170217.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_170217.jpg",
+    "stock": null,
+    "status": "ready-to-publish",
+    "subcategory": "Condimentos",
+    "sourcePhotos": [
+      "IMG_20261009_170217.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170217.jpg"
+    ],
+    "generationMethod": "built-in-imagegen",
+    "generatedFile": "/workspace/scratch/f5c7d932b6ef/generated_images/exec-43b823d1-94e9-49d6-acf2-68fd73660058.png",
+    "imageSha256": "1f2a8f9259772c2b91da7109837389f82d6b6a8878b7cb0f23db637048b3ebf4",
+    "imageReview": "Original and output visually compared: brand, exact variant and sale unit confirmed. Unreadable weights omitted."
+  },
+  {
+    "id": 8004,
+    "sharedProductId": "bauducco-maria",
+    "n": "Galletas María Bauducco",
+    "d": "Maria Cookies · Paquete de 200 g",
+    "c": "Alimentos",
+    "p": 1200,
+    "currency": "CUP",
+    "img": "/products/real/bauducco-maria.webp",
+    "provisional": false,
+    "source": "store-photo",
+    "sourcePhoto": "IMG_20261009_170532.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_170532.jpg",
+    "stock": null,
+    "status": "ready-to-publish",
+    "subcategory": "Galletas",
+    "sourcePhotos": [
+      "IMG_20261009_170532.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170532.jpg"
+    ],
+    "generationMethod": "built-in-imagegen",
+    "generatedFile": "/workspace/scratch/f5c7d932b6ef/generated_images/exec-6542894d-9d05-4291-a6e3-1ea95222aea7.png",
+    "imageSha256": "bc10e255ca4c1f5310eca54c129b928473b9f3ba2c53f6949b87343c04bb8e15",
+    "imageReview": "Original and output visually compared: brand, exact variant and sale unit confirmed. Unreadable weights omitted."
+  },
+  {
+    "id": 8005,
+    "sharedProductId": "apti-basil",
+    "n": "Albahaca Apti",
+    "d": "Manjericão · Sobre de 5 g",
+    "c": "Alimentos",
+    "p": 500,
+    "currency": "CUP",
+    "img": "/products/real/apti-basil.webp",
+    "provisional": false,
+    "source": "store-photo",
+    "sourcePhoto": "IMG_20261009_170254.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_170254.jpg",
+    "stock": null,
+    "status": "ready-to-publish",
+    "subcategory": "Condimentos",
+    "sourcePhotos": [
+      "IMG_20261009_170254.jpg",
+      "IMG_20261009_170250.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170254.jpg",
+      "IMG_20261009_170250.jpg"
+    ],
+    "generationMethod": "built-in-imagegen",
+    "generatedFile": "/workspace/scratch/f5c7d932b6ef/generated_images/exec-c5000962-4d0e-4d3c-ae2a-404a30b7dea9.png",
+    "imageSha256": "e92e6a149a9f0f79a2e329c460276c67d3b67b6349d013bc4cd55841fc303fa9",
+    "imageReview": "Original and output visually compared: brand, exact variant and sale unit confirmed. Unreadable weights omitted."
+  },
+  {
+    "id": 8006,
+    "sharedProductId": "carmencita-paella",
+    "n": "Sazonador para paella Carmencita",
+    "d": "Paella Sazonador · Frasco",
+    "c": "Alimentos",
+    "p": 1700,
+    "currency": "CUP",
+    "img": "/products/real/carmencita-paella.webp",
+    "provisional": false,
+    "source": "store-photo",
+    "sourcePhoto": "IMG_20261009_170254.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_170254.jpg",
+    "stock": null,
+    "status": "ready-to-publish",
+    "subcategory": "Condimentos",
+    "sourcePhotos": [
+      "IMG_20261009_170254.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170254.jpg"
+    ],
+    "generationMethod": "built-in-imagegen",
+    "generatedFile": "/workspace/scratch/f5c7d932b6ef/generated_images/exec-c7144d40-d82e-47f2-b822-33196ffeef80.png",
+    "imageSha256": "19b4ea5bbd70f14de9b9246db8615e4c67ca29a852e58b36e5ed9718a5ad32e7",
+    "imageReview": "Original and output visually compared: brand, exact variant and sale unit confirmed. Unreadable weights omitted."
+  },
+  {
+    "id": 8007,
+    "sharedProductId": "bauducco-wafer-straw",
+    "n": "Wafer de fresa Bauducco",
+    "d": "Strawberry · Paquete",
+    "c": "Alimentos",
+    "p": 1300,
+    "currency": "CUP",
+    "img": "/products/real/bauducco-wafer-straw.webp",
+    "provisional": false,
+    "source": "store-photo",
+    "sourcePhoto": "IMG_20261009_170518.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_170518.jpg",
+    "stock": null,
+    "status": "ready-to-publish",
+    "subcategory": "Galletas",
+    "sourcePhotos": [
+      "IMG_20261009_170518.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170518.jpg"
+    ],
+    "generationMethod": "built-in-imagegen",
+    "generatedFile": "/workspace/scratch/f5c7d932b6ef/generated_images/exec-596b7fad-1589-4bea-a05f-14f98feaa362.png",
+    "imageSha256": "39ad70c83d5fc94a7910e1cb58108440ab0653343453ac1c681a63f89164765c",
+    "imageReview": "Original and output visually compared: brand, exact variant and sale unit confirmed. Unreadable weights omitted."
+  },
+  {
+    "id": 8008,
+    "sharedProductId": "bettergoods-granola",
+    "n": "Granola Bettergoods Chocolate Sea Salt",
+    "d": "Chocolate y sal marina · Bolsa de 311 g",
+    "c": "Alimentos",
+    "p": 6200,
+    "currency": "CUP",
+    "img": "/products/real/bettergoods-granola.webp",
+    "provisional": false,
+    "source": "store-photo",
+    "sourcePhoto": "IMG_20261009_165530.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165530.jpg",
+    "stock": null,
+    "status": "ready-to-publish",
+    "subcategory": "Granolas",
+    "sourcePhotos": [
+      "IMG_20261009_165530.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_165530.jpg"
+    ],
+    "generationMethod": "built-in-imagegen",
+    "generatedFile": "/workspace/scratch/f5c7d932b6ef/generated_images/exec-e0569d11-a5b0-4c6c-a290-6fac45668d76.png",
+    "imageSha256": "2748020c82c3131237af5a55283141596f79f34e67768c50e3a7e0dd38d1a724",
+    "imageReview": "Original and output visually compared: brand, exact variant and sale unit confirmed. Unreadable weights omitted."
+  },
+  {
+    "id": 8009,
+    "sharedProductId": "chipsahoy",
+    "n": "Galletas Chips Ahoy Original",
+    "d": "Family Size · Paquete de 515 g",
+    "c": "Alimentos",
+    "p": 5800,
+    "currency": "CUP",
+    "img": "/products/real/chipsahoy.webp",
+    "provisional": false,
+    "source": "store-photo",
+    "sourcePhoto": "IMG_20261009_170629.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_170629.jpg",
+    "stock": null,
+    "status": "ready-to-publish",
+    "subcategory": "Galletas",
+    "sourcePhotos": [
+      "IMG_20261009_170629.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170629.jpg"
+    ],
+    "generationMethod": "built-in-imagegen",
+    "generatedFile": "/workspace/scratch/f5c7d932b6ef/generated_images/exec-4195f467-5cdd-4cc6-8a56-405dac8f2c20.png",
+    "imageSha256": "b762e6f77fbe75a54aed15fcbc7a7a26371760fe0214d0151eb8e08c1131e069",
+    "imageReview": "Original and output visually compared: brand, exact variant and sale unit confirmed. Unreadable weights omitted."
+  },
+  {
+    "id": 8010,
+    "sharedProductId": "wonderful-dill",
+    "n": "Pistachos Wonderful Dill Pickle",
+    "d": "Sin cáscara · Bolsa de 311 g",
+    "c": "Frutos secos",
+    "p": 17000,
+    "currency": "CUP",
+    "img": "/products/real/wonderful-dill.webp",
+    "provisional": false,
+    "source": "store-photo",
+    "sourcePhoto": "IMG_20261009_165436.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165436.jpg",
+    "stock": null,
+    "status": "ready-to-publish",
+    "subcategory": "Pistachos",
+    "sourcePhotos": [
+      "IMG_20261009_165436.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_165436.jpg"
+    ],
+    "generationMethod": "built-in-imagegen",
+    "generatedFile": "/workspace/scratch/f5c7d932b6ef/generated_images/exec-4ae1caed-8f7d-40d6-9658-f9102c657aac.png",
+    "imageSha256": "6402039eae02891f2557b00c512002c091238dc2d2dab37f9535937649dc6bfe",
+    "imageReview": "Original and output visually compared: brand, exact variant and sale unit confirmed. Unreadable weights omitted."
+  },
+  {
+    "id": 8011,
+    "sharedProductId": "wonderful-lightly",
+    "n": "Pistachos Wonderful Lightly Salted",
+    "d": "Con cáscara · Bolsa de 454 g",
+    "c": "Frutos secos",
+    "p": 25500,
+    "currency": "CUP",
+    "img": "/products/real/wonderful-lightly.webp",
+    "provisional": false,
+    "source": "store-photo",
+    "sourcePhoto": "IMG_20261009_165436.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165436.jpg",
+    "stock": null,
+    "status": "ready-to-publish",
+    "subcategory": "Pistachos",
+    "sourcePhotos": [
+      "IMG_20261009_165436.jpg",
+      "IMG_20261009_165441.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_165436.jpg",
+      "IMG_20261009_165441.jpg"
+    ],
+    "generationMethod": "built-in-imagegen",
+    "generatedFile": "/workspace/scratch/f5c7d932b6ef/generated_images/exec-0de634cc-e3a5-44fb-96e9-ab17a2438e6e.png",
+    "imageSha256": "762c1a0cf9977675eb835c12aa5a280fc1519f28d3c653139ba77e0d17020343",
+    "imageReview": "Original and output visually compared: brand, exact variant and sale unit confirmed. Unreadable weights omitted."
+  },
+  {
+    "id": 8012,
+    "sharedProductId": "wonderful-pepper-shell",
+    "n": "Pistachos Wonderful Salt & Pepper",
+    "d": "Con cáscara · Bolsa de 454 g",
+    "c": "Frutos secos",
+    "p": 25500,
+    "currency": "CUP",
+    "img": "/products/real/wonderful-pepper-shell.webp",
+    "provisional": false,
+    "source": "store-photo",
+    "sourcePhoto": "IMG_20261009_165436.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165436.jpg",
+    "stock": null,
+    "status": "ready-to-publish",
+    "subcategory": "Pistachos",
+    "sourcePhotos": [
+      "IMG_20261009_165436.jpg",
+      "IMG_20261009_165441.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_165436.jpg",
+      "IMG_20261009_165441.jpg"
+    ],
+    "generationMethod": "built-in-imagegen",
+    "generatedFile": "/workspace/scratch/f5c7d932b6ef/generated_images/exec-01226333-1185-4d29-a8a4-bcb6af6cede6.png",
+    "imageSha256": "e96957340f91b0cc8f254ef8917f2af4b4dc2972bc4e116a09f966c808d2ca5c",
+    "imageReview": "Original and output visually compared: brand, exact variant and sale unit confirmed. Unreadable weights omitted."
+  },
+  {
+    "id": 8013,
+    "sharedProductId": "wonderful-sweetchili",
+    "n": "Pistachos Wonderful Sweet Chili",
+    "d": "Con cáscara · Bolsa de 454 g",
+    "c": "Frutos secos",
+    "p": 25500,
+    "currency": "CUP",
+    "img": "/products/real/wonderful-sweetchili.webp",
+    "provisional": false,
+    "source": "store-photo",
+    "sourcePhoto": "IMG_20261009_165436.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165436.jpg",
+    "stock": null,
+    "status": "ready-to-publish",
+    "subcategory": "Pistachos",
+    "sourcePhotos": [
+      "IMG_20261009_165436.jpg",
+      "IMG_20261009_165441.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_165436.jpg",
+      "IMG_20261009_165441.jpg"
+    ],
+    "generationMethod": "built-in-imagegen",
+    "generatedFile": "/workspace/scratch/f5c7d932b6ef/generated_images/exec-74146c2d-c8c1-4025-ad35-e0eb8741dbd6.png",
+    "imageSha256": "4a051517f2f99de6fccb619ad9ec2059a8ec13acf5a9da13e68919a12df0346c",
+    "imageReview": "Original and output visually compared: brand, exact variant and sale unit confirmed. Unreadable weights omitted."
+  },
+  {
+    "id": 8014,
+    "sharedProductId": "davia-passata",
+    "n": "Passata de tomate Davia Gragnano",
+    "d": "Botella de 680 g",
+    "c": "Conservas",
+    "p": 2500,
+    "currency": "CUP",
+    "img": "/products/real/davia-passata.webp",
+    "provisional": false,
+    "source": "store-photo",
+    "sourcePhoto": "IMG_20261009_170221.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_170221.jpg",
+    "stock": null,
+    "status": "ready-to-publish",
+    "subcategory": "Tomate",
+    "sourcePhotos": [
+      "IMG_20261009_170221.jpg",
+      "IMG_20261009_170234.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170221.jpg",
+      "IMG_20261009_170234.jpg"
+    ],
+    "generationMethod": "built-in-imagegen",
+    "generatedFile": "/workspace/scratch/f5c7d932b6ef/generated_images/exec-7484aa83-ec78-4f77-8573-2349cb69387f.png",
+    "imageSha256": "dab39d8970ee6f0a572db2c60f07712d10d49a86bb8655059978a3bdb36de80d",
+    "imageReview": "Original and output visually compared: brand, exact variant and sale unit confirmed. Unreadable weights omitted."
+  },
+  {
+    "id": 8015,
+    "sharedProductId": "prego-traditional",
+    "n": "Salsa de tomate Prego Traditional",
+    "d": "Value Size · Frasco de 1,9 kg",
+    "c": "Conservas",
+    "p": 6000,
+    "currency": "CUP",
+    "img": "/products/real/prego-traditional.webp",
+    "provisional": false,
+    "source": "store-photo",
+    "sourcePhoto": "IMG_20261009_170234.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_170234.jpg",
+    "stock": null,
+    "status": "ready-to-publish",
+    "subcategory": "Tomate",
+    "sourcePhotos": [
+      "IMG_20261009_170234.jpg",
+      "IMG_20261009_170221.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170234.jpg",
+      "IMG_20261009_170221.jpg"
+    ],
+    "generationMethod": "built-in-imagegen",
+    "generatedFile": "/workspace/scratch/f5c7d932b6ef/generated_images/exec-bf3554a1-76a2-4789-8710-f161d17f361c.png",
+    "imageSha256": "448f3e508e3ccac4116045edafc797d944bf607c4d696dcc4d64e5118e8c6adb",
+    "imageReview": "Original and output visually compared: brand, exact variant and sale unit confirmed. Unreadable weights omitted."
+  },
+  {
+    "id": 8016,
+    "sharedProductId": "tagliamonte-pomodoro",
+    "n": "Tomates pelados enteros Tagliamonte",
+    "d": "Lata · Pomodori Pelati Interi",
+    "c": "Conservas",
+    "p": 1650,
+    "currency": "CUP",
+    "img": "/products/real/tagliamonte-pomodoro.webp",
+    "provisional": false,
+    "source": "store-photo",
+    "sourcePhoto": "IMG_20261009_170228.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_170228.jpg",
+    "stock": null,
+    "status": "ready-to-publish",
+    "subcategory": "Tomate",
+    "sourcePhotos": [
+      "IMG_20261009_170228.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170228.jpg"
+    ],
+    "generationMethod": "built-in-imagegen",
+    "generatedFile": "/workspace/scratch/f5c7d932b6ef/generated_images/exec-5f406612-eed6-4871-9ccb-cfc338a1f57d.png",
+    "imageSha256": "881cd5ba51031a1e4f2a7764dd22a98a873fdb998b5cc483ee3f92a73d0f43ca",
+    "imageReview": "Original and output visually compared: brand, exact variant and sale unit confirmed. Unreadable weights omitted."
+  },
+  {
+    "id": 8017,
+    "sharedProductId": "ourhouse-tomato",
+    "n": "Pasta de tomate Our House",
+    "d": "Tomato Paste · Lata de 3,15 kg",
+    "c": "Conservas",
+    "p": 5000,
+    "currency": "CUP",
+    "img": "/products/real/ourhouse-tomato.webp",
+    "provisional": false,
+    "source": "store-photo",
+    "sourcePhoto": "IMG_20261009_170225_1.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_170225_1.jpg",
+    "stock": null,
+    "status": "ready-to-publish",
+    "subcategory": "Tomate",
+    "sourcePhotos": [
+      "IMG_20261009_170225_1.jpg",
+      "IMG_20261009_170222_1.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170225_1.jpg",
+      "IMG_20261009_170222_1.jpg"
+    ],
+    "generationMethod": "built-in-imagegen",
+    "generatedFile": "/workspace/scratch/f5c7d932b6ef/generated_images/exec-f1cadc68-35fe-4474-b76a-ce9ac24bd9f8.png",
+    "imageSha256": "1a32164e676edb3ab5cff84b8b53bdc9675c917651908a9351491a9b16dea7fa",
+    "imageReview": "Original and output visually compared: brand, exact variant and sale unit confirmed. Unreadable weights omitted."
+  },
+  {
+    "id": 8018,
+    "sharedProductId": "colonna-ranch",
+    "n": "Sazonador Ranch Colonna",
+    "d": "Ranch Seasoning · Frasco de 99 g",
+    "c": "Alimentos",
+    "p": 1300,
+    "currency": "CUP",
+    "img": "/products/real/colonna-ranch.webp",
+    "provisional": false,
+    "source": "store-photo",
+    "sourcePhoto": "IMG_20261009_170254.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_170254.jpg",
+    "stock": null,
+    "status": "ready-to-publish",
+    "subcategory": "Condimentos",
+    "sourcePhotos": [
+      "IMG_20261009_170254.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170254.jpg"
+    ],
+    "generationMethod": "built-in-imagegen",
+    "generatedFile": "/workspace/scratch/f5c7d932b6ef/generated_images/exec-7fdafdcd-05eb-4492-8e94-03d745d25636.png",
+    "imageSha256": "dc2f652f9c418bcd479a750ea0252cb80a6becc7b8bd5b9fd5eef83b31d35ba8",
+    "imageReview": "Original and output visually compared: brand, exact variant and sale unit confirmed. Unreadable weights omitted."
+  },
+  {
+    "id": 8019,
+    "sharedProductId": "supreme-black-pepper",
+    "n": "Pimienta negra molida Supreme Tradition",
+    "d": "Black Pepper Ground · Frasco",
+    "c": "Alimentos",
+    "p": 2100,
+    "currency": "CUP",
+    "img": "/products/real/supreme-black-pepper.webp",
+    "provisional": false,
+    "source": "store-photo",
+    "sourcePhoto": "IMG_20261009_170254.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_170254.jpg",
+    "stock": null,
+    "status": "ready-to-publish",
+    "subcategory": "Condimentos",
+    "sourcePhotos": [
+      "IMG_20261009_170254.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_170254.jpg"
+    ],
+    "generationMethod": "built-in-imagegen",
+    "generatedFile": "/workspace/scratch/f5c7d932b6ef/generated_images/exec-683f6f8d-e7d9-4885-9a39-4ea54018d4d7.png",
+    "imageSha256": "c5394eae1c04fc7fbdfbbc5695365bcff8937275f6afc6e351afc34289fab560",
+    "imageReview": "Original and output visually compared: brand, exact variant and sale unit confirmed. Unreadable weights omitted."
+  },
+  {
+    "id": 8020,
+    "sharedProductId": "kirkland-cashews",
+    "n": "Anacardos orgánicos Kirkland Signature",
+    "d": "Sin sal y sin tostar · Bolsa de 1,13 kg",
+    "c": "Frutos secos",
+    "p": 28800,
+    "currency": "CUP",
+    "img": "/products/real/kirkland-cashews.webp",
+    "provisional": false,
+    "source": "store-photo",
+    "sourcePhoto": "IMG_20261009_165516.jpg",
+    "sourceImage": "/catalog-sources/IMG_20261009_165516.jpg",
+    "stock": null,
+    "status": "ready-to-publish",
+    "subcategory": "Anacardos",
+    "sourcePhotos": [
+      "IMG_20261009_165516.jpg"
+    ],
+    "priceSourcePhotos": [
+      "IMG_20261009_165516.jpg"
+    ],
+    "generationMethod": "built-in-imagegen",
+    "generatedFile": "/workspace/scratch/f5c7d932b6ef/generated_images/exec-ddb21c87-0476-4272-af52-f89f9f71aa22.png",
+    "imageSha256": "0d6707c3bd93347c92355c2bea993ac2152e41b8510fa7fbd3d3ae13cc87d87d",
+    "imageReview": "Original and output visually compared: brand, exact variant and sale unit confirmed. Unreadable weights omitted."
+  }
+]
