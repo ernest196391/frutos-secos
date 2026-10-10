@@ -378,5 +378,125 @@
     "priceCUP": 20850,
     "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
     "prompt": "One The GLENLIVET Founder's Reserve American Oak Selection Scotch whisky clear round tall bottle with golden liquid, dark navy cap, cream label THE GLENLIVET FOUNDER'S RESERVE ESTD 1824 SINGLE MALT SCOTCH WHISKY, pale blue lower label. Preserve bottle shape and label. Bottle only without its blue box."
+  },
+  {
+    "sharedProductId": "jw-redlabel",
+    "name": "Whisky Johnnie Walker Red Label",
+    "sourceImage": "/catalog-sources/IMG_20261009_171331_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171331_1.jpg",
+    "newImage": "/products/generated/jw-redlabel-20261010.webp",
+    "priceCUP": 16000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One Johnnie Walker RED LABEL tall rectangular clear glass amber whisky bottle, gold screw cap, red diagonal front label with gold trim reading RED LABEL and gold walking man logo. Bottle only."
+  },
+  {
+    "sharedProductId": "jw-bluelabel",
+    "name": "Whisky Johnnie Walker Blue Label",
+    "sourceImage": "/catalog-sources/IMG_20261009_171331_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171331_1.jpg",
+    "newImage": "/products/generated/jw-bluelabel-20261010.webp",
+    "priceCUP": 280000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One Johnnie Walker BLUE LABEL premium whisky tall square amber bottle with gold cap inside its open tall navy-blue hinged presentation case with gold interior, gold subtle marbled lines on blue door, diagonal blue-and-gold Blue Label bottle label. Preserve product as box and bottle exactly observed, no glasses."
+  },
+  {
+    "sharedProductId": "jameson",
+    "name": "Whiskey Jameson",
+    "sourceImage": "/catalog-sources/IMG_20261009_171335.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171335.jpg",
+    "newImage": "/products/generated/jameson-20261010.webp",
+    "priceCUP": 15900,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One JAMESON original Irish whiskey green glass tall round bottle with red cap and green neck foil, broad cream front label JAMESON TRIPLE DISTILLED IRISH WHISKEY, green band bottom. Faithful visible bottle."
+  },
+  {
+    "sharedProductId": "ballantines",
+    "name": "Whisky Ballantine's Finest",
+    "sourceImage": "/catalog-sources/IMG_20261009_171335.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171335.jpg",
+    "newImage": "/products/generated/ballantines-20261010.webp",
+    "priceCUP": 5270,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One Ballantine's FINEST blended Scotch whisky dark brown almost black rectangular bottle with short neck and cream cap, cream shield front label cursive Ballantine's, FINEST, red circular seal below, crest above."
+  },
+  {
+    "sharedProductId": "armageddon",
+    "name": "Vodka Armagedon Premium",
+    "sourceImage": "/catalog-sources/IMG_20261009_171339.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171339.jpg",
+    "newImage": "/products/generated/armageddon-20261010.webp",
+    "priceCUP": 7600,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One ARMAGEDON PREMIUM VODKA tall cylindrical vivid blue glass bottle, long slim clear upper neck, white screw cap, white vertical large lettering ARMAGEDON and smaller PREMIUM. Preserve visible spelling ARMAGEDON (one D)."
+  },
+  {
+    "sharedProductId": "absolut",
+    "name": "Vodka Absolut",
+    "sourceImage": "/catalog-sources/IMG_20261009_171339.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171339.jpg",
+    "newImage": "/products/generated/absolut-20261010.webp",
+    "priceCUP": 16020,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One original ABSOLUT VODKA clear short round broad-shouldered bottle with short neck and silver cap, blue large ABSOLUT VODKA lettering, black cursive Swedish Vodka and white band at bottom with 40% ALC/VOL."
+  },
+  {
+    "sharedProductId": "ciroc",
+    "name": "Vodka Cîroc",
+    "sourceImage": "/catalog-sources/IMG_20261009_171339.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171339.jpg",
+    "newImage": "/products/generated/ciroc-20261010.webp",
+    "priceCUP": 24600,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One CÎROC original vodka tall narrow clear glass bottle, silver cap, bright blue circular emblem above black CÎROC VODKA text, vivid blue glass gradient at base, preserve actual unflavored variant."
+  },
+  {
+    "sharedProductId": "beefeater",
+    "name": "Ginebra Beefeater London Dry",
+    "sourceImage": "/catalog-sources/IMG_20261009_171341.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171341.jpg",
+    "newImage": "/products/generated/beefeater-20261010.webp",
+    "priceCUP": 7400,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One BEEFEATER LONDON DRY GIN tall rectangular clear glass bottle, red screw cap, white rectangular front label BEEFEATER LONDON in red with red illustrated London guard, lower red band LONDON DRY GIN."
+  },
+  {
+    "sharedProductId": "tanqueray",
+    "name": "Ginebra Tanqueray London Dry",
+    "sourceImage": "/catalog-sources/IMG_20261009_171345.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171345.jpg",
+    "newImage": "/products/generated/tanqueray-20261010.webp",
+    "priceCUP": 9900,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One Tanqueray LONDON DRY GIN squat broad green glass bottle, rounded shoulders, silver cap, red circular wax seal high on front, broad white label with grey floral border and black cursive Tanqueray. Matching visible original variant."
+  },
+  {
+    "sharedProductId": "santiago-11",
+    "name": "Ron Santiago de Cuba11años",
+    "sourceImage": "/catalog-sources/IMG_20261009_171345.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171345.jpg",
+    "newImage": "/products/generated/santiago-11-20261010.webp",
+    "priceCUP": 19400,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One Ron Santiago de Cuba 11 años round dark amber rum bottle, navy-blue neck foil and cap, navy blue label with gold Ron Santiago DE CUBA lettering and central red band, gold circular sun medallion, red 11 marking, small green-white strip at bottom. Ensure age 11."
+  },
+  {
+    "sharedProductId": "santiago-12",
+    "name": "Ron Santiago de Cuba12años",
+    "sourceImage": "/catalog-sources/IMG_20261009_171345.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171345.jpg",
+    "newImage": "/products/generated/santiago-12-20261010.webp",
+    "priceCUP": 22500,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One Ron Santiago de Cuba 12 años round dark amber rum bottle, dark black/grey cap and neck foil, black label with gold Ron Santiago DE CUBA lettering and central red band, gold circular sun medallion, red 12 marking, small green-white strip at bottom. Ensure age 12."
+  },
+  {
+    "sharedProductId": "santiago-8",
+    "name": "Ron Santiago de Cuba8años",
+    "sourceImage": "/catalog-sources/IMG_20261009_171348.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171348.jpg",
+    "newImage": "/products/generated/santiago-8-20261010.webp",
+    "priceCUP": 10400,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One Ron Santiago de Cuba 8 años round dark amber rum bottle, turquoise blue cap and neck foil, turquoise blue label with gold Ron Santiago DE CUBA lettering and central red band, gold circular sun medallion, red 8 marking, small green-white strip at bottom. Ensure age 8."
   }
 ]
