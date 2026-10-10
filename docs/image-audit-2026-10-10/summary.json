@@ -4,9 +4,9 @@
   "pricedProducts": 477,
   "pricesPending": 104,
   "individualImagesBefore": 365,
-  "newIndividualImages": 50,
-  "individualImagesNow": 415,
-  "remainingStorePhotos": 166,
+  "newIndividualImages": 62,
+  "individualImagesNow": 427,
+  "remainingStorePhotos": 154,
   "missingLocalAssets": 0,
   "invalidLocalImageFiles": 0,
   "nameCorrections": [
@@ -54,6 +54,34 @@
       "after": "Vodka Armagedon Premium",
       "priceCUP": 7600,
       "evidence": "Original IMG_20261009_171339.jpg reads ARMAGEDON PREMIUM"
+    },
+    {
+      "key": "santiago-anejo",
+      "before": "Ron Santiago de Cuba Añejo",
+      "after": "Ron Santiago de Cuba Extra Seco",
+      "priceCUP": 10600,
+      "evidence": "/catalog-sources/IMG_20261009_171351.jpg"
+    },
+    {
+      "key": "santiago-oscura",
+      "before": "Ron Santiago de Cuba Carta Oscura",
+      "after": "Ron Santiago de Cuba Añejo Tradicional",
+      "priceCUP": 9200,
+      "evidence": "/catalog-sources/IMG_20261009_171351.jpg"
+    },
+    {
+      "key": "havana-maestros",
+      "before": "Ron Havana Club Selección de Maestros",
+      "after": "Ron Havana Club Añejo 5 años",
+      "priceCUP": 10200,
+      "evidence": "/catalog-sources/IMG_20261009_171408.jpg"
+    },
+    {
+      "key": "sangretoro-special",
+      "before": "Vino Sangre de Toro Special Selection",
+      "after": "Vino Torres Secret del Priorat",
+      "priceCUP": 9000,
+      "evidence": "/catalog-sources/IMG_20261009_171427.jpg"
     }
   ],
   "testsPassed": 24,

@@ -498,5 +498,125 @@
     "priceCUP": 10400,
     "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
     "prompt": "One Ron Santiago de Cuba 8 años round dark amber rum bottle, turquoise blue cap and neck foil, turquoise blue label with gold Ron Santiago DE CUBA lettering and central red band, gold circular sun medallion, red 8 marking, small green-white strip at bottom. Ensure age 8."
+  },
+  {
+    "sharedProductId": "santiago-blanca",
+    "name": "Ron Santiago de Cuba Carta Blanca",
+    "sourceImage": "/catalog-sources/IMG_20261009_171348.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171348.jpg",
+    "newImage": "/products/generated/santiago-blanca-20261010.webp",
+    "priceCUP": 6200,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One Ron Santiago de Cuba CARTA BLANCA round clear glass rum bottle with pale golden liquid, white cap/neck foil, cream label with navy Santiago de Cuba lettering, orange-red central band gold circular sun emblem, white-green guarantee strip bottom. Variant CARTA BLANCA."
+  },
+  {
+    "sharedProductId": "santiago-anejo",
+    "name": "Ron Santiago de Cuba Extra Seco",
+    "sourceImage": "/catalog-sources/IMG_20261009_171351.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171351.jpg",
+    "newImage": "/products/generated/santiago-anejo-20261010.webp",
+    "priceCUP": 10600,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One Ron Santiago de Cuba RON EXTRA SECO round clear amber rum bottle, dark grey green cap, dark grey green label with gold Santiago de Cuba lettering, red central band gold sun medallion, green guarantee strip bottom. This is RON EXTRA SECO, label reads so, not generic Añejo. Match middle group."
+  },
+  {
+    "sharedProductId": "santiago-oscura",
+    "name": "Ron Santiago de Cuba Añejo Tradicional",
+    "sourceImage": "/catalog-sources/IMG_20261009_171351.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171351.jpg",
+    "newImage": "/products/generated/santiago-oscura-20261010.webp",
+    "priceCUP": 9200,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One Ron Santiago de Cuba RON AÑEJO TRADICIONAL round dark amber rum bottle, pale mint green cap and neck foil, white label with navy Santiago lettering and red center gold sun medallion, dark lower panel guarantee strip. Match rightmost group. Actual label reads RON AÑEJO TRADICIONAL, not Carta Oscura."
+  },
+  {
+    "sharedProductId": "havana-profundo",
+    "name": "Ron Havana Club Profundo",
+    "sourceImage": "/catalog-sources/IMG_20261009_171405.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171405.jpg",
+    "newImage": "/products/generated/havana-profundo-20261010.webp",
+    "priceCUP": 5600,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One Havana Club PROFUNDO rum bottle clear round tall pale yellow spirit, blue cap, cream/grey label with red Havana Club logo, large black PROFUNDO lettering, green guarantee strip at base. Match center pale bottles."
+  },
+  {
+    "sharedProductId": "havana-maestros",
+    "name": "Ron Havana Club Añejo 5 años",
+    "sourceImage": "/catalog-sources/IMG_20261009_171408.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171408.jpg",
+    "newImage": "/products/generated/havana-maestros-20261010.webp",
+    "priceCUP": 10200,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One Havana Club AÑEJO 5 AÑOS bottle from LEFT-CENTER group directly above price 10200, gold cap, dark amber liquid, cream ornate shield label with red Havana Club round logo and prominent gold 5 near lower label. Actual product 5 AÑOS, not Selección de Maestros, not neighboring black label 7 Años. Reconstruct only this cream label gold cap bottle faithfully."
+  },
+  {
+    "sharedProductId": "havana-spiced",
+    "name": "Ron Havana Club Cuban Spiced",
+    "sourceImage": "/catalog-sources/IMG_20261009_171408.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171408.jpg",
+    "newImage": "/products/generated/havana-spiced-20261010.webp",
+    "priceCUP": 8670,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One Havana Club CUBAN SPICED bottle from far-left group above 8670 price, black glass, black screw cap with copper colored trim at neck, black label with large red/orange vertical CUBAN SPICED design and red Havana Club circular logo, green guarantee strip lower. Preserve matching variant."
+  },
+  {
+    "sharedProductId": "molinari",
+    "name": "Licor Molinari Extra",
+    "sourceImage": "/catalog-sources/IMG_20261009_171438.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171438.jpg",
+    "newImage": "/products/generated/molinari-20261010.webp",
+    "priceCUP": 11500,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One MOLINARI Sambuca extra clear tall bottle with clear liquid, black cap, white neck band with red borders and black cursive Molinari, large white front label with gold fine trim and big black MOLINARI, small Sambuca and extra, tiny red ITALY panel."
+  },
+  {
+    "sharedProductId": "legendario",
+    "name": "Legendario Elixir7años",
+    "sourceImage": "/catalog-sources/IMG_20261009_171417.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171417.jpg",
+    "newImage": "/products/generated/legendario-20261010.webp",
+    "priceCUP": 5700,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One Legendario Elixir de Cuba 7 años long dark narrow rum liqueur bottle, black screw cap, little cream medallion 7 on neck, large elongated cream ornate shield label Legendario in black and ELIXIR DE CUBA in gold, red circular brand medallion."
+  },
+  {
+    "sharedProductId": "havana-3",
+    "name": "Ron Havana Club3años Original",
+    "sourceImage": "/catalog-sources/IMG_20261009_171420.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171420.jpg",
+    "newImage": "/products/generated/havana-3-20261010.webp",
+    "priceCUP": 7140,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One Havana Club ORIGINAL AÑEJO 3 AÑOS tall clear glass bottle pale gold spirit, gold cap and gold neck medal with 3 AÑOS, large yellow front label with red Havana Club round logo and Original Añejo 3 Años title. Matching visible original."
+  },
+  {
+    "sharedProductId": "jagermeister-1l",
+    "name": "Licor Jägermeister",
+    "sourceImage": "/catalog-sources/IMG_20261009_171423.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171423.jpg",
+    "newImage": "/products/generated/jagermeister-1l-20261010.webp",
+    "priceCUP": 10900,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One Jägermeister ORIGINAL 1 L dark green broad rectangular bottle from left group, black cap, broad white label green border with deer head cross emblem on green circular panel, orange horizontal Jägermeister band, orange 56, small 1 L at lower label. Bottle ONLY 1 liter."
+  },
+  {
+    "sharedProductId": "jagermeister-700",
+    "name": "Licor Jägermeister700mL",
+    "sourceImage": "/catalog-sources/IMG_20261009_171423.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171423.jpg",
+    "newImage": "/products/generated/jagermeister-700-20261010.webp",
+    "priceCUP": 10900,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One Jägermeister ORIGINAL 700 mL dark green rectangular smaller bottle from right group, black cap, broad white label green border deer head cross emblem on green circular panel, orange Jägermeister band, orange 56, small 70 cl at lower label. Bottle ONLY 700 ml."
+  },
+  {
+    "sharedProductId": "sangretoro-special",
+    "name": "Vino Torres Secret del Priorat",
+    "sourceImage": "/catalog-sources/IMG_20261009_171427.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171427.jpg",
+    "newImage": "/products/generated/sangretoro-special-20261010.webp",
+    "priceCUP": 9000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One Familia TORRES Secret del Priorat red wine bottle from RIGHT group above 9000 price, dark glass tall slender bottle, orange red neck foil and cap, large white rectangular label with pink fine flowering vine border, black cursive Secret del Priorat, 2021, FAMILIA TORRES. Actual product TORRES Secret del Priorat, NOT Sangre de Toro. Reconstruct exact right matching wine."
   }
 ]
