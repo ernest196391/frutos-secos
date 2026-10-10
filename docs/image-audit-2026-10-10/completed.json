@@ -788,5 +788,85 @@
     "priceCUP": 5500,
     "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
     "prompt": "Isolate central Simply Nature GROUND FLAX SEEDS pouch, coral red top, blue band, cream bottom with two brown ground-seed leaf windows and blue flower, 16 OZ 1 LB 454g. Faithfully preserve original package. Create one complete individual commercial product image on pure white background, upright centered with generous margins and subtle shadow. Remove all shelf, price labels, other products. Preserve actual brand, variant, shape, colors and visible printing. Do not invent text, ingredients or claims. Provisional faithful reconstruction."
+  },
+  {
+    "sharedProductId": "organic-coconut-flour",
+    "name": "Harina de coco Nature’s Goodness Organic",
+    "sourceImage": "/catalog-sources/IMG_20261009_165507.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_165507.jpg",
+    "newImage": "/products/generated/organic-coconut-flour-20261010.webp",
+    "priceCUP": 3500,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Right Nature's Goodness Organic Coconut Flour brown resealable pouch with white top brand panel palm green logo, white coconut flesh graphic, NET WT 2 LB; preserve package visible printing. Create one complete individual commercial product image faithfully based on supplied photo on pure white background, upright centered generous margins subtle shadow. Remove shelves, price labels and all other products. Preserve actual brand, variant, shape, colors and visible printing. Do not invent text, ingredients or claims. Provisional faithful reconstruction."
+  },
+  {
+    "sharedProductId": "southern-mixed-salt",
+    "name": "Southern Grove Deluxe Mixed Nuts Sea Salt",
+    "sourceImage": "/catalog-sources/IMG_20261009_165512.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_165512.jpg",
+    "newImage": "/products/generated/southern-mixed-salt-20261010.webp",
+    "priceCUP": 20500,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Left black Southern Grove Deluxe MIXED NUTS with Sea Salt pouch purple center label, clear nut window, printed nuts top, NET WT 30 OZ 850g. Create one complete individual commercial product image faithfully based on supplied photo on pure white background, upright centered generous margins subtle shadow. Remove shelves, price labels and all other products. Preserve actual brand, variant, shape, colors and visible printing. Do not invent text, ingredients or claims. Provisional faithful reconstruction."
+  },
+  {
+    "sharedProductId": "southern-mixed-unsalt",
+    "name": "Southern Grove Deluxe Mixed Nuts Unsalted",
+    "sourceImage": "/catalog-sources/IMG_20261009_165512.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_165512.jpg",
+    "newImage": "/products/generated/southern-mixed-unsalt-20261010.webp",
+    "priceCUP": 20500,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Center black Southern Grove Deluxe MIXED NUTS Unsalted pouch bright green center label, clear nut window, printed nuts top, NET WT 30 OZ 850g. Create one complete individual commercial product image faithfully based on supplied photo on pure white background, upright centered generous margins subtle shadow. Remove shelves, price labels and all other products. Preserve actual brand, variant, shape, colors and visible printing. Do not invent text, ingredients or claims. Provisional faithful reconstruction."
+  },
+  {
+    "sharedProductId": "southern-almonds",
+    "name": "Almendras Southern Grove Whole Natural",
+    "sourceImage": "/catalog-sources/IMG_20261009_165512.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_165512.jpg",
+    "newImage": "/products/generated/southern-almonds-20261010.webp",
+    "priceCUP": 10000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Green Southern Grove Whole Natural ALMONDS resealable pouch with blue center label, clear window raw whole almonds, NET WT 14 OZ 397g. Create one complete individual commercial product image faithfully based on supplied photo on pure white background, upright centered generous margins subtle shadow. Remove shelves, price labels and all other products. Preserve actual brand, variant, shape, colors and visible printing. Do not invent text, ingredients or claims. Provisional faithful reconstruction."
+  },
+  {
+    "sharedProductId": "southern-pumpkin",
+    "name": "Semillas de calabaza Southern Grove Roasted Salted",
+    "sourceImage": "/catalog-sources/IMG_20261009_165512.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_165512.jpg",
+    "newImage": "/products/generated/southern-pumpkin-20261010.webp",
+    "priceCUP": 5000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Right orange Southern Grove PUMPKIN SEEDS Roasted with Salt resealable pouch clear window white shell pumpkin seeds, NET WT 6 OZ 170g. Create one complete individual commercial product image faithfully based on supplied photo on pure white background, upright centered generous margins subtle shadow. Remove shelves, price labels and all other products. Preserve actual brand, variant, shape, colors and visible printing. Do not invent text, ingredients or claims. Provisional faithful reconstruction."
+  },
+  {
+    "sharedProductId": "southern-cashews-salt",
+    "name": "Marañones Southern Grove Lightly Salted",
+    "sourceImage": "/catalog-sources/IMG_20261009_165516.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_165516.jpg",
+    "newImage": "/products/generated/southern-cashews-salt-20261010.webp",
+    "priceCUP": 8400,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Left blue Southern Grove Deluxe Whole CASHEWS Lightly Salted resealable pouch orange label, clear window cashews, NET WT 16 OZ 1 LB 454g. Create one complete individual commercial product image faithfully based on supplied photo on pure white background, upright centered generous margins subtle shadow. Remove shelves, price labels and all other products. Preserve actual brand, variant, shape, colors and visible printing. Do not invent text, ingredients or claims. Provisional faithful reconstruction."
+  },
+  {
+    "sharedProductId": "southern-cashews-unsalt",
+    "name": "Marañones Southern Grove Unsalted",
+    "sourceImage": "/catalog-sources/IMG_20261009_165516.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_165516.jpg",
+    "newImage": "/products/generated/southern-cashews-unsalt-20261010.webp",
+    "priceCUP": 8400,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Center purple Southern Grove Deluxe Whole CASHEWS Unsalted resealable pouch orange label, clear window cashews, NET WT 16 OZ 1 LB 454g. Create one complete individual commercial product image faithfully based on supplied photo on pure white background, upright centered generous margins subtle shadow. Remove shelves, price labels and all other products. Preserve actual brand, variant, shape, colors and visible printing. Do not invent text, ingredients or claims. Provisional faithful reconstruction."
+  },
+  {
+    "sharedProductId": "kirkland-almonds",
+    "name": "Kirkland Roasted Almonds Sea Salt",
+    "sourceImage": "/catalog-sources/IMG_20261009_165516.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_165516.jpg",
+    "newImage": "/products/generated/kirkland-almonds-20261010.webp",
+    "priceCUP": 22800,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Right pale blue Kirkland Signature ROASTED ALMONDS WITH SEA SALT resealable pouch, transparent window roasted almonds, printed almonds upper right, NET WT 40 OZ 2.5 LB 1134g. Create one complete individual commercial product image faithfully based on supplied photo on pure white background, upright centered generous margins subtle shadow. Remove shelves, price labels and all other products. Preserve actual brand, variant, shape, colors and visible printing. Do not invent text, ingredients or claims. Provisional faithful reconstruction."
   }
 ]

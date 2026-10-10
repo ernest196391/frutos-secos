@@ -5551,13 +5551,15 @@ export const products=[
     "c": "Alimentos",
     "p": 3500,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_165507.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/organic-coconut-flour-20261010.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_165507.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_165507.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-10-10"
   },
   {
     "id": 10170,
@@ -5567,13 +5569,15 @@ export const products=[
     "c": "Frutos secos",
     "p": 20500,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_165512.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/southern-mixed-salt-20261010.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_165512.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_165512.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-10-10"
   },
   {
     "id": 10171,
@@ -5583,13 +5587,15 @@ export const products=[
     "c": "Frutos secos",
     "p": 20500,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_165512.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/southern-mixed-unsalt-20261010.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_165512.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_165512.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-10-10"
   },
   {
     "id": 10172,
@@ -5599,13 +5605,15 @@ export const products=[
     "c": "Frutos secos",
     "p": 10000,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_165512.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/southern-almonds-20261010.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_165512.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_165512.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-10-10"
   },
   {
     "id": 10173,
@@ -5615,13 +5623,15 @@ export const products=[
     "c": "Frutos secos",
     "p": 5000,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_165512.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/southern-pumpkin-20261010.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_165512.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_165512.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-10-10"
   },
   {
     "id": 10174,
@@ -5631,13 +5641,15 @@ export const products=[
     "c": "Frutos secos",
     "p": 8400,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_165516.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/southern-cashews-salt-20261010.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_165516.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_165516.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-10-10"
   },
   {
     "id": 10175,
@@ -5647,13 +5659,15 @@ export const products=[
     "c": "Frutos secos",
     "p": 8400,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_165516.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/southern-cashews-unsalt-20261010.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_165516.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_165516.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-10-10"
   },
   {
     "id": 10176,
@@ -5663,13 +5677,15 @@ export const products=[
     "c": "Frutos secos",
     "p": 22800,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_165516.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/kirkland-almonds-20261010.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_165516.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_165516.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-10-10"
   },
   {
     "id": 10177,
