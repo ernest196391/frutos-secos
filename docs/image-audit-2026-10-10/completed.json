@@ -108,5 +108,105 @@
     "priceCUP": 9000,
     "review": "brand, variant, packaging, background visually checked; provisional reconstruction",
     "prompt": "One individual product faithful to supplied store photo, centered on white studio background, preserve visible brand/variant/colors/shape, remove other products and price labels, no added claims."
+  },
+  {
+    "sharedProductId": "havana-reserva",
+    "name": "Ron Havana Club Añejo Reserva",
+    "sourceImage": "/catalog-sources/IMG_20261009_171016.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171016.jpg",
+    "newImage": "/products/generated/havana-reserva-20261010.webp",
+    "priceCUP": 8500,
+    "prompt": "ONE individual commercial ecommerce product photograph faithful to reference. Target: Havana Club Añejo Reserva rum, dark amber tall bottle, bronze screw cap and bronze/brown label with red Havana Club medallion, gold sunray rays and scripted Reserva, small 70 cl. Use exact visible Reserva label, not Ritual or Especial. Preserve exact visible brand, variant, bottle silhouette, cap and label colors. Entire bottle upright front-on centered on pure white square backdrop, realistic studio light, subtle contact shadow, margins, 80% image height. Remove shelf, prices and other products; no extra props, price text, advertising copy, unsupported claims or watermark.",
+    "review": "brand, variant and packaging visually checked; provisional reconstruction"
+  },
+  {
+    "sharedProductId": "santacarolina-rose",
+    "name": "Vino Santa Carolina Reservado Rosé",
+    "sourceImage": "/catalog-sources/IMG_20261009_171031.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171031.jpg",
+    "newImage": "/products/generated/santacarolina-rose-20261010.webp",
+    "priceCUP": 5000,
+    "prompt": "ONE individual commercial ecommerce product photograph faithful to reference. Target: Santa Carolina RESERVADO Rosé 2024, transparent tall bottle with rose wine, copper-pink screw cap, cream label with SANTA CAROLINA, RESERVADO, script Rosé, fine brown vineyard and botanical engraving and small round gold medallion. Preserve exact visible brand, variant, bottle silhouette, cap and label colors. Entire bottle upright front-on centered on pure white square backdrop, realistic studio light, subtle contact shadow, margins, 80% image height. Remove shelf, prices and other products; no extra props, price text, advertising copy, unsupported claims or watermark.",
+    "review": "brand, variant and packaging visually checked; provisional reconstruction"
+  },
+  {
+    "sharedProductId": "santacarolina-sauvignon",
+    "name": "Vino Santa Carolina Reservado Sauvignon Blanc",
+    "sourceImage": "/catalog-sources/IMG_20261009_171031.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171031.jpg",
+    "newImage": "/products/generated/santacarolina-sauvignon-20261010.webp",
+    "priceCUP": 5000,
+    "prompt": "ONE individual commercial ecommerce product photograph faithful to reference. Target: Santa Carolina RESERVADO SAUVIGNON BLANC 2024, dark green tall bottle and lime-gold screw cap, cream label SANTA CAROLINA RESERVADO black, vineyard scene green/brown with red building, SAUVIGNON BLANC on bottom. Preserve exact visible brand, variant, bottle silhouette, cap and label colors. Entire bottle upright front-on centered on pure white square backdrop, realistic studio light, subtle contact shadow, margins, 80% image height. Remove shelf, prices and other products; no extra props, price text, advertising copy, unsupported claims or watermark.",
+    "review": "brand, variant and packaging visually checked; provisional reconstruction"
+  },
+  {
+    "sharedProductId": "celeste-verdejo",
+    "name": "Vino Celeste Verdejo",
+    "sourceImage": "/catalog-sources/IMG_20261009_171031.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171031.jpg",
+    "newImage": "/products/generated/celeste-verdejo-20261010.webp",
+    "priceCUP": 3500,
+    "prompt": "ONE individual commercial ecommerce product photograph faithful to reference. Target: CELESTE VERDEJO, tall dark green bottle with silver screw cap, large cream-white label with delicate black star constellation lines and CELESTE VERDEJO 2023, RUEDA, separated lower band PAGO DEL CIELO. Preserve exact visible brand, variant, bottle silhouette, cap and label colors. Entire bottle upright front-on centered on pure white square backdrop, realistic studio light, subtle contact shadow, margins, 80% image height. Remove shelf, prices and other products; no extra props, price text, advertising copy, unsupported claims or watermark.",
+    "review": "brand, variant and packaging visually checked; provisional reconstruction"
+  },
+  {
+    "sharedProductId": "vinasol",
+    "name": "Vino Viña Sol Original",
+    "sourceImage": "/catalog-sources/IMG_20261009_171031.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171031.jpg",
+    "newImage": "/products/generated/vinasol-20261010.webp",
+    "priceCUP": 3500,
+    "prompt": "ONE individual commercial ecommerce product photograph faithful to reference. Target: ViñaSol Original white wine bottle, narrow dark green tall sloping shoulder glass, cream cap with fine infinity lines, cream front label with sun emblem and ViñaSol script, green lower label band ORIGINAL, small gold circular medallion upper body. Preserve exact visible brand, variant, bottle silhouette, cap and label colors. Entire bottle upright front-on centered on pure white square backdrop, realistic studio light, subtle contact shadow, margins, 80% image height. Remove shelf, prices and other products; no extra props, price text, advertising copy, unsupported claims or watermark.",
+    "review": "brand, variant and packaging visually checked; provisional reconstruction"
+  },
+  {
+    "sharedProductId": "vina-esmeralda",
+    "name": "Vino Viña Esmeralda",
+    "sourceImage": "/catalog-sources/IMG_20261009_171031.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171031.jpg",
+    "newImage": "/products/generated/vina-esmeralda-20261010.webp",
+    "priceCUP": 4000,
+    "prompt": "ONE individual commercial ecommerce product photograph faithful to reference. Target: Viña Esmeralda white wine bottle at far right, tall dark green slender sloping shoulder bottle, white screw cap, cream oval front label MEDITERRANEAN Viña Esmeralda 2023 in fine black script. Preserve exact visible brand, variant, bottle silhouette, cap and label colors. Entire bottle upright front-on centered on pure white square backdrop, realistic studio light, subtle contact shadow, margins, 80% image height. Remove shelf, prices and other products; no extra props, price text, advertising copy, unsupported claims or watermark.",
+    "review": "brand, variant and packaging visually checked; provisional reconstruction"
+  },
+  {
+    "sharedProductId": "sangretoro-red",
+    "name": "Vino Sangre de Toro Chardonnay Selection",
+    "sourceImage": "/catalog-sources/IMG_20261009_171034.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171034.jpg",
+    "newImage": "/products/generated/sangretoro-red-20261010.webp",
+    "priceCUP": 5000,
+    "prompt": "ONE individual commercial ecommerce product photograph faithful to reference. Target: Sangre de Toro CHARDONNAY SELECTION, the BLACK LABEL bottle at left, tall dark green sloping-shoulder bottle, black cap, black label with pale gold Sangre de Toro ALMA DE ESPAÑA, dark ornamental bull artwork, red CHARDONNAY SELECTION at bottom. This is Chardonnay white wine, NOT a red wine; preserve black label. Preserve exact visible brand, variant, bottle silhouette, cap and label colors. Entire bottle upright front-on centered on pure white square backdrop, realistic studio light, subtle contact shadow, margins, 80% image height. Remove shelf, prices and other products; no extra props, price text, advertising copy, unsupported claims or watermark.",
+    "review": "brand, variant and packaging visually checked; provisional reconstruction"
+  },
+  {
+    "sharedProductId": "sangretoro-white",
+    "name": "Vino Sangre de Toro blanco",
+    "sourceImage": "/catalog-sources/IMG_20261009_171034.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171034.jpg",
+    "newImage": "/products/generated/sangretoro-white-20261010.webp",
+    "priceCUP": 5000,
+    "prompt": "ONE individual commercial ecommerce product photograph faithful to reference. Target: Sangre de Toro BLANCO, tall dark green sloping-shoulder bottle, red screw cap, white rectangular label with pale grey decorative bull silhouette, red Sangre de Toro ALMA DE ESPAÑA, small BLANCO near bottom and BODEGAS TORRES. Preserve exact visible brand, variant, bottle silhouette, cap and label colors. Entire bottle upright front-on centered on pure white square backdrop, realistic studio light, subtle contact shadow, margins, 80% image height. Remove shelf, prices and other products; no extra props, price text, advertising copy, unsupported claims or watermark.",
+    "review": "brand, variant and packaging visually checked; provisional reconstruction"
+  },
+  {
+    "sharedProductId": "sangretoro-rose",
+    "name": "Vino Sangre de Toro rosado",
+    "sourceImage": "/catalog-sources/IMG_20261009_171036.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171036.jpg",
+    "newImage": "/products/generated/sangretoro-rose-20261010.webp",
+    "priceCUP": 5000,
+    "prompt": "ONE individual commercial ecommerce product photograph faithful to reference. Target: Sangre de Toro ROSÉ, tall transparent sloping-shoulder bottle with pale rose wine and red screw cap, white rectangular label with pale decorative bull, red Sangre de Toro ALMA DE ESPAÑA and ROSÉ lower right. Preserve exact visible brand, variant, bottle silhouette, cap and label colors. Entire bottle upright front-on centered on pure white square backdrop, realistic studio light, subtle contact shadow, margins, 80% image height. Remove shelf, prices and other products; no extra props, price text, advertising copy, unsupported claims or watermark.",
+    "review": "brand, variant and packaging visually checked; provisional reconstruction"
+  },
+  {
+    "sharedProductId": "trigo-gloria",
+    "name": "Pan rallado Orena",
+    "sourceImage": "/catalog-sources/IMG_20261009_170022.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170022.jpg",
+    "newImage": "/products/generated/trigo-gloria-20261010.webp",
+    "priceCUP": 1300,
+    "prompt": "Faithful Orena Pan Rallado 250 g package from source, individual white background catalog photo.",
+    "review": "brand, variant and packaging visually checked; provisional reconstruction"
   }
 ]
