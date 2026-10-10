@@ -1,15 +1,13 @@
 {
   "date": "2026-10-10",
-  "publishedDataCommit": "ef4d17004dd36aec8953d7dde01cf986dea1bf12",
-  "deployment": "dpl_Dh8NWp2dwnvuCQ3bc5YAqykQbmpW",
+  "publishedDataCommit": "ba72e4b601a079197277a992ca9a0b7f05241812",
+  "deployment": "dpl_jDprFejPKtybZp93N4en25ccScwT",
   "deploymentStatus": "READY",
-  "publishedNewImages": 79,
-  "individualImages": 470,
-  "remainingStorePhotos": 111,
-  "verifiedImageDownloads": 74,
+  "individualImages": 480,
+  "remainingStorePhotos": 101,
   "testsPassed": 24,
-  "build": "passed",
-  "nextBatchStatus": "Batches 11 and 12: 18 images integrated; awaiting publication verification",
+  "build": "Previous deployment passed; current deployment pending. Local Next.js dependencies unavailable.",
+  "nextBatchStatus": "Batches 13 and 14: 10 reviewed images integrated; deployment verification pending",
   "nextBatch": [],
   "resumedBatchKeys": [
     "organic-coconut-flour",
@@ -29,6 +27,21 @@
     {
       "key": "purely-vanilla-granola",
       "note": "Source shows Purely Elizabeth Chocolate Chip 22 oz with 15000 sign; catalog Vanilla Almond 6500 cannot be confirmed from this photo."
+    },
+    {
+      "key": "welchs-grape",
+      "note": "Visible foreground jar is Pampa Grape, Welch label partly obscured. Original retained."
+    },
+    {
+      "key": "coffee-whitener",
+      "note": "Source shows Sunrise Coffee Whitener; catalog says Country. Needs correction review."
+    },
+    {
+      "key": "nescafe-clasico",
+      "note": "Catalog price27500 differs from source sign23500. Existing price retained."
     }
-  ]
+  ],
+  "verifiedImagesThisSession": 26,
+  "supabaseFunctionVersion": 16,
+  "supabaseCatalogNamesVerified": true
 }

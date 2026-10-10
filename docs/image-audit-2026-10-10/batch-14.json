@@ -1,0 +1,32 @@
+[
+  {
+    "key": "nescafe-small",
+    "path": "/workspace/scratch/6151702d6358/generated_images/exec-d841ff9d-0850-4f1e-b85a-34ea4571c26d.png",
+    "prompt": "Edit this shop photograph. Isolate ONLY one small Nescafé Dolca instant coffee glass jar with red cap, black and red label and white coffee cup. One whole product upright centered on pure white seamless background with subtle contact shadow. Square studio product photograph. Preserve real brand, shape, graphics, colors and visible text from source. Do not invent unreadable weight or wording. No shelf, other items, price signs, props or added captions.",
+    "batch": "2026-10-10-14"
+  },
+  {
+    "key": "nescafe-tasters",
+    "path": "/workspace/scratch/6151702d6358/generated_images/exec-16a028b8-17b0-4f90-85e8-e5b27f0bbe7a.png",
+    "prompt": "Edit this shop photograph. Isolate ONLY one tall rectangular Nescafé Taster's Choice House Blend jar, square black cap and red label,210 cups. One whole product upright centered on pure white seamless background with subtle contact shadow. Square studio product photograph. Preserve real brand, shape, graphics, colors and visible text from source. Do not invent unreadable weight or wording. No shelf, other items, price signs, props or added captions.",
+    "batch": "2026-10-10-14"
+  },
+  {
+    "key": "nescafe-clasico",
+    "path": "/workspace/scratch/6151702d6358/generated_images/exec-aec2cbc3-4e73-4da1-93b5-b515c1da7751.png",
+    "prompt": "Edit this shop photograph. Isolate ONLY one large Nescafé Clásico coffee glass jar on far right, brown cap, red label,10.5oz300g. One whole product upright centered on pure white seamless background with subtle contact shadow. Square studio product photograph. Preserve real brand, shape, graphics, colors and visible text from source. Do not invent unreadable weight or wording. No shelf, other items, price signs, props or added captions.",
+    "batch": "2026-10-10-14"
+  },
+  {
+    "key": "coffeemate-frascos",
+    "path": "/workspace/scratch/6151702d6358/generated_images/exec-28175576-8386-48ed-9398-a4a6f0761548.png",
+    "prompt": "Edit this shop photograph. Isolate ONLY one red Nestlé Coffee Mate Original cylindrical powdered creamer jar, red lid, heart logo and coffee mug, preserve warning octagon. One whole product upright centered on pure white seamless background with subtle contact shadow. Square studio product photograph. Preserve real brand, shape, graphics, colors and visible text from source. Do not invent unreadable weight or wording. No shelf, other items, price signs, props or added captions. Correction: Correct this Coffee Mate product image: the black octagonal label must say EXCESO GRASAS SATURADAS, not EXCESO AZÚCARES. The small white bar below says SECRETARÍA DE SALUD. Preserve everything else exactly, red cylindrical container, logo, white background, shape, lighting. No other changes.",
+    "batch": "2026-10-10-14"
+  },
+  {
+    "key": "coffee-mate-bolsa",
+    "path": "/workspace/scratch/6151702d6358/generated_images/exec-c966e46c-321b-445d-b19f-1d1b8102353f.png",
+    "prompt": "Edit this shop photograph. Isolate ONLY one Nestlé Coffee Mate Original red and yellow bag at right, Rinde20tazas, remove handwritten2200 sticker and reconstruct underlying cup. One whole product upright centered on pure white seamless background with subtle contact shadow. Square studio product photograph. Preserve real brand, shape, graphics, colors and visible text from source. Do not invent unreadable weight or wording. No shelf, other items, price signs, props or added captions.",
+    "batch": "2026-10-10-14"
+  }
+]

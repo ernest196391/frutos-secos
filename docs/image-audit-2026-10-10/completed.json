@@ -1048,5 +1048,105 @@
     "priceCUP": 1100,
     "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
     "prompt": "Edit target shop photograph. Extract ONLY One plastic dark red Gourmet Vinagre de vino rojo bottle, red cap with cream top, red green label, 500 ml, center. Preserve actual ribbed bottle shape and label design. Square commercial photograph, one complete product upright centered on pure white seamless backdrop with subtle contact shadow and generous margins. Preserve actual package shape, logo, colors, variant, graphics and visible wording. No invented details, prices, props or extra captions. Remove shelf and other products."
+  },
+  {
+    "sharedProductId": "hersheys-syrup",
+    "name": "Sirope de chocolate Hershey's",
+    "sourceImage": "/catalog-sources/IMG_20261009_170311_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170311_1.jpg",
+    "newImage": "/products/generated/hersheys-syrup-20261010.webp",
+    "priceCUP": 13000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Edit this shop photograph. Isolate ONLY one Hershey's chocolate syrup dark brown jug with handle and red oval label,48oz. One whole product upright centered on pure white seamless background with subtle contact shadow. Square studio product photograph. Preserve real brand, shape, graphics, colors and visible text from source. Do not invent unreadable weight or wording. No shelf, other items, price signs, props or added captions."
+  },
+  {
+    "sharedProductId": "helios-manzana",
+    "name": "Mermelada Helios Manzana",
+    "sourceImage": "/catalog-sources/IMG_20261009_170320_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170320_1.jpg",
+    "newImage": "/products/generated/helios-manzana-20261010.webp",
+    "priceCUP": 3900,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Edit this shop photograph. Isolate ONLY one Helios Manzana apple jam glass jar at center-right, black lid, cream label with apple, preserve actual label. One whole product upright centered on pure white seamless background with subtle contact shadow. Square studio product photograph. Preserve real brand, shape, graphics, colors and visible text from source. Do not invent unreadable weight or wording. No shelf, other items, price signs, props or added captions."
+  },
+  {
+    "sharedProductId": "helios-ciruela-kiwi",
+    "name": "Mermelada Helios Ciruela y Kiwi",
+    "sourceImage": "/catalog-sources/IMG_20261009_170320_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170320_1.jpg",
+    "newImage": "/products/generated/helios-ciruela-kiwi-20261010.webp",
+    "priceCUP": 3900,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Edit this shop photograph. Isolate ONLY one Helios Ciruela y Kiwi jam jar at center, black lid, cream label. One whole product upright centered on pure white seamless background with subtle contact shadow. Square studio product photograph. Preserve real brand, shape, graphics, colors and visible text from source. Do not invent unreadable weight or wording. No shelf, other items, price signs, props or added captions."
+  },
+  {
+    "sharedProductId": "helios-fresa-arandano",
+    "name": "Mermelada Helios Fresa y Arándano rojo",
+    "sourceImage": "/catalog-sources/IMG_20261009_170320_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170320_1.jpg",
+    "newImage": "/products/generated/helios-fresa-arandano-20261010.webp",
+    "priceCUP": 3900,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Edit this shop photograph. Isolate ONLY one Helios Fresa y Arándano rojo jam jar, black lid and cream strawberry label. One whole product upright centered on pure white seamless background with subtle contact shadow. Square studio product photograph. Preserve real brand, shape, graphics, colors and visible text from source. Do not invent unreadable weight or wording. No shelf, other items, price signs, props or added captions."
+  },
+  {
+    "sharedProductId": "caramel-syrup",
+    "name": "Caramel Syrup",
+    "sourceImage": "/catalog-sources/IMG_20261009_170320_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170320_1.jpg",
+    "newImage": "/products/generated/caramel-syrup-20261010.webp",
+    "priceCUP": 2400,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Edit this shop photograph. Isolate ONLY one orange Caramel Syrup squeeze bottle at right of jam, brown cap,12oz340g. One whole product upright centered on pure white seamless background with subtle contact shadow. Square studio product photograph. Preserve real brand, shape, graphics, colors and visible text from source. Do not invent unreadable weight or wording. No shelf, other items, price signs, props or added captions."
+  },
+  {
+    "sharedProductId": "nescafe-small",
+    "name": "Café Nescafé frasco pequeño",
+    "sourceImage": "/catalog-sources/IMG_20261009_170330.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170330.jpg",
+    "newImage": "/products/generated/nescafe-small-20261010.webp",
+    "priceCUP": 5500,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Edit this shop photograph. Isolate ONLY one small Nescafé Dolca instant coffee glass jar with red cap, black and red label and white coffee cup. One whole product upright centered on pure white seamless background with subtle contact shadow. Square studio product photograph. Preserve real brand, shape, graphics, colors and visible text from source. Do not invent unreadable weight or wording. No shelf, other items, price signs, props or added captions."
+  },
+  {
+    "sharedProductId": "nescafe-tasters",
+    "name": "Café Nescafé Taster's Choice",
+    "sourceImage": "/catalog-sources/IMG_20261009_170330.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170330.jpg",
+    "newImage": "/products/generated/nescafe-tasters-20261010.webp",
+    "priceCUP": 26000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Edit this shop photograph. Isolate ONLY one tall rectangular Nescafé Taster's Choice House Blend jar, square black cap and red label,210 cups. One whole product upright centered on pure white seamless background with subtle contact shadow. Square studio product photograph. Preserve real brand, shape, graphics, colors and visible text from source. Do not invent unreadable weight or wording. No shelf, other items, price signs, props or added captions."
+  },
+  {
+    "sharedProductId": "nescafe-clasico",
+    "name": "Café Nescafé Clásico",
+    "sourceImage": "/catalog-sources/IMG_20261009_170330.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170330.jpg",
+    "newImage": "/products/generated/nescafe-clasico-20261010.webp",
+    "priceCUP": 27500,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Edit this shop photograph. Isolate ONLY one large Nescafé Clásico coffee glass jar on far right, brown cap, red label,10.5oz300g. One whole product upright centered on pure white seamless background with subtle contact shadow. Square studio product photograph. Preserve real brand, shape, graphics, colors and visible text from source. Do not invent unreadable weight or wording. No shelf, other items, price signs, props or added captions."
+  },
+  {
+    "sharedProductId": "coffeemate-frascos",
+    "name": "Nestlé Coffee Mate frasco",
+    "sourceImage": "/catalog-sources/IMG_20261009_170333.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170333.jpg",
+    "newImage": "/products/generated/coffeemate-frascos-20261010.webp",
+    "priceCUP": 5800,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Edit this shop photograph. Isolate ONLY one red Nestlé Coffee Mate Original cylindrical powdered creamer jar, red lid, heart logo and coffee mug, preserve warning octagon. One whole product upright centered on pure white seamless background with subtle contact shadow. Square studio product photograph. Preserve real brand, shape, graphics, colors and visible text from source. Do not invent unreadable weight or wording. No shelf, other items, price signs, props or added captions. Correction: Correct this Coffee Mate product image: the black octagonal label must say EXCESO GRASAS SATURADAS, not EXCESO AZÚCARES. The small white bar below says SECRETARÍA DE SALUD. Preserve everything else exactly, red cylindrical container, logo, white background, shape, lighting. No other changes."
+  },
+  {
+    "sharedProductId": "coffee-mate-bolsa",
+    "name": "Nestlé Coffee Mate bolsa",
+    "sourceImage": "/catalog-sources/IMG_20261009_170336.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170336.jpg",
+    "newImage": "/products/generated/coffee-mate-bolsa-20261010.webp",
+    "priceCUP": 2200,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Edit this shop photograph. Isolate ONLY one Nestlé Coffee Mate Original red and yellow bag at right, Rinde20tazas, remove handwritten2200 sticker and reconstruct underlying cup. One whole product upright centered on pure white seamless background with subtle contact shadow. Square studio product photograph. Preserve real brand, shape, graphics, colors and visible text from source. Do not invent unreadable weight or wording. No shelf, other items, price signs, props or added captions."
   }
 ]

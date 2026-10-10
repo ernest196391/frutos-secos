@@ -6131,13 +6131,15 @@ export const products=[
     "c": "Alimentos",
     "p": 13000,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170311_1.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/hersheys-syrup-20261010.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170311_1.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170311_1.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-10-13"
   },
   {
     "id": 10203,
@@ -6163,13 +6165,15 @@ export const products=[
     "c": "Alimentos",
     "p": 3900,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170320_1.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/helios-manzana-20261010.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170320_1.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170320_1.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-10-13"
   },
   {
     "id": 10205,
@@ -6179,13 +6183,15 @@ export const products=[
     "c": "Alimentos",
     "p": 3900,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170320_1.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/helios-ciruela-kiwi-20261010.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170320_1.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170320_1.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-10-13"
   },
   {
     "id": 10206,
@@ -6195,13 +6201,15 @@ export const products=[
     "c": "Alimentos",
     "p": 3900,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170320_1.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/helios-fresa-arandano-20261010.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170320_1.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170320_1.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-10-13"
   },
   {
     "id": 10207,
@@ -6211,13 +6219,15 @@ export const products=[
     "c": "Alimentos",
     "p": 2400,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170320_1.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/caramel-syrup-20261010.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170320_1.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170320_1.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-10-13"
   },
   {
     "id": 10208,
@@ -6227,13 +6237,15 @@ export const products=[
     "c": "Alimentos",
     "p": 5500,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170330.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/nescafe-small-20261010.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170330.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170330.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-10-14"
   },
   {
     "id": 10209,
@@ -6243,13 +6255,15 @@ export const products=[
     "c": "Alimentos",
     "p": 26000,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170330.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/nescafe-tasters-20261010.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170330.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170330.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-10-14"
   },
   {
     "id": 10210,
@@ -6259,13 +6273,15 @@ export const products=[
     "c": "Alimentos",
     "p": 27500,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170330.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/nescafe-clasico-20261010.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170330.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170330.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-10-14"
   },
   {
     "id": 10211,
@@ -6275,13 +6291,15 @@ export const products=[
     "c": "Alimentos",
     "p": 5800,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170333.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/coffeemate-frascos-20261010.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170333.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170333.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-10-14"
   },
   {
     "id": 10212,
@@ -6291,13 +6309,15 @@ export const products=[
     "c": "Alimentos",
     "p": 2200,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170336.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/coffee-mate-bolsa-20261010.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170336.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170336.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-10-14"
   },
   {
     "id": 10213,
