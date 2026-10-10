@@ -738,5 +738,55 @@
     "priceCUP": 33600,
     "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
     "prompt": "One rectangular cardboard retail box Kirkland Signature TRAIL MIX SNACK PACKS 28, cream top with green trees illustration, bright lime lower panel, printed grey snack packs and colorful nuts raisins chocolate candy serving photo. Whole box front slight side visible, not individual packet."
+  },
+  {
+    "sharedProductId": "simply-coconut-oil",
+    "name": "Aceite de coco Simply Nature Organic",
+    "sourceImage": "/catalog-sources/IMG_20261009_165457.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_165457.jpg",
+    "newImage": "/products/generated/simply-coconut-oil-20261010.webp",
+    "priceCUP": 9500,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Isolate the left Simply Nature Organic Unrefined Coconut Oil clear cylindrical jar with white screw cap, green cream brown label and coconut graphic, 14 fl oz 414 ml. Faithfully preserve original package. Create one complete individual commercial product image on pure white background, upright centered with generous margins and subtle shadow. Remove all shelf, price labels, other products. Preserve actual brand, variant, shape, colors and visible printing. Do not invent text, ingredients or claims. Provisional faithful reconstruction."
+  },
+  {
+    "sharedProductId": "tuscan-caesar",
+    "name": "Crutones Tuscan Garden Classic Caesar",
+    "sourceImage": "/catalog-sources/IMG_20261009_165457.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_165457.jpg",
+    "newImage": "/products/generated/tuscan-caesar-20261010.webp",
+    "priceCUP": 4000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Isolate one blue Tuscan Garden CLASSIC CAESAR CROUTONS pouch, front salad bowl art and cream dressing jug, NET WT 5 OZ 142g. Faithfully preserve original package. Create one complete individual commercial product image on pure white background, upright centered with generous margins and subtle shadow. Remove all shelf, price labels, other products. Preserve actual brand, variant, shape, colors and visible printing. Do not invent text, ingredients or claims. Provisional faithful reconstruction."
+  },
+  {
+    "sharedProductId": "tuscan-italian",
+    "name": "Crutones Tuscan Garden Italian Seasoned",
+    "sourceImage": "/catalog-sources/IMG_20261009_165457.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_165457.jpg",
+    "newImage": "/products/generated/tuscan-italian-20261010.webp",
+    "priceCUP": 4000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Isolate right red Tuscan Garden ITALIAN SEASONED CROUTONS pouch, salad bowl art, NET WT 5 OZ 142g. Faithfully preserve original package. Create one complete individual commercial product image on pure white background, upright centered with generous margins and subtle shadow. Remove all shelf, price labels, other products. Preserve actual brand, variant, shape, colors and visible printing. Do not invent text, ingredients or claims. Provisional faithful reconstruction."
+  },
+  {
+    "sharedProductId": "simply-quinoa",
+    "name": "Quinoa Simply Nature Organic",
+    "sourceImage": "/catalog-sources/IMG_20261009_165507.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_165507.jpg",
+    "newImage": "/products/generated/simply-quinoa-20261010.webp",
+    "priceCUP": 7600,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Isolate one Simply Nature Organic Quinoa pouch, green top, gold band, cream lower, transparent quinoa-shaped window with white grains, 16 OZ 1 LB 454g. Faithfully preserve original package. Create one complete individual commercial product image on pure white background, upright centered with generous margins and subtle shadow. Remove all shelf, price labels, other products. Preserve actual brand, variant, shape, colors and visible printing. Do not invent text, ingredients or claims. Provisional faithful reconstruction."
+  },
+  {
+    "sharedProductId": "simply-flax",
+    "name": "Linaza molida Simply Nature Organic",
+    "sourceImage": "/catalog-sources/IMG_20261009_165507.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_165507.jpg",
+    "newImage": "/products/generated/simply-flax-20261010.webp",
+    "priceCUP": 5500,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Isolate central Simply Nature GROUND FLAX SEEDS pouch, coral red top, blue band, cream bottom with two brown ground-seed leaf windows and blue flower, 16 OZ 1 LB 454g. Faithfully preserve original package. Create one complete individual commercial product image on pure white background, upright centered with generous margins and subtle shadow. Remove all shelf, price labels, other products. Preserve actual brand, variant, shape, colors and visible printing. Do not invent text, ingredients or claims. Provisional faithful reconstruction."
   }
 ]

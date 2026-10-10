@@ -4,9 +4,9 @@
   "pricedProducts": 477,
   "pricesPending": 104,
   "individualImagesBefore": 365,
-  "newIndividualImages": 74,
-  "individualImagesNow": 439,
-  "remainingStorePhotos": 142,
+  "newIndividualImages": 79,
+  "individualImagesNow": 444,
+  "remainingStorePhotos": 137,
   "missingLocalAssets": 0,
   "invalidLocalImageFiles": 0,
   "nameCorrections": [
@@ -86,15 +86,15 @@
   ],
   "testsPassed": 24,
   "build": "passed",
-  "liveVerifiedNewImages": 32,
+  "liveVerifiedNewImages": 74,
   "publicAssetsVerified": {
     "uniqueAssets": 636,
     "failures": 0,
     "method": "HEAD each public img and sourceImage URL; retry once",
     "catalogSnapshot": "27 new images; c5e761bc4edeecce0d56dcac1e5166a3a3804bea"
   },
-  "ordersFunctionVersion": 12,
-  "latestCatalogCommit": "efe5e399b89f32376fffb152e72ed31be951eff3",
+  "ordersFunctionVersion": 15,
+  "latestCatalogCommit": "9919ebcc3d743a537b1c10dcc199295a14d4e15d",
   "latestDeploymentStatus": "READY",
-  "latestDeploymentId": "dpl_FpEM8kERNKsZFMfCtK5Yct5E9toV"
+  "latestDeploymentId": "dpl_Hb9nmk5mpL3hWfrc4x5PvsKkdZPS"
 }
