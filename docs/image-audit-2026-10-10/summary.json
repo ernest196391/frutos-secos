@@ -4,9 +4,9 @@
   "pricedProducts": 477,
   "pricesPending": 104,
   "individualImagesBefore": 365,
-  "newIndividualImages": 27,
-  "individualImagesNow": 392,
-  "remainingStorePhotos": 189,
+  "newIndividualImages": 32,
+  "individualImagesNow": 397,
+  "remainingStorePhotos": 184,
   "missingLocalAssets": 0,
   "invalidLocalImageFiles": 0,
   "nameCorrections": [
@@ -33,6 +33,13 @@
       "before": "Chips de plátano Nestia Sea Salt",
       "after": "Chips de plátano Nezka Sea Salt",
       "priceCUP": 9100
+    },
+    {
+      "key": "renypicot-mantequilla",
+      "before": "Mantequilla Reny Picot Tradicional",
+      "after": "Queso para untar Reny Picot Tradicional",
+      "priceCUP": 2880,
+      "evidence": "Original IMG_20261009_171308_1.jpg lid reads Queso para untar"
     }
   ],
   "testsPassed": 24,

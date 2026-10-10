@@ -268,5 +268,55 @@
     "priceCUP": 4960,
     "review": "brand and variant visually reviewed; provisional reconstruction; original retained",
     "prompt": "Individual product reconstructed from original photo; white studio background; no price sticker."
+  },
+  {
+    "sharedProductId": "bravo-mortadela",
+    "name": "Mortadela Bravo Criolla",
+    "sourceImage": "/catalog-sources/IMG_20261009_171247.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171247.jpg",
+    "newImage": "/products/generated/bravo-mortadela-20261010.webp",
+    "priceCUP": 5060,
+    "review": "brand and variant visually reviewed; provisional reconstruction; original retained",
+    "prompt": "Faithful individual product reconstruction; no price sticker or invented ingredient claims."
+  },
+  {
+    "sharedProductId": "bravo-jamon-york",
+    "name": "Jamón Bravo York",
+    "sourceImage": "/catalog-sources/IMG_20261009_171605_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171605_1.jpg",
+    "newImage": "/products/generated/bravo-jamon-york-20261010.webp",
+    "priceCUP": 7015,
+    "review": "brand and variant visually reviewed; provisional reconstruction; original retained",
+    "prompt": "Faithful individual product reconstruction; no price sticker or invented ingredient claims."
+  },
+  {
+    "sharedProductId": "bravo-pasta-boca",
+    "name": "Pasta de bocadito Bravo tradicional",
+    "sourceImage": "/catalog-sources/IMG_20261009_171304.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171304.jpg",
+    "newImage": "/products/generated/bravo-pasta-boca-20261010.webp",
+    "priceCUP": 1720,
+    "review": "brand and variant visually reviewed; provisional reconstruction; original retained",
+    "prompt": "Faithful individual product reconstruction; no price sticker or invented ingredient claims."
+  },
+  {
+    "sharedProductId": "renypicot-mantequilla",
+    "name": "Queso para untar Reny Picot Tradicional",
+    "sourceImage": "/catalog-sources/IMG_20261009_171306.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171306.jpg",
+    "newImage": "/products/generated/renypicot-mantequilla-20261010.webp",
+    "priceCUP": 2880,
+    "review": "brand and variant visually reviewed; provisional reconstruction; original retained",
+    "prompt": "Faithful individual product reconstruction; no price sticker or invented ingredient claims."
+  },
+  {
+    "sharedProductId": "president-camembert",
+    "name": "Queso Président Petit Camembert",
+    "sourceImage": "/catalog-sources/IMG_20261009_171308_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171308_1.jpg",
+    "newImage": "/products/generated/president-camembert-20261010.webp",
+    "priceCUP": 4560,
+    "review": "brand and variant visually reviewed; provisional reconstruction; original retained",
+    "prompt": "Faithful individual product reconstruction; no price sticker or invented ingredient claims."
   }
 ]
