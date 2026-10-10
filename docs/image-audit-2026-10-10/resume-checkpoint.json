@@ -1,13 +1,13 @@
 {
   "date": "2026-10-10",
-  "publishedDataCommit": "ba72e4b601a079197277a992ca9a0b7f05241812",
-  "deployment": "dpl_jDprFejPKtybZp93N4en25ccScwT",
+  "publishedDataCommit": "3ec731cdd7024d503ef3baef6d2765ed3e19e8e3",
+  "deployment": "dpl_8pmyTDa472eiiXHFUYyaLBJB6J52",
   "deploymentStatus": "READY",
   "individualImages": 480,
   "remainingStorePhotos": 101,
   "testsPassed": 24,
-  "build": "Previous deployment passed; current deployment pending. Local Next.js dependencies unavailable.",
-  "nextBatchStatus": "Batches 13 and 14: 10 reviewed images integrated; deployment verification pending",
+  "build": "Vercel production build passed",
+  "nextBatchStatus": "Batches 13 and14 published and verified. Continue remaining101 shelf photographs.",
   "nextBatch": [],
   "resumedBatchKeys": [
     "organic-coconut-flour",
@@ -41,7 +41,7 @@
       "note": "Catalog price27500 differs from source sign23500. Existing price retained."
     }
   ],
-  "verifiedImagesThisSession": 26,
+  "verifiedImagesThisSession": 36,
   "supabaseFunctionVersion": 16,
   "supabaseCatalogNamesVerified": true
 }
