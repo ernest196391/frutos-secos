@@ -208,5 +208,65 @@
     "priceCUP": 1300,
     "prompt": "Faithful Orena Pan Rallado 250 g package from source, individual white background catalog photo.",
     "review": "brand, variant and packaging visually checked; provisional reconstruction"
+  },
+  {
+    "sharedProductId": "nestia-plantain",
+    "name": "Chips de plátano Nezka Sea Salt",
+    "sourceImage": "/catalog-sources/IMG_20261009_171154_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171154_1.jpg",
+    "newImage": "/products/generated/nestia-plantain-20261010.webp",
+    "priceCUP": 9100,
+    "review": "brand and variant visually reviewed; provisional reconstruction; original retained",
+    "prompt": "Individual product reconstructed from original photo; white studio background; no price sticker."
+  },
+  {
+    "sharedProductId": "wapa-chorizo",
+    "name": "Chorizo parrillero Wapa",
+    "sourceImage": "/catalog-sources/IMG_20261009_171202_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171202_1.jpg",
+    "newImage": "/products/generated/wapa-chorizo-20261010.webp",
+    "priceCUP": 5300,
+    "review": "brand and variant visually reviewed; provisional reconstruction; original retained",
+    "prompt": "Individual product reconstructed from original photo; white studio background; no price sticker."
+  },
+  {
+    "sharedProductId": "wapa-butifarra",
+    "name": "Butifarra Wapa",
+    "sourceImage": "/catalog-sources/IMG_20261009_171202_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171202_1.jpg",
+    "newImage": "/products/generated/wapa-butifarra-20261010.webp",
+    "priceCUP": 5540,
+    "review": "brand and variant visually reviewed; provisional reconstruction; original retained",
+    "prompt": "Individual product reconstructed from original photo; white studio background; no price sticker."
+  },
+  {
+    "sharedProductId": "bolitas-queso",
+    "name": "Bolitas de queso La Tabernita",
+    "sourceImage": "/catalog-sources/IMG_20261009_171218_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171218_1.jpg",
+    "newImage": "/products/generated/bolitas-queso-20261010.webp",
+    "priceCUP": 4420,
+    "review": "brand and variant visually reviewed; provisional reconstruction; original retained",
+    "prompt": "Individual product reconstructed from original photo; white studio background; no price sticker."
+  },
+  {
+    "sharedProductId": "hamburguesas-cerdo",
+    "name": "Hamburguesas de cerdo Productos del Bodegón",
+    "sourceImage": "/catalog-sources/IMG_20261009_171221.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171221.jpg",
+    "newImage": "/products/generated/hamburguesas-cerdo-20261010.webp",
+    "priceCUP": 3568,
+    "review": "brand and variant visually reviewed; provisional reconstruction; original retained",
+    "prompt": "Individual product reconstructed from original photo; white studio background; no price sticker."
+  },
+  {
+    "sharedProductId": "albondigas-cerdo",
+    "name": "Albóndigas de cerdo Productos del Bodegón",
+    "sourceImage": "/catalog-sources/IMG_20261009_171221.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171221.jpg",
+    "newImage": "/products/generated/albondigas-cerdo-20261010.webp",
+    "priceCUP": 4960,
+    "review": "brand and variant visually reviewed; provisional reconstruction; original retained",
+    "prompt": "Individual product reconstructed from original photo; white studio background; no price sticker."
   }
 ]

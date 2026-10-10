@@ -4,9 +4,9 @@
   "pricedProducts": 477,
   "pricesPending": 104,
   "individualImagesBefore": 365,
-  "newIndividualImages": 21,
-  "individualImagesNow": 386,
-  "remainingStorePhotos": 195,
+  "newIndividualImages": 27,
+  "individualImagesNow": 392,
+  "remainingStorePhotos": 189,
   "missingLocalAssets": 0,
   "invalidLocalImageFiles": 0,
   "nameCorrections": [
@@ -27,8 +27,15 @@
       "before": "Vino tinto",
       "after": "Chardonnay Selection · Vino blanco",
       "priceCUP": 5000
+    },
+    {
+      "key": "nestia-plantain",
+      "before": "Chips de plátano Nestia Sea Salt",
+      "after": "Chips de plátano Nezka Sea Salt",
+      "priceCUP": 9100
     }
   ],
   "testsPassed": 24,
-  "build": "passed"
+  "build": "passed",
+  "liveVerifiedNewImages": 21
 }
