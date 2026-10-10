@@ -318,5 +318,65 @@
     "priceCUP": 4560,
     "review": "brand and variant visually reviewed; provisional reconstruction; original retained",
     "prompt": "Faithful individual product reconstruction; no price sticker or invented ingredient claims."
+  },
+  {
+    "sharedProductId": "pacto-navio",
+    "name": "Ron Pacto Navio",
+    "sourceImage": "/catalog-sources/IMG_20261009_171321.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171321.jpg",
+    "newImage": "/products/generated/pacto-navio-20261010.webp",
+    "priceCUP": 20000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One PACTO NAVIO Cuban rum bottle, broad rounded dark amber glass with short neck and beige cork cap with seal, cream illustrated map label with large red PACTO NAVIO and Cuba, as visible right reference. Bottle only, no others."
+  },
+  {
+    "sharedProductId": "carafiestas",
+    "name": "Tequililla Cazafiestas Milner Sello de Plata",
+    "sourceImage": "/catalog-sources/IMG_20261009_171323_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171323_1.jpg",
+    "newImage": "/products/generated/carafiestas-20261010.webp",
+    "priceCUP": 8000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One clear tall narrow bottle CAZAFIESTAS Tequililla Milner Sello de Plata, black screw cap, large silver white front label with stylized skull wearing sombrero, grey ornamental red green tiny marks, CAZAFIESTAS in black capital letters. Preserve actual identity, this is NOT mezcal. Bottle only without silver gift boxes."
+  },
+  {
+    "sharedProductId": "altos-reposado",
+    "name": "Tequila Altos Reposado",
+    "sourceImage": "/catalog-sources/IMG_20261009_171327.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171327.jpg",
+    "newImage": "/products/generated/altos-reposado-20261010.webp",
+    "priceCUP": 13140,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One Olmeca ALTOS Reposado tequila bottle, broad square clear embossed glass filled golden amber spirit, broad wood-colored cylindrical cork cap, terracotta neck band ALTOS, small cream rectangular orange-bordered front label OLMeca ALTOS 100% AGAVE REPOSADO TEQUILA. Use matching right bottle. No price sticker."
+  },
+  {
+    "sharedProductId": "olmeca-reposado",
+    "name": "Tequila Olmeca Reposado",
+    "sourceImage": "/catalog-sources/IMG_20261009_171327.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171327.jpg",
+    "newImage": "/products/generated/olmeca-reposado-20261010.webp",
+    "priceCUP": 14180,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One OLMeca TEQUILA REPOSADO bottle, clear squared tall embossed patterned glass with amber spirit, terracotta-red screw cap/neck wrapper with gold Mayan geometric design, red round OLMeca TEQUILA medallion with Mayan face, rectangular red and gold REPOSADO label at base. Use left reference bottle, distinct from Altos. No price sticker."
+  },
+  {
+    "sharedProductId": "jw-doubleblack",
+    "name": "Whisky Johnnie Walker Double Black",
+    "sourceImage": "/catalog-sources/IMG_20261009_171328_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171328_1.jpg",
+    "newImage": "/products/generated/jw-doubleblack-20261010.webp",
+    "priceCUP": 34520,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One Johnnie Walker DOUBLE BLACK blended Scotch whisky bottle, tall rectangular very dark smoked black glass, black cap and neck foil, black diagonal label with gold trim and cream lettering Johnnie Walker DOUBLE BLACK, pale gold diagonal lower band John Walker & Sons, gold walking-man logo below. Bottle only without any other spirits."
+  },
+  {
+    "sharedProductId": "glenlivet-founders",
+    "name": "Whisky The Glenlivet Founder's Reserve",
+    "sourceImage": "/catalog-sources/IMG_20261009_171328_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171328_1.jpg",
+    "newImage": "/products/generated/glenlivet-founders-20261010.webp",
+    "priceCUP": 20850,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One The GLENLIVET Founder's Reserve American Oak Selection Scotch whisky clear round tall bottle with golden liquid, dark navy cap, cream label THE GLENLIVET FOUNDER'S RESERVE ESTD 1824 SINGLE MALT SCOTCH WHISKY, pale blue lower label. Preserve bottle shape and label. Bottle only without its blue box."
   }
 ]

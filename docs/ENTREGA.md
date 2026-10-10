@@ -17,9 +17,9 @@ Acceso habilitado para ernest196391@gmail.com con su cuenta existente. La contra
 
 ## Imágenes y revisión
 
-Se mantienen 183 imágenes comerciales existentes y se publicaron 182 imágenes generadas provisionales basadas en las fuentes originales. Quedan 216 fotos individuales pendientes; conservan su foto de tienda original. La generación alcanzó el límite de la cuenta y no hay un proceso automático programado para continuarlas. El personaje El Colo es un cartoon 3D pelirrojo, sonriente y animado, con movimiento reducido respetado.
+Se mantienen 183 imágenes comerciales existentes y se publicaron 220 imágenes generadas provisionales basadas en las fuentes originales. Quedan 178 fotos individuales pendientes; conservan su foto de tienda original. La revisión y sustitución de las fotos de estante sigue en curso. Las imágenes generadas están marcadas como provisionales y pueden reemplazarse desde el panel. El personaje El Colo es un cartoon 3D pelirrojo, sonriente y animado, con movimiento reducido respetado.
 
-Los CSV de `docs/handoff` enumeran el catálogo, los precios por confirmar, las imágenes provisionales y las 216 imágenes pendientes. `/revision-catalogo.html` ofrece una revisión visual con enlaces a las etiquetas originales. Los archivos de auditorías anteriores se conservan como histórico.
+Los CSV de `docs/handoff` enumeran el catálogo, los precios por confirmar, las imágenes provisionales y las 178 imágenes pendientes. `/revision-catalogo.html` ofrece una revisión visual con enlaces a las etiquetas originales. Los archivos de auditorías anteriores se conservan como histórico.
 
 ## Validación
 
