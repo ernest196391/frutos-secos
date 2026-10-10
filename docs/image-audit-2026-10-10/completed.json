@@ -1,0 +1,112 @@
+[
+  {
+    "sharedProductId": "kenko-bbq-mel",
+    "name": "Salsa Barbecue Kenko Mel 370 g",
+    "sourceImage": "/catalog-sources/IMG_20261009_165834.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_165834.jpg",
+    "newImage": "/products/generated/kenko-bbq-mel-20261010.webp",
+    "priceCUP": 4200,
+    "review": "brand, variant, packaging, background visually checked; provisional reconstruction",
+    "prompt": "One individual product faithful to supplied store photo, centered on white studio background, preserve visible brand/variant/colors/shape, remove other products and price labels, no added claims."
+  },
+  {
+    "sharedProductId": "shani",
+    "name": "Refresco Shani",
+    "sourceImage": "/catalog-sources/IMG_20261009_170152.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170152.jpg",
+    "newImage": "/products/generated/shani-20261010.webp",
+    "priceCUP": 780,
+    "review": "brand, variant, packaging, background visually checked; provisional reconstruction",
+    "prompt": "One individual product faithful to supplied store photo, centered on white studio background, preserve visible brand/variant/colors/shape, remove other products and price labels, no added claims."
+  },
+  {
+    "sharedProductId": "gv-extrasharp-wow",
+    "name": "Great Value Cheese Wow! Cheddar",
+    "sourceImage": "/catalog-sources/IMG_20261009_170232.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170232.jpg",
+    "newImage": "/products/generated/gv-extrasharp-wow-20261010.webp",
+    "priceCUP": 3000,
+    "review": "brand, variant, packaging, background visually checked; provisional reconstruction",
+    "prompt": "One individual product faithful to supplied store photo, centered on white studio background, preserve visible brand/variant/colors/shape, remove other products and price labels, no added claims."
+  },
+  {
+    "sharedProductId": "offley-white",
+    "name": "Vino de Oporto Offley White",
+    "sourceImage": "/catalog-sources/IMG_20261009_170954_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170954_1.jpg",
+    "newImage": "/products/generated/offley-white-20261010.webp",
+    "priceCUP": 6000,
+    "review": "brand, variant, packaging, background visually checked; provisional reconstruction",
+    "prompt": "One individual product faithful to supplied store photo, centered on white studio background, preserve visible brand/variant/colors/shape, remove other products and price labels, no added claims."
+  },
+  {
+    "sharedProductId": "havana-ritual",
+    "name": "Ron Havana Club Ritual Cubano",
+    "sourceImage": "/catalog-sources/IMG_20261009_171010.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171010.jpg",
+    "newImage": "/products/generated/havana-ritual-20261010.webp",
+    "priceCUP": 5800,
+    "review": "brand, variant, packaging, background visually checked; provisional reconstruction",
+    "prompt": "One individual product faithful to supplied store photo, centered on white studio background, preserve visible brand/variant/colors/shape, remove other products and price labels, no added claims."
+  },
+  {
+    "sharedProductId": "suau-8",
+    "name": "Brandy Suau8",
+    "sourceImage": "/catalog-sources/IMG_20261009_171010.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171010.jpg",
+    "newImage": "/products/generated/suau-8-20261010.webp",
+    "priceCUP": 8000,
+    "review": "brand, variant, packaging, background visually checked; provisional reconstruction",
+    "prompt": "One individual product faithful to supplied store photo, centered on white studio background, preserve visible brand/variant/colors/shape, remove other products and price labels, no added claims."
+  },
+  {
+    "sharedProductId": "gordons",
+    "name": "Ginebra Gordon's London Dry",
+    "sourceImage": "/catalog-sources/IMG_20261009_171027.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171027.jpg",
+    "newImage": "/products/generated/gordons-20261010.webp",
+    "priceCUP": 9000,
+    "review": "brand, variant, packaging, background visually checked; provisional reconstruction",
+    "prompt": "One individual product faithful to supplied store photo, centered on white studio background, preserve visible brand/variant/colors/shape, remove other products and price labels, no added claims."
+  },
+  {
+    "sharedProductId": "jodhpur-reserve",
+    "name": "Ginebra Jodhpur Reserve",
+    "sourceImage": "/catalog-sources/IMG_20261009_171027.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171027.jpg",
+    "newImage": "/products/generated/jodhpur-reserve-20261010.webp",
+    "priceCUP": 9000,
+    "review": "brand, variant, packaging, background visually checked; provisional reconstruction",
+    "prompt": "One individual product faithful to supplied store photo, centered on white studio background, preserve visible brand/variant/colors/shape, remove other products and price labels, no added claims."
+  },
+  {
+    "sharedProductId": "jodhpur-mandore",
+    "name": "Ginebra Jodhpur Mandore",
+    "sourceImage": "/catalog-sources/IMG_20261009_171027.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171027.jpg",
+    "newImage": "/products/generated/jodhpur-mandore-20261010.webp",
+    "priceCUP": 9000,
+    "review": "brand, variant, packaging, background visually checked; provisional reconstruction",
+    "prompt": "One individual product faithful to supplied store photo, centered on white studio background, preserve visible brand/variant/colors/shape, remove other products and price labels, no added claims."
+  },
+  {
+    "sharedProductId": "planta-santa",
+    "name": "Mezcal Planta Santa Reposado",
+    "sourceImage": "/catalog-sources/IMG_20261009_171027.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171027.jpg",
+    "newImage": "/products/generated/planta-santa-20261010.webp",
+    "priceCUP": 13000,
+    "review": "brand, variant, packaging, background visually checked; provisional reconstruction",
+    "prompt": "One individual product faithful to supplied store photo, centered on white studio background, preserve visible brand/variant/colors/shape, remove other products and price labels, no added claims."
+  },
+  {
+    "sharedProductId": "jodhpur-spicy",
+    "name": "Ginebra Jodhpur Spicy",
+    "sourceImage": "/catalog-sources/IMG_20261009_171027.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171027.jpg",
+    "newImage": "/products/generated/jodhpur-spicy-20261010.webp",
+    "priceCUP": 9000,
+    "review": "brand, variant, packaging, background visually checked; provisional reconstruction",
+    "prompt": "One individual product faithful to supplied store photo, centered on white studio background, preserve visible brand/variant/colors/shape, remove other products and price labels, no added claims."
+  }
+]

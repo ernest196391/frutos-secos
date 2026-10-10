@@ -1,0 +1,20 @@
+{
+  "date": "2026-10-10",
+  "totalProducts": 581,
+  "pricedProducts": 477,
+  "pricesPending": 104,
+  "individualImagesBefore": 365,
+  "newIndividualImages": 11,
+  "individualImagesNow": 376,
+  "remainingStorePhotos": 205,
+  "missingLocalAssets": 0,
+  "invalidLocalImageFiles": 0,
+  "nameCorrections": [
+    {
+      "id": "gv-extrasharp-wow",
+      "before": "Extra Sharp Cheddar",
+      "after": "Cheddar",
+      "evidence": "yellow original label reads Cheddar"
+    }
+  ]
+}

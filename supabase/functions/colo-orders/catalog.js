@@ -1,4 +1,5 @@
-export const products = [
+// Catálogo de tienda. Precios pendientes requieren consulta.
+export const products=[
   {
     "id": 1001,
     "sharedProductId": "almendras-chocolate",
@@ -3312,13 +3313,15 @@ export const products = [
     "c": "Alimentos",
     "p": 4200,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_165834.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/kenko-bbq-mel-20261010.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_165834.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_165834.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-10-01"
   },
   {
     "id": 10039,
@@ -3808,13 +3811,15 @@ export const products = [
     "c": "Bebidas",
     "p": 780,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170152.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/shani-20261010.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170152.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170152.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-10-01"
   },
   {
     "id": 10070,
@@ -4107,18 +4112,20 @@ export const products = [
   {
     "id": 10088,
     "sharedProductId": "gv-extrasharp-wow",
-    "n": "Great Value Cheese Wow! Extra Sharp Cheddar",
-    "d": "Queso en aerosol · Envase individual",
+    "n": "Great Value Cheese Wow! Cheddar",
+    "d": "Queso en aerosol · 227 g",
     "c": "Lácteos",
     "p": 3000,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170232.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/gv-extrasharp-wow-20261010.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170232.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170232.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-10-01"
   },
   {
     "id": 10089,
@@ -4128,13 +4135,15 @@ export const products = [
     "c": "Bebidas",
     "p": 6000,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170954_1.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/offley-white-20261010.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170954_1.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170954_1.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-10-01"
   },
   {
     "id": 10090,
@@ -4160,13 +4169,15 @@ export const products = [
     "c": "Bebidas",
     "p": 5800,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_171010.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/havana-ritual-20261010.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_171010.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_171010.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-10-01"
   },
   {
     "id": 10092,
@@ -4208,13 +4219,15 @@ export const products = [
     "c": "Bebidas",
     "p": 8000,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_171010.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/suau-8-20261010.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_171010.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_171010.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-10-01"
   },
   {
     "id": 10095,
@@ -4240,13 +4253,15 @@ export const products = [
     "c": "Bebidas",
     "p": 13000,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_171027.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/planta-santa-20261010.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_171027.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_171027.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-10-01"
   },
   {
     "id": 10097,
@@ -4256,13 +4271,15 @@ export const products = [
     "c": "Bebidas",
     "p": 9000,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_171027.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/gordons-20261010.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_171027.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_171027.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-10-01"
   },
   {
     "id": 10098,
@@ -4272,13 +4289,15 @@ export const products = [
     "c": "Bebidas",
     "p": 9000,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_171027.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/jodhpur-reserve-20261010.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_171027.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_171027.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-10-01"
   },
   {
     "id": 10099,
@@ -4288,13 +4307,15 @@ export const products = [
     "c": "Bebidas",
     "p": 9000,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_171027.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/jodhpur-mandore-20261010.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_171027.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_171027.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-10-01"
   },
   {
     "id": 10100,
@@ -4304,13 +4325,15 @@ export const products = [
     "c": "Bebidas",
     "p": 9000,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_171027.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/jodhpur-spicy-20261010.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_171027.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_171027.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-10-01"
   },
   {
     "id": 10101,
