@@ -5227,13 +5227,15 @@ export const products=[
     "c": "Lácteos",
     "p": 2980,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_171545_1.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/roncari-blue-20261010.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_171545_1.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_171545_1.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-10-08"
   },
   {
     "id": 10152,
@@ -5243,13 +5245,15 @@ export const products=[
     "c": "Lácteos",
     "p": 17000,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_171605_1.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/cello-variety-20261010.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_171605_1.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_171605_1.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-10-08"
   },
   {
     "id": 10153,
@@ -5259,13 +5263,15 @@ export const products=[
     "c": "Mascotas",
     "p": 30940,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_171627.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/roinat-puppy-20261010.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_171627.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_171627.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-10-08"
   },
   {
     "id": 10154,
@@ -5293,13 +5299,15 @@ export const products=[
     "c": "Aseo",
     "p": 9400,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_165030_1.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/downy-fresh-perlas-20261010.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_165030_1.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_165030_1.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-10-08"
   },
   {
     "id": 10156,
@@ -5309,13 +5317,15 @@ export const products=[
     "c": "Aseo",
     "p": 9400,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_165030_1.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/downy-lush-perlas-20261010.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_165030_1.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_165030_1.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-10-08"
   },
   {
     "id": 10157,
@@ -5325,13 +5335,15 @@ export const products=[
     "c": "Frutos secos",
     "p": 9000,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_165441.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/wonderful-roasted-227-20261010.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_165441.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_165441.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-10-08"
   },
   {
     "id": 10158,
@@ -5341,13 +5353,15 @@ export const products=[
     "c": "Frutos secos",
     "p": 6500,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_165446.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/wonderful-chocolate-20261010.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_165446.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_165446.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-10-08"
   },
   {
     "id": 10159,
@@ -5357,13 +5371,15 @@ export const products=[
     "c": "Frutos secos",
     "p": 8500,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_165446.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/southern-pistachios-unsalted-20261010.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_165446.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_165446.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-10-08"
   },
   {
     "id": 10160,
@@ -5373,13 +5389,15 @@ export const products=[
     "c": "Frutos secos",
     "p": 6000,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_165450.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/southern-pistachios-shelled-20261010.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_165450.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_165450.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-10-08"
   },
   {
     "id": 10161,
@@ -5389,13 +5407,15 @@ export const products=[
     "c": "Alimentos",
     "p": 4700,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_165450.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/gv-bacon-bits-20261010.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_165450.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_165450.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-10-08"
   },
   {
     "id": 10162,
@@ -5405,13 +5425,15 @@ export const products=[
     "c": "Alimentos",
     "p": 4200,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_165450.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/hormel-bacon-20261010.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_165450.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_165450.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-10-08"
   },
   {
     "id": 10163,
@@ -5421,13 +5443,15 @@ export const products=[
     "c": "Frutos secos",
     "p": 33600,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_165450.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/kirkland-trail-28-20261010.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_165450.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_165450.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-10-08"
   },
   {
     "id": 10164,

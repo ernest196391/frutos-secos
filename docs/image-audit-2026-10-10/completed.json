@@ -618,5 +618,125 @@
     "priceCUP": 9000,
     "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
     "prompt": "One Familia TORRES Secret del Priorat red wine bottle from RIGHT group above 9000 price, dark glass tall slender bottle, orange red neck foil and cap, large white rectangular label with pink fine flowering vine border, black cursive Secret del Priorat, 2021, FAMILIA TORRES. Actual product TORRES Secret del Priorat, NOT Sangre de Toro. Reconstruct exact right matching wine."
+  },
+  {
+    "sharedProductId": "roncari-blue",
+    "name": "Queso Roncari Blue TGT",
+    "sourceImage": "/catalog-sources/IMG_20261009_171545_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171545_1.jpg",
+    "newImage": "/products/generated/roncari-blue-20261010.webp",
+    "priceCUP": 2980,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One TGT RONCARI BLUE 100g sheep blue cheese rectangular flat dark green packet. Large white RONCARI BLUE, white Tgt shield, transparent window showing blue-veined cheese, figs and walnuts illustrations and QUESO AZUL DE OVEJA. Match left packaged product not unbranded tray."
+  },
+  {
+    "sharedProductId": "cello-variety",
+    "name": "Quesos Cello Variety Pack",
+    "sourceImage": "/catalog-sources/IMG_20261009_171605_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171605_1.jpg",
+    "newImage": "/products/generated/cello-variety-20261010.webp",
+    "priceCUP": 17000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One Cello VARIETY PACK CRACKER CUT premium sliced cheeses transparent vacuum package with burgundy border, gold oval label Cello VARIETY PACK, four visible cheeses labeled Aged Cheddar, Jarlsberg, Creamy Havarti, Dutch Gouda. Preserve 2LB 906g label. Only package no other deli."
+  },
+  {
+    "sharedProductId": "roinat-puppy",
+    "name": "Alimento Roinat Puppy Dogs",
+    "sourceImage": "/catalog-sources/IMG_20261009_171627.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171627.jpg",
+    "newImage": "/products/generated/roinat-puppy-20261010.webp",
+    "priceCUP": 30940,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One ROINAT PUPPY DOGS 8kg large upright orange-red pet food bag with white brand, puppy portrait front, black white panel 2-12 meses 8kg and bowl of kibble. Preserve actual package, no added claims."
+  },
+  {
+    "sharedProductId": "downy-fresh-perlas",
+    "name": "Perlas de perfume Downy Fresh",
+    "sourceImage": "/catalog-sources/IMG_20261009_165030_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_165030_1.jpg",
+    "newImage": "/products/generated/downy-fresh-perlas-20261010.webp",
+    "priceCUP": 9400,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One Downy Perlas de Perfume FRESH 141g small black cylindrical scent bead bottle with turquoise/green rounded ventilated cup cap, red neck band APRIETA Y HUELE, green oval label Downy Perlas de Perfume FRESH. Match green-capped black bottle left-center, not Homebright."
+  },
+  {
+    "sharedProductId": "downy-lush-perlas",
+    "name": "Perlas Downy Unstopables Lush",
+    "sourceImage": "/catalog-sources/IMG_20261009_165030_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_165030_1.jpg",
+    "newImage": "/products/generated/downy-lush-perlas-20261010.webp",
+    "priceCUP": 9400,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One Downy Unstopables LUSH Trial Size small black scent bead bottle with purple ventilated rounded cup cap, red Trial Size neck band, magenta pink oval UN STOPABLES LUSH label with flowers. Match left group, not Homebright."
+  },
+  {
+    "sharedProductId": "wonderful-roasted-227",
+    "name": "Pistachos Wonderful Roasted & Salted",
+    "sourceImage": "/catalog-sources/IMG_20261009_165441.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_165441.jpg",
+    "newImage": "/products/generated/wonderful-roasted-227-20261010.webp",
+    "priceCUP": 9000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One small Wonderful Pistachios ROASTED & SALTED 8oz 227g black resealable stand-up pouch, green Wonderful title and large vertical green PISTACHIOS, curved transparent left window with beige pistachios in shells, Get Crackin green. Match smaller center bag above 9000."
+  },
+  {
+    "sharedProductId": "wonderful-chocolate",
+    "name": "Pistachos Wonderful Chocolate Sea Salt",
+    "sourceImage": "/catalog-sources/IMG_20261009_165446.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_165446.jpg",
+    "newImage": "/products/generated/wonderful-chocolate-20261010.webp",
+    "priceCUP": 6500,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One Wonderful Pistachios CHOCOLATE SEA SALT NO SHELLS 4oz 113g brown white resealable stand-up pouch, brown top, white front vertical black PISTACHIOS, curved window showing dark chocolate-coated pistachios, small gold no shells badge. Match left."
+  },
+  {
+    "sharedProductId": "southern-pistachios-unsalted",
+    "name": "Pistachos Southern Grove Roasted Unsalted",
+    "sourceImage": "/catalog-sources/IMG_20261009_165446.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_165446.jpg",
+    "newImage": "/products/generated/southern-pistachios-unsalted-20261010.webp",
+    "priceCUP": 8500,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One Southern Grove PISTACHIOS ROASTED UNSALTED resealable tall lime green pouch with big transparent front window containing beige in-shell pistachios, lime rectangular title panel with white handwritten Pistachios Roasted Unsalted, green Southern Grove badge."
+  },
+  {
+    "sharedProductId": "southern-pistachios-shelled",
+    "name": "Pistachos Southern Grove Shelled Sea Salt",
+    "sourceImage": "/catalog-sources/IMG_20261009_165450.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_165450.jpg",
+    "newImage": "/products/generated/southern-pistachios-shelled-20261010.webp",
+    "priceCUP": 6000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One Southern Grove PISTACHIOS SHELLED ROASTED WITH SEA SALT 6oz green resealable stand-up pouch, darker green patterned top, transparent front window with green pistachio kernels no shells, bright green title panel and yellow NO SHELLS badge. Match left foreground."
+  },
+  {
+    "sharedProductId": "gv-bacon-bits",
+    "name": "Great Value Reduced Sodium Real Bacon Pieces",
+    "sourceImage": "/catalog-sources/IMG_20261009_165450.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_165450.jpg",
+    "newImage": "/products/generated/gv-bacon-bits-20261010.webp",
+    "priceCUP": 4700,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One Great Value Reduced Sodium Real Bacon Pieces 2.5oz 71g small blue resealable stand-up pouch, blue Great Value oval logo, white circle title red Real Bacon Pieces, salad serving image at top, fully cooked bacon pieces text. Match blue foreground pouch."
+  },
+  {
+    "sharedProductId": "hormel-bacon",
+    "name": "Hormel Real Crumbled Bacon Applewood",
+    "sourceImage": "/catalog-sources/IMG_20261009_165450.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_165450.jpg",
+    "newImage": "/products/generated/hormel-bacon-20261010.webp",
+    "priceCUP": 4200,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One Hormel Real Crumbled Bacon Applewood 3oz 85g resealable red white pouch, red top with oval Hormel logo, white center black Real Crumbled Bacon, red Applewood band, transparent bacon window and salad illustration."
+  },
+  {
+    "sharedProductId": "kirkland-trail-28",
+    "name": "Kirkland Trail Mix Snack Packs",
+    "sourceImage": "/catalog-sources/IMG_20261009_165450.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_165450.jpg",
+    "newImage": "/products/generated/kirkland-trail-28-20261010.webp",
+    "priceCUP": 33600,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "One rectangular cardboard retail box Kirkland Signature TRAIL MIX SNACK PACKS 28, cream top with green trees illustration, bright lime lower panel, printed grey snack packs and colorful nuts raisins chocolate candy serving photo. Whole box front slight side visible, not individual packet."
   }
 ]
