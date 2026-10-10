@@ -868,5 +868,185 @@
     "priceCUP": 22800,
     "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
     "prompt": "Right pale blue Kirkland Signature ROASTED ALMONDS WITH SEA SALT resealable pouch, transparent window roasted almonds, printed almonds upper right, NET WT 40 OZ 2.5 LB 1134g. Create one complete individual commercial product image faithfully based on supplied photo on pure white background, upright centered generous margins subtle shadow. Remove shelves, price labels and all other products. Preserve actual brand, variant, shape, colors and visible printing. Do not invent text, ingredients or claims. Provisional faithful reconstruction."
+  },
+  {
+    "sharedProductId": "jojos-almond",
+    "name": "Chocolate JOJO’s con pistacho, almendra y arándano",
+    "sourceImage": "/catalog-sources/IMG_20261009_165521.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_165521.jpg",
+    "newImage": "/products/generated/jojos-almond-20261010.webp",
+    "priceCUP": 13000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Edit target shop photograph. Extract and recreate ONLY Green and white JOJO's dark chocolate pistachio almond cranberry bites resealable pouch left of the lime green jalapeno pouch. Preserve actual JOJO'S Snack Victoriously wording and printed chocolate illustration; remove handwritten 13000 sticker. Square commercial photograph, one complete package upright centered on pure white seamless backdrop with subtle contact shadow and generous margins. Preserve actual package shape, logo, colors, variant, graphics and visible wording. No invented package details, prices, props or extra captions. Remove shelves and every other product."
+  },
+  {
+    "sharedProductId": "crispy-jalapeno",
+    "name": "Crispy Jalapeño Pieces",
+    "sourceImage": "/catalog-sources/IMG_20261009_165521.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_165521.jpg",
+    "newImage": "/products/generated/crispy-jalapeno-20261010.webp",
+    "priceCUP": 5800,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Edit target shop photograph. Extract and recreate ONLY Small lime green Trader Joe's CRISPY JALAPEÑO PIECES resealable pouch, NET WT 5.5 OZ (156g), center front. Preserve original typography and bowl illustration. Square commercial photograph, one complete package upright centered on pure white seamless backdrop with subtle contact shadow and generous margins. Preserve actual package shape, logo, colors, variant, graphics and visible wording. No invented package details, prices, props or extra captions. Remove shelves and every other product."
+  },
+  {
+    "sharedProductId": "millville-oats-honey",
+    "name": "Granola Millville Protein Oats & Honey",
+    "sourceImage": "/catalog-sources/IMG_20261009_165526.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_165526.jpg",
+    "newImage": "/products/generated/millville-oats-honey-20261010.webp",
+    "priceCUP": 6000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Edit target shop photograph. Extract and recreate ONLY One yellow Millville PROTEIN Oats & Honey Crunchy Granola pouch, black cereal bowl printed on front, NET WT 11 OZ (312g). Square commercial photograph, one complete package upright centered on pure white seamless backdrop with subtle contact shadow and generous margins. Preserve actual package shape, logo, colors, variant, graphics and visible wording. No invented package details, prices, props or extra captions. Remove shelves and every other product."
+  },
+  {
+    "sharedProductId": "millville-darkchocolate",
+    "name": "Granola Millville Protein Oats & Dark Chocolate",
+    "sourceImage": "/catalog-sources/IMG_20261009_165526.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_165526.jpg",
+    "newImage": "/products/generated/millville-darkchocolate-20261010.webp",
+    "priceCUP": 6000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Edit target shop photograph. Extract and recreate ONLY One orange Millville PROTEIN Oats & Dark Chocolate Crunchy Granola pouch at left, black cereal bowl and chocolate chunks printed on front, NET WT 11 OZ (312g). Square commercial photograph, one complete package upright centered on pure white seamless backdrop with subtle contact shadow and generous margins. Preserve actual package shape, logo, colors, variant, graphics and visible wording. No invented package details, prices, props or extra captions. Remove shelves and every other product."
+  },
+  {
+    "sharedProductId": "millville-cranberry",
+    "name": "Granola Millville Protein Cranberry & Almond",
+    "sourceImage": "/catalog-sources/IMG_20261009_165526.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_165526.jpg",
+    "newImage": "/products/generated/millville-cranberry-20261010.webp",
+    "priceCUP": 6000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Edit target shop photograph. Extract and recreate ONLY One red Millville PROTEIN Cranberry & Almond Crunchy Granola pouch at right, black cereal bowl printed on front, preserve all visible real label details. Square commercial photograph, one complete package upright centered on pure white seamless backdrop with subtle contact shadow and generous margins. Preserve actual package shape, logo, colors, variant, graphics and visible wording. No invented package details, prices, props or extra captions. Remove shelves and every other product."
+  },
+  {
+    "sharedProductId": "trader-passion",
+    "name": "Granola Trader Joe's Passion Fruit",
+    "sourceImage": "/catalog-sources/IMG_20261009_165530.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_165530.jpg",
+    "newImage": "/products/generated/trader-passion-20261010.webp",
+    "priceCUP": 8500,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Edit target shop photograph. Extract and recreate ONLY Yellow and pink Trader Joe's PASSION FRUIT GRANOLA with Dried Raspberries pouch, NET WT 12 OZ (340g), illustrated passionfruit at top and raspberry motifs, pink semicircle clear granola window. Square commercial photograph, one complete package upright centered on pure white seamless backdrop with subtle contact shadow and generous margins. Preserve actual package shape, logo, colors, variant, graphics and visible wording. No invented package details, prices, props or extra captions. Remove shelves and every other product."
+  },
+  {
+    "sharedProductId": "trader-vanilla",
+    "name": "Granola Trader Joe's Vanilla Almond",
+    "sourceImage": "/catalog-sources/IMG_20261009_165530.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_165530.jpg",
+    "newImage": "/products/generated/trader-vanilla-20261010.webp",
+    "priceCUP": 8000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Edit target shop photograph. Extract and recreate ONLY Blue white Trader Joe's Just the Clusters VANILLA ALMOND GRANOLA pouch, ornate pale blue floral sides, circular transparent granola window, NET WT 16 OZ (1 LB) 454g. Square commercial photograph, one complete package upright centered on pure white seamless backdrop with subtle contact shadow and generous margins. Preserve actual package shape, logo, colors, variant, graphics and visible wording. No invented package details, prices, props or extra captions. Remove shelves and every other product."
+  },
+  {
+    "sharedProductId": "gv-protein-granola",
+    "name": "Granola Great Value Oats & Honey Protein",
+    "sourceImage": "/catalog-sources/IMG_20261009_165530.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_165530.jpg",
+    "newImage": "/products/generated/gv-protein-granola-20261010.webp",
+    "priceCUP": 5800,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Edit target shop photograph. Extract and recreate ONLY Yellow and purple Great Value Oats & Honey Protein Granola resealable pouch on right, white round label, clear circular window, NET WT 11 OZ (311g). Square commercial photograph, one complete package upright centered on pure white seamless backdrop with subtle contact shadow and generous margins. Preserve actual package shape, logo, colors, variant, graphics and visible wording. No invented package details, prices, props or extra captions. Remove shelves and every other product."
+  },
+  {
+    "sharedProductId": "members-honey-granola",
+    "name": "Granola Member's Mark Honey Almond",
+    "sourceImage": "/catalog-sources/IMG_20261009_165536.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_165536.jpg",
+    "newImage": "/products/generated/members-honey-granola-20261010.webp",
+    "priceCUP": 15000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Edit target shop photograph. Extract and recreate ONLY White and golden yellow Member's Mark HONEY ALMOND GRANOLA resealable pouch near left, honeycomb graphic, clear granola window. Preserve visible real label; do not invent unseen weight. Square commercial photograph, one complete package upright centered on pure white seamless backdrop with subtle contact shadow and generous margins. Preserve actual package shape, logo, colors, variant, graphics and visible wording. No invented package details, prices, props or extra captions. Remove shelves and every other product."
+  },
+  {
+    "sharedProductId": "maggi-sazon",
+    "name": "Maggi Sazón Completo",
+    "sourceImage": "/catalog-sources/IMG_20261009_170237.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170237.jpg",
+    "newImage": "/products/generated/maggi-sazon-20261010.webp",
+    "priceCUP": 2150,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Edit target shop photograph. Extract ONLY One small Maggi Sazón completo seasoning jar at left, white cap, yellow and white label with garlic illustration, 180 g. Square commercial photograph, one complete product upright centered on pure white seamless backdrop with subtle contact shadow and generous margins. Preserve actual package shape, logo, colors, variant, graphics and visible wording. No invented details, prices, props or extra captions. Remove shelf and other products."
+  },
+  {
+    "sharedProductId": "carmencita-salrosa",
+    "name": "Sal rosada en molinillo",
+    "sourceImage": "/catalog-sources/IMG_20261009_170237.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170237.jpg",
+    "newImage": "/products/generated/carmencita-salrosa-20261010.webp",
+    "priceCUP": 11000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Edit target shop photograph. Extract ONLY One tall Carmencita Himalayan pink salt grinder, cylindrical clear jar filled ONLY with pink salt, tall black cap, real label says Sal rosa. It is between truffle salt and salt with 3 peppercorns. Preserve visible branding, don't invent net weight. Square commercial photograph, one complete product upright centered on pure white seamless backdrop with subtle contact shadow and generous margins. Preserve actual package shape, logo, colors, variant, graphics and visible wording. No invented details, prices, props or extra captions. Remove shelf and other products."
+  },
+  {
+    "sharedProductId": "carmencita-sal3",
+    "name": "Sal y tres pimientas en molinillo",
+    "sourceImage": "/catalog-sources/IMG_20261009_170237.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170237.jpg",
+    "newImage": "/products/generated/carmencita-sal3-20261010.webp",
+    "priceCUP": 11000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Edit target shop photograph. Extract ONLY One tall Carmencita Himalayan pink salt & 3 peppercorns grinder, cylindrical clear jar containing pink salt and black white peppercorn mixture, tall black cap. Real label Sal rosa & 3 pimientas. Between pink salt and black pepper. Square commercial photograph, one complete product upright centered on pure white seamless backdrop with subtle contact shadow and generous margins. Preserve actual package shape, logo, colors, variant, graphics and visible wording. No invented details, prices, props or extra captions. Remove shelf and other products."
+  },
+  {
+    "sharedProductId": "carmencita-pimienta",
+    "name": "Pimienta negra en molinillo",
+    "sourceImage": "/catalog-sources/IMG_20261009_170237.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170237.jpg",
+    "newImage": "/products/generated/carmencita-pimienta-20261010.webp",
+    "priceCUP": 11000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Edit target shop photograph. Extract ONLY One tall Carmencita Black pepper / Pimienta negra grinder, black whole peppercorns in cylindrical clear jar, tall black cap, black white label and female face logo. Choose front black pepper grinder right of salt & 3 peppercorns. Do not invent weight. Square commercial photograph, one complete product upright centered on pure white seamless backdrop with subtle contact shadow and generous margins. Preserve actual package shape, logo, colors, variant, graphics and visible wording. No invented details, prices, props or extra captions. Remove shelf and other products."
+  },
+  {
+    "sharedProductId": "varveio-balsamico",
+    "name": "Vinagre balsámico de Módena Varvello",
+    "sourceImage": "/catalog-sources/IMG_20261009_170303_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170303_1.jpg",
+    "newImage": "/products/generated/varveio-balsamico-20261010.webp",
+    "priceCUP": 3500,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Edit target shop photograph. Extract ONLY Dark glass VARVELLO ACETO BALSAMICO DI MODENA IGP bottle, cream rectangular label, tall black neck wrap, 500 ml. Left of golden apple vinegar. Preserve brand spelling VARVELLO. Square commercial photograph, one complete product upright centered on pure white seamless backdrop with subtle contact shadow and generous margins. Preserve actual package shape, logo, colors, variant, graphics and visible wording. No invented details, prices, props or extra captions. Remove shelf and other products."
+  },
+  {
+    "sharedProductId": "varveio-manzana",
+    "name": "Vinagre de manzana Varvello",
+    "sourceImage": "/catalog-sources/IMG_20261009_170303_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170303_1.jpg",
+    "newImage": "/products/generated/varveio-manzana-20261010.webp",
+    "priceCUP": 3500,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Edit target shop photograph. Extract ONLY Golden transparent glass VARVELLO ACETO di MELE Nobilis bottle, gold screw cap and neck foil, cream rectangular label apple outline, 500 ml. Preserve brand spelling VARVELLO. Square commercial photograph, one complete product upright centered on pure white seamless backdrop with subtle contact shadow and generous margins. Preserve actual package shape, logo, colors, variant, graphics and visible wording. No invented details, prices, props or extra captions. Remove shelf and other products."
+  },
+  {
+    "sharedProductId": "vima-vino-vinagre",
+    "name": "Vinagre de vino Vima",
+    "sourceImage": "/catalog-sources/IMG_20261009_170303_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170303_1.jpg",
+    "newImage": "/products/generated/vima-vino-vinagre-20261010.webp",
+    "priceCUP": 2000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Edit target shop photograph. Extract ONLY Vima VINAGRE DE VINO RIOJA bottle, dark red liquid, gold screw cap, cream green label with cruet illustration, 500 ml, at center. Square commercial photograph, one complete product upright centered on pure white seamless backdrop with subtle contact shadow and generous margins. Preserve actual package shape, logo, colors, variant, graphics and visible wording. No invented details, prices, props or extra captions. Remove shelf and other products."
+  },
+  {
+    "sharedProductId": "varveio-condimento",
+    "name": "Crema balsámica Varvello Condirè",
+    "sourceImage": "/catalog-sources/IMG_20261009_170306_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170306_1.jpg",
+    "newImage": "/products/generated/varveio-condimento-20261010.webp",
+    "priceCUP": 3300,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Edit target shop photograph. Extract ONLY Small brown VARVELLO Condire CREMA con Aceto Balsamico di Modena IGP squeeze bottle with gold cap and cream label, grape illustration, 250 ml / 300 g. Between Badia and Carbonell. Preserve brand VARVELLO. Square commercial photograph, one complete product upright centered on pure white seamless backdrop with subtle contact shadow and generous margins. Preserve actual package shape, logo, colors, variant, graphics and visible wording. No invented details, prices, props or extra captions. Remove shelf and other products."
+  },
+  {
+    "sharedProductId": "gourmet-vinagre",
+    "name": "Vinagre Gourmet",
+    "sourceImage": "/catalog-sources/IMG_20261009_170306_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170306_1.jpg",
+    "newImage": "/products/generated/gourmet-vinagre-20261010.webp",
+    "priceCUP": 1100,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Edit target shop photograph. Extract ONLY One plastic dark red Gourmet Vinagre de vino rojo bottle, red cap with cream top, red green label, 500 ml, center. Preserve actual ribbed bottle shape and label design. Square commercial photograph, one complete product upright centered on pure white seamless backdrop with subtle contact shadow and generous margins. Preserve actual package shape, logo, colors, variant, graphics and visible wording. No invented details, prices, props or extra captions. Remove shelf and other products."
   }
 ]

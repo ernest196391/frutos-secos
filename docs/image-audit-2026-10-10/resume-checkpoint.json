@@ -1,15 +1,15 @@
 {
   "date": "2026-10-10",
-  "publishedDataCommit": "ceb201a5ee272ddbc443dd1dcdc20a53c83dff47",
-  "deployment": "dpl_8haQCbhRbJkB1JBGVNVGXdCs1YGt",
+  "publishedDataCommit": "ef4d17004dd36aec8953d7dde01cf986dea1bf12",
+  "deployment": "dpl_Dh8NWp2dwnvuCQ3bc5YAqykQbmpW",
   "deploymentStatus": "READY",
   "publishedNewImages": 79,
-  "individualImages": 452,
-  "remainingStorePhotos": 129,
+  "individualImages": 470,
+  "remainingStorePhotos": 111,
   "verifiedImageDownloads": 74,
   "testsPassed": 24,
   "build": "passed",
-  "nextBatchStatus": "Previously interrupted batch regenerated, visually checked, integrated and passed 24 tests; deployment pending verification",
+  "nextBatchStatus": "Batches 11 and 12: 18 images integrated; awaiting publication verification",
   "nextBatch": [],
   "resumedBatchKeys": [
     "organic-coconut-flour",
@@ -20,5 +20,15 @@
     "southern-cashews-salt",
     "southern-cashews-unsalt",
     "kirkland-almonds"
+  ],
+  "identityDiscrepancies": [
+    {
+      "key": "raviolis",
+      "note": "Source photograph shows tray labeled Bolitas de Queso beneath two price signs; ravioli package not identifiable. Keep original until verified."
+    },
+    {
+      "key": "purely-vanilla-granola",
+      "note": "Source shows Purely Elizabeth Chocolate Chip 22 oz with 15000 sign; catalog Vanilla Almond 6500 cannot be confirmed from this photo."
+    }
   ]
 }

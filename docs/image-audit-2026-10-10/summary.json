@@ -4,9 +4,9 @@
   "pricedProducts": 477,
   "pricesPending": 104,
   "individualImagesBefore": 365,
-  "newIndividualImages": 87,
-  "individualImagesNow": 452,
-  "remainingStorePhotos": 129,
+  "newIndividualImages": 105,
+  "individualImagesNow": 470,
+  "remainingStorePhotos": 111,
   "missingLocalAssets": 0,
   "invalidLocalImageFiles": 0,
   "nameCorrections": [
@@ -82,6 +82,27 @@
       "after": "Vino Torres Secret del Priorat",
       "priceCUP": 9000,
       "evidence": "/catalog-sources/IMG_20261009_171427.jpg"
+    },
+    {
+      "key": "varveio-balsamico",
+      "before": "Varveio Aceto Balsamico di Modena",
+      "after": "Vinagre balsámico de Módena Varvello",
+      "priceCUP": 3500,
+      "evidence": "/catalog-sources/IMG_20261009_170303_1.jpg"
+    },
+    {
+      "key": "varveio-manzana",
+      "before": "Varveio Aceto di Mele",
+      "after": "Vinagre de manzana Varvello",
+      "priceCUP": 3500,
+      "evidence": "/catalog-sources/IMG_20261009_170303_1.jpg"
+    },
+    {
+      "key": "varveio-condimento",
+      "before": "Varveio Condimento",
+      "after": "Crema balsámica Varvello Condirè",
+      "priceCUP": 3300,
+      "evidence": "/catalog-sources/IMG_20261009_170306_1.jpg"
     }
   ],
   "testsPassed": 24,

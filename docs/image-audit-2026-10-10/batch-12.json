@@ -1,0 +1,59 @@
+[
+  {
+    "key": "maggi-sazon",
+    "path": "/workspace/scratch/6151702d6358/generated_images/exec-6868afd2-6ea4-412f-b60f-b21cc68c1738.png",
+    "prompt": "Edit target shop photograph. Extract ONLY One small Maggi Sazón completo seasoning jar at left, white cap, yellow and white label with garlic illustration, 180 g. Square commercial photograph, one complete product upright centered on pure white seamless backdrop with subtle contact shadow and generous margins. Preserve actual package shape, logo, colors, variant, graphics and visible wording. No invented details, prices, props or extra captions. Remove shelf and other products.",
+    "batch": "2026-10-10-12"
+  },
+  {
+    "key": "carmencita-salrosa",
+    "path": "/workspace/scratch/6151702d6358/generated_images/exec-a3444260-c436-4ae5-819d-ce011483a92c.png",
+    "prompt": "Edit target shop photograph. Extract ONLY One tall Carmencita Himalayan pink salt grinder, cylindrical clear jar filled ONLY with pink salt, tall black cap, real label says Sal rosa. It is between truffle salt and salt with 3 peppercorns. Preserve visible branding, don't invent net weight. Square commercial photograph, one complete product upright centered on pure white seamless backdrop with subtle contact shadow and generous margins. Preserve actual package shape, logo, colors, variant, graphics and visible wording. No invented details, prices, props or extra captions. Remove shelf and other products.",
+    "batch": "2026-10-10-12"
+  },
+  {
+    "key": "carmencita-sal3",
+    "path": "/workspace/scratch/6151702d6358/generated_images/exec-469f915a-265a-4013-9994-a580348dd1f4.png",
+    "prompt": "Edit target shop photograph. Extract ONLY One tall Carmencita Himalayan pink salt & 3 peppercorns grinder, cylindrical clear jar containing pink salt and black white peppercorn mixture, tall black cap. Real label Sal rosa & 3 pimientas. Between pink salt and black pepper. Square commercial photograph, one complete product upright centered on pure white seamless backdrop with subtle contact shadow and generous margins. Preserve actual package shape, logo, colors, variant, graphics and visible wording. No invented details, prices, props or extra captions. Remove shelf and other products.",
+    "batch": "2026-10-10-12"
+  },
+  {
+    "key": "carmencita-pimienta",
+    "path": "/workspace/scratch/6151702d6358/generated_images/exec-dd45c047-b226-4cbb-b6f0-07901d6035d5.png",
+    "prompt": "Edit target shop photograph. Extract ONLY One tall Carmencita Black pepper / Pimienta negra grinder, black whole peppercorns in cylindrical clear jar, tall black cap, black white label and female face logo. Choose front black pepper grinder right of salt & 3 peppercorns. Do not invent weight. Square commercial photograph, one complete product upright centered on pure white seamless backdrop with subtle contact shadow and generous margins. Preserve actual package shape, logo, colors, variant, graphics and visible wording. No invented details, prices, props or extra captions. Remove shelf and other products.",
+    "batch": "2026-10-10-12"
+  },
+  {
+    "key": "varveio-balsamico",
+    "path": "/workspace/scratch/6151702d6358/generated_images/exec-bc361325-f070-4c2f-bfa9-0f8423378c85.png",
+    "prompt": "Edit target shop photograph. Extract ONLY Dark glass VARVELLO ACETO BALSAMICO DI MODENA IGP bottle, cream rectangular label, tall black neck wrap, 500 ml. Left of golden apple vinegar. Preserve brand spelling VARVELLO. Square commercial photograph, one complete product upright centered on pure white seamless backdrop with subtle contact shadow and generous margins. Preserve actual package shape, logo, colors, variant, graphics and visible wording. No invented details, prices, props or extra captions. Remove shelf and other products.",
+    "batch": "2026-10-10-12",
+    "name": "Vinagre balsámico de Módena Varvello"
+  },
+  {
+    "key": "varveio-manzana",
+    "path": "/workspace/scratch/6151702d6358/generated_images/exec-7a2b286d-9592-460c-b004-a811ff59d824.png",
+    "prompt": "Edit target shop photograph. Extract ONLY Golden transparent glass VARVELLO ACETO di MELE Nobilis bottle, gold screw cap and neck foil, cream rectangular label apple outline, 500 ml. Preserve brand spelling VARVELLO. Square commercial photograph, one complete product upright centered on pure white seamless backdrop with subtle contact shadow and generous margins. Preserve actual package shape, logo, colors, variant, graphics and visible wording. No invented details, prices, props or extra captions. Remove shelf and other products.",
+    "batch": "2026-10-10-12",
+    "name": "Vinagre de manzana Varvello"
+  },
+  {
+    "key": "vima-vino-vinagre",
+    "path": "/workspace/scratch/6151702d6358/generated_images/exec-0ff37ffe-7f97-4348-9433-57be286cd1f9.png",
+    "prompt": "Edit target shop photograph. Extract ONLY Vima VINAGRE DE VINO RIOJA bottle, dark red liquid, gold screw cap, cream green label with cruet illustration, 500 ml, at center. Square commercial photograph, one complete product upright centered on pure white seamless backdrop with subtle contact shadow and generous margins. Preserve actual package shape, logo, colors, variant, graphics and visible wording. No invented details, prices, props or extra captions. Remove shelf and other products.",
+    "batch": "2026-10-10-12"
+  },
+  {
+    "key": "varveio-condimento",
+    "path": "/workspace/scratch/6151702d6358/generated_images/exec-ff77d553-5a85-4ae9-b786-3fdbf9cf8339.png",
+    "prompt": "Edit target shop photograph. Extract ONLY Small brown VARVELLO Condire CREMA con Aceto Balsamico di Modena IGP squeeze bottle with gold cap and cream label, grape illustration, 250 ml / 300 g. Between Badia and Carbonell. Preserve brand VARVELLO. Square commercial photograph, one complete product upright centered on pure white seamless backdrop with subtle contact shadow and generous margins. Preserve actual package shape, logo, colors, variant, graphics and visible wording. No invented details, prices, props or extra captions. Remove shelf and other products.",
+    "batch": "2026-10-10-12",
+    "name": "Crema balsámica Varvello Condirè"
+  },
+  {
+    "key": "gourmet-vinagre",
+    "path": "/workspace/scratch/6151702d6358/generated_images/exec-9c69c90d-e72b-4f74-9aea-64febb5376bd.png",
+    "prompt": "Edit target shop photograph. Extract ONLY One plastic dark red Gourmet Vinagre de vino rojo bottle, red cap with cream top, red green label, 500 ml, center. Preserve actual ribbed bottle shape and label design. Square commercial photograph, one complete product upright centered on pure white seamless backdrop with subtle contact shadow and generous margins. Preserve actual package shape, logo, colors, variant, graphics and visible wording. No invented details, prices, props or extra captions. Remove shelf and other products.",
+    "batch": "2026-10-10-12"
+  }
+]
