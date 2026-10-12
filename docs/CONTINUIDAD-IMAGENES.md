@@ -40,4 +40,4 @@ Base pública comprobada: 490 individuales y 91 pendientes. Resultado preparado:
 
 Correspondencias adicionales por aclarar: `coffee-whitener` dice Country pero la foto muestra Sunrise Coffee; `vima-albondigas-lata` está asociada a una foto de leche evaporada; `gourmet-double` muestra sobres de café soluble, no galletas; `bauducco-wafer-choco` tiene foto de sabores fresa y peanut butter; los tés combinados tampoco coinciden claramente con los nombres. No se modificaron estas fichas.
 
-Antes del siguiente lote consultar la cola regenerada. Lote 02 pendiente de comprobación pública; no contar como publicado hasta disponer de evidencia.
+Antes del siguiente lote consultar la cola regenerada. Lote 02 publicado y verificado: commit `557a47563bf23c6900f41adb3e07b757dc658fc2`, despliegue `dpl_H3ibB8W5xAbNR6UTPPz5xZ7JsHiP` READY. 10 imágenes públicas coinciden byte por byte; API confirma 500 individuales, 81 pendientes y 104 precios por confirmar. Contador de revisión correcto. 24 pruebas y build aprobados. Evidencia: `verification-2026-10-12-lote-02.json`.

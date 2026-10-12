@@ -1,0 +1,64 @@
+{
+  "commit": "557a47563bf23c6900f41adb3e07b757dc658fc2",
+  "deployment": "dpl_H3ibB8W5xAbNR6UTPPz5xZ7JsHiP",
+  "state": "READY",
+  "totalProducts": 581,
+  "individualImages": 500,
+  "remaining": 81,
+  "pendingPrices": 104,
+  "publicImages": [
+    {
+      "product": "coffee-mcdaniels",
+      "match": true,
+      "bytes": 93268
+    },
+    {
+      "product": "nesquik-choco-bag",
+      "match": true,
+      "bytes": 97134
+    },
+    {
+      "product": "te-limon",
+      "match": true,
+      "bytes": 62770
+    },
+    {
+      "product": "te-manzanilla",
+      "match": true,
+      "bytes": 74144
+    },
+    {
+      "product": "peanut-cookies-18",
+      "match": true,
+      "bytes": 106496
+    },
+    {
+      "product": "britannia-biscafe",
+      "match": true,
+      "bytes": 123534
+    },
+    {
+      "product": "berry-croco",
+      "match": true,
+      "bytes": 182222
+    },
+    {
+      "product": "quaker-fruitcream",
+      "match": true,
+      "bytes": 132930
+    },
+    {
+      "product": "cocoa-pebbles-cup",
+      "match": true,
+      "bytes": 121060
+    },
+    {
+      "product": "honeybunches-cup",
+      "match": true,
+      "bytes": 99606
+    }
+  ],
+  "reviewCounterVerified": true,
+  "testsPassed": 24,
+  "build": "passed"
+}
