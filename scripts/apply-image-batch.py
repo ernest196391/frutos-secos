@@ -17,7 +17,7 @@ by_key = {p['sharedProductId']: p for p in products}
 for item in batch:
     p = by_key[item['key']]
     previous = p['img']
-    target = '/products/generated/' + item['key'] + '-20261010.webp'
+    target = '/products/generated/' + item['key'] + '-' + item.get('assetDate', '20261010') + '.webp'
     Image.open(item['path']).convert('RGB').resize((1024, 1024), Image.Resampling.LANCZOS).save(root / 'public' / target.lstrip('/'), 'WEBP', quality=90)
     if item.get('name') and item['name'] != p['n']:
         summary['nameCorrections'].append({'key': item['key'], 'before': p['n'], 'after': item['name'], 'priceCUP': p['p'], 'evidence': item.get('evidence', p['sourceImage'])})

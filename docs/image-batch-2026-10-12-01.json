@@ -1,0 +1,73 @@
+[
+  {
+    "key": "worcestershire-leaperrins",
+    "path": "public/products/generated/worcestershire-leaperrins-20261012.webp",
+    "batch": "2026-10-12-lote-01",
+    "assetDate": "20261012",
+    "prompt": "Reference-based individual product extraction/restoration on white background; preserve brand, variant, package colors, shape and artwork; remove shelf, other products and handwritten prices; no invented claims. Built-in image generation."
+  },
+  {
+    "key": "splenda-small",
+    "path": "public/products/generated/splenda-small-20261012.webp",
+    "batch": "2026-10-12-lote-01",
+    "assetDate": "20261012",
+    "prompt": "Reference-based individual product extraction/restoration on white background; preserve brand, variant, package colors, shape and artwork; remove shelf, other products and handwritten prices; no invented claims. Built-in image generation.",
+    "description": "Crema para café French Vanilla · Botella"
+  },
+  {
+    "key": "coffee-sebraz-250",
+    "path": "public/products/generated/coffee-sebraz-250-20261012.webp",
+    "batch": "2026-10-12-lote-01",
+    "assetDate": "20261012",
+    "prompt": "Reference-based individual product extraction/restoration on white background; preserve brand, variant, package colors, shape and artwork; remove shelf, other products and handwritten prices; no invented claims. Built-in image generation."
+  },
+  {
+    "key": "nesquik-choco-tin",
+    "path": "public/products/generated/nesquik-choco-tin-20261012.webp",
+    "batch": "2026-10-12-lote-01",
+    "assetDate": "20261012",
+    "prompt": "Reference-based individual product extraction/restoration on white background; preserve brand, variant, package colors, shape and artwork; remove shelf, other products and handwritten prices; no invented claims. Built-in image generation."
+  },
+  {
+    "key": "nesquik-straw-tin",
+    "path": "public/products/generated/nesquik-straw-tin-20261012.webp",
+    "batch": "2026-10-12-lote-01",
+    "assetDate": "20261012",
+    "prompt": "Reference-based individual product extraction/restoration on white background; preserve brand, variant, package colors, shape and artwork; remove shelf, other products and handwritten prices; no invented claims. Built-in image generation."
+  },
+  {
+    "key": "colacao-original",
+    "path": "public/products/generated/colacao-original-20261012.webp",
+    "batch": "2026-10-12-lote-01",
+    "assetDate": "20261012",
+    "prompt": "Reference-based individual product extraction/restoration on white background; preserve brand, variant, package colors, shape and artwork; remove shelf, other products and handwritten prices; no invented claims. Built-in image generation."
+  },
+  {
+    "key": "colacao-turbo",
+    "path": "public/products/generated/colacao-turbo-20261012.webp",
+    "batch": "2026-10-12-lote-01",
+    "assetDate": "20261012",
+    "prompt": "Reference-based individual product extraction/restoration on white background; preserve brand, variant, package colors, shape and artwork; remove shelf, other products and handwritten prices; no invented claims. Built-in image generation."
+  },
+  {
+    "key": "chocolisto-choco",
+    "path": "public/products/generated/chocolisto-choco-20261012.webp",
+    "batch": "2026-10-12-lote-01",
+    "assetDate": "20261012",
+    "prompt": "Reference-based individual product extraction/restoration on white background; preserve brand, variant, package colors, shape and artwork; remove shelf, other products and handwritten prices; no invented claims. Built-in image generation."
+  },
+  {
+    "key": "chocolisto-straw",
+    "path": "public/products/generated/chocolisto-straw-20261012.webp",
+    "batch": "2026-10-12-lote-01",
+    "assetDate": "20261012",
+    "prompt": "Reference-based individual product extraction/restoration on white background; preserve brand, variant, package colors, shape and artwork; remove shelf, other products and handwritten prices; no invented claims. Built-in image generation."
+  },
+  {
+    "key": "cacao-black",
+    "path": "public/products/generated/cacao-black-20261012.webp",
+    "batch": "2026-10-12-lote-01",
+    "assetDate": "20261012",
+    "prompt": "Reference-based individual product extraction/restoration on white background; preserve brand, variant, package colors, shape and artwork; remove shelf, other products and handwritten prices; no invented claims. Built-in image generation."
+  }
+]

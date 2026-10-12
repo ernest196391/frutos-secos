@@ -1148,5 +1148,105 @@
     "priceCUP": 2200,
     "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
     "prompt": "Edit this shop photograph. Isolate ONLY one Nestlé Coffee Mate Original red and yellow bag at right, Rinde20tazas, remove handwritten2200 sticker and reconstruct underlying cup. One whole product upright centered on pure white seamless background with subtle contact shadow. Square studio product photograph. Preserve real brand, shape, graphics, colors and visible text from source. Do not invent unreadable weight or wording. No shelf, other items, price signs, props or added captions."
+  },
+  {
+    "sharedProductId": "worcestershire-leaperrins",
+    "name": "Salsa Lea & Perrins Worcestershire",
+    "sourceImage": "/catalog-sources/IMG_20261009_170250.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170250.jpg",
+    "newImage": "/products/generated/worcestershire-leaperrins-20261012.webp",
+    "priceCUP": 12800,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Reference-based individual product extraction/restoration on white background; preserve brand, variant, package colors, shape and artwork; remove shelf, other products and handwritten prices; no invented claims. Built-in image generation."
+  },
+  {
+    "sharedProductId": "splenda-small",
+    "name": "Splenda",
+    "sourceImage": "/catalog-sources/IMG_20261009_170333.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170333.jpg",
+    "newImage": "/products/generated/splenda-small-20261012.webp",
+    "priceCUP": 4300,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Reference-based individual product extraction/restoration on white background; preserve brand, variant, package colors, shape and artwork; remove shelf, other products and handwritten prices; no invented claims. Built-in image generation."
+  },
+  {
+    "sharedProductId": "coffee-sebraz-250",
+    "name": "Café Sebraz Extra Forte",
+    "sourceImage": "/catalog-sources/IMG_20261009_170341.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170341.jpg",
+    "newImage": "/products/generated/coffee-sebraz-250-20261012.webp",
+    "priceCUP": 2500,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Reference-based individual product extraction/restoration on white background; preserve brand, variant, package colors, shape and artwork; remove shelf, other products and handwritten prices; no invented claims. Built-in image generation."
+  },
+  {
+    "sharedProductId": "nesquik-choco-tin",
+    "name": "Nesquik Chocolate",
+    "sourceImage": "/catalog-sources/IMG_20261009_170346_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170346_1.jpg",
+    "newImage": "/products/generated/nesquik-choco-tin-20261012.webp",
+    "priceCUP": 18000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Reference-based individual product extraction/restoration on white background; preserve brand, variant, package colors, shape and artwork; remove shelf, other products and handwritten prices; no invented claims. Built-in image generation."
+  },
+  {
+    "sharedProductId": "nesquik-straw-tin",
+    "name": "Nesquik Strawberry",
+    "sourceImage": "/catalog-sources/IMG_20261009_170346_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170346_1.jpg",
+    "newImage": "/products/generated/nesquik-straw-tin-20261012.webp",
+    "priceCUP": 16500,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Reference-based individual product extraction/restoration on white background; preserve brand, variant, package colors, shape and artwork; remove shelf, other products and handwritten prices; no invented claims. Built-in image generation."
+  },
+  {
+    "sharedProductId": "colacao-original",
+    "name": "ColaCao Original",
+    "sourceImage": "/catalog-sources/IMG_20261009_170351.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170351.jpg",
+    "newImage": "/products/generated/colacao-original-20261012.webp",
+    "priceCUP": 10200,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Reference-based individual product extraction/restoration on white background; preserve brand, variant, package colors, shape and artwork; remove shelf, other products and handwritten prices; no invented claims. Built-in image generation."
+  },
+  {
+    "sharedProductId": "colacao-turbo",
+    "name": "ColaCao Turbo",
+    "sourceImage": "/catalog-sources/IMG_20261009_170351.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170351.jpg",
+    "newImage": "/products/generated/colacao-turbo-20261012.webp",
+    "priceCUP": 6500,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Reference-based individual product extraction/restoration on white background; preserve brand, variant, package colors, shape and artwork; remove shelf, other products and handwritten prices; no invented claims. Built-in image generation."
+  },
+  {
+    "sharedProductId": "chocolisto-choco",
+    "name": "Choco Listo Chocolate",
+    "sourceImage": "/catalog-sources/IMG_20261009_170358.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170358.jpg",
+    "newImage": "/products/generated/chocolisto-choco-20261012.webp",
+    "priceCUP": 4800,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Reference-based individual product extraction/restoration on white background; preserve brand, variant, package colors, shape and artwork; remove shelf, other products and handwritten prices; no invented claims. Built-in image generation."
+  },
+  {
+    "sharedProductId": "chocolisto-straw",
+    "name": "Choco Listo Strawberry",
+    "sourceImage": "/catalog-sources/IMG_20261009_170358.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170358.jpg",
+    "newImage": "/products/generated/chocolisto-straw-20261012.webp",
+    "priceCUP": 3000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Reference-based individual product extraction/restoration on white background; preserve brand, variant, package colors, shape and artwork; remove shelf, other products and handwritten prices; no invented claims. Built-in image generation."
+  },
+  {
+    "sharedProductId": "cacao-black",
+    "name": "Cacao amargo en polvo Macro Food",
+    "sourceImage": "/catalog-sources/IMG_20261009_170358.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170358.jpg",
+    "newImage": "/products/generated/cacao-black-20261012.webp",
+    "priceCUP": 3000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Reference-based individual product extraction/restoration on white background; preserve brand, variant, package colors, shape and artwork; remove shelf, other products and handwritten prices; no invented claims. Built-in image generation."
   }
 ]
