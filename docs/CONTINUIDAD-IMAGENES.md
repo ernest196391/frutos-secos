@@ -52,3 +52,11 @@ Base pública: 500 individuales y 81 pendientes. Resultado preparado: 510 indivi
 No resolver por conjetura: KitKat Minis muestra conejitos; Toblerone presenta varios tamaños; Reese’s barra podría corresponder a cups; Milano Double Milk parece Double Dark en la foto. Consultar cola regenerada antes del siguiente lote.
 
 Lote 03 publicado y verificado: commit `44a5b25b344a55f3187f3a75bd7436c5bd51b4ee`, despliegue `dpl_A1zhd4gH2e7oPXsxK4cXkYwCDZqk` READY. Diez imágenes públicas coinciden byte por byte; API confirma 510 individuales, 71 pendientes y 104 precios por confirmar. Contador de revisión correcto. 24 pruebas y build aprobados. Evidencia: `verification-2026-10-12-lote-03.json`.
+
+## Lote 04 — 12 de octubre de 2026
+
+Base comprobada en API pública y main: 581 productos, 510 imágenes individuales, 71 pendientes y 104 precios por confirmar. Diez reconstrucciones provisionales con la herramienta integrada: Member’s Mark Cookie Thins; Lil’ Dutch Maid Oatmeal, Chocolate Chip y Almond Windmill; Fresko Butter Milky, Cappuccino y Coffee; Takis Fuego 28,4 g; Kar’s Sweet ’n Salty 128 g; Fan Fan Dried Apple 50 g.
+
+Referencias, archivos y prompts: `image-batch-2026-10-12-04.json`. Marca, variante y formato cotejados visualmente. Resultado preparado: 520 imágenes individuales y 61 pendientes. Exactamente diez fichas cambian solo sus campos de imagen; nombres, precios, stock, descripciones, IDs y referencias originales preservados. Publicación pendiente de verificación pública al registrar este cambio.
+
+Observaciones adicionales para próximos lotes: `bentons-mint-cookies` dice Covered Cookies/caja, pero la referencia muestra Layered Cookies/bolsa; `crepel` debe cotejarse con la caja Wafer Master visible; Pica-Pau muestra tres sabores y necesita confirmar si la ficha los agrupa. No resolver estas diferencias por conjetura. Continuar desde la cola regenerada `docs/handoff/imagenes-pendientes.csv`.

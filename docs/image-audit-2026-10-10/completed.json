@@ -1448,5 +1448,105 @@
     "priceCUP": 29000,
     "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
     "prompt": "Create a square clean ecommerce product photo of exactly ONE m&m's PEANUT clear large squat plastic candy jar with YELLOW screw lid, red white and blue candies, red white & blue mix label with stars and yellow/purple characters, net 62 oz (1757.7g). Select PEANUT yellow lid jar, not brown lid milk chocolate jar. Use the attached original shop photograph as the visual reference for this exact product: preserve package type, proportions, brand, flavor, colors and printed artwork faithfully. Isolate only this product, upright centered with whole package visible, mostly frontal with slight realistic depth, white seamless background and soft natural contact shadow, studio lighting. Remove shelf, price stickers, hands, surrounding products and clutter. Do not add props or unsupported claims or invent tiny text. This is a provisional catalog reconstruction, prioritize fidelity to the visible reference."
+  },
+  {
+    "sharedProductId": "members-cookie-thins",
+    "name": "Member's Mark Chocolate Chip Cookie Thins",
+    "sourceImage": "/catalog-sources/IMG_20261009_170614.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170614.jpg",
+    "newImage": "/products/generated/members-cookie-thins-20261012.webp",
+    "priceCUP": 6000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Isolate ONE Member's Mark mini Thin & Crispy Chocolate Chip Cookie Thins 454g pouch, faithful original package on white background; no invented claims."
+  },
+  {
+    "sharedProductId": "oatmeal-cookie",
+    "name": "Oatmeal Cookies",
+    "sourceImage": "/catalog-sources/IMG_20261009_170637.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170637.jpg",
+    "newImage": "/products/generated/oatmeal-cookie-20261012.webp",
+    "priceCUP": 3800,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit the reference store photograph into an individual square ecommerce product photo. Target: ONE Lil' Dutch Maid Oatmeal cookies horizontal yellow and brown plastic pack on left, transparent window showing cookies. Preserve horizontal package form. Whole package centered with generous margin on pure white background and soft contact shadow, realistic studio lighting. Preserve exact brand, variant, color, proportions and original printed artwork. Remove shelves, other products, stickers, clips and surroundings. No added claims or props, do not invent unreadable small print. Faithful provisional catalog reconstruction."
+  },
+  {
+    "sharedProductId": "chocochip-cookie",
+    "name": "Chocolate Chip Cookies",
+    "sourceImage": "/catalog-sources/IMG_20261009_170637.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170637.jpg",
+    "newImage": "/products/generated/chocochip-cookie-20261012.webp",
+    "priceCUP": 3800,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit the reference store photograph into an individual square ecommerce product photo. Target: ONE Lil' Dutch Maid Chocolate Chip flavored cookies horizontal yellow and blue plastic pack in center, clear window showing cookies. Preserve horizontal package form. Whole package centered with generous margin on pure white background and soft contact shadow, realistic studio lighting. Preserve exact brand, variant, color, proportions and original printed artwork. Remove shelves, other products, stickers, clips and surroundings. No added claims or props, do not invent unreadable small print. Faithful provisional catalog reconstruction."
+  },
+  {
+    "sharedProductId": "almond-windmill",
+    "name": "Almond Windmill Cookies",
+    "sourceImage": "/catalog-sources/IMG_20261009_170637.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170637.jpg",
+    "newImage": "/products/generated/almond-windmill-20261012.webp",
+    "priceCUP": 3000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit the reference store photograph into an individual square ecommerce product photo. Target: ONE Lil' Dutch Maid Almond Windmill cookies horizontal yellow and rust-brown plastic pack on right with clear window showing a row of cookies, NET WT 10 OZ 283g. Whole package centered with generous margin on pure white background and soft contact shadow, realistic studio lighting. Preserve exact brand, variant, color, proportions and original printed artwork. Remove shelves, other products, stickers, clips and surroundings. No added claims or props, do not invent unreadable small print. Faithful provisional catalog reconstruction."
+  },
+  {
+    "sharedProductId": "fresko-butter",
+    "name": "Caramelos Fresko Butter Milky",
+    "sourceImage": "/catalog-sources/IMG_20261009_170642.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170642.jpg",
+    "newImage": "/products/generated/fresko-butter-20261012.webp",
+    "priceCUP": 4000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit the reference store photograph into an individual square ecommerce product photo. Target: ONE Fresko Butter Milky hard candy upright red and yellow bag on left with milk cup illustration and transparent lower area containing wrapped candies, 600g. Whole package centered with generous margin on pure white background and soft contact shadow, realistic studio lighting. Preserve exact brand, variant, color, proportions and original printed artwork. Remove shelves, other products, stickers, clips and surroundings. No added claims or props, do not invent unreadable small print. Faithful provisional catalog reconstruction."
+  },
+  {
+    "sharedProductId": "fresko-cappuccino",
+    "name": "Caramelos Fresko Cappuccino",
+    "sourceImage": "/catalog-sources/IMG_20261009_170642.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170642.jpg",
+    "newImage": "/products/generated/fresko-cappuccino-20261012.webp",
+    "priceCUP": 4000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit the reference store photograph into an individual square ecommerce product photo. Target: ONE Fresko Cappuccino Original hard candy upright brown bag in center, cup artwork and transparent lower area containing wrapped candies. Whole package centered with generous margin on pure white background and soft contact shadow, realistic studio lighting. Preserve exact brand, variant, color, proportions and original printed artwork. Remove shelves, other products, stickers, clips and surroundings. No added claims or props, do not invent unreadable small print. Faithful provisional catalog reconstruction."
+  },
+  {
+    "sharedProductId": "fresko-coffee",
+    "name": "Caramelos Fresko Coffee",
+    "sourceImage": "/catalog-sources/IMG_20261009_170642.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170642.jpg",
+    "newImage": "/products/generated/fresko-coffee-20261012.webp",
+    "priceCUP": 4000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit the reference store photograph into an individual square ecommerce product photo. Target: ONE Fresko Coffee hard candy upright red and black bag on right, coffee cup artwork and clear lower area containing wrapped candies. Whole package centered with generous margin on pure white background and soft contact shadow, realistic studio lighting. Preserve exact brand, variant, color, proportions and original printed artwork. Remove shelves, other products, stickers, clips and surroundings. No added claims or props, do not invent unreadable small print. Faithful provisional catalog reconstruction."
+  },
+  {
+    "sharedProductId": "takis-fuego",
+    "name": "Takis Fuego",
+    "sourceImage": "/catalog-sources/IMG_20261009_170903_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170903_1.jpg",
+    "newImage": "/products/generated/takis-fuego-20261012.webp",
+    "priceCUP": 1300,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit the reference store photograph into an individual square ecommerce product photo. Target: ONE Takis Fuego purple small pouch in center, NET WT 1 OZ (28.4 g). Preserve chili lime chip artwork and original yellow branding. Whole package centered with generous margin on pure white background and soft contact shadow, realistic studio lighting. Preserve exact brand, variant, color, proportions and original printed artwork. Remove shelves, other products, stickers, clips and surroundings. No added claims or props, do not invent unreadable small print. Faithful provisional catalog reconstruction."
+  },
+  {
+    "sharedProductId": "kars-mix",
+    "name": "Kar's Sweet'n Salty Mix",
+    "sourceImage": "/catalog-sources/IMG_20261009_170906_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170906_1.jpg",
+    "newImage": "/products/generated/kars-mix-20261012.webp",
+    "priceCUP": 1300,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit the reference store photograph into an individual square ecommerce product photo. Target: ONE Kar's SWEET 'N SALTY MIX purple individual pouch, clear window displaying trail mix, NET WT 4.5 OZ (128g). Whole package centered with generous margin on pure white background and soft contact shadow, realistic studio lighting. Preserve exact brand, variant, color, proportions and original printed artwork. Remove shelves, other products, stickers, clips and surroundings. No added claims or props, do not invent unreadable small print. Faithful provisional catalog reconstruction."
+  },
+  {
+    "sharedProductId": "driedapple",
+    "name": "Manzana deshidratada Dried Apple Soft & Chewy",
+    "sourceImage": "/catalog-sources/IMG_20261009_170903_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170903_1.jpg",
+    "newImage": "/products/generated/driedapple-20261012.webp",
+    "priceCUP": 2000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit the reference store photograph into an individual square ecommerce product photo. Target: ONE Fan Fan DRIED APPLE Soft & Chewy orange and white flat hanging pouch on left, apple artwork, NET WT 1.76 OZ (50g). Remove handwritten price sticker. Whole package centered with generous margin on pure white background and soft contact shadow, realistic studio lighting. Preserve exact brand, variant, color, proportions and original printed artwork. Remove shelves, other products, stickers, clips and surroundings. No added claims or props, do not invent unreadable small print. Faithful provisional catalog reconstruction."
   }
 ]
