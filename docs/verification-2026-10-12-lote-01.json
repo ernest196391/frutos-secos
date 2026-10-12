@@ -1,0 +1,64 @@
+{
+  "commit": "44a8c1891c969cc9d86a4c247520eee744a1848c",
+  "deployment": "dpl_5p8kxnghce3DGG9U44KPWG2gRkTN",
+  "state": "READY",
+  "totalProducts": 581,
+  "individualImages": 490,
+  "remaining": 91,
+  "pendingPrices": 104,
+  "publicImages": [
+    {
+      "product": "worcestershire-leaperrins",
+      "match": true,
+      "bytes": 50688
+    },
+    {
+      "product": "splenda-small",
+      "match": true,
+      "bytes": 60088
+    },
+    {
+      "product": "coffee-sebraz-250",
+      "match": true,
+      "bytes": 96512
+    },
+    {
+      "product": "nesquik-choco-tin",
+      "match": true,
+      "bytes": 75364
+    },
+    {
+      "product": "nesquik-straw-tin",
+      "match": true,
+      "bytes": 69820
+    },
+    {
+      "product": "colacao-original",
+      "match": true,
+      "bytes": 86344
+    },
+    {
+      "product": "colacao-turbo",
+      "match": true,
+      "bytes": 102834
+    },
+    {
+      "product": "chocolisto-choco",
+      "match": true,
+      "bytes": 103424
+    },
+    {
+      "product": "chocolisto-straw",
+      "match": true,
+      "bytes": 108782
+    },
+    {
+      "product": "cacao-black",
+      "match": true,
+      "bytes": 160894
+    }
+  ],
+  "reviewCounterVerified": true,
+  "testsPassed": 24,
+  "build": "passed"
+}
