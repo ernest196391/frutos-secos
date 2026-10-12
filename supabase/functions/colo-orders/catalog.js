@@ -6863,13 +6863,15 @@ export const products=[
     "c": "Alimentos",
     "p": 1800,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170543_1.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/frostedflakes-cup-20261012.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170543_1.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170543_1.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-12-lote-03"
   },
   {
     "id": 10245,
@@ -6895,13 +6897,15 @@ export const products=[
     "c": "Alimentos",
     "p": 200,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170548.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/ricekrispies-mini-20261012.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170548.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170548.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-12-lote-03"
   },
   {
     "id": 10247,
@@ -6911,13 +6915,15 @@ export const products=[
     "c": "Alimentos",
     "p": 200,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170548.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/pops-mini-20261012.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170548.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170548.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-12-lote-03"
   },
   {
     "id": 10248,
@@ -6927,13 +6933,15 @@ export const products=[
     "c": "Alimentos",
     "p": 200,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170548.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/miniwheats-mini-20261012.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170548.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170548.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-12-lote-03"
   },
   {
     "id": 10249,
@@ -6943,13 +6951,15 @@ export const products=[
     "c": "Alimentos",
     "p": 22500,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170550.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/carrs-assortment-20261012.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170550.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170550.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-12-lote-03"
   },
   {
     "id": 10250,
@@ -6959,13 +6969,15 @@ export const products=[
     "c": "Alimentos",
     "p": 19000,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170554.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/nerds-clusters-20261012.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170554.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170554.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-12-lote-03"
   },
   {
     "id": 10251,
@@ -7007,13 +7019,15 @@ export const products=[
     "c": "Alimentos",
     "p": 9500,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170556.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/hersheys-nuggets-20261012.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170556.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170556.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-12-lote-03"
   },
   {
     "id": 10254,
@@ -7039,13 +7053,15 @@ export const products=[
     "c": "Alimentos",
     "p": 8500,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170556.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/reeses-pieces-20261012.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170556.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170556.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-12-lote-03"
   },
   {
     "id": 10256,
@@ -7055,13 +7071,15 @@ export const products=[
     "c": "Alimentos",
     "p": 9500,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170600.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/mms-honey-bag-20261012.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170600.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170600.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-12-lote-03"
   },
   {
     "id": 10257,
@@ -7071,13 +7089,15 @@ export const products=[
     "c": "Alimentos",
     "p": 29000,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170603.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/mms-peanut-jar-20261012.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170603.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170603.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-12-lote-03"
   },
   {
     "id": 10258,

@@ -41,3 +41,12 @@ Base pública comprobada: 490 individuales y 91 pendientes. Resultado preparado:
 Correspondencias adicionales por aclarar: `coffee-whitener` dice Country pero la foto muestra Sunrise Coffee; `vima-albondigas-lata` está asociada a una foto de leche evaporada; `gourmet-double` muestra sobres de café soluble, no galletas; `bauducco-wafer-choco` tiene foto de sabores fresa y peanut butter; los tés combinados tampoco coinciden claramente con los nombres. No se modificaron estas fichas.
 
 Antes del siguiente lote consultar la cola regenerada. Lote 02 publicado y verificado: commit `557a47563bf23c6900f41adb3e07b757dc658fc2`, despliegue `dpl_H3ibB8W5xAbNR6UTPPz5xZ7JsHiP` READY. 10 imágenes públicas coinciden byte por byte; API confirma 500 individuales, 81 pendientes y 104 precios por confirmar. Contador de revisión correcto. 24 pruebas y build aprobados. Evidencia: `verification-2026-10-12-lote-02.json`.
+
+
+## Lote 03 — 12 de octubre de 2026
+
+10 imágenes individuales provisionales: Frosted Flakes vaso, Rice Krispies mini, Corn Pops mini, Frosted Mini Wheats mini, Carr’s Assortment, Nerds Gummy Clusters Rainbow, Hershey’s Nuggets, Reese’s Pieces, M&M’s Honey Roasted Peanut y M&M’s Peanut frasco. Referencias y prompts: `image-batch-2026-10-12-03.json`.
+
+Base pública: 500 individuales y 81 pendientes. Resultado preparado: 510 individuales y 71 pendientes; 104 precios por confirmar. Exactamente diez fichas modificadas; nombres, descripciones, precios, stock, IDs y fotos originales conservados. En M&M’s Honey se retiraron los pequeños indicadores nutricionales reconstruidos que no podían cotejarse con claridad. Las imágenes siguen marcadas como provisionales.
+
+No resolver por conjetura: KitKat Minis muestra conejitos; Toblerone presenta varios tamaños; Reese’s barra podría corresponder a cups; Milano Double Milk parece Double Dark en la foto. Consultar cola regenerada antes del siguiente lote.

@@ -1348,5 +1348,105 @@
     "priceCUP": 1800,
     "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
     "prompt": "Use case: background-extraction. Edit supplied store photo into ONE individual ecommerce product photograph. Target: ONE Post HONEY BUNCHES OF OATS HONEY ROASTED individual cereal cup in center. Preserve tapered white plastic cup with sealed foil lid, golden yellow and orange original label, circular sun logo, printed cereal picture. Not a cereal box. Pure white square background, complete upright package centered with comfortable white margin, soft shadow. Preserve reference brand, variant, shape, original colors and artwork. Keep packaging design, not a redesign. Remove all other products, shelf, prices and surroundings. No added claims, no invented small text, no props. Faithful provisional catalog reconstruction."
+  },
+  {
+    "sharedProductId": "frostedflakes-cup",
+    "name": "Frosted Flakes vaso",
+    "sourceImage": "/catalog-sources/IMG_20261009_170543_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170543_1.jpg",
+    "newImage": "/products/generated/frostedflakes-cup-20261012.webp",
+    "priceCUP": 1800,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Create a square clean ecommerce product photo of exactly ONE Kellogg's Frosted Flakes single-serving blue cereal cup with white plastic rim and foil lid, Tony the Tiger artwork, net 2.1 oz (60g). Use the attached original shop photograph as the visual reference for this exact product: preserve package type, proportions, brand, flavor, colors and printed artwork faithfully. Isolate only this product, upright centered with whole package visible, mostly frontal with slight realistic depth, white seamless background and soft natural contact shadow, studio lighting. Remove shelf, price stickers, hands, surrounding products and clutter. Do not add props or unsupported claims or invent tiny text. This is a provisional catalog reconstruction, prioritize fidelity to the visible reference."
+  },
+  {
+    "sharedProductId": "ricekrispies-mini",
+    "name": "Rice Krispies caja pequeña",
+    "sourceImage": "/catalog-sources/IMG_20261009_170548.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170548.jpg",
+    "newImage": "/products/generated/ricekrispies-mini-20261012.webp",
+    "priceCUP": 200,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Create a square clean ecommerce product photo of exactly ONE Kellogg's Rice Krispies small blue rectangular cereal carton, Snap Crackle and Pop characters and cereal bowl, net 0.88 oz (25g), 100 calories. Use the attached original shop photograph as the visual reference for this exact product: preserve package type, proportions, brand, flavor, colors and printed artwork faithfully. Isolate only this product, upright centered with whole package visible, mostly frontal with slight realistic depth, white seamless background and soft natural contact shadow, studio lighting. Remove shelf, price stickers, hands, surrounding products and clutter. Do not add props or unsupported claims or invent tiny text. This is a provisional catalog reconstruction, prioritize fidelity to the visible reference."
+  },
+  {
+    "sharedProductId": "pops-mini",
+    "name": "Kellogg's Pops caja pequeña",
+    "sourceImage": "/catalog-sources/IMG_20261009_170548.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170548.jpg",
+    "newImage": "/products/generated/pops-mini-20261012.webp",
+    "priceCUP": 200,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Create a square clean ecommerce product photo of exactly ONE Kellogg's Corn Pops small bright yellow rectangular cereal carton, large orange POPS lettering and cereal bowl, 100 calories. Use the attached original shop photograph as the visual reference for this exact product: preserve package type, proportions, brand, flavor, colors and printed artwork faithfully. Isolate only this product, upright centered with whole package visible, mostly frontal with slight realistic depth, white seamless background and soft natural contact shadow, studio lighting. Remove shelf, price stickers, hands, surrounding products and clutter. Do not add props or unsupported claims or invent tiny text. This is a provisional catalog reconstruction, prioritize fidelity to the visible reference."
+  },
+  {
+    "sharedProductId": "miniwheats-mini",
+    "name": "Frosted Mini Wheats caja pequeña",
+    "sourceImage": "/catalog-sources/IMG_20261009_170548.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170548.jpg",
+    "newImage": "/products/generated/miniwheats-mini-20261012.webp",
+    "priceCUP": 200,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Create a square clean ecommerce product photo of exactly ONE Kellogg's Frosted Mini Wheats ORIGINAL small orange rectangular cereal carton, blue and white lettering and smiling frosted wheat character, net 1.3 oz (37g), 130 calories. Use the attached original shop photograph as the visual reference for this exact product: preserve package type, proportions, brand, flavor, colors and printed artwork faithfully. Isolate only this product, upright centered with whole package visible, mostly frontal with slight realistic depth, white seamless background and soft natural contact shadow, studio lighting. Remove shelf, price stickers, hands, surrounding products and clutter. Do not add props or unsupported claims or invent tiny text. This is a provisional catalog reconstruction, prioritize fidelity to the visible reference."
+  },
+  {
+    "sharedProductId": "carrs-assortment",
+    "name": "Carr's Table Water Crackers Assortment",
+    "sourceImage": "/catalog-sources/IMG_20261009_170550.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170550.jpg",
+    "newImage": "/products/generated/carrs-assortment-20261012.webp",
+    "priceCUP": 22500,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Create a square clean ecommerce product photo of exactly ONE Carr's TABLE WATER CRACKERS ASSORTMENT tall black rectangular box, white Carr's 1831 crown and wreath logo, five cracker serving illustrations. Exact visible text: 6 cartons inside; 3 Original · 2 Pepper · 1 Sesame; 6–4.25 OZ (120g) Packs; NET WT.25.5 OZ (720g). Use the attached original shop photograph as the visual reference for this exact product: preserve package type, proportions, brand, flavor, colors and printed artwork faithfully. Isolate only this product, upright centered with whole package visible, mostly frontal with slight realistic depth, white seamless background and soft natural contact shadow, studio lighting. Remove shelf, price stickers, hands, surrounding products and clutter. Do not add props or unsupported claims or invent tiny text. This is a provisional catalog reconstruction, prioritize fidelity to the visible reference."
+  },
+  {
+    "sharedProductId": "nerds-clusters",
+    "name": "Nerds Gummy Clusters Rainbow",
+    "sourceImage": "/catalog-sources/IMG_20261009_170554.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170554.jpg",
+    "newImage": "/products/generated/nerds-clusters-20261012.webp",
+    "priceCUP": 19000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Create a square clean ecommerce product photo of exactly ONE NERDS Gummy Clusters Rainbow PARTY SIZE coral-red resealable candy pouch, yellow PARTY SIZE top strip, blue and white Nerds logo, yellow Gummy Clusters lettering, multicolored candy clusters, net 32 oz (907g). Use the attached original shop photograph as the visual reference for this exact product: preserve package type, proportions, brand, flavor, colors and printed artwork faithfully. Isolate only this product, upright centered with whole package visible, mostly frontal with slight realistic depth, white seamless background and soft natural contact shadow, studio lighting. Remove shelf, price stickers, hands, surrounding products and clutter. Do not add props or unsupported claims or invent tiny text. This is a provisional catalog reconstruction, prioritize fidelity to the visible reference."
+  },
+  {
+    "sharedProductId": "hersheys-nuggets",
+    "name": "Hershey's Nuggets",
+    "sourceImage": "/catalog-sources/IMG_20261009_170556.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170556.jpg",
+    "newImage": "/products/generated/hersheys-nuggets-20261012.webp",
+    "priceCUP": 9500,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Create a square clean ecommerce product photo of exactly ONE HERSHEY'S NUGGETS MILK CHOCOLATE SHARING SIZE resealable pouch, dark brown upper area and SILVER lower area, silver-wrapped milk chocolate nugget artwork, net 9.2 oz (260g). Use the attached original shop photograph as the visual reference for this exact product: preserve package type, proportions, brand, flavor, colors and printed artwork faithfully. Isolate only this product, upright centered with whole package visible, mostly frontal with slight realistic depth, white seamless background and soft natural contact shadow, studio lighting. Remove shelf, price stickers, hands, surrounding products and clutter. Do not add props or unsupported claims or invent tiny text. This is a provisional catalog reconstruction, prioritize fidelity to the visible reference."
+  },
+  {
+    "sharedProductId": "reeses-pieces",
+    "name": "Reese's Pieces",
+    "sourceImage": "/catalog-sources/IMG_20261009_170556.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170556.jpg",
+    "newImage": "/products/generated/reeses-pieces-20261012.webp",
+    "priceCUP": 8500,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Create a square clean ecommerce product photo of exactly ONE Reese's Pieces orange resealable candy pouch with yellow top strip and candy dot artwork, distinctive black/yellow Pieces logo, orange yellow brown candy pieces, 140 calories badge. Use the attached original shop photograph as the visual reference for this exact product: preserve package type, proportions, brand, flavor, colors and printed artwork faithfully. Isolate only this product, upright centered with whole package visible, mostly frontal with slight realistic depth, white seamless background and soft natural contact shadow, studio lighting. Remove shelf, price stickers, hands, surrounding products and clutter. Do not add props or unsupported claims or invent tiny text. This is a provisional catalog reconstruction, prioritize fidelity to the visible reference."
+  },
+  {
+    "sharedProductId": "mms-honey-bag",
+    "name": "M&M's Honey Roasted Peanut",
+    "sourceImage": "/catalog-sources/IMG_20261009_170600.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170600.jpg",
+    "newImage": "/products/generated/mms-honey-bag-20261012.webp",
+    "priceCUP": 9500,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Create a square clean ecommerce product photo of exactly ONE m&m's HONEY roasted peanut SHARING SIZE golden honeycomb patterned pouch, yellow M&M character in beekeeper costume, net 9 oz (255g). Select honey roasted peanut bag on right, not other flavors. Use the attached original shop photograph as the visual reference for this exact product: preserve package type, proportions, brand, flavor, colors and printed artwork faithfully. Isolate only this product, upright centered with whole package visible, mostly frontal with slight realistic depth, white seamless background and soft natural contact shadow, studio lighting. Remove shelf, price stickers, hands, surrounding products and clutter. Do not add props or unsupported claims or invent tiny text. This is a provisional catalog reconstruction, prioritize fidelity to the visible reference."
+  },
+  {
+    "sharedProductId": "mms-peanut-jar",
+    "name": "M&M's Peanut frasco",
+    "sourceImage": "/catalog-sources/IMG_20261009_170603.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170603.jpg",
+    "newImage": "/products/generated/mms-peanut-jar-20261012.webp",
+    "priceCUP": 29000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Create a square clean ecommerce product photo of exactly ONE m&m's PEANUT clear large squat plastic candy jar with YELLOW screw lid, red white and blue candies, red white & blue mix label with stars and yellow/purple characters, net 62 oz (1757.7g). Select PEANUT yellow lid jar, not brown lid milk chocolate jar. Use the attached original shop photograph as the visual reference for this exact product: preserve package type, proportions, brand, flavor, colors and printed artwork faithfully. Isolate only this product, upright centered with whole package visible, mostly frontal with slight realistic depth, white seamless background and soft natural contact shadow, studio lighting. Remove shelf, price stickers, hands, surrounding products and clutter. Do not add props or unsupported claims or invent tiny text. This is a provisional catalog reconstruction, prioritize fidelity to the visible reference."
   }
 ]
