@@ -6365,13 +6365,15 @@ export const products=[
     "c": "Alimentos",
     "p": 4900,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170336.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/coffee-mcdaniels-20261012.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170336.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170336.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-12-lote-02"
   },
   {
     "id": 10216,
@@ -6469,13 +6471,15 @@ export const products=[
     "c": "Alimentos",
     "p": 5500,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170351.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/nesquik-choco-bag-20261012.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170351.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170351.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-12-lote-02"
   },
   {
     "id": 10222,
@@ -6539,13 +6543,15 @@ export const products=[
     "c": "Alimentos",
     "p": 2000,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170404.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/te-limon-20261012.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170404.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170404.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-12-lote-02"
   },
   {
     "id": 10226,
@@ -6555,13 +6561,15 @@ export const products=[
     "c": "Alimentos",
     "p": 2000,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170404.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/te-manzanilla-20261012.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170404.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170404.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-12-lote-02"
   },
   {
     "id": 10227,
@@ -6635,13 +6643,15 @@ export const products=[
     "c": "Alimentos",
     "p": 2500,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170417.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/peanut-cookies-18-20261012.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170417.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170417.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-12-lote-02"
   },
   {
     "id": 10232,
@@ -6651,13 +6661,15 @@ export const products=[
     "c": "Alimentos",
     "p": 2300,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170421.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/britannia-biscafe-20261012.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170421.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170421.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-12-lote-02"
   },
   {
     "id": 10233,
@@ -6763,13 +6775,15 @@ export const products=[
     "c": "Alimentos",
     "p": 3400,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170540.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/berry-croco-20261012.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170540.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170540.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-12-lote-02"
   },
   {
     "id": 10240,
@@ -6779,13 +6793,15 @@ export const products=[
     "c": "Alimentos",
     "p": 19000,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170540.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/quaker-fruitcream-20261012.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170540.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170540.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-12-lote-02"
   },
   {
     "id": 10241,
@@ -6811,13 +6827,15 @@ export const products=[
     "c": "Alimentos",
     "p": 1800,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170543_1.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/cocoa-pebbles-cup-20261012.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170543_1.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170543_1.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-12-lote-02"
   },
   {
     "id": 10243,
@@ -6827,13 +6845,15 @@ export const products=[
     "c": "Alimentos",
     "p": 1800,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170543_1.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/honeybunches-cup-20261012.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170543_1.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170543_1.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-12-lote-02"
   },
   {
     "id": 10244,

@@ -1248,5 +1248,105 @@
     "priceCUP": 3000,
     "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
     "prompt": "Reference-based individual product extraction/restoration on white background; preserve brand, variant, package colors, shape and artwork; remove shelf, other products and handwritten prices; no invented claims. Built-in image generation."
+  },
+  {
+    "sharedProductId": "coffee-mcdaniels",
+    "name": "Café McDaniel’s Espresso",
+    "sourceImage": "/catalog-sources/IMG_20261009_170336.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170336.jpg",
+    "newImage": "/products/generated/coffee-mcdaniels-20261012.webp",
+    "priceCUP": 4900,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit the supplied store photo into ONE individual ecommerce product photograph. Target: The yellow McDANIEL'S COFFEE CO. CAFÉ ESPRESSO GROUND COFFEE pouch in the front center, red panel, coffee cup illustration. Preserve exact yellow/red package design, upright shape, branding. Pure white square background, complete upright package centered with comfortable margin, subtle ground shadow. Preserve actual brand, flavor, shape, package colors and artwork; no redesign or invented small print. Remove all other products, shelf, price tags and surroundings. No added claims or props. Faithful provisional catalog reconstruction."
+  },
+  {
+    "sharedProductId": "nesquik-choco-bag",
+    "name": "Nesquik Chocolate bolsa",
+    "sourceImage": "/catalog-sources/IMG_20261009_170351.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170351.jpg",
+    "newImage": "/products/generated/nesquik-choco-bag-20261012.webp",
+    "priceCUP": 5500,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit the supplied store photo into ONE individual ecommerce product photograph. Target: The Nestlé Nesquik chocolate refill pouch on right: yellow bag, brown top strip, '15 vasos', blue Nesquik logo, chocolate drink illustration and two black octagonal warnings. Preserve the pouch form and original label; not a yellow tub. Pure white square background, complete upright package centered with comfortable margin, subtle ground shadow. Preserve actual brand, flavor, shape, package colors and artwork; no redesign or invented small print. Remove all other products, shelf, price tags and surroundings. No added claims or props. Faithful provisional catalog reconstruction."
+  },
+  {
+    "sharedProductId": "te-limon",
+    "name": "Té Doblet de limón",
+    "sourceImage": "/catalog-sources/IMG_20261009_170404.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170404.jpg",
+    "newImage": "/products/generated/te-limon-20261012.webp",
+    "priceCUP": 2000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit the supplied store photo into ONE individual ecommerce product photograph. Target: ONE Doblett TÉ DE LIMÓN rectangular tea box on the right: yellow-green and deep green blocks, white script Doblett brand, large dark green TÉ DE LIMÓN letters. Preserve 16 bags label and existing original artwork, not another flavor. Pure white square background, complete upright package centered with comfortable margin, subtle ground shadow. Preserve actual brand, flavor, shape, package colors and artwork; no redesign or invented small print. Remove all other products, shelf, price tags and surroundings. No added claims or props. Faithful provisional catalog reconstruction."
+  },
+  {
+    "sharedProductId": "te-manzanilla",
+    "name": "Té Doblet de manzanilla",
+    "sourceImage": "/catalog-sources/IMG_20261009_170404.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170404.jpg",
+    "newImage": "/products/generated/te-manzanilla-20261012.webp",
+    "priceCUP": 2000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit supplied store photo into ONE individual ecommerce product photograph. Target: ONE red/orange Doblett TÉ DE MANZANILLA tea box at the center: red checkerboard, cream text MANZA/NILLA, white script Doblett brand and small flower icon. Preserve the 16 bags reference label and geometry. Pure white square background, whole upright package centered with comfortable margin, subtle ground shadow. Preserve actual brand, flavor, shape, package colors and original artwork; no redesign or invented small print. Remove all other products, shelf, price tags, hands and surroundings. No added claims or props. Faithful provisional catalog reconstruction."
+  },
+  {
+    "sharedProductId": "peanut-cookies-18",
+    "name": "Peanut Butter Sandwich Cookies18Pack",
+    "sourceImage": "/catalog-sources/IMG_20261009_170417.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170417.jpg",
+    "newImage": "/products/generated/peanut-cookies-18-20261012.webp",
+    "priceCUP": 2500,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit supplied store photo into ONE individual ecommerce product photograph. Target: ONE tall red SOBISK Peanut Butter Sandwich Cookies 18 PACK cardboard box on the left. Preserve blue top banner with yellow 18 PACK, blue/yellow Peanut Butter lettering, cookie and peanut cream illustrations. Restore clean closed carton, remove handwritten price sticker. Pure white square background, whole upright package centered with comfortable margin, subtle ground shadow. Preserve actual brand, flavor, shape, package colors and original artwork; no redesign or invented small print. Remove all other products, shelf, price tags, hands and surroundings. No added claims or props. Faithful provisional catalog reconstruction. Targeted correction: Correct ONLY the small bottom nutrition badge 'Sat. Fat' to read '3.5g' and '18% DV' as in the original reference, not 1.5g. Preserve all other appearance, logo, 18 PACK, cookie illustrations, red box and white background. Original source is authoritative."
+  },
+  {
+    "sharedProductId": "britannia-biscafe",
+    "name": "Galletas Britannia Biscafé",
+    "sourceImage": "/catalog-sources/IMG_20261009_170421.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170421.jpg",
+    "newImage": "/products/generated/britannia-biscafe-20261012.webp",
+    "priceCUP": 2300,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit supplied store photo into ONE individual ecommerce product photograph. Target: ONE BRITANNIA Biscafé golden-yellow broad rectangular box at left. Preserve red Britannia logo, bold dark Biscafé lettering, coffee beans and thin square crackers printed on packaging. Remove handwritten price sticker. Pure white square background, whole upright package centered with comfortable margin, subtle ground shadow. Preserve actual brand, flavor, shape, package colors and original artwork; no redesign or invented small print. Remove all other products, shelf, price tags, hands and surroundings. No added claims or props. Faithful provisional catalog reconstruction."
+  },
+  {
+    "sharedProductId": "berry-croco",
+    "name": "Cereal Berry Croco Crunch",
+    "sourceImage": "/catalog-sources/IMG_20261009_170540.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170540.jpg",
+    "newImage": "/products/generated/berry-croco-20261012.webp",
+    "priceCUP": 3400,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit supplied store photo into ONE individual ecommerce product photograph. Target: ONE tall yellow Kiggins BERRY CROCO CRUNCH cereal carton on left. Preserve green crocodile pirate with blue hat and purple eyepatch, orange BERRY badge, green CROCO CRUNCH logo, colorful cereal and milk artwork on actual carton. Pure white square background, complete upright package centered with comfortable white margin, soft shadow. Preserve reference brand, variant, shape, original colors and artwork. Keep packaging design, not a redesign. Remove all other products, shelf, prices and surroundings. No added claims, no invented small text, no props. Faithful provisional catalog reconstruction."
+  },
+  {
+    "sharedProductId": "quaker-fruitcream",
+    "name": "Quaker Instant Oatmeal Fruit & Cream",
+    "sourceImage": "/catalog-sources/IMG_20261009_170540.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170540.jpg",
+    "newImage": "/products/generated/quaker-fruitcream-20261012.webp",
+    "priceCUP": 19000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit supplied store photo into ONE individual ecommerce product photograph. Target: ONE Quaker INSTANT OATMEAL FRUIT & CREAM 40 PACKETS box on right. Preserve cream upper part, green title panel, yellow 40 PACKETS block, colored flavor strip and original printed oatmeal bowls and fruit artwork. Remove handwritten price. Pure white square background, complete upright package centered with comfortable white margin, soft shadow. Preserve reference brand, variant, shape, original colors and artwork. Keep packaging design, not a redesign. Remove all other products, shelf, prices and surroundings. No added claims, no invented small text, no props. Faithful provisional catalog reconstruction. Targeted correction: Correct ONLY the flavor packet counts in the generated packshot to match the source photo: STRAWBERRIES & CREAM = 16 packets; BANANAS & CREAM = 8 packets; BLUEBERRIES & CREAM = 8 packets; PEACHES & CREAM = 8 packets. The total is 40. Preserve all other generated packaging appearance, colors, white background and composition."
+  },
+  {
+    "sharedProductId": "cocoa-pebbles-cup",
+    "name": "Cocoa Pebbles vaso",
+    "sourceImage": "/catalog-sources/IMG_20261009_170543_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170543_1.jpg",
+    "newImage": "/products/generated/cocoa-pebbles-cup-20261012.webp",
+    "priceCUP": 1800,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit supplied store photo into ONE individual ecommerce product photograph. Target: ONE Post COCOA PEBBLES brown single-serving cereal cup on left-center. Preserve short tapered white plastic cup with sealed foil lid, brown label, yellow COCOA PEBBLES logo, Flintstones character and chocolate cereal image. Not a cereal box. Pure white square background, complete upright package centered with comfortable white margin, soft shadow. Preserve reference brand, variant, shape, original colors and artwork. Keep packaging design, not a redesign. Remove all other products, shelf, prices and surroundings. No added claims, no invented small text, no props. Faithful provisional catalog reconstruction."
+  },
+  {
+    "sharedProductId": "honeybunches-cup",
+    "name": "Honey Bunches of Oats vaso",
+    "sourceImage": "/catalog-sources/IMG_20261009_170543_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170543_1.jpg",
+    "newImage": "/products/generated/honeybunches-cup-20261012.webp",
+    "priceCUP": 1800,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit supplied store photo into ONE individual ecommerce product photograph. Target: ONE Post HONEY BUNCHES OF OATS HONEY ROASTED individual cereal cup in center. Preserve tapered white plastic cup with sealed foil lid, golden yellow and orange original label, circular sun logo, printed cereal picture. Not a cereal box. Pure white square background, complete upright package centered with comfortable white margin, soft shadow. Preserve reference brand, variant, shape, original colors and artwork. Keep packaging design, not a redesign. Remove all other products, shelf, prices and surroundings. No added claims, no invented small text, no props. Faithful provisional catalog reconstruction."
   }
 ]

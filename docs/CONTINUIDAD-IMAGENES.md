@@ -30,3 +30,14 @@ Estas siete fichas conservan su foto y datos actuales; no se han resuelto por co
 Partir de `docs/handoff/imagenes-pendientes.csv` y cotejar con la API pública antes de editar. Priorizar bebidas en polvo y té con identidad comprobable. No regenerar los productos del lote 01. Cerrar cada lote con pruebas, publicación y comprobación del catálogo público y los archivos nuevos.
 
 Validación local del lote 01: 24 pruebas aprobadas y compilación de producción correcta. Exactamente 10 fichas modificadas; todos los precios, nombres, IDs, existencias y fotos originales conservados. Publicado y verificado en producción: commit `44a8c1891c969cc9d86a4c247520eee744a1848c`, despliegue `dpl_5p8kxnghce3DGG9U44KPWG2gRkTN` READY. API pública: 581 productos, 490 imágenes individuales, 91 pendientes y 104 precios por confirmar. Los 10 archivos públicos coinciden byte por byte con los preparados. Contador de revisión confirmado. Evidencia: `verification-2026-10-12-lote-01.json`.
+
+
+## Lote 02 — 12 de octubre de 2026
+
+10 imágenes individuales provisionales: McDaniel’s Espresso, Nesquik en bolsa, té de limón, té de manzanilla, Sobisk Peanut Butter 18 Pack, Britannia Biscafé, Berry Croco Crunch, Quaker Fruit & Cream, Cocoa Pebbles vaso y Honey Bunches of Oats vaso. Registro de referencias y prompts: `image-batch-2026-10-12-02.json`.
+
+Base pública comprobada: 490 individuales y 91 pendientes. Resultado preparado: 500 individuales, 81 pendientes, 104 precios por confirmar. Precios, nombres, IDs, stock, descripciones y fotos originales preservados. Reconstrucciones revisadas visualmente; correcciones puntuales de cantidades en Quaker y texto nutricional en Sobisk para coincidir con el original.
+
+Correspondencias adicionales por aclarar: `coffee-whitener` dice Country pero la foto muestra Sunrise Coffee; `vima-albondigas-lata` está asociada a una foto de leche evaporada; `gourmet-double` muestra sobres de café soluble, no galletas; `bauducco-wafer-choco` tiene foto de sabores fresa y peanut butter; los tés combinados tampoco coinciden claramente con los nombres. No se modificaron estas fichas.
+
+Antes del siguiente lote consultar la cola regenerada. Lote 02 pendiente de comprobación pública; no contar como publicado hasta disponer de evidencia.

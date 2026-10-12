@@ -1,0 +1,72 @@
+[
+  {
+    "key": "coffee-mcdaniels",
+    "path": "public/products/generated/coffee-mcdaniels-20261012.webp",
+    "batch": "2026-10-12-lote-02",
+    "assetDate": "20261012",
+    "prompt": "Use case: background-extraction. Edit the supplied store photo into ONE individual ecommerce product photograph. Target: The yellow McDANIEL'S COFFEE CO. CAFÉ ESPRESSO GROUND COFFEE pouch in the front center, red panel, coffee cup illustration. Preserve exact yellow/red package design, upright shape, branding. Pure white square background, complete upright package centered with comfortable margin, subtle ground shadow. Preserve actual brand, flavor, shape, package colors and artwork; no redesign or invented small print. Remove all other products, shelf, price tags and surroundings. No added claims or props. Faithful provisional catalog reconstruction."
+  },
+  {
+    "key": "nesquik-choco-bag",
+    "path": "public/products/generated/nesquik-choco-bag-20261012.webp",
+    "batch": "2026-10-12-lote-02",
+    "assetDate": "20261012",
+    "prompt": "Use case: background-extraction. Edit the supplied store photo into ONE individual ecommerce product photograph. Target: The Nestlé Nesquik chocolate refill pouch on right: yellow bag, brown top strip, '15 vasos', blue Nesquik logo, chocolate drink illustration and two black octagonal warnings. Preserve the pouch form and original label; not a yellow tub. Pure white square background, complete upright package centered with comfortable margin, subtle ground shadow. Preserve actual brand, flavor, shape, package colors and artwork; no redesign or invented small print. Remove all other products, shelf, price tags and surroundings. No added claims or props. Faithful provisional catalog reconstruction."
+  },
+  {
+    "key": "te-limon",
+    "path": "public/products/generated/te-limon-20261012.webp",
+    "batch": "2026-10-12-lote-02",
+    "assetDate": "20261012",
+    "prompt": "Use case: background-extraction. Edit the supplied store photo into ONE individual ecommerce product photograph. Target: ONE Doblett TÉ DE LIMÓN rectangular tea box on the right: yellow-green and deep green blocks, white script Doblett brand, large dark green TÉ DE LIMÓN letters. Preserve 16 bags label and existing original artwork, not another flavor. Pure white square background, complete upright package centered with comfortable margin, subtle ground shadow. Preserve actual brand, flavor, shape, package colors and artwork; no redesign or invented small print. Remove all other products, shelf, price tags and surroundings. No added claims or props. Faithful provisional catalog reconstruction."
+  },
+  {
+    "key": "te-manzanilla",
+    "path": "public/products/generated/te-manzanilla-20261012.webp",
+    "batch": "2026-10-12-lote-02",
+    "assetDate": "20261012",
+    "prompt": "Use case: background-extraction. Edit supplied store photo into ONE individual ecommerce product photograph. Target: ONE red/orange Doblett TÉ DE MANZANILLA tea box at the center: red checkerboard, cream text MANZA/NILLA, white script Doblett brand and small flower icon. Preserve the 16 bags reference label and geometry. Pure white square background, whole upright package centered with comfortable margin, subtle ground shadow. Preserve actual brand, flavor, shape, package colors and original artwork; no redesign or invented small print. Remove all other products, shelf, price tags, hands and surroundings. No added claims or props. Faithful provisional catalog reconstruction."
+  },
+  {
+    "key": "peanut-cookies-18",
+    "path": "public/products/generated/peanut-cookies-18-20261012.webp",
+    "batch": "2026-10-12-lote-02",
+    "assetDate": "20261012",
+    "prompt": "Use case: background-extraction. Edit supplied store photo into ONE individual ecommerce product photograph. Target: ONE tall red SOBISK Peanut Butter Sandwich Cookies 18 PACK cardboard box on the left. Preserve blue top banner with yellow 18 PACK, blue/yellow Peanut Butter lettering, cookie and peanut cream illustrations. Restore clean closed carton, remove handwritten price sticker. Pure white square background, whole upright package centered with comfortable margin, subtle ground shadow. Preserve actual brand, flavor, shape, package colors and original artwork; no redesign or invented small print. Remove all other products, shelf, price tags, hands and surroundings. No added claims or props. Faithful provisional catalog reconstruction. Targeted correction: Correct ONLY the small bottom nutrition badge 'Sat. Fat' to read '3.5g' and '18% DV' as in the original reference, not 1.5g. Preserve all other appearance, logo, 18 PACK, cookie illustrations, red box and white background. Original source is authoritative."
+  },
+  {
+    "key": "britannia-biscafe",
+    "path": "public/products/generated/britannia-biscafe-20261012.webp",
+    "batch": "2026-10-12-lote-02",
+    "assetDate": "20261012",
+    "prompt": "Use case: background-extraction. Edit supplied store photo into ONE individual ecommerce product photograph. Target: ONE BRITANNIA Biscafé golden-yellow broad rectangular box at left. Preserve red Britannia logo, bold dark Biscafé lettering, coffee beans and thin square crackers printed on packaging. Remove handwritten price sticker. Pure white square background, whole upright package centered with comfortable margin, subtle ground shadow. Preserve actual brand, flavor, shape, package colors and original artwork; no redesign or invented small print. Remove all other products, shelf, price tags, hands and surroundings. No added claims or props. Faithful provisional catalog reconstruction."
+  },
+  {
+    "key": "berry-croco",
+    "path": "public/products/generated/berry-croco-20261012.webp",
+    "batch": "2026-10-12-lote-02",
+    "assetDate": "20261012",
+    "prompt": "Use case: background-extraction. Edit supplied store photo into ONE individual ecommerce product photograph. Target: ONE tall yellow Kiggins BERRY CROCO CRUNCH cereal carton on left. Preserve green crocodile pirate with blue hat and purple eyepatch, orange BERRY badge, green CROCO CRUNCH logo, colorful cereal and milk artwork on actual carton. Pure white square background, complete upright package centered with comfortable white margin, soft shadow. Preserve reference brand, variant, shape, original colors and artwork. Keep packaging design, not a redesign. Remove all other products, shelf, prices and surroundings. No added claims, no invented small text, no props. Faithful provisional catalog reconstruction."
+  },
+  {
+    "key": "quaker-fruitcream",
+    "path": "public/products/generated/quaker-fruitcream-20261012.webp",
+    "batch": "2026-10-12-lote-02",
+    "assetDate": "20261012",
+    "prompt": "Use case: background-extraction. Edit supplied store photo into ONE individual ecommerce product photograph. Target: ONE Quaker INSTANT OATMEAL FRUIT & CREAM 40 PACKETS box on right. Preserve cream upper part, green title panel, yellow 40 PACKETS block, colored flavor strip and original printed oatmeal bowls and fruit artwork. Remove handwritten price. Pure white square background, complete upright package centered with comfortable white margin, soft shadow. Preserve reference brand, variant, shape, original colors and artwork. Keep packaging design, not a redesign. Remove all other products, shelf, prices and surroundings. No added claims, no invented small text, no props. Faithful provisional catalog reconstruction. Targeted correction: Correct ONLY the flavor packet counts in the generated packshot to match the source photo: STRAWBERRIES & CREAM = 16 packets; BANANAS & CREAM = 8 packets; BLUEBERRIES & CREAM = 8 packets; PEACHES & CREAM = 8 packets. The total is 40. Preserve all other generated packaging appearance, colors, white background and composition."
+  },
+  {
+    "key": "cocoa-pebbles-cup",
+    "path": "public/products/generated/cocoa-pebbles-cup-20261012.webp",
+    "batch": "2026-10-12-lote-02",
+    "assetDate": "20261012",
+    "prompt": "Use case: background-extraction. Edit supplied store photo into ONE individual ecommerce product photograph. Target: ONE Post COCOA PEBBLES brown single-serving cereal cup on left-center. Preserve short tapered white plastic cup with sealed foil lid, brown label, yellow COCOA PEBBLES logo, Flintstones character and chocolate cereal image. Not a cereal box. Pure white square background, complete upright package centered with comfortable white margin, soft shadow. Preserve reference brand, variant, shape, original colors and artwork. Keep packaging design, not a redesign. Remove all other products, shelf, prices and surroundings. No added claims, no invented small text, no props. Faithful provisional catalog reconstruction."
+  },
+  {
+    "key": "honeybunches-cup",
+    "path": "public/products/generated/honeybunches-cup-20261012.webp",
+    "batch": "2026-10-12-lote-02",
+    "assetDate": "20261012",
+    "prompt": "Use case: background-extraction. Edit supplied store photo into ONE individual ecommerce product photograph. Target: ONE Post HONEY BUNCHES OF OATS HONEY ROASTED individual cereal cup in center. Preserve tapered white plastic cup with sealed foil lid, golden yellow and orange original label, circular sun logo, printed cereal picture. Not a cereal box. Pure white square background, complete upright package centered with comfortable white margin, soft shadow. Preserve reference brand, variant, shape, original colors and artwork. Keep packaging design, not a redesign. Remove all other products, shelf, prices and surroundings. No added claims, no invented small text, no props. Faithful provisional catalog reconstruction."
+  }
+]
