@@ -1,0 +1,74 @@
+{
+  "commit": "192b292079298c3773830b6ec191b5cace699352",
+  "deployment": "dpl_DM3b3LQtf6ZVkJD2vs6BzYtiaG7r",
+  "totalProducts": 581,
+  "individualImages": 520,
+  "remaining": 61,
+  "pendingPrices": 104,
+  "publicImages": [
+    {
+      "product": "members-cookie-thins",
+      "match": true,
+      "bytes": 134520,
+      "sha256": "772be2151415022266a0d158d2097b9cee52ab5044a4b1cf0181d5189fd54031"
+    },
+    {
+      "product": "oatmeal-cookie",
+      "match": true,
+      "bytes": 94610,
+      "sha256": "6962902216a6bcfd51f39e16a4c36f9f4fea9b83bf67d79ad0805042e89ee165"
+    },
+    {
+      "product": "chocochip-cookie",
+      "match": true,
+      "bytes": 100048,
+      "sha256": "4b2260dd57febe7ced869da63e673e9ba976b1d26dfa8db5fb1485654dd4a8d7"
+    },
+    {
+      "product": "almond-windmill",
+      "match": true,
+      "bytes": 86938,
+      "sha256": "7bfe61bfd4989049f8c4d50007efac921ac25654b4932d938e45d1652c3a2e23"
+    },
+    {
+      "product": "fresko-butter",
+      "match": true,
+      "bytes": 150080,
+      "sha256": "081856779163af53ed9c0a991debd385458a07fb85847b1fff33288f723b4546"
+    },
+    {
+      "product": "fresko-cappuccino",
+      "match": true,
+      "bytes": 147792,
+      "sha256": "f371e4d1e4242f449c904c4aac20664d725a2db59b0ec1029cfd852bda6c91f7"
+    },
+    {
+      "product": "fresko-coffee",
+      "match": true,
+      "bytes": 179536,
+      "sha256": "8800b0812a74a60b105e3068516283d92b5fa0c394a927bf3b62ebabd42b7ee5"
+    },
+    {
+      "product": "takis-fuego",
+      "match": true,
+      "bytes": 127662,
+      "sha256": "ee934ac1ada6e9eed32fc076c112988f610489de90213a6d2dd509d668538c51"
+    },
+    {
+      "product": "kars-mix",
+      "match": true,
+      "bytes": 91958,
+      "sha256": "0330431a6707fdb17d130c05dba168bdfd36b7c6ef485a7ea07c5faace7e6960"
+    },
+    {
+      "product": "driedapple",
+      "match": true,
+      "bytes": 96282,
+      "sha256": "dfe7506aa3742767d1cb6b369a4e36a588209125de8ed707458487452abf5fd1"
+    }
+  ],
+  "reviewCounterVerified": true,
+  "testsPassed": 24,
+  "build": "passed",
+  "state": "READY"
+}
