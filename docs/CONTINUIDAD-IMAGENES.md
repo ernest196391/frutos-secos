@@ -50,3 +50,5 @@ Antes del siguiente lote consultar la cola regenerada. Lote 02 publicado y verif
 Base pública: 500 individuales y 81 pendientes. Resultado preparado: 510 individuales y 71 pendientes; 104 precios por confirmar. Exactamente diez fichas modificadas; nombres, descripciones, precios, stock, IDs y fotos originales conservados. En M&M’s Honey se retiraron los pequeños indicadores nutricionales reconstruidos que no podían cotejarse con claridad. Las imágenes siguen marcadas como provisionales.
 
 No resolver por conjetura: KitKat Minis muestra conejitos; Toblerone presenta varios tamaños; Reese’s barra podría corresponder a cups; Milano Double Milk parece Double Dark en la foto. Consultar cola regenerada antes del siguiente lote.
+
+Lote 03 publicado y verificado: commit `44a5b25b344a55f3187f3a75bd7436c5bd51b4ee`, despliegue `dpl_A1zhd4gH2e7oPXsxK4cXkYwCDZqk` READY. Diez imágenes públicas coinciden byte por byte; API confirma 510 individuales, 71 pendientes y 104 precios por confirmar. Contador de revisión correcto. 24 pruebas y build aprobados. Evidencia: `verification-2026-10-12-lote-03.json`.

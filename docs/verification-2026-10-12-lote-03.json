@@ -1,0 +1,64 @@
+{
+  "commit": "44a5b25b344a55f3187f3a75bd7436c5bd51b4ee",
+  "deployment": "dpl_A1zhd4gH2e7oPXsxK4cXkYwCDZqk",
+  "state": "READY",
+  "totalProducts": 581,
+  "individualImages": 510,
+  "remaining": 71,
+  "pendingPrices": 104,
+  "publicImages": [
+    {
+      "product": "frostedflakes-cup",
+      "match": true,
+      "bytes": 110988
+    },
+    {
+      "product": "ricekrispies-mini",
+      "match": true,
+      "bytes": 123640
+    },
+    {
+      "product": "pops-mini",
+      "match": true,
+      "bytes": 93394
+    },
+    {
+      "product": "miniwheats-mini",
+      "match": true,
+      "bytes": 143858
+    },
+    {
+      "product": "carrs-assortment",
+      "match": true,
+      "bytes": 107570
+    },
+    {
+      "product": "nerds-clusters",
+      "match": true,
+      "bytes": 157400
+    },
+    {
+      "product": "hersheys-nuggets",
+      "match": true,
+      "bytes": 92814
+    },
+    {
+      "product": "reeses-pieces",
+      "match": true,
+      "bytes": 123350
+    },
+    {
+      "product": "mms-honey-bag",
+      "match": true,
+      "bytes": 115814
+    },
+    {
+      "product": "mms-peanut-jar",
+      "match": true,
+      "bytes": 135650
+    }
+  ],
+  "reviewCounterVerified": true,
+  "testsPassed": 24,
+  "build": "passed"
+}
