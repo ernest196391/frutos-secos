@@ -1,0 +1,56 @@
+[
+  {
+    "key": "bentons-coconut",
+    "source": "public/catalog-sources/IMG_20261009_170614.jpg",
+    "target": "ONE middle Benton's COOKIE THINS TOASTED COCONUT resealable white pouch brown top turquoise leaf decoration and turquoise variant band, printed stack of coconut cookies, 4oz113g.",
+    "path": "public/products/generated/bentons-coconut-20261014.webp",
+    "prompt": "Use case: background-extraction. Edit supplied store photo into one square ecommerce product photograph. Target: ONE middle Benton's COOKIE THINS TOASTED COCONUT resealable white pouch brown top turquoise leaf decoration and turquoise variant band, printed stack of coconut cookies, 4oz113g. Entire package centered on pure white with generous margin and soft shadow. Faithfully preserve brand variant printing colors proportions and contents. Remove shelves people tags other products. No invented claims, ingredients or unreadable small print. Provisional faithful reconstruction. Targeted correction: Remove ONLY lower left numeric nutrition badge (130 CALORIES PER 6 COOKIES). Replace that small badge with plain cream packaging area. Do not change anything else.",
+    "batch": "2026-10-14-lote-03",
+    "assetDate": "20261014"
+  },
+  {
+    "key": "lotus-biscoff",
+    "source": "public/catalog-sources/IMG_20261009_170629.jpg",
+    "target": "ONE right foreground horizontal Lotus Biscoff red and white 250g wrapped cookie pack. Do not use the large 4-pack box behind. Preserve actual horizontal pack.",
+    "path": "public/products/generated/lotus-biscoff-20261014.webp",
+    "prompt": "Use case: background-extraction. Edit supplied store photo into one square ecommerce product photograph. Target: ONE right foreground horizontal Lotus Biscoff red and white 250g wrapped cookie pack. Do not use the large 4-pack box behind. Preserve actual horizontal pack. Entire package centered on pure white with generous margin and soft shadow. Faithfully preserve brand variant printing colors proportions and contents. Remove shelves people tags other products. No invented claims, ingredients or unreadable small print. Provisional faithful reconstruction.",
+    "batch": "2026-10-14-lote-03",
+    "assetDate": "20261014"
+  },
+  {
+    "key": "trident-1350",
+    "source": "public/catalog-sources/IMG_20261009_170504.jpg",
+    "target": "ONE lower foreground blue Trident XtraCare small individual chewing gum carton. White curved panel, blue snowflake design and red BLANQUEA CUIDA TUS DIENTES corner. Do not invent number of pieces or small fine print.",
+    "path": "public/products/generated/trident-1350-20261014.webp",
+    "prompt": "Use case: background-extraction. Edit supplied store photo into one square ecommerce product photograph. Target: ONE lower foreground blue Trident XtraCare small individual chewing gum carton. White curved panel, blue snowflake design and red BLANQUEA CUIDA TUS DIENTES corner. Do not invent number of pieces or small fine print. Entire package centered on pure white with generous margin and soft shadow. Faithfully preserve brand variant printing colors proportions and contents. Remove shelves people tags other products. No invented claims, ingredients or unreadable small print. Provisional faithful reconstruction.",
+    "batch": "2026-10-14-lote-03",
+    "assetDate": "20261014"
+  },
+  {
+    "key": "thatsit-crunch",
+    "source": "public/catalog-sources/IMG_20261009_170911_1.jpg",
+    "target": "ONE individual green That's it. CRUNCHABLES fruit snack packet, red apple illustrations with circular transparent windows showing apple slices, NO SUGAR ADDED as visible. Horizontal packet. Remove hanging clip.",
+    "path": "public/products/generated/thatsit-crunch-20261014.webp",
+    "prompt": "Use case: background-extraction. Edit supplied store photo into one square ecommerce product photograph. Target: ONE individual green That's it. CRUNCHABLES fruit snack packet, red apple illustrations with circular transparent windows showing apple slices, NO SUGAR ADDED as visible. Horizontal packet. Remove hanging clip. Entire package centered on pure white with generous margin and soft shadow. Faithfully preserve brand variant printing colors proportions and contents. Remove shelves people tags other products. No invented claims, ingredients or unreadable small print. Provisional faithful reconstruction. Targeted correction: Remove the blue circle and its entire MADE FROM 12 APPLES PER BAG text at left. Replace only that small badge area with uninterrupted red apple artwork. It is an unverified reconstruction and must not appear. Keep NO SUGAR ADDED, brand and everything else unchanged.",
+    "batch": "2026-10-14-lote-03",
+    "assetDate": "20261014"
+  },
+  {
+    "key": "cheerios-cup",
+    "source": "public/catalog-sources/IMG_20261009_170548.jpg",
+    "target": "ONE white lidded General Mills Honey Nut Cheerios individual cereal cup, orange/brown label yellow Cheerios lettering and honey dipper graphic. Preserve actual cup shape and visible label; no invented nutrition.",
+    "path": "public/products/generated/cheerios-cup-20261014.webp",
+    "prompt": "Use case: background-extraction. Edit supplied store photo into one square ecommerce product photograph. Target: ONE white lidded General Mills Honey Nut Cheerios individual cereal cup, orange/brown label yellow Cheerios lettering and honey dipper graphic. Preserve actual cup shape and visible label; no invented nutrition. Entire package centered on pure white with generous margin and soft shadow. Faithfully preserve brand variant printing colors proportions and contents. Remove shelves people tags other products. No invented claims, ingredients or unreadable small print. Provisional faithful reconstruction.",
+    "batch": "2026-10-14-lote-03",
+    "assetDate": "20261014"
+  },
+  {
+    "key": "duplex-cookie",
+    "source": "public/catalog-sources/IMG_20261009_170614.jpg",
+    "target": "ONE lower right foreground horizontal purple/pink Benton's DUPLEX SANDWICH CRÈME COOKIES FAMILY SIZE pack. Clear top window shows dark brown and pale sandwich cookie edges as in original, NOT an all vanilla cookie row. Pink swirls and vanilla flower motif. Keep horizontal wrapper.",
+    "path": "public/products/generated/duplex-cookie-20261014.webp",
+    "prompt": "Use case: background-extraction. Edit supplied store photo into one square ecommerce product photograph. Target: ONE lower right foreground horizontal purple/pink Benton's DUPLEX SANDWICH CRÈME COOKIES FAMILY SIZE pack. Clear top window shows dark brown and pale sandwich cookie edges as in original, NOT an all vanilla cookie row. Pink swirls and vanilla flower motif. Keep horizontal wrapper. Entire package centered on pure white with generous margin and soft shadow. Faithfully preserve brand variant printing colors proportions and contents. Remove shelves people tags other products. No invented claims, ingredients or unreadable small print. Provisional faithful reconstruction.",
+    "batch": "2026-10-14-lote-03",
+    "assetDate": "20261014"
+  }
+]

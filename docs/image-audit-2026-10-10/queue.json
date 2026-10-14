@@ -240,22 +240,6 @@
     "stock": 10
   },
   {
-    "id": 10235,
-    "sharedProductId": "trident-1350",
-    "n": "Chicle Trident",
-    "d": "Caja azul",
-    "c": "Alimentos",
-    "p": 1350,
-    "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170504.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
-    "source": "store-photo",
-    "sourcePhoto": "IMG_20261009_170504.jpg",
-    "sourceImage": "/catalog-sources/IMG_20261009_170504.jpg",
-    "stock": 10
-  },
-  {
     "id": 10236,
     "sharedProductId": "extra-gum",
     "n": "Chicle Extra",
@@ -320,22 +304,6 @@
     "stock": 10
   },
   {
-    "id": 10245,
-    "sharedProductId": "cheerios-cup",
-    "n": "Cheerios vaso",
-    "d": "Vaso individual",
-    "c": "Alimentos",
-    "p": 1800,
-    "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170548.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
-    "source": "store-photo",
-    "sourcePhoto": "IMG_20261009_170548.jpg",
-    "sourceImage": "/catalog-sources/IMG_20261009_170548.jpg",
-    "stock": 10
-  },
-  {
     "id": 10251,
     "sharedProductId": "toblerone",
     "n": "Chocolate Toblerone",
@@ -397,22 +365,6 @@
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170609.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170609.jpg",
-    "stock": 10
-  },
-  {
-    "id": 10260,
-    "sharedProductId": "bentons-coconut",
-    "n": "Benton's Cookie Thins Toasted Coconut",
-    "d": "Bolsa",
-    "c": "Alimentos",
-    "p": 4200,
-    "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170614.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
-    "source": "store-photo",
-    "sourcePhoto": "IMG_20261009_170614.jpg",
-    "sourceImage": "/catalog-sources/IMG_20261009_170614.jpg",
     "stock": 10
   },
   {
@@ -493,38 +445,6 @@
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170626.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170626.jpg",
-    "stock": 10
-  },
-  {
-    "id": 10267,
-    "sharedProductId": "lotus-biscoff",
-    "n": "Lotus Biscoff",
-    "d": "Paquete",
-    "c": "Alimentos",
-    "p": 4200,
-    "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170629.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
-    "source": "store-photo",
-    "sourcePhoto": "IMG_20261009_170629.jpg",
-    "sourceImage": "/catalog-sources/IMG_20261009_170629.jpg",
-    "stock": 10
-  },
-  {
-    "id": 10270,
-    "sharedProductId": "duplex-cookie",
-    "n": "Duplex Sandwich Crème Cookies",
-    "d": "Benton’s · Paquete individual",
-    "c": "Alimentos",
-    "p": 7500,
-    "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170633.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
-    "source": "store-photo",
-    "sourcePhoto": "IMG_20261009_170633.jpg",
-    "sourceImage": "/catalog-sources/IMG_20261009_170633.jpg",
     "stock": 10
   },
   {
@@ -621,22 +541,6 @@
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170834_1.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170834_1.jpg",
-    "stock": 10
-  },
-  {
-    "id": 10291,
-    "sharedProductId": "thatsit-crunch",
-    "n": "That's It Crunchables",
-    "d": "Bolsa verde",
-    "c": "Alimentos",
-    "p": 750,
-    "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170911_1.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
-    "source": "store-photo",
-    "sourcePhoto": "IMG_20261009_170911_1.jpg",
-    "sourceImage": "/catalog-sources/IMG_20261009_170911_1.jpg",
     "stock": 10
   },
   {

@@ -6711,13 +6711,15 @@ export const products=[
     "c": "Alimentos",
     "p": 1350,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170504.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/trident-1350-20261014.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170504.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170504.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-14-lote-03"
   },
   {
     "id": 10236,
@@ -6881,13 +6883,15 @@ export const products=[
     "c": "Alimentos",
     "p": 1800,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170548.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/cheerios-cup-20261014.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170548.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170548.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-14-lote-03"
   },
   {
     "id": 10246,
@@ -7123,13 +7127,15 @@ export const products=[
     "c": "Alimentos",
     "p": 4200,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170614.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/bentons-coconut-20261014.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170614.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170614.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-14-lote-03"
   },
   {
     "id": 10261,
@@ -7237,13 +7243,15 @@ export const products=[
     "c": "Alimentos",
     "p": 4200,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170629.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/lotus-biscoff-20261014.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170629.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170629.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-14-lote-03"
   },
   {
     "id": 10268,
@@ -7289,13 +7297,15 @@ export const products=[
     "c": "Alimentos",
     "p": 7500,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170633.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/duplex-cookie-20261014.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170633.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170633.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-14-lote-03"
   },
   {
     "id": 10271,
@@ -7653,13 +7663,15 @@ export const products=[
     "c": "Alimentos",
     "p": 750,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170911_1.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/thatsit-crunch-20261014.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170911_1.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170911_1.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-14-lote-03"
   },
   {
     "id": 10292,

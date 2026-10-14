@@ -72,3 +72,11 @@ Lote 01 del 14 de octubre publicado y verificado: commit 18c146cdf7858eda498c1f7
 ## Lote 02 — 14 de octubre de 2026
 
 Siete cavas revisados: Solo Vida, Gran Juvé & Camps con estuche, Vallformosa Gala blanco y rosado, Classic Brut y rosado, e Ice. Referencias y prompts: image-batch-2026-10-14-02.json. Gala blanco utiliza la foto contigua 170943_1 para confirmar la variante; su fuente histórica se conserva. Resultado preparado: 534 individuales y 47 fotos de estante; precios, nombres, IDs y stock preservados.
+
+Lote 02 publicado: b0a94a3447d986ad2b418f3217559a3c42975514. Siete cavas públicos verificados byte por byte, API 534 individuales y 47 pendientes.
+
+## Lote 03 — 14 de octubre de 2026
+
+Seis reconstrucciones revisadas: Benton’s Toasted Coconut, Lotus Biscoff paquete individual, Trident XtraCare, That’s it Crunchables, Honey Nut Cheerios vaso y Benton’s Duplex. Resultado preparado: 540 individuales y 41 fotos de estante. Se retiraron cantidad de manzanas y nutrición pequeña no cotejables de dos reconstrucciones. Duplex se resolvió con foto contigua 170614, que muestra galletas claras y oscuras; fuente histórica conservada. Registro de referencias y prompts: image-batch-2026-10-14-03.json.
+
+Nuevas discrepancias: eltoro-mortadela referencia 171616_1 muestra Jamón Viejo El Toro, no mortadela; morgin-coconut referencia 170540 muestra marca Marsin, no Morgin. No se modificaron identidades ni precios por conjetura en este lote.
