@@ -1548,5 +1548,75 @@
     "priceCUP": 2000,
     "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
     "prompt": "Use case: background-extraction. Edit the reference store photograph into an individual square ecommerce product photo. Target: ONE Fan Fan DRIED APPLE Soft & Chewy orange and white flat hanging pouch on left, apple artwork, NET WT 1.76 OZ (50g). Remove handwritten price sticker. Whole package centered with generous margin on pure white background and soft contact shadow, realistic studio lighting. Preserve exact brand, variant, color, proportions and original printed artwork. Remove shelves, other products, stickers, clips and surroundings. No added claims or props, do not invent unreadable small print. Faithful provisional catalog reconstruction."
+  },
+  {
+    "sharedProductId": "vima-ensaladilla",
+    "name": "Ensaladilla congelada Vima",
+    "sourceImage": "/catalog-sources/IMG_20261009_170704_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170704_1.jpg",
+    "newImage": "/products/generated/vima-ensaladilla-20261014.webp",
+    "priceCUP": 3200,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit the reference photo into one square ecommerce product photo. Target: ONE unprinted transparent sealed flat freezer bag of frozen ensaladilla, white and orange diced vegetables and green peas visible as in foreground original. Preserve frost, proportions and plain packaging; do not add brand, label or text not visible. Entire package centered on pure white background with generous margin, soft contact shadow. Preserve actual visible brand, variant, colors, shape and printed artwork faithfully. Remove other products, shelf/freezer, people, price tags and glare. Do not invent ingredients, claims or unreadable small print. Faithful provisional reconstruction."
+  },
+  {
+    "sharedProductId": "vima-maiz-frozen",
+    "name": "Maíz dulce congelado Vima",
+    "sourceImage": "/catalog-sources/IMG_20261009_170831.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170826_1.jpg",
+    "newImage": "/products/generated/vima-maiz-frozen-20261014.webp",
+    "priceCUP": 3200,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit the reference photo into one square ecommerce product photo. Target: ONE transparent Vima Foods MAÍZ DULCE SWEET CORN frozen corn bag with navy oval logo and navy wavy decoration, yellow kernels visible. 1kg. Entire package centered on pure white background with generous margin, soft contact shadow. Preserve actual visible brand, variant, colors, shape and printed artwork faithfully. Remove other products, shelf/freezer, people, price tags and glare. Do not invent ingredients, claims or unreadable small print. Faithful provisional reconstruction."
+  },
+  {
+    "sharedProductId": "cvale-nuggets",
+    "name": "Nuggets de pollo C.Vale",
+    "sourceImage": "/catalog-sources/IMG_20261009_170848.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170846.jpg",
+    "newImage": "/products/generated/cvale-nuggets-20261014.webp",
+    "priceCUP": 5000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit the reference photo into one square ecommerce product photo. Target: ONE C.Vale chicken nuggets 1kg clear bag, white brand band and yellow/orange printing panel with blue icons, breaded nuggets visible. Orient upright to read visible original label. Entire package centered on pure white background with generous margin, soft contact shadow. Preserve actual visible brand, variant, colors, shape and printed artwork faithfully. Remove other products, shelf/freezer, people, price tags and glare. Do not invent ingredients, claims or unreadable small print. Faithful provisional reconstruction."
+  },
+  {
+    "sharedProductId": "eurofrits-papas",
+    "name": "Papas prefritas Eurofrits Steakhouse Super Crujiente",
+    "sourceImage": "/catalog-sources/IMG_20261009_170851_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170851_1.jpg",
+    "newImage": "/products/generated/eurofrits-papas-20261014.webp",
+    "priceCUP": 5700,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit the reference photo into one square ecommerce product photo. Target: ONE Eurofrits Steakhouse Super Crujiente frozen potato wedge 2.5kg bag, blue top navy oval Eurofrits logo yellow edging, red Steakhouse oval, lower large round food photograph. Preserve bag design; don't add missing fine print. Entire package centered on pure white background with generous margin, soft contact shadow. Preserve actual visible brand, variant, colors, shape and printed artwork faithfully. Remove other products, shelf/freezer, people, price tags and glare. Do not invent ingredients, claims or unreadable small print. Faithful provisional reconstruction."
+  },
+  {
+    "sharedProductId": "lemoncreme-cookie",
+    "name": "Lemon Creme Cookies",
+    "sourceImage": "/catalog-sources/IMG_20261009_170633.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170633.jpg",
+    "newImage": "/products/generated/lemoncreme-cookie-20261014.webp",
+    "priceCUP": 4800,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit the reference photo into one square ecommerce product photo. Target: ONE horizontal Lil' Dutch Maid Lemon Creme cookies pack, yellow label green ends and transparent top showing pale sandwich cookies. Preserve horizontal wrapper. Entire package centered on pure white background with generous margin, soft contact shadow. Preserve actual visible brand, variant, colors, shape and printed artwork faithfully. Remove other products, shelf/freezer, people, price tags and glare. Do not invent ingredients, claims or unreadable small print. Faithful provisional reconstruction."
+  },
+  {
+    "sharedProductId": "vanillacreme-cookie",
+    "name": "Vanilla Creme Cookies",
+    "sourceImage": "/catalog-sources/IMG_20261009_170633.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170633.jpg",
+    "newImage": "/products/generated/vanillacreme-cookie-20261014.webp",
+    "priceCUP": 4800,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit the reference photo into one square ecommerce product photo. Target: ONE horizontal Lil' Dutch Maid Vanilla Creme cookies pack center, yellow label blue ends and transparent top showing pale sandwich cookies. Preserve horizontal wrapper. Entire package centered on pure white background with generous margin, soft contact shadow. Preserve actual visible brand, variant, colors, shape and printed artwork faithfully. Remove other products, shelf/freezer, people, price tags and glare. Do not invent ingredients, claims or unreadable small print. Faithful provisional reconstruction."
+  },
+  {
+    "sharedProductId": "vanilla-sandwich",
+    "name": "Galletas Benton’s Vanilla Sandwich Crème",
+    "sourceImage": "/catalog-sources/IMG_20261009_170633.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170633.jpg",
+    "newImage": "/products/generated/vanilla-sandwich-20261014.webp",
+    "priceCUP": 7500,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit the reference photo into one square ecommerce product photo. Target: ONE horizontal Benton's VANILLA SANDWICH CRÈME COOKIES pale blue lavender wrapper with swirled pattern, vanilla flower at right, clear top showing pale cookies. Preserve horizontal wrapper. Entire package centered on pure white background with generous margin, soft contact shadow. Preserve actual visible brand, variant, colors, shape and printed artwork faithfully. Remove other products, shelf/freezer, people, price tags and glare. Do not invent ingredients, claims or unreadable small print. Faithful provisional reconstruction."
   }
 ]

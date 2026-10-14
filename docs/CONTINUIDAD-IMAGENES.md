@@ -60,3 +60,9 @@ Base comprobada en API pública y main: 581 productos, 510 imágenes individuale
 Referencias, archivos y prompts: `image-batch-2026-10-12-04.json`. Marca, variante y formato cotejados visualmente. Resultado preparado: 520 imágenes individuales y 61 pendientes. Exactamente diez fichas cambian solo sus campos de imagen; nombres, precios, stock, descripciones, IDs y referencias originales preservados. Publicado y verificado: commit `192b292079298c3773830b6ec191b5cace699352`, despliegue `dpl_DM3b3LQtf6ZVkJD2vs6BzYtiaG7r` READY. Diez imágenes públicas coinciden byte por byte; API y contador confirman 520 individuales, 61 pendientes y 104 precios por confirmar. 24 pruebas y build aprobados. Evidencia: `verification-2026-10-12-lote-04.json`.
 
 Observaciones adicionales para próximos lotes: `bentons-mint-cookies` dice Covered Cookies/caja, pero la referencia muestra Layered Cookies/bolsa; `crepel` debe cotejarse con la caja Wafer Master visible; Pica-Pau muestra tres sabores y necesita confirmar si la ficha los agrupa. No resolver estas diferencias por conjetura. Continuar desde la cola regenerada `docs/handoff/imagenes-pendientes.csv`.
+
+## Lote 01 — 14 de octubre de 2026
+
+Base comprobada en main y API: 581 productos, 520 imágenes individuales y 61 fotos de estante. Se integran siete imágenes provisionales revisadas: ensaladilla, maíz dulce Vima, nuggets C.Vale, papas Eurofrits Steakhouse, Lil’ Dutch Maid Lemon Creme y Vanilla Creme, y Benton’s Vanilla Sandwich Crème. Resultado preparado: 527 individuales, 54 pendientes, 104 precios por confirmar. Nombres, precios, IDs, stock y fuentes conservados. 24 pruebas y build aprobados. Registro y prompts: `image-batch-2026-10-14-01.json`.
+
+La reconstrucción de Duplex no se publica: contenido visible de la ventana necesita cotejo adicional. Continúan las discrepancias documentadas en lotes anteriores.

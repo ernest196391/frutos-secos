@@ -1,0 +1,65 @@
+[
+  {
+    "key": "vima-ensaladilla",
+    "source": "public/catalog-sources/IMG_20261009_170704_1.jpg",
+    "target": "ONE unprinted transparent sealed flat freezer bag of frozen ensaladilla, white and orange diced vegetables and green peas visible as in foreground original. Preserve frost, proportions and plain packaging; do not add brand, label or text not visible.",
+    "path": "public/products/generated/vima-ensaladilla-20261014.webp",
+    "prompt": "Use case: background-extraction. Edit the reference photo into one square ecommerce product photo. Target: ONE unprinted transparent sealed flat freezer bag of frozen ensaladilla, white and orange diced vegetables and green peas visible as in foreground original. Preserve frost, proportions and plain packaging; do not add brand, label or text not visible. Entire package centered on pure white background with generous margin, soft contact shadow. Preserve actual visible brand, variant, colors, shape and printed artwork faithfully. Remove other products, shelf/freezer, people, price tags and glare. Do not invent ingredients, claims or unreadable small print. Faithful provisional reconstruction.",
+    "batch": "2026-10-14-lote-01",
+    "assetDate": "20261014"
+  },
+  {
+    "key": "vima-maiz-frozen",
+    "source": "public/catalog-sources/IMG_20261009_170831.jpg",
+    "target": "ONE transparent Vima Foods MAÍZ DULCE SWEET CORN frozen corn bag with navy oval logo and navy wavy decoration, yellow kernels visible. 1kg.",
+    "path": "public/products/generated/vima-maiz-frozen-20261014.webp",
+    "prompt": "Use case: background-extraction. Edit the reference photo into one square ecommerce product photo. Target: ONE transparent Vima Foods MAÍZ DULCE SWEET CORN frozen corn bag with navy oval logo and navy wavy decoration, yellow kernels visible. 1kg. Entire package centered on pure white background with generous margin, soft contact shadow. Preserve actual visible brand, variant, colors, shape and printed artwork faithfully. Remove other products, shelf/freezer, people, price tags and glare. Do not invent ingredients, claims or unreadable small print. Faithful provisional reconstruction.",
+    "batch": "2026-10-14-lote-01",
+    "assetDate": "20261014"
+  },
+  {
+    "key": "cvale-nuggets",
+    "source": "public/catalog-sources/IMG_20261009_170848.jpg",
+    "target": "ONE C.Vale chicken nuggets 1kg clear bag, white brand band and yellow/orange printing panel with blue icons, breaded nuggets visible. Orient upright to read visible original label.",
+    "path": "public/products/generated/cvale-nuggets-20261014.webp",
+    "prompt": "Use case: background-extraction. Edit the reference photo into one square ecommerce product photo. Target: ONE C.Vale chicken nuggets 1kg clear bag, white brand band and yellow/orange printing panel with blue icons, breaded nuggets visible. Orient upright to read visible original label. Entire package centered on pure white background with generous margin, soft contact shadow. Preserve actual visible brand, variant, colors, shape and printed artwork faithfully. Remove other products, shelf/freezer, people, price tags and glare. Do not invent ingredients, claims or unreadable small print. Faithful provisional reconstruction.",
+    "batch": "2026-10-14-lote-01",
+    "assetDate": "20261014"
+  },
+  {
+    "key": "eurofrits-papas",
+    "source": "public/catalog-sources/IMG_20261009_170851_1.jpg",
+    "target": "ONE Eurofrits Steakhouse Super Crujiente frozen potato wedge 2.5kg bag, blue top navy oval Eurofrits logo yellow edging, red Steakhouse oval, lower large round food photograph. Preserve bag design; don't add missing fine print.",
+    "path": "public/products/generated/eurofrits-papas-20261014.webp",
+    "prompt": "Use case: background-extraction. Edit the reference photo into one square ecommerce product photo. Target: ONE Eurofrits Steakhouse Super Crujiente frozen potato wedge 2.5kg bag, blue top navy oval Eurofrits logo yellow edging, red Steakhouse oval, lower large round food photograph. Preserve bag design; don't add missing fine print. Entire package centered on pure white background with generous margin, soft contact shadow. Preserve actual visible brand, variant, colors, shape and printed artwork faithfully. Remove other products, shelf/freezer, people, price tags and glare. Do not invent ingredients, claims or unreadable small print. Faithful provisional reconstruction.",
+    "batch": "2026-10-14-lote-01",
+    "assetDate": "20261014"
+  },
+  {
+    "key": "lemoncreme-cookie",
+    "source": "public/catalog-sources/IMG_20261009_170633.jpg",
+    "target": "ONE horizontal Lil' Dutch Maid Lemon Creme cookies pack, yellow label green ends and transparent top showing pale sandwich cookies. Preserve horizontal wrapper.",
+    "path": "public/products/generated/lemoncreme-cookie-20261014.webp",
+    "prompt": "Use case: background-extraction. Edit the reference photo into one square ecommerce product photo. Target: ONE horizontal Lil' Dutch Maid Lemon Creme cookies pack, yellow label green ends and transparent top showing pale sandwich cookies. Preserve horizontal wrapper. Entire package centered on pure white background with generous margin, soft contact shadow. Preserve actual visible brand, variant, colors, shape and printed artwork faithfully. Remove other products, shelf/freezer, people, price tags and glare. Do not invent ingredients, claims or unreadable small print. Faithful provisional reconstruction.",
+    "batch": "2026-10-14-lote-01",
+    "assetDate": "20261014"
+  },
+  {
+    "key": "vanillacreme-cookie",
+    "source": "public/catalog-sources/IMG_20261009_170633.jpg",
+    "target": "ONE horizontal Lil' Dutch Maid Vanilla Creme cookies pack center, yellow label blue ends and transparent top showing pale sandwich cookies. Preserve horizontal wrapper.",
+    "path": "public/products/generated/vanillacreme-cookie-20261014.webp",
+    "prompt": "Use case: background-extraction. Edit the reference photo into one square ecommerce product photo. Target: ONE horizontal Lil' Dutch Maid Vanilla Creme cookies pack center, yellow label blue ends and transparent top showing pale sandwich cookies. Preserve horizontal wrapper. Entire package centered on pure white background with generous margin, soft contact shadow. Preserve actual visible brand, variant, colors, shape and printed artwork faithfully. Remove other products, shelf/freezer, people, price tags and glare. Do not invent ingredients, claims or unreadable small print. Faithful provisional reconstruction.",
+    "batch": "2026-10-14-lote-01",
+    "assetDate": "20261014"
+  },
+  {
+    "key": "vanilla-sandwich",
+    "source": "public/catalog-sources/IMG_20261009_170633.jpg",
+    "target": "ONE horizontal Benton's VANILLA SANDWICH CRÈME COOKIES pale blue lavender wrapper with swirled pattern, vanilla flower at right, clear top showing pale cookies. Preserve horizontal wrapper.",
+    "path": "public/products/generated/vanilla-sandwich-20261014.webp",
+    "prompt": "Use case: background-extraction. Edit the reference photo into one square ecommerce product photo. Target: ONE horizontal Benton's VANILLA SANDWICH CRÈME COOKIES pale blue lavender wrapper with swirled pattern, vanilla flower at right, clear top showing pale cookies. Preserve horizontal wrapper. Entire package centered on pure white background with generous margin, soft contact shadow. Preserve actual visible brand, variant, colors, shape and printed artwork faithfully. Remove other products, shelf/freezer, people, price tags and glare. Do not invent ingredients, claims or unreadable small print. Faithful provisional reconstruction.",
+    "batch": "2026-10-14-lote-01",
+    "assetDate": "20261014"
+  }
+]
