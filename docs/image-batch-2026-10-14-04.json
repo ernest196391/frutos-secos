@@ -1,0 +1,56 @@
+[
+  {
+    "key": "oreo-choco-box",
+    "source": "public/catalog-sources/IMG_20261009_170623.jpg",
+    "target": "ONE small blue and orange OREO Sabor a Chocolate rectangular box, 252g, 4 PAQUETES DE 6 GALLETAS. Preserve chocolate cream cookie art and actual printed front warning octagons. Not the large display carton.",
+    "path": "public/products/generated/oreo-choco-box-20261014.webp",
+    "prompt": "Use case: background-extraction. Edit supplied reference into square commercial product photograph. Target: ONE small blue and orange OREO Sabor a Chocolate rectangular box, 252g, 4 PAQUETES DE 6 GALLETAS. Preserve chocolate cream cookie art and actual printed front warning octagons. Not the large display carton. Entire product centered pure white background generous margins soft shadow. Preserve original brand variant colors package shape print and contents. Remove shelf price tags other products. Do not invent unreadable small print, claims or nutrition. Faithful provisional reconstruction.",
+    "batch": "2026-10-14-lote-04",
+    "assetDate": "20261014"
+  },
+  {
+    "key": "oreo-chocofill-box",
+    "source": "public/catalog-sources/IMG_20261009_170623.jpg",
+    "target": "ONE tall right dark blue OREO 12 STAY FRESH PACKS box with regular white-cream cookie milk splash front. Not orange chocolate cream box and not 60 pack display carton.",
+    "path": "public/products/generated/oreo-chocofill-box-20261014.webp",
+    "prompt": "Use case: background-extraction. Edit supplied reference into square commercial product photograph. Target: ONE tall right dark blue OREO 12 STAY FRESH PACKS box with regular white-cream cookie milk splash front. Not orange chocolate cream box and not 60 pack display carton. Entire product centered pure white background generous margins soft shadow. Preserve original brand variant colors package shape print and contents. Remove shelf price tags other products. Do not invent unreadable small print, claims or nutrition. Faithful provisional reconstruction.",
+    "batch": "2026-10-14-lote-04",
+    "assetDate": "20261014"
+  },
+  {
+    "key": "oreo-roll",
+    "source": "public/catalog-sources/IMG_20261009_170626.jpg",
+    "target": "ONE horizontal clear sealed sleeve filled with black chocolate sandwich cookies and white cream as foreground original. No outer blue wrapper or invented printed label.",
+    "path": "public/products/generated/oreo-roll-20261014.webp",
+    "prompt": "Use case: background-extraction. Edit supplied reference into square commercial product photograph. Target: ONE horizontal clear sealed sleeve filled with black chocolate sandwich cookies and white cream as foreground original. No outer blue wrapper or invented printed label. Entire product centered pure white background generous margins soft shadow. Preserve original brand variant colors package shape print and contents. Remove shelf price tags other products. Do not invent unreadable small print, claims or nutrition. Faithful provisional reconstruction.",
+    "batch": "2026-10-14-lote-04",
+    "assetDate": "20261014"
+  },
+  {
+    "key": "kitkat-16",
+    "source": "public/catalog-sources/IMG_20261009_170645.jpg",
+    "target": "ONE large closed flat red Nestlé KitKat 16 piezas carton on left with chocolate bar photo on right half, CONT NET 664g as visible, actual original front warning octagons. Whole closed carton from slightly above.",
+    "path": "public/products/generated/kitkat-16-20261014.webp",
+    "prompt": "Use case: background-extraction. Edit supplied reference into square commercial product photograph. Target: ONE large closed flat red Nestlé KitKat 16 piezas carton on left with chocolate bar photo on right half, CONT NET 664g as visible, actual original front warning octagons. Whole closed carton from slightly above. Entire product centered pure white background generous margins soft shadow. Preserve original brand variant colors package shape print and contents. Remove shelf price tags other products. Do not invent unreadable small print, claims or nutrition. Faithful provisional reconstruction.",
+    "batch": "2026-10-14-lote-04",
+    "assetDate": "20261014"
+  },
+  {
+    "key": "choco-variety14",
+    "source": "public/catalog-sources/IMG_20261009_170645.jpg",
+    "target": "ONE yellow AHORRA PACK variety chocolate carton with clear front window showing sealed Snickers MilkyWay and m&m's packs. CONTIENE 14 PIEZAS exactly. Keep actual box design; don't change brands or invent package counts.",
+    "path": "public/products/generated/choco-variety14-20261014.webp",
+    "prompt": "Use case: background-extraction. Edit supplied reference into square commercial product photograph. Target: ONE yellow AHORRA PACK variety chocolate carton with clear front window showing sealed Snickers MilkyWay and m&m's packs. CONTIENE 14 PIEZAS exactly. Keep actual box design; don't change brands or invent package counts. Entire product centered pure white background generous margins soft shadow. Preserve original brand variant colors package shape print and contents. Remove shelf price tags other products. Do not invent unreadable small print, claims or nutrition. Faithful provisional reconstruction.",
+    "batch": "2026-10-14-lote-04",
+    "assetDate": "20261014"
+  },
+  {
+    "key": "mms-sharebag",
+    "source": "public/catalog-sources/IMG_20261009_170556.jpg",
+    "target": "ONE left dark brown m&m's chocolate con leche flat bag with red blue and green m&m characters and original white logo. NET 226.8g as visible. Do not add unverified sharing-size headline or nutrition.",
+    "path": "public/products/generated/mms-sharebag-20261014.webp",
+    "prompt": "Use case: background-extraction. Edit supplied reference into square commercial product photograph. Target: ONE left dark brown m&m's chocolate con leche flat bag with red blue and green m&m characters and original white logo. NET 226.8g as visible. Do not add unverified sharing-size headline or nutrition. Entire product centered pure white background generous margins soft shadow. Preserve original brand variant colors package shape print and contents. Remove shelf price tags other products. Do not invent unreadable small print, claims or nutrition. Faithful provisional reconstruction.",
+    "batch": "2026-10-14-lote-04",
+    "assetDate": "20261014"
+  }
+]

@@ -80,3 +80,9 @@ Lote 02 publicado: b0a94a3447d986ad2b418f3217559a3c42975514. Siete cavas públic
 Seis reconstrucciones revisadas: Benton’s Toasted Coconut, Lotus Biscoff paquete individual, Trident XtraCare, That’s it Crunchables, Honey Nut Cheerios vaso y Benton’s Duplex. Resultado preparado: 540 individuales y 41 fotos de estante. Se retiraron cantidad de manzanas y nutrición pequeña no cotejables de dos reconstrucciones. Duplex se resolvió con foto contigua 170614, que muestra galletas claras y oscuras; fuente histórica conservada. Registro de referencias y prompts: image-batch-2026-10-14-03.json.
 
 Nuevas discrepancias: eltoro-mortadela referencia 171616_1 muestra Jamón Viejo El Toro, no mortadela; morgin-coconut referencia 170540 muestra marca Marsin, no Morgin. No se modificaron identidades ni precios por conjetura en este lote.
+
+Lote 03 publicado y verificado: dc19f9b7f56243ccf98a664858c207e88844bf2d; dpl_6bMXobt5uX6E6NugRgSWdo81FZPR READY. API 540 individuales y 41 pendientes; seis archivos coinciden byte por byte.
+
+## Lote 04 — 14 de octubre de 2026
+
+Seis imágenes revisadas: Oreo Chocolate 252g, Oreo 12 paquetes, Oreo rollo transparente, KitKat caja 16 piezas, surtido Snickers MilkyWay M&M’s 14 piezas y M&M’s chocolate con leche bolsa. Resultado preparado: 546 individuales y 35 pendientes. Registro image-batch-2026-10-14-04.json. Datos comerciales conservados. Oreo Snack Packs permanece pendiente de elegir variante de sobre, sin confundir la caja de 60 paquetes con la unidad de 500 CUP.

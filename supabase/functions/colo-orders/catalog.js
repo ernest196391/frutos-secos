@@ -7007,13 +7007,15 @@ export const products=[
     "c": "Alimentos",
     "p": 8500,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170556.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/mms-sharebag-20261014.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170556.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170556.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-14-lote-04"
   },
   {
     "id": 10253,
@@ -7195,13 +7197,15 @@ export const products=[
     "c": "Alimentos",
     "p": 5200,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170623.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/oreo-choco-box-20261014.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170623.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170623.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-14-lote-04"
   },
   {
     "id": 10265,
@@ -7211,13 +7215,15 @@ export const products=[
     "c": "Alimentos",
     "p": 9500,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170623.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/oreo-chocofill-box-20261014.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170623.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170623.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-14-lote-04"
   },
   {
     "id": 10266,
@@ -7227,13 +7233,15 @@ export const products=[
     "c": "Alimentos",
     "p": 2500,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170626.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/oreo-roll-20261014.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170626.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170626.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-14-lote-04"
   },
   {
     "id": 10267,
@@ -7441,13 +7449,15 @@ export const products=[
     "c": "Alimentos",
     "p": 40000,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170645.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/kitkat-16-20261014.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170645.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170645.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-14-lote-04"
   },
   {
     "id": 10279,
@@ -7457,13 +7467,15 @@ export const products=[
     "c": "Alimentos",
     "p": 35000,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170645.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/choco-variety14-20261014.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170645.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170645.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-14-lote-04"
   },
   {
     "id": 10280,

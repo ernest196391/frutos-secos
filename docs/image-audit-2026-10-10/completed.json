@@ -1748,5 +1748,65 @@
     "priceCUP": 7500,
     "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
     "prompt": "Use case: background-extraction. Edit supplied store photo into one square ecommerce product photograph. Target: ONE lower right foreground horizontal purple/pink Benton's DUPLEX SANDWICH CRÈME COOKIES FAMILY SIZE pack. Clear top window shows dark brown and pale sandwich cookie edges as in original, NOT an all vanilla cookie row. Pink swirls and vanilla flower motif. Keep horizontal wrapper. Entire package centered on pure white with generous margin and soft shadow. Faithfully preserve brand variant printing colors proportions and contents. Remove shelves people tags other products. No invented claims, ingredients or unreadable small print. Provisional faithful reconstruction."
+  },
+  {
+    "sharedProductId": "oreo-choco-box",
+    "name": "Oreo Chocolate caja naranja",
+    "sourceImage": "/catalog-sources/IMG_20261009_170623.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170623.jpg",
+    "newImage": "/products/generated/oreo-choco-box-20261014.webp",
+    "priceCUP": 5200,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit supplied reference into square commercial product photograph. Target: ONE small blue and orange OREO Sabor a Chocolate rectangular box, 252g, 4 PAQUETES DE 6 GALLETAS. Preserve chocolate cream cookie art and actual printed front warning octagons. Not the large display carton. Entire product centered pure white background generous margins soft shadow. Preserve original brand variant colors package shape print and contents. Remove shelf price tags other products. Do not invent unreadable small print, claims or nutrition. Faithful provisional reconstruction."
+  },
+  {
+    "sharedProductId": "oreo-chocofill-box",
+    "name": "Oreo caja azul12paquetes",
+    "sourceImage": "/catalog-sources/IMG_20261009_170623.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170623.jpg",
+    "newImage": "/products/generated/oreo-chocofill-box-20261014.webp",
+    "priceCUP": 9500,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit supplied reference into square commercial product photograph. Target: ONE tall right dark blue OREO 12 STAY FRESH PACKS box with regular white-cream cookie milk splash front. Not orange chocolate cream box and not 60 pack display carton. Entire product centered pure white background generous margins soft shadow. Preserve original brand variant colors package shape print and contents. Remove shelf price tags other products. Do not invent unreadable small print, claims or nutrition. Faithful provisional reconstruction."
+  },
+  {
+    "sharedProductId": "oreo-roll",
+    "name": "Oreo en envoltorio transparente",
+    "sourceImage": "/catalog-sources/IMG_20261009_170626.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170626.jpg",
+    "newImage": "/products/generated/oreo-roll-20261014.webp",
+    "priceCUP": 2500,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit supplied reference into square commercial product photograph. Target: ONE horizontal clear sealed sleeve filled with black chocolate sandwich cookies and white cream as foreground original. No outer blue wrapper or invented printed label. Entire product centered pure white background generous margins soft shadow. Preserve original brand variant colors package shape print and contents. Remove shelf price tags other products. Do not invent unreadable small print, claims or nutrition. Faithful provisional reconstruction."
+  },
+  {
+    "sharedProductId": "kitkat-16",
+    "name": "KitKat caja16paquetes",
+    "sourceImage": "/catalog-sources/IMG_20261009_170645.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170645.jpg",
+    "newImage": "/products/generated/kitkat-16-20261014.webp",
+    "priceCUP": 40000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit supplied reference into square commercial product photograph. Target: ONE large closed flat red Nestlé KitKat 16 piezas carton on left with chocolate bar photo on right half, CONT NET 664g as visible, actual original front warning octagons. Whole closed carton from slightly above. Entire product centered pure white background generous margins soft shadow. Preserve original brand variant colors package shape print and contents. Remove shelf price tags other products. Do not invent unreadable small print, claims or nutrition. Faithful provisional reconstruction."
+  },
+  {
+    "sharedProductId": "choco-variety14",
+    "name": "Surtido de chocolates Snickers, Milky Way y M&M’s",
+    "sourceImage": "/catalog-sources/IMG_20261009_170645.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170645.jpg",
+    "newImage": "/products/generated/choco-variety14-20261014.webp",
+    "priceCUP": 35000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit supplied reference into square commercial product photograph. Target: ONE yellow AHORRA PACK variety chocolate carton with clear front window showing sealed Snickers MilkyWay and m&m's packs. CONTIENE 14 PIEZAS exactly. Keep actual box design; don't change brands or invent package counts. Entire product centered pure white background generous margins soft shadow. Preserve original brand variant colors package shape print and contents. Remove shelf price tags other products. Do not invent unreadable small print, claims or nutrition. Faithful provisional reconstruction."
+  },
+  {
+    "sharedProductId": "mms-sharebag",
+    "name": "M&M's Sharing Size bolsa",
+    "sourceImage": "/catalog-sources/IMG_20261009_170556.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170556.jpg",
+    "newImage": "/products/generated/mms-sharebag-20261014.webp",
+    "priceCUP": 8500,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit supplied reference into square commercial product photograph. Target: ONE left dark brown m&m's chocolate con leche flat bag with red blue and green m&m characters and original white logo. NET 226.8g as visible. Do not add unverified sharing-size headline or nutrition. Entire product centered pure white background generous margins soft shadow. Preserve original brand variant colors package shape print and contents. Remove shelf price tags other products. Do not invent unreadable small print, claims or nutrition. Faithful provisional reconstruction."
   }
 ]
