@@ -1,0 +1,65 @@
+[
+  {
+    "key": "juve-solo-vida",
+    "source": "public/catalog-sources/IMG_20261009_170930.jpg",
+    "target": "ONE left SOLO VIDA ornate rounded dark cava bottle with gold embossed teardrop front crest and golden foil neck. Preserve actual distinctive bottle design and logo. No gift box.",
+    "path": "public/products/generated/juve-solo-vida-20261014.webp",
+    "prompt": "Use case: background-extraction. Edit supplied store photo into one square commercial product photograph. Target: ONE left SOLO VIDA ornate rounded dark cava bottle with gold embossed teardrop front crest and golden foil neck. Preserve actual distinctive bottle design and logo. No gift box. Complete centered product on pure white background generous margins soft shadow. Preserve brand, exact variant, colors, bottle shape and visible original printing. Remove shelf, people, price tags and other bottles. No invented fine print, vintages, alcohol strength or claims. Provisional faithful reconstruction.",
+    "batch": "2026-10-14-lote-02",
+    "assetDate": "20261014"
+  },
+  {
+    "key": "gran-juve-camps",
+    "source": "public/catalog-sources/IMG_20261009_170930.jpg",
+    "target": "ONE right GRAN Juvé & Camps GRAN RESERVA dark bottle with gold foil neck and gold shield front label, displayed in its single open cream gift box with gold interior. Preserve exactly one bottle and its box.",
+    "path": "public/products/generated/gran-juve-camps-20261014.webp",
+    "prompt": "Use case: background-extraction. Edit supplied store photo into one square commercial product photograph. Target: ONE right GRAN Juvé & Camps GRAN RESERVA dark bottle with gold foil neck and gold shield front label, displayed in its single open cream gift box with gold interior. Preserve exactly one bottle and its box. Complete centered product on pure white background generous margins soft shadow. Preserve brand, exact variant, colors, bottle shape and visible original printing. Remove shelf, people, price tags and other bottles. No invented fine print, vintages, alcohol strength or claims. Provisional faithful reconstruction.",
+    "batch": "2026-10-14-lote-02",
+    "assetDate": "20261014"
+  },
+  {
+    "key": "vallformosa-gala-white",
+    "source": "public/catalog-sources/IMG_20261009_170943_1.jpg",
+    "target": "ONE clear right VALLFORMOSA GALA white cava bottle, golden straw liquid, gold foil neck with white GALA band, white geometric flower-patterned front label. Visible words BRUT NATURE RESERVA ORGANIC. Do not use Viña Esmeralda bottle.",
+    "path": "public/products/generated/vallformosa-gala-white-20261014.webp",
+    "prompt": "Use case: background-extraction. Edit supplied store photo into one square commercial product photograph. Target: ONE clear right VALLFORMOSA GALA white cava bottle, golden straw liquid, gold foil neck with white GALA band, white geometric flower-patterned front label. Visible words BRUT NATURE RESERVA ORGANIC. Do not use Viña Esmeralda bottle. Complete centered product on pure white background generous margins soft shadow. Preserve brand, exact variant, colors, bottle shape and visible original printing. Remove shelf, people, price tags and other bottles. No invented fine print, vintages, alcohol strength or claims. Provisional faithful reconstruction.",
+    "batch": "2026-10-14-lote-02",
+    "assetDate": "20261014"
+  },
+  {
+    "key": "vallformosa-gala-rose",
+    "source": "public/catalog-sources/IMG_20261009_170943_1.jpg",
+    "target": "ONE left clear VALLFORMOSA GALA rosé cava bottle, pink liquid, pink foil neck with white GALA band, pale pink geometric front label and ROSÉ BRUT ORGANIC. Preserve colors.",
+    "path": "public/products/generated/vallformosa-gala-rose-20261014.webp",
+    "prompt": "Use case: background-extraction. Edit supplied store photo into one square commercial product photograph. Target: ONE left clear VALLFORMOSA GALA rosé cava bottle, pink liquid, pink foil neck with white GALA band, pale pink geometric front label and ROSÉ BRUT ORGANIC. Preserve colors. Complete centered product on pure white background generous margins soft shadow. Preserve brand, exact variant, colors, bottle shape and visible original printing. Remove shelf, people, price tags and other bottles. No invented fine print, vintages, alcohol strength or claims. Provisional faithful reconstruction.",
+    "batch": "2026-10-14-lote-02",
+    "assetDate": "20261014"
+  },
+  {
+    "key": "vallformosa-cava-rose",
+    "source": "public/catalog-sources/IMG_20261009_170948_1.jpg",
+    "target": "ONE far left clear rosé VALLFORMOSA Classic CAVA BRUT ROSÉ bottle, pink foil neck, white front rectangular ornate grey border label. Preserve label visible text.",
+    "path": "public/products/generated/vallformosa-cava-rose-20261014.webp",
+    "prompt": "Use case: background-extraction. Edit supplied store photo into one square commercial product photograph. Target: ONE far left clear rosé VALLFORMOSA Classic CAVA BRUT ROSÉ bottle, pink foil neck, white front rectangular ornate grey border label. Preserve label visible text. Complete centered product on pure white background generous margins soft shadow. Preserve brand, exact variant, colors, bottle shape and visible original printing. Remove shelf, people, price tags and other bottles. No invented fine print, vintages, alcohol strength or claims. Provisional faithful reconstruction.",
+    "batch": "2026-10-14-lote-02",
+    "assetDate": "20261014"
+  },
+  {
+    "key": "vallformosa-cava-brut",
+    "source": "public/catalog-sources/IMG_20261009_170948_1.jpg",
+    "target": "ONE central dark green VALLFORMOSA Classic CAVA BRUT bottle, pale gold foil neck, white front rectangular ornate grey border label. Preserve label visible text.",
+    "path": "public/products/generated/vallformosa-cava-brut-20261014.webp",
+    "prompt": "Use case: background-extraction. Edit supplied store photo into one square commercial product photograph. Target: ONE central dark green VALLFORMOSA Classic CAVA BRUT bottle, pale gold foil neck, white front rectangular ornate grey border label. Preserve label visible text. Complete centered product on pure white background generous margins soft shadow. Preserve brand, exact variant, colors, bottle shape and visible original printing. Remove shelf, people, price tags and other bottles. No invented fine print, vintages, alcohol strength or claims. Provisional faithful reconstruction.",
+    "batch": "2026-10-14-lote-02",
+    "assetDate": "20261014"
+  },
+  {
+    "key": "vallformosa-cava-ice",
+    "source": "public/catalog-sources/IMG_20261009_170948_1.jpg",
+    "target": "ONE right full white silver VALLFORMOSA ICE CAVA bottle, white foil neck with golden CAVA ICE band, silver pine tree pattern bottle wrap, golden VALLFORMOSA ICE band and black CAVA bottom band. Preserve whole wrap.",
+    "path": "public/products/generated/vallformosa-cava-ice-20261014.webp",
+    "prompt": "Use case: background-extraction. Edit supplied store photo into one square commercial product photograph. Target: ONE right full white silver VALLFORMOSA ICE CAVA bottle, white foil neck with golden CAVA ICE band, silver pine tree pattern bottle wrap, golden VALLFORMOSA ICE band and black CAVA bottom band. Preserve whole wrap. Complete centered product on pure white background generous margins soft shadow. Preserve brand, exact variant, colors, bottle shape and visible original printing. Remove shelf, people, price tags and other bottles. No invented fine print, vintages, alcohol strength or claims. Provisional faithful reconstruction.",
+    "batch": "2026-10-14-lote-02",
+    "assetDate": "20261014"
+  }
+]

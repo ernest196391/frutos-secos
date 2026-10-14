@@ -7669,13 +7669,15 @@ export const products=[
     "c": "Bebidas",
     "p": 21000,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170930.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/juve-solo-vida-20261014.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170930.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170930.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-14-lote-02"
   },
   {
     "id": 10293,
@@ -7685,13 +7687,15 @@ export const products=[
     "c": "Bebidas",
     "p": 21000,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170930.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/gran-juve-camps-20261014.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170930.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170930.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-14-lote-02"
   },
   {
     "id": 10294,
@@ -7701,13 +7705,15 @@ export const products=[
     "c": "Bebidas",
     "p": 5200,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170941.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/vallformosa-gala-white-20261014.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170941.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170941.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-14-lote-02"
   },
   {
     "id": 10295,
@@ -7717,13 +7723,15 @@ export const products=[
     "c": "Bebidas",
     "p": 6000,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170943_1.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/vallformosa-gala-rose-20261014.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170943_1.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170943_1.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-14-lote-02"
   },
   {
     "id": 10296,
@@ -7733,13 +7741,15 @@ export const products=[
     "c": "Bebidas",
     "p": 6000,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170948_1.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/vallformosa-cava-rose-20261014.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170948_1.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170948_1.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-14-lote-02"
   },
   {
     "id": 10297,
@@ -7749,13 +7759,15 @@ export const products=[
     "c": "Bebidas",
     "p": 6000,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170948_1.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/vallformosa-cava-brut-20261014.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170948_1.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170948_1.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-14-lote-02"
   },
   {
     "id": 10298,
@@ -7765,13 +7777,15 @@ export const products=[
     "c": "Bebidas",
     "p": 6000,
     "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170948_1.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
+    "img": "/products/generated/vallformosa-cava-ice-20261014.webp",
+    "imageKind": "generated",
+    "provisional": true,
     "source": "store-photo",
     "sourcePhoto": "IMG_20261009_170948_1.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170948_1.jpg",
-    "stock": 10
+    "stock": 10,
+    "imageReviewStatus": "visual-reviewed-provisional",
+    "imageAuditBatch": "2026-10-14-lote-02"
   },
   {
     "sharedProductId": "gain-flings-pequeno",

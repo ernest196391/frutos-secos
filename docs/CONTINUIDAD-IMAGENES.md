@@ -66,3 +66,9 @@ Observaciones adicionales para próximos lotes: `bentons-mint-cookies` dice Cove
 Base comprobada en main y API: 581 productos, 520 imágenes individuales y 61 fotos de estante. Se integran siete imágenes provisionales revisadas: ensaladilla, maíz dulce Vima, nuggets C.Vale, papas Eurofrits Steakhouse, Lil’ Dutch Maid Lemon Creme y Vanilla Creme, y Benton’s Vanilla Sandwich Crème. Resultado preparado: 527 individuales, 54 pendientes, 104 precios por confirmar. Nombres, precios, IDs, stock y fuentes conservados. 24 pruebas y build aprobados. Registro y prompts: `image-batch-2026-10-14-01.json`.
 
 La reconstrucción de Duplex no se publica: contenido visible de la ventana necesita cotejo adicional. Continúan las discrepancias documentadas en lotes anteriores.
+
+Lote 01 del 14 de octubre publicado y verificado: commit 18c146cdf7858eda498c1f728e9c30c949c3ea28, despliegue dpl_qKJyTgB3rsRRDoZ5E7V99Bd8bWVS READY. API 581/527/54; siete archivos públicos coinciden byte por byte.
+
+## Lote 02 — 14 de octubre de 2026
+
+Siete cavas revisados: Solo Vida, Gran Juvé & Camps con estuche, Vallformosa Gala blanco y rosado, Classic Brut y rosado, e Ice. Referencias y prompts: image-batch-2026-10-14-02.json. Gala blanco utiliza la foto contigua 170943_1 para confirmar la variante; su fuente histórica se conserva. Resultado preparado: 534 individuales y 47 fotos de estante; precios, nombres, IDs y stock preservados.

@@ -1618,5 +1618,75 @@
     "priceCUP": 7500,
     "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
     "prompt": "Use case: background-extraction. Edit the reference photo into one square ecommerce product photo. Target: ONE horizontal Benton's VANILLA SANDWICH CRÈME COOKIES pale blue lavender wrapper with swirled pattern, vanilla flower at right, clear top showing pale cookies. Preserve horizontal wrapper. Entire package centered on pure white background with generous margin, soft contact shadow. Preserve actual visible brand, variant, colors, shape and printed artwork faithfully. Remove other products, shelf/freezer, people, price tags and glare. Do not invent ingredients, claims or unreadable small print. Faithful provisional reconstruction."
+  },
+  {
+    "sharedProductId": "juve-solo-vida",
+    "name": "Cava Juvé & Camps Solo Vida",
+    "sourceImage": "/catalog-sources/IMG_20261009_170930.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170930.jpg",
+    "newImage": "/products/generated/juve-solo-vida-20261014.webp",
+    "priceCUP": 21000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit supplied store photo into one square commercial product photograph. Target: ONE left SOLO VIDA ornate rounded dark cava bottle with gold embossed teardrop front crest and golden foil neck. Preserve actual distinctive bottle design and logo. No gift box. Complete centered product on pure white background generous margins soft shadow. Preserve brand, exact variant, colors, bottle shape and visible original printing. Remove shelf, people, price tags and other bottles. No invented fine print, vintages, alcohol strength or claims. Provisional faithful reconstruction."
+  },
+  {
+    "sharedProductId": "gran-juve-camps",
+    "name": "Gran Juvé & Camps Gran Reserva Brut",
+    "sourceImage": "/catalog-sources/IMG_20261009_170930.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170930.jpg",
+    "newImage": "/products/generated/gran-juve-camps-20261014.webp",
+    "priceCUP": 21000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit supplied store photo into one square commercial product photograph. Target: ONE right GRAN Juvé & Camps GRAN RESERVA dark bottle with gold foil neck and gold shield front label, displayed in its single open cream gift box with gold interior. Preserve exactly one bottle and its box. Complete centered product on pure white background generous margins soft shadow. Preserve brand, exact variant, colors, bottle shape and visible original printing. Remove shelf, people, price tags and other bottles. No invented fine print, vintages, alcohol strength or claims. Provisional faithful reconstruction."
+  },
+  {
+    "sharedProductId": "vallformosa-gala-white",
+    "name": "Vallformosa Gala blanco",
+    "sourceImage": "/catalog-sources/IMG_20261009_170941.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170941.jpg",
+    "newImage": "/products/generated/vallformosa-gala-white-20261014.webp",
+    "priceCUP": 5200,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit supplied store photo into one square commercial product photograph. Target: ONE clear right VALLFORMOSA GALA white cava bottle, golden straw liquid, gold foil neck with white GALA band, white geometric flower-patterned front label. Visible words BRUT NATURE RESERVA ORGANIC. Do not use Viña Esmeralda bottle. Complete centered product on pure white background generous margins soft shadow. Preserve brand, exact variant, colors, bottle shape and visible original printing. Remove shelf, people, price tags and other bottles. No invented fine print, vintages, alcohol strength or claims. Provisional faithful reconstruction."
+  },
+  {
+    "sharedProductId": "vallformosa-gala-rose",
+    "name": "Vallformosa Gala rosado",
+    "sourceImage": "/catalog-sources/IMG_20261009_170943_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170943_1.jpg",
+    "newImage": "/products/generated/vallformosa-gala-rose-20261014.webp",
+    "priceCUP": 6000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit supplied store photo into one square commercial product photograph. Target: ONE left clear VALLFORMOSA GALA rosé cava bottle, pink liquid, pink foil neck with white GALA band, pale pink geometric front label and ROSÉ BRUT ORGANIC. Preserve colors. Complete centered product on pure white background generous margins soft shadow. Preserve brand, exact variant, colors, bottle shape and visible original printing. Remove shelf, people, price tags and other bottles. No invented fine print, vintages, alcohol strength or claims. Provisional faithful reconstruction."
+  },
+  {
+    "sharedProductId": "vallformosa-cava-rose",
+    "name": "Vallformosa Cava rosado",
+    "sourceImage": "/catalog-sources/IMG_20261009_170948_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170948_1.jpg",
+    "newImage": "/products/generated/vallformosa-cava-rose-20261014.webp",
+    "priceCUP": 6000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit supplied store photo into one square commercial product photograph. Target: ONE far left clear rosé VALLFORMOSA Classic CAVA BRUT ROSÉ bottle, pink foil neck, white front rectangular ornate grey border label. Preserve label visible text. Complete centered product on pure white background generous margins soft shadow. Preserve brand, exact variant, colors, bottle shape and visible original printing. Remove shelf, people, price tags and other bottles. No invented fine print, vintages, alcohol strength or claims. Provisional faithful reconstruction."
+  },
+  {
+    "sharedProductId": "vallformosa-cava-brut",
+    "name": "Vallformosa Cava Brut",
+    "sourceImage": "/catalog-sources/IMG_20261009_170948_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170948_1.jpg",
+    "newImage": "/products/generated/vallformosa-cava-brut-20261014.webp",
+    "priceCUP": 6000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit supplied store photo into one square commercial product photograph. Target: ONE central dark green VALLFORMOSA Classic CAVA BRUT bottle, pale gold foil neck, white front rectangular ornate grey border label. Preserve label visible text. Complete centered product on pure white background generous margins soft shadow. Preserve brand, exact variant, colors, bottle shape and visible original printing. Remove shelf, people, price tags and other bottles. No invented fine print, vintages, alcohol strength or claims. Provisional faithful reconstruction."
+  },
+  {
+    "sharedProductId": "vallformosa-cava-ice",
+    "name": "Vallformosa Cava Ice",
+    "sourceImage": "/catalog-sources/IMG_20261009_170948_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170948_1.jpg",
+    "newImage": "/products/generated/vallformosa-cava-ice-20261014.webp",
+    "priceCUP": 6000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit supplied store photo into one square commercial product photograph. Target: ONE right full white silver VALLFORMOSA ICE CAVA bottle, white foil neck with golden CAVA ICE band, silver pine tree pattern bottle wrap, golden VALLFORMOSA ICE band and black CAVA bottom band. Preserve whole wrap. Complete centered product on pure white background generous margins soft shadow. Preserve brand, exact variant, colors, bottle shape and visible original printing. Remove shelf, people, price tags and other bottles. No invented fine print, vintages, alcohol strength or claims. Provisional faithful reconstruction."
   }
 ]
