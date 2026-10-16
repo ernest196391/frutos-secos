@@ -1938,5 +1938,65 @@
     "priceCUP": 500,
     "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
     "prompt": "Use case: product-mockup from reference. Create faithful provisional catalog image of ONE individual small BLUE OREO 2-cookie packet, using the blue packet graphic printed on upper left of large 60-packet assortment carton in supplied photo as reference. This product is sold as ONE small sachet, absolutely not the large carton. Preserve blue wrapper, white OREO logo and white-cream sandwich cookie art, and 2 cookies text as depicted. Whole sealed small packet centered on pure white background with ample margins and soft contact shadow. No other packages, no price tags, no invented weight, no nutrition. Do not use yellow Golden or pink Double Stuf variant."
+  },
+  {
+    "sharedProductId": "gourmet-double",
+    "name": "Café soluble Gourmet 2 g",
+    "sourceImage": "/catalog-sources/IMG_20261009_170428_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170428_1.jpg",
+    "newImage": "/products/generated/gourmet-double-20261016-02.webp",
+    "priceCUP": 100,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: product-mockup. Reference image: original store photograph. Create faithful provisional individual product catalog photography on pure white background with subtle shadow. Isolate ONE slim red Gourmet instant coffee stick held in hand in the reference. Remove hand and box. Preserve red wrapper and cream vertical Gourmet text. Do not invent small text. One individual 2g stick, NOT display box. Product centered with ample margin, square image. No shelf, price tags, hands, other products or watermark. Preserve original packaging design and colors; avoid inventing unseen factual claims."
+  },
+  {
+    "sharedProductId": "eltoro-mortadela",
+    "name": "Jamón Viejo El Toro",
+    "sourceImage": "/catalog-sources/IMG_20261009_171616_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_171616_1.jpg",
+    "newImage": "/products/generated/eltoro-mortadela-20261016-02.webp",
+    "priceCUP": null,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: product-mockup. Reference image: original store photograph. Create faithful provisional individual product catalog photography on pure white background with subtle shadow. Isolate ONLY the El Toro old fashioned ham log at lower left. Preserve rounded oblong form, pale beige wrapper with yellow repeated EL TORO, ornate orange burgundy label saying JAMON VIEJO, OLD FASHIONED HAM, EL TORO. Do not show Bravo ham. No invented weights. Product centered with ample margin, square image. No shelf, price tags, hands, other products or watermark. Preserve original packaging design and colors; avoid inventing unseen factual claims."
+  },
+  {
+    "sharedProductId": "vima-albondigas-lata",
+    "name": "Leche evaporada Vima 377 ml",
+    "sourceImage": "/catalog-sources/IMG_20261009_170410_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170410_1.jpg",
+    "newImage": "/products/generated/vima-albondigas-lata-20261016-02.webp",
+    "priceCUP": 1650,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: product-mockup. Reference image: original store photograph. Create faithful provisional individual product catalog photography on pure white background with subtle shadow. Isolate ONE Vima evaporated milk can on left. Preserve exact green and white label, Vima oval logo, LEЧE EVAPORADA spelled LECHE EVAPORADA, Evaporated milk, 377 ml, cake graphic and silver metal lid. No meat or meatballs. Product centered with ample margin, square image. No shelf, price tags, hands, other products or watermark. Preserve original packaging design and colors; avoid inventing unseen factual claims."
+  },
+  {
+    "sharedProductId": "plumrose-lata",
+    "name": "Condensada azucarada Pijirigua",
+    "sourceImage": "/catalog-sources/IMG_20261009_170410_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170410_1.jpg",
+    "newImage": "/products/generated/plumrose-lata-20261016-02.webp",
+    "priceCUP": 1200,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: product-mockup. Reference image: original store photograph. Create faithful provisional individual product catalog photography on pure white background with subtle shadow. Isolate ONE yellow orange PIJIRIGUA can at center. Preserve cheerful cow head with hat, black brand panel PIJIRIGUA, words CONDENSADA AZUCARADA, silver lid and cylindrical proportions. No invented weight, nutrition or certifications. Product centered with ample margin, square image. No shelf, price tags, hands, other products or watermark. Preserve original packaging design and colors; avoid inventing unseen factual claims."
+  },
+  {
+    "sharedProductId": "novo-lata",
+    "name": "Leche condensada azucarada Naya",
+    "sourceImage": "/catalog-sources/IMG_20261009_170410_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170410_1.jpg",
+    "newImage": "/products/generated/novo-lata-20261016-02.webp",
+    "priceCUP": 1200,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: product-mockup. Reference image: original store photograph. Create faithful provisional individual product catalog photography on pure white background with subtle shadow. Isolate ONE Naya sweetened condensed milk can on right. Preserve sky-blue top and dark purple bottom label, red curved naya logo, white pitcher pouring cream, dessert graphic. Main text Sweetened Condensed Milk. No invented weight or nutritional fine print. Product centered with ample margin, square image. No shelf, price tags, hands, other products or watermark. Preserve original packaging design and colors; avoid inventing unseen factual claims."
+  },
+  {
+    "sharedProductId": "cadbury-bar",
+    "name": "Dulce Caramel Coconut Fudge",
+    "sourceImage": "/catalog-sources/IMG_20261009_170645.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170645.jpg",
+    "newImage": "/products/generated/cadbury-bar-20261016-02.webp",
+    "priceCUP": 2500,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: product-mockup. Reference image: original store photograph. Create faithful provisional individual product catalog photography on pure white background with subtle shadow. Isolate ONE purple caramel coconut fudge rectangular pillow package on right, not the Kitkat or mixed box. Preserve purple wrapper, white CARAMEL COCONUT FUDGE lettering, fudge confection cross section illustration. Visible NET WT 4 OZ (113 g). Do not add Cadbury or Baileys brand. Simple clean wrapped packet. Product centered with ample margin, square image. No shelf, price tags, hands, other products or watermark. Preserve original packaging design and colors; avoid inventing unseen factual claims."
   }
 ]

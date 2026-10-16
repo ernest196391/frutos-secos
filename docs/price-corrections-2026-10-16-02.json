@@ -1,0 +1,23 @@
+[
+  {
+    "key": "vima-albondigas-lata",
+    "beforeCUP": 1460,
+    "afterCUP": 1650,
+    "evidence": "/catalog-sources/IMG_20261009_170410_1.jpg",
+    "basis": "Cartel directamente bajo el grupo de latas; marca y alimento cotejados visualmente."
+  },
+  {
+    "key": "plumrose-lata",
+    "beforeCUP": null,
+    "afterCUP": 1200,
+    "evidence": "/catalog-sources/IMG_20261009_170410_1.jpg",
+    "basis": "Cartel directamente bajo el grupo de latas; marca y alimento cotejados visualmente."
+  },
+  {
+    "key": "novo-lata",
+    "beforeCUP": null,
+    "afterCUP": 1200,
+    "evidence": "/catalog-sources/IMG_20261009_170410_1.jpg",
+    "basis": "Cartel directamente bajo el grupo de latas; marca y alimento cotejados visualmente."
+  }
+]

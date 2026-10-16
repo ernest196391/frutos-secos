@@ -4,9 +4,9 @@
   "pricedProducts": 477,
   "pricesPending": 104,
   "individualImagesBefore": 365,
-  "newIndividualImages": 194,
-  "individualImagesNow": 559,
-  "remainingStorePhotos": 22,
+  "newIndividualImages": 200,
+  "individualImagesNow": 565,
+  "remainingStorePhotos": 16,
   "missingLocalAssets": 0,
   "invalidLocalImageFiles": 0,
   "nameCorrections": [
@@ -166,6 +166,48 @@
       "after": "Té Doblett sabor manzana, anís y arándano",
       "priceCUP": 900,
       "evidence": "Original photo IMG_20261009_170406_1.jpg visually inspected; brand/variant corrected from visible label."
+    },
+    {
+      "key": "gourmet-double",
+      "before": "Galletas Gourmet Double",
+      "after": "Café soluble Gourmet 2 g",
+      "priceCUP": 100,
+      "evidence": "Etiqueta legible en IMG_20261009_170428_1.jpg; sin otra ficha coincidente en el catálogo."
+    },
+    {
+      "key": "eltoro-mortadela",
+      "before": "Mortadela de pollo El Toro",
+      "after": "Jamón Viejo El Toro",
+      "priceCUP": null,
+      "evidence": "Etiqueta legible en IMG_20261009_171616_1.jpg; sin otra ficha coincidente en el catálogo."
+    },
+    {
+      "key": "vima-albondigas-lata",
+      "before": "Albóndigas en salsa Vima",
+      "after": "Leche evaporada Vima 377 ml",
+      "priceCUP": 1650,
+      "evidence": "Etiqueta legible en IMG_20261009_170410_1.jpg; sin otra ficha coincidente en el catálogo."
+    },
+    {
+      "key": "plumrose-lata",
+      "before": "Producto Plumrose en lata",
+      "after": "Condensada azucarada Pijirigua",
+      "priceCUP": 1200,
+      "evidence": "Etiqueta legible en IMG_20261009_170410_1.jpg; sin otra ficha coincidente en el catálogo."
+    },
+    {
+      "key": "novo-lata",
+      "before": "Producto Novo en lata",
+      "after": "Leche condensada azucarada Naya",
+      "priceCUP": 1200,
+      "evidence": "Etiqueta legible en IMG_20261009_170410_1.jpg; sin otra ficha coincidente en el catálogo."
+    },
+    {
+      "key": "cadbury-bar",
+      "before": "Chocolate Baileys Caramel",
+      "after": "Dulce Caramel Coconut Fudge",
+      "priceCUP": 2500,
+      "evidence": "Etiqueta legible en IMG_20261009_170645.jpg; sin otra ficha coincidente en el catálogo."
     }
   ],
   "testsPassed": 24,

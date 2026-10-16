@@ -18,7 +18,16 @@ for item in batch:
     p = by_key[item['key']]
     previous = p['img']
     target = '/products/generated/' + item['key'] + '-' + item.get('assetDate', '20261010') + '.webp'
-    Image.open(item['path']).convert('RGB').resize((1024, 1024), Image.Resampling.LANCZOS).save(root / 'public' / target.lstrip('/'), 'WEBP', quality=90)
+    # Decode fully before opening an output: a manifest may point at the target itself.
+    with Image.open(item['path']) as source:
+        image = source.convert('RGB')
+        image.thumbnail((1024, 1024), Image.Resampling.LANCZOS)
+    destination = root / 'public' / target.lstrip('/')
+    temporary = destination.with_suffix('.tmp.webp')
+    image.save(temporary, 'WEBP', quality=90)
+    with Image.open(temporary) as check:
+        check.verify()
+    temporary.replace(destination)
     if item.get('name') and item['name'] != p['n']:
         summary['nameCorrections'].append({'key': item['key'], 'before': p['n'], 'after': item['name'], 'priceCUP': p['p'], 'evidence': item.get('evidence', p['sourceImage'])})
         p['n'] = item['name']

@@ -100,3 +100,13 @@ Resultado preparado: 559 imágenes individuales y 22 fotos de estante en main; 2
 Quedan 20 correspondencias abiertas detalladas en revision-identidad-2026-10-16.json y en /revision-identidad.html, con foto y pregunta concreta. No convertir automáticamente nombres incompatibles ni asignarles el precio del producto vecino; comprobar duplicados antes. La fuente de raviolis muestra bolitas de queso; la de Baileys muestra Caramel Coconut Fudge; las supuestas latas Plumrose y Novo muestran Pijirigua y Naya.
 
 Validación y publicación: ver verification-2026-10-16-lote-01.json después de comprobar producción.
+
+## Lote 02 — 16 de octubre de 2026
+
+Se resuelven seis identificaciones mediante etiquetas originales y comparación con el catálogo para descartar duplicados: Gourmet es café soluble de 2 g; El Toro es Jamón Viejo; Vima es leche evaporada de 377 ml; las latas amarilla y azul son Pijirigua condensada azucarada y Naya leche condensada azucarada; el paquete morado es Caramel Coconut Fudge, sin marca Baileys confirmada. Se conservan los IDs históricos para no romper referencias. Las seis imágenes son reconstrucciones provisionales generadas con la herramienta integrada; referencias, rutas y prompts en image-batch-2026-10-16-02.json.
+
+Precios leídos directamente bajo las latas en IMG_20261009_170410_1.jpg: Vima 1650 CUP (corrige 1460); Pijirigua 1200 CUP y Naya 1200 CUP (antes pendientes). Evidencia y cambios en price-corrections-2026-10-16-02.json. El Toro conserva precio pendiente. Se actualizan categorías y subcategorías y se eliminan las dos latas ya resueltas de la cola de precios; las pruebas de precios incluyen las tres latas.
+
+Resultado base: 581 fichas, 565 imágenes individuales, 16 fotos de estante y 102 precios pendientes. Con las dos ocultaciones del propietario: 579 visibles, 14 fotos de estante y 101 precios pendientes. revision-identidad.html conserva la numeración original de los 14 casos restantes. El exportador ahora decodifica antes de escribir y reemplaza de forma atómica, evitando truncar una imagen cuando entrada y salida son la misma ruta.
+
+Comprobación de producción: se registrará en verification-2026-10-16-lote-02.json tras el despliegue.

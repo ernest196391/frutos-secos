@@ -1478,9 +1478,9 @@
   },
   {
     "sharedProductId": "eltoro-mortadela",
-    "n": "Mortadela de pollo El Toro",
+    "n": "Jamón Viejo El Toro",
     "d": "Pieza entera",
-    "c": "Alimentos",
+    "c": "Charcutería",
     "subcategory": "Embutidos",
     "p": null,
     "priceCandidatesCUP": [],
@@ -1491,7 +1491,7 @@
     ],
     "sourceImage": "/catalog-sources/IMG_20261009_171616_1.jpg",
     "status": "needs-review",
-    "reason": "Precio y peso fueraencuadre",
+    "reason": "Confirmar peso y precio de la pieza de Jamón Viejo El Toro.",
     "img": null,
     "priceStatus": "missing",
     "possibleExistingIds": []
@@ -1904,48 +1904,6 @@
     "sourceImage": "/catalog-sources/IMG_20261009_170341.jpg",
     "status": "needs-review",
     "reason": "Confirmar marca y presentación del café en bolsa oscura.",
-    "img": null,
-    "priceStatus": "direct",
-    "possibleExistingIds": []
-  },
-  {
-    "sharedProductId": "plumrose-lata",
-    "n": "Producto Plumrose en lata",
-    "d": "Lata amarilla",
-    "c": "Conservas",
-    "subcategory": "Carnes",
-    "p": null,
-    "priceCandidatesCUP": [
-      1200
-    ],
-    "sourcePhoto": "IMG_20261009_170410_1.jpg",
-    "sourcePhotos": [
-      "IMG_20261009_170410_1.jpg"
-    ],
-    "sourceImage": "/catalog-sources/IMG_20261009_170410_1.jpg",
-    "status": "needs-review",
-    "reason": "Identificar el alimento dentro de la lata amarilla, no solo su marca.",
-    "img": null,
-    "priceStatus": "direct",
-    "possibleExistingIds": []
-  },
-  {
-    "sharedProductId": "novo-lata",
-    "n": "Producto Novo en lata",
-    "d": "Lata azul",
-    "c": "Conservas",
-    "subcategory": "Carnes",
-    "p": null,
-    "priceCandidatesCUP": [
-      2000
-    ],
-    "sourcePhoto": "IMG_20261009_170410_1.jpg",
-    "sourcePhotos": [
-      "IMG_20261009_170410_1.jpg"
-    ],
-    "sourceImage": "/catalog-sources/IMG_20261009_170410_1.jpg",
-    "status": "needs-review",
-    "reason": "Identificar el alimento dentro de la lata azul, no solo su marca.",
     "img": null,
     "priceStatus": "direct",
     "possibleExistingIds": []

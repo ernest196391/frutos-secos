@@ -412,10 +412,10 @@
   "te-hierbabuena": "Infusiones",
   "te-manzanilla-jengibre": "Infusiones",
   "te-manzanilla-arandano": "Infusiones",
-  "vima-albondigas-lata": "Preparados",
+  "vima-albondigas-lata": "Lácteos",
   "peanut-cookies-18": "Galletas",
   "britannia-biscafe": "Galletas",
-  "gourmet-double": "Galletas",
+  "gourmet-double": "Café",
   "supremos-packet": "Golosinas",
   "trident-1350": "Chicles",
   "extra-gum": "Chicles",
@@ -462,7 +462,7 @@
   "fresko-coffee": "Golosinas",
   "kitkat-16": "Chocolate",
   "choco-variety14": "Chocolate",
-  "cadbury-bar": "Chocolate",
+  "cadbury-bar": "Dulces",
   "crepel-bar": "Golosinas",
   "todeschini-picapau": "Galletas",
   "vima-ensaladilla": "Congelados",
@@ -480,5 +480,8 @@
   "vallformosa-gala-rose": "Espumosos",
   "vallformosa-cava-rose": "Espumosos",
   "vallformosa-cava-brut": "Espumosos",
-  "vallformosa-cava-ice": "Espumosos"
+  "vallformosa-cava-ice": "Espumosos",
+  "eltoro-mortadela": "Embutidos",
+  "plumrose-lata": "Lácteos",
+  "novo-lata": "Lácteos"
 }

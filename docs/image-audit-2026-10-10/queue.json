@@ -128,38 +128,6 @@
     "stock": 10
   },
   {
-    "id": 10230,
-    "sharedProductId": "vima-albondigas-lata",
-    "n": "Albóndigas en salsa Vima",
-    "d": "Lata",
-    "c": "Conservas",
-    "p": 1460,
-    "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170410_1.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
-    "source": "store-photo",
-    "sourcePhoto": "IMG_20261009_170410_1.jpg",
-    "sourceImage": "/catalog-sources/IMG_20261009_170410_1.jpg",
-    "stock": 10
-  },
-  {
-    "id": 10233,
-    "sharedProductId": "gourmet-double",
-    "n": "Galletas Gourmet Double",
-    "d": "Paquete pequeño",
-    "c": "Alimentos",
-    "p": 100,
-    "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170428_1.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
-    "source": "store-photo",
-    "sourcePhoto": "IMG_20261009_170428_1.jpg",
-    "sourceImage": "/catalog-sources/IMG_20261009_170428_1.jpg",
-    "stock": 10
-  },
-  {
     "id": 10234,
     "sharedProductId": "supremos-packet",
     "n": "Caramelos Supremos",
@@ -224,22 +192,6 @@
     "stock": 10
   },
   {
-    "id": 10280,
-    "sharedProductId": "cadbury-bar",
-    "n": "Chocolate Baileys Caramel",
-    "d": "Tableta",
-    "c": "Alimentos",
-    "p": 2500,
-    "currency": "CUP",
-    "img": "/catalog-sources/IMG_20261009_170645.jpg",
-    "imageKind": "store-photo",
-    "provisional": false,
-    "source": "store-photo",
-    "sourcePhoto": "IMG_20261009_170645.jpg",
-    "sourceImage": "/catalog-sources/IMG_20261009_170645.jpg",
-    "stock": 10
-  },
-  {
     "id": 10285,
     "sharedProductId": "dor-coles",
     "n": "Coles de Bruselas congeladas d'Arta",
@@ -254,31 +206,6 @@
     "sourcePhoto": "IMG_20261009_170834_1.jpg",
     "sourceImage": "/catalog-sources/IMG_20261009_170834_1.jpg",
     "stock": 10
-  },
-  {
-    "sharedProductId": "eltoro-mortadela",
-    "n": "Mortadela de pollo El Toro",
-    "d": "Pieza entera",
-    "c": "Alimentos",
-    "subcategory": "Embutidos",
-    "p": null,
-    "priceCandidatesCUP": [],
-    "sourcePhoto": "IMG_20261009_171616_1.jpg",
-    "sourcePhotos": [
-      "IMG_20261009_171616_1.jpg",
-      "IMG_20261009_171608_1.jpg"
-    ],
-    "sourceImage": "/catalog-sources/IMG_20261009_171616_1.jpg",
-    "status": "needs-review",
-    "reason": "Precio y peso fueraencuadre",
-    "img": "/catalog-sources/IMG_20261009_171616_1.jpg",
-    "priceStatus": "pending",
-    "possibleExistingIds": [],
-    "id": 20072,
-    "currency": "CUP",
-    "stock": 10,
-    "imageKind": "store-photo",
-    "provisional": true
   },
   {
     "sharedProductId": "thatsit-blueberry",
@@ -325,58 +252,6 @@
     "priceStatus": "pending",
     "possibleExistingIds": [],
     "id": 20086,
-    "currency": "CUP",
-    "stock": 10,
-    "imageKind": "store-photo",
-    "provisional": true
-  },
-  {
-    "sharedProductId": "plumrose-lata",
-    "n": "Producto Plumrose en lata",
-    "d": "Lata amarilla",
-    "c": "Conservas",
-    "subcategory": "Carnes",
-    "p": null,
-    "priceCandidatesCUP": [
-      1200
-    ],
-    "sourcePhoto": "IMG_20261009_170410_1.jpg",
-    "sourcePhotos": [
-      "IMG_20261009_170410_1.jpg"
-    ],
-    "sourceImage": "/catalog-sources/IMG_20261009_170410_1.jpg",
-    "status": "needs-review",
-    "reason": "Identificar el alimento dentro de la lata amarilla, no solo su marca.",
-    "img": "/catalog-sources/IMG_20261009_170410_1.jpg",
-    "priceStatus": "pending",
-    "possibleExistingIds": [],
-    "id": 20093,
-    "currency": "CUP",
-    "stock": 10,
-    "imageKind": "store-photo",
-    "provisional": true
-  },
-  {
-    "sharedProductId": "novo-lata",
-    "n": "Producto Novo en lata",
-    "d": "Lata azul",
-    "c": "Conservas",
-    "subcategory": "Carnes",
-    "p": null,
-    "priceCandidatesCUP": [
-      2000
-    ],
-    "sourcePhoto": "IMG_20261009_170410_1.jpg",
-    "sourcePhotos": [
-      "IMG_20261009_170410_1.jpg"
-    ],
-    "sourceImage": "/catalog-sources/IMG_20261009_170410_1.jpg",
-    "status": "needs-review",
-    "reason": "Identificar el alimento dentro de la lata azul, no solo su marca.",
-    "img": "/catalog-sources/IMG_20261009_170410_1.jpg",
-    "priceStatus": "pending",
-    "possibleExistingIds": [],
-    "id": 20094,
     "currency": "CUP",
     "stock": 10,
     "imageKind": "store-photo",

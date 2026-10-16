@@ -3,120 +3,98 @@
     "key": "raviolis",
     "name": "Raviolis congelados",
     "sourceImage": "/catalog-sources/IMG_20261009_171218_1.jpg",
-    "issue": "La bandeja visible dice Bolitas de Queso. Falta foto de raviolis."
+    "issue": "La bandeja visible dice Bolitas de Queso. Falta foto de raviolis.",
+    "number": 1
   },
   {
     "key": "purely-vanilla-granola",
     "name": "Granola Purely Elizabeth Vanilla Almond",
     "sourceImage": "/catalog-sources/IMG_20261009_165536.jpg",
-    "issue": "Nombre mezcla Purely Elizabeth y Vanilla Almond de Trader Joe’s; precios visibles distintos."
+    "issue": "Nombre mezcla Purely Elizabeth y Vanilla Almond de Trader Joe’s; precios visibles distintos.",
+    "number": 2
   },
   {
     "key": "carmencita-pimientas",
     "name": "Mezcla de pimientas en molinillo",
     "sourceImage": "/catalog-sources/IMG_20261009_170237.jpg",
-    "issue": "Elegir pimienta negra o sal rosa con 3 pimientas."
+    "issue": "Elegir pimienta negra o sal rosa con 3 pimientas.",
+    "number": 3
   },
   {
     "key": "kens-ranch",
     "name": "Ken's Ranch Dressing",
     "sourceImage": "/catalog-sources/IMG_20261009_170250.jpg",
-    "issue": "Ken’s no aparece en la referencia."
+    "issue": "Ken’s no aparece en la referencia.",
+    "number": 4
   },
   {
     "key": "lime-juice",
     "name": "Jugo de lima botella verde",
     "sourceImage": "/catalog-sources/IMG_20261009_170250.jpg",
-    "issue": "No se identifica jugo de lima; aparecen vainilla, edulcorante y condimentos."
+    "issue": "No se identifica jugo de lima; aparecen vainilla, edulcorante y condimentos.",
+    "number": 5
   },
   {
     "key": "carmencita-molinillo-pimienta",
     "name": "Molinillo Carmencita Pimienta",
     "sourceImage": "/catalog-sources/IMG_20261009_170254.jpg",
-    "issue": "La foto muestra marisco, barbacoa, picante y pollo; falta pimienta."
+    "issue": "La foto muestra marisco, barbacoa, picante y pollo; falta pimienta.",
+    "number": 6
   },
   {
     "key": "milideas-vinagre",
     "name": "Vinagre de vino Milideas",
     "sourceImage": "/catalog-sources/IMG_20261009_170303_1.jpg",
-    "issue": "Foto muestra Aldaketa, Gourmet, Vima y Varvello; no Milideas."
+    "issue": "Foto muestra Aldaketa, Gourmet, Vima y Varvello; no Milideas.",
+    "number": 7
   },
   {
     "key": "welchs-grape",
     "name": "Mermelada de uva Welch’s",
     "sourceImage": "/catalog-sources/IMG_20261009_170314.jpg",
-    "issue": "Frasco frontal es Pampa; Welch’s está parcialmente oculto."
-  },
-  {
-    "key": "vima-albondigas-lata",
-    "name": "Albóndigas en salsa Vima",
-    "sourceImage": "/catalog-sources/IMG_20261009_170410_1.jpg",
-    "issue": "Foto muestra leche evaporada Vima, no albóndigas."
-  },
-  {
-    "key": "gourmet-double",
-    "name": "Galletas Gourmet Double",
-    "sourceImage": "/catalog-sources/IMG_20261009_170428_1.jpg",
-    "issue": "Foto muestra café soluble Gourmet de 2g, no galletas. Confirmar ficha y descartar duplicado."
+    "issue": "Frasco frontal es Pampa; Welch’s está parcialmente oculto.",
+    "number": 8
   },
   {
     "key": "bauducco-wafer-choco",
     "name": "Wafer Bauducco chocolate",
     "sourceImage": "/catalog-sources/IMG_20261009_170518.jpg",
-    "issue": "Foto muestra fresa y peanut butter; chocolate no identificado."
+    "issue": "Foto muestra fresa y peanut butter; chocolate no identificado.",
+    "number": 11
   },
   {
     "key": "toblerone",
     "name": "Chocolate Toblerone",
     "sourceImage": "/catalog-sources/IMG_20261009_170554.jpg",
-    "issue": "Hay varios tamaños; confirmar cuál vale 4000 CUP."
+    "issue": "Hay varios tamaños; confirmar cuál vale 4000 CUP.",
+    "number": 12
   },
   {
     "key": "reeses-bar",
     "name": "Reese's barra",
     "sourceImage": "/catalog-sources/IMG_20261009_170556.jpg",
-    "issue": "Caja naranja tapada por precio; confirmar tipo de dulce antes de representarlo."
-  },
-  {
-    "key": "cadbury-bar",
-    "name": "Chocolate Baileys Caramel",
-    "sourceImage": "/catalog-sources/IMG_20261009_170645.jpg",
-    "issue": "Foto muestra Caramel Coconut Fudge; no se confirma Baileys."
+    "issue": "Caja naranja tapada por precio; confirmar tipo de dulce antes de representarlo.",
+    "number": 13
   },
   {
     "key": "dor-coles",
     "name": "Coles de Bruselas congeladas d'Arta",
     "sourceImage": "/catalog-sources/IMG_20261009_170834_1.jpg",
-    "issue": "Bolsa de coles tapada por maíz y carteles; falta frente completo y marca."
-  },
-  {
-    "key": "eltoro-mortadela",
-    "name": "Mortadela de pollo El Toro",
-    "sourceImage": "/catalog-sources/IMG_20261009_171616_1.jpg",
-    "issue": "Etiqueta visible dice Jamón Viejo El Toro, no mortadela; precio pendiente."
+    "issue": "Bolsa de coles tapada por maíz y carteles; falta frente completo y marca.",
+    "number": 15
   },
   {
     "key": "thatsit-blueberry",
     "name": "That's It Mini Fruit Bars Blueberry",
     "sourceImage": "/catalog-sources/IMG_20261009_165521.jpg",
-    "issue": "Foto muestra Crunchables surtidos, no Mini Fruit Bars Blueberry; posible duplicado."
+    "issue": "Foto muestra Crunchables surtidos, no Mini Fruit Bars Blueberry; posible duplicado.",
+    "number": 17
   },
   {
     "key": "vanilla-bottle",
     "name": "Vainilla botella amarilla",
     "sourceImage": "/catalog-sources/IMG_20261009_170314.jpg",
-    "issue": "Hay más de un topping de vainilla y una botella amarilla de maple; confirmar cuál es la ficha."
-  },
-  {
-    "key": "plumrose-lata",
-    "name": "Producto Plumrose en lata",
-    "sourceImage": "/catalog-sources/IMG_20261009_170410_1.jpg",
-    "issue": "Lata amarilla visible es Pijirigua condensada azucarada, no Plumrose; descartar duplicado."
-  },
-  {
-    "key": "novo-lata",
-    "name": "Producto Novo en lata",
-    "sourceImage": "/catalog-sources/IMG_20261009_170410_1.jpg",
-    "issue": "Lata azul visible es Naya, no Novo; descartar duplicado."
+    "issue": "Hay más de un topping de vainilla y una botella amarilla de maple; confirmar cuál es la ficha.",
+    "number": 18
   }
 ]
