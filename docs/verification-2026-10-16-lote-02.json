@@ -1,0 +1,58 @@
+{
+  "verifiedAt": "2026-10-16T04:54:23.147438+00:00",
+  "production": "https://frutos-secos-drab.vercel.app",
+  "commit": "9aec97ea2c4f5c11cae8af7cb78d1dc246fc31f4",
+  "deployment": "dpl_7G7eF6KmKrETuUKqkHTptxg39HQJ",
+  "status": "READY",
+  "testsPassed": 24,
+  "build": "passed",
+  "visibleProducts": 579,
+  "individualImages": 565,
+  "remainingStorePhotos": 14,
+  "pendingPrices": 101,
+  "updatedImages": 6,
+  "assets": [
+    {
+      "key": "gourmet-double",
+      "name": "Café soluble Gourmet 2 g",
+      "priceCUP": 100,
+      "bytes": 30486,
+      "sha256": "e3fb7b175e7c88e90a0a147a8a20e57bee166b5fe9d34ba50324bd0b1f3c2401"
+    },
+    {
+      "key": "eltoro-mortadela",
+      "name": "Jamón Viejo El Toro",
+      "priceCUP": null,
+      "bytes": 102292,
+      "sha256": "ccd00c5da779e9ca3ab6c7f13ab8a1fa827779f163dc38e72ea2d0f587508c1b"
+    },
+    {
+      "key": "vima-albondigas-lata",
+      "name": "Leche evaporada Vima 377 ml",
+      "priceCUP": 1650,
+      "bytes": 72980,
+      "sha256": "a292851007205d3a94868eaa7015347794ab6ef94dee55b0ec321961a2e2602f"
+    },
+    {
+      "key": "plumrose-lata",
+      "name": "Condensada azucarada Pijirigua",
+      "priceCUP": 1200,
+      "bytes": 65944,
+      "sha256": "58f587303abcb9a6b1250d04038974071581089e41c12c27f4427541d160569d"
+    },
+    {
+      "key": "novo-lata",
+      "name": "Leche condensada azucarada Naya",
+      "priceCUP": 1200,
+      "bytes": 71464,
+      "sha256": "2018207f7c73d697ef72b931095eec6b3ad1bc5ac5982ad18620c3baa2207cb9"
+    },
+    {
+      "key": "cadbury-bar",
+      "name": "Dulce Caramel Coconut Fudge",
+      "priceCUP": 2500,
+      "bytes": 117056,
+      "sha256": "1ebb148b7530016b9a70f359264876239101479d657f73fbdddebfbc910fd8b5"
+    }
+  ]
+}
