@@ -1808,5 +1808,135 @@
     "priceCUP": 8500,
     "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
     "prompt": "Use case: background-extraction. Edit supplied reference into square commercial product photograph. Target: ONE left dark brown m&m's chocolate con leche flat bag with red blue and green m&m characters and original white logo. NET 226.8g as visible. Do not add unverified sharing-size headline or nutrition. Entire product centered pure white background generous margins soft shadow. Preserve original brand variant colors package shape print and contents. Remove shelf price tags other products. Do not invent unreadable small print, claims or nutrition. Faithful provisional reconstruction."
+  },
+  {
+    "sharedProductId": "extra-gum",
+    "name": "Chicle Extra",
+    "sourceImage": "/catalog-sources/IMG_20261009_170501.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170501.jpg",
+    "newImage": "/products/generated/extra-gum-20261016.webp",
+    "priceCUP": 3500,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Background-extraction: isolate one Extra Spearmint package from original reference. White background, soft shadow, preserve brand, variant, colors and shape. Remove shelf and price tags; no invented fine print."
+  },
+  {
+    "sharedProductId": "five-gum",
+    "name": "Chicle5Gum",
+    "sourceImage": "/catalog-sources/IMG_20261009_170501.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170501.jpg",
+    "newImage": "/products/generated/five-gum-20261016.webp",
+    "priceCUP": 3500,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Background-extraction: isolate one 5 Gum Watermelon package from original reference. White background, soft shadow, preserve brand, variant, colors and shape. Remove shelf and price tags; no invented fine print."
+  },
+  {
+    "sharedProductId": "todeschini-picapau",
+    "name": "Galletas Todeschini Pica-Pau",
+    "sourceImage": "/catalog-sources/IMG_20261009_170653.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170653.jpg",
+    "newImage": "/products/generated/todeschini-picapau-20261016.webp",
+    "priceCUP": 560,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Background-extraction: isolate one Todeschini Pica-Pau Chocolate package from original reference. White background, soft shadow, preserve brand, variant, colors and shape. Remove shelf and price tags; no invented fine print."
+  },
+  {
+    "sharedProductId": "coffee-whitener",
+    "name": "Sunrise Coffee Whitener",
+    "sourceImage": "/catalog-sources/IMG_20261009_170336.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170336.jpg",
+    "newImage": "/products/generated/coffee-whitener-20261016.webp",
+    "priceCUP": 3000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Isolate one SUNRISE COFFEE WHITENER golden pouch from original photo, white background and soft shadow. Preserve original brand, shape, colors and cup art; no invented weight or claims."
+  },
+  {
+    "sharedProductId": "milano-double",
+    "name": "Pepperidge Farm Milano Double Dark Chocolate",
+    "sourceImage": "/catalog-sources/IMG_20261009_170618.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170618.jpg",
+    "newImage": "/products/generated/milano-double-20261016.webp",
+    "priceCUP": 650,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Square commercial product photograph from reference. Target: ONE small white individual Pepperidge Farm Milano DOUBLE DARK CHOCOLATE 2-cookie sachet from foreground tray, not the large 30-pack carton. Preserve actual wrapper, biscuit and dark chocolate art and 2 cookies badge. Whole single product centered on pure white background, ample margins and soft contact shadow. Faithfully preserve brand, variant, colors, proportions and visible packaging. Remove shelf, price stickers and other products. Do not invent small print or nutritional claims."
+  },
+  {
+    "sharedProductId": "bentons-mint-cookies",
+    "name": "Benton's Mint Chocolate Layered Cookies",
+    "sourceImage": "/catalog-sources/IMG_20261009_170609.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170609.jpg",
+    "newImage": "/products/generated/bentons-mint-cookies-20261016.webp",
+    "priceCUP": 5500,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Square commercial product photograph from reference. Target: ONE mint-green stand-up Benton’s MINT CHOCOLATE LAYERED COOKIES pouch on left, with beige round scalloped cookies and chocolate layer, NET WT 3.73 OZ (105g). Preserve actual original package design. Do not make a box or chocolate-coated cookie. Whole single product centered on pure white background, ample margins and soft contact shadow. Faithfully preserve brand, variant, colors, proportions and visible packaging. Remove shelf, price stickers and other products. Do not invent small print or nutritional claims."
+  },
+  {
+    "sharedProductId": "kitkat-minis",
+    "name": "KitKat Bunnies",
+    "sourceImage": "/catalog-sources/IMG_20261009_170543_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170543_1.jpg",
+    "newImage": "/products/generated/kitkat-minis-20261016.webp",
+    "priceCUP": 19500,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Square commercial product photograph from reference. Target: ONE large red and light green KitKat bunnies bag on left. Preserve bunny-shaped chocolate illustration and original package design, NET WT 39.53 OZ (1.12kg) as visible. Not KitKat minis or ordinary bars. Whole single product centered on pure white background, ample margins and soft contact shadow. Faithfully preserve brand, variant, colors, proportions and visible packaging. Remove shelf, price stickers and other products. Do not invent small print or nutritional claims."
+  },
+  {
+    "sharedProductId": "crepel-bar",
+    "name": "Crepes rellenas de chocolate Wafer Master",
+    "sourceImage": "/catalog-sources/IMG_20261009_170649.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170649.jpg",
+    "newImage": "/products/generated/crepel-bar-20261016.webp",
+    "priceCUP": 900,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Square commercial product photograph from reference. Target: ONE small rectangular golden-orange Wafer Master CREPE box from right of purple package. Preserve cursive Wafer Master brand, chocolate rolled crepe photo and wording CREPE. No invented weight. Do not write Crepel. Whole single product centered on pure white background, ample margins and soft contact shadow. Faithfully preserve brand, variant, colors, proportions and visible packaging. Remove shelf, price stickers and other products. Do not invent small print or nutritional claims."
+  },
+  {
+    "sharedProductId": "morgin-coconut",
+    "name": "Marsin Coconut Wheat & Rice",
+    "sourceImage": "/catalog-sources/IMG_20261009_170540.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170540.jpg",
+    "newImage": "/products/generated/morgin-coconut-20261016.webp",
+    "priceCUP": null,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Square commercial product photograph from reference. Target: ONE orange and sky-blue Marsin COCONUT WHEAT & RICE cereal box in center, with blue parrot, coconut and bowl of cereal art, 250g as visible. Preserve actual front design. Brand is Marsin, not Morgin. Whole single product centered on pure white background, ample margins and soft contact shadow. Faithfully preserve brand, variant, colors, proportions and visible packaging. Remove shelf, price stickers and other products. Do not invent small print or nutritional claims."
+  },
+  {
+    "sharedProductId": "te-hierbabuena",
+    "name": "Té Doblett Doble Menta",
+    "sourceImage": "/catalog-sources/IMG_20261009_170404.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170404.jpg",
+    "newImage": "/products/generated/te-hierbabuena-20261016.webp",
+    "priceCUP": 2000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Square white-background commercial catalog photograph from reference. Target: ONE upright turquoise and black Doblett TÉ DE DOBLE MENTA 16-bag carton on left, preserve actual turquoise/black/yellow blocks and leaf graphic. It reads DOBLE MENTA, not hierbabuena. Whole single closed carton centered, ample margins, soft shadow. Preserve original brand, variant, design and shape. Remove shelf, price tags and all other products. No invented claims or fine print."
+  },
+  {
+    "sharedProductId": "te-manzanilla-jengibre",
+    "name": "Té Doblett de jengibre con limón",
+    "sourceImage": "/catalog-sources/IMG_20261009_170406_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170406_1.jpg",
+    "newImage": "/products/generated/te-manzanilla-jengibre-20261016.webp",
+    "priceCUP": 900,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Square white-background commercial catalog photograph from reference. Target: ONE upright olive-brown and yellow Doblett TÉ DE JENGIBRE CON LIMÓN 16-bag carton at lower left. Preserve actual colors, black brand panel, large JENGIBRE lettering and yellow icon. Do not write manzanilla. Whole single closed carton centered, ample margins, soft shadow. Preserve original brand, variant, design and shape. Remove shelf, price tags and all other products. No invented claims or fine print."
+  },
+  {
+    "sharedProductId": "te-manzanilla-arandano",
+    "name": "Té Doblett sabor manzana, anís y arándano",
+    "sourceImage": "/catalog-sources/IMG_20261009_170406_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170406_1.jpg",
+    "newImage": "/products/generated/te-manzanilla-arandano-20261016.webp",
+    "priceCUP": 900,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Square white-background commercial catalog photograph from reference. Target: ONE upright yellow-orange Doblett TÉ SABOR MANZANA ANÍS ARÁNDANO 16-bag carton in center left. Preserve original yellow/red-orange blocks, brand wordmark, large MANZANA ANÍS ARÁNDANO lettering and fruit icon. Not chamomile/manzanilla. Whole single closed carton centered, ample margins, soft shadow. Preserve original brand, variant, design and shape. Remove shelf, price tags and all other products. No invented claims or fine print."
+  },
+  {
+    "sharedProductId": "oreo-snack",
+    "name": "Oreo Snack Packs",
+    "sourceImage": "/catalog-sources/IMG_20261009_170623.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170623.jpg",
+    "newImage": "/products/generated/oreo-snack-20261016.webp",
+    "priceCUP": 500,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: product-mockup from reference. Create faithful provisional catalog image of ONE individual small BLUE OREO 2-cookie packet, using the blue packet graphic printed on upper left of large 60-packet assortment carton in supplied photo as reference. This product is sold as ONE small sachet, absolutely not the large carton. Preserve blue wrapper, white OREO logo and white-cream sandwich cookie art, and 2 cookies text as depicted. Whole sealed small packet centered on pure white background with ample margins and soft contact shadow. No other packages, no price tags, no invented weight, no nutrition. Do not use yellow Golden or pink Double Stuf variant."
   }
 ]

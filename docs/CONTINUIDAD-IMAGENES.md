@@ -86,3 +86,17 @@ Lote 03 publicado y verificado: dc19f9b7f56243ccf98a664858c207e88844bf2d; dpl_6b
 ## Lote 04 — 14 de octubre de 2026
 
 Seis imágenes revisadas: Oreo Chocolate 252g, Oreo 12 paquetes, Oreo rollo transparente, KitKat caja 16 piezas, surtido Snickers MilkyWay M&M’s 14 piezas y M&M’s chocolate con leche bolsa. Resultado preparado: 546 individuales y 35 pendientes. Registro image-batch-2026-10-14-04.json. Datos comerciales conservados. Oreo Snack Packs permanece pendiente de elegir variante de sobre, sin confundir la caja de 60 paquetes con la unidad de 500 CUP.
+
+## Lote 01 — 16 de octubre de 2026 (UTC)
+
+Base main: 581 fichas, 546 imágenes individuales y 35 fotos de estante. La API pública devolvió 579 productos y 33 pendientes; supremos-packet y ricoss-280 ya estaban ocultos por configuración del propietario. No se modifica esa configuración.
+
+Se integran 13 reconstrucciones provisionales con la herramienta integrada: Extra, 5 Gum, Pica-Pau, Sunrise Coffee Whitener, Milano Double Dark, Benton’s Mint Chocolate Layered Cookies, KitKat Bunnies, Wafer Master Crepe, Marsin Coconut Wheat & Rice, Doblett Doble Menta, Doblett Jengibre con Limón, Doblett Manzana Anís Arándano y Oreo sobre individual. Referencias y prompts: image-batch-2026-10-16-01.json.
+
+Nueve nombres se corrigen con las etiquetas visibles, sin modificar IDs, precios, stock ni fuentes originales. En Extra, 5 Gum, Pica-Pau y Oreo se indica confirmar sabor/variante. El peso por bolsita no verificable en una reconstrucción de Doble Menta se retiró antes de integrar. El sobre Oreo se exportó conservando su proporción.
+
+Resultado preparado: 559 imágenes individuales y 22 fotos de estante en main; 20 pendientes visibles si las dos ocultaciones siguen vigentes. Los 104 precios pendientes de main permanecen sin inventar. La tienda no se considera cerrada.
+
+Quedan 20 correspondencias abiertas detalladas en revision-identidad-2026-10-16.json y en /revision-identidad.html, con foto y pregunta concreta. No convertir automáticamente nombres incompatibles ni asignarles el precio del producto vecino; comprobar duplicados antes. La fuente de raviolis muestra bolitas de queso; la de Baileys muestra Caramel Coconut Fudge; las supuestas latas Plumrose y Novo muestran Pijirigua y Naya.
+
+Validación y publicación: ver verification-2026-10-16-lote-01.json después de comprobar producción.

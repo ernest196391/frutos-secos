@@ -4,9 +4,9 @@
   "pricedProducts": 477,
   "pricesPending": 104,
   "individualImagesBefore": 365,
-  "newIndividualImages": 181,
-  "individualImagesNow": 546,
-  "remainingStorePhotos": 35,
+  "newIndividualImages": 194,
+  "individualImagesNow": 559,
+  "remainingStorePhotos": 22,
   "missingLocalAssets": 0,
   "invalidLocalImageFiles": 0,
   "nameCorrections": [
@@ -103,6 +103,69 @@
       "after": "Crema balsámica Varvello Condirè",
       "priceCUP": 3300,
       "evidence": "/catalog-sources/IMG_20261009_170306_1.jpg"
+    },
+    {
+      "key": "coffee-whitener",
+      "before": "Country Coffee Whitener",
+      "after": "Sunrise Coffee Whitener",
+      "priceCUP": 3000,
+      "evidence": "Foto 170336: marca SUNRISE COFFEE y etiqueta 3000 directamente bajo la bolsa."
+    },
+    {
+      "key": "milano-double",
+      "before": "Pepperidge Farm Milano Double Milk Chocolate",
+      "after": "Pepperidge Farm Milano Double Dark Chocolate",
+      "priceCUP": 650,
+      "evidence": "Original photo IMG_20261009_170618.jpg visually inspected; brand/variant corrected from visible label."
+    },
+    {
+      "key": "bentons-mint-cookies",
+      "before": "Benton's Mint Chocolate Covered Cookies",
+      "after": "Benton's Mint Chocolate Layered Cookies",
+      "priceCUP": 5500,
+      "evidence": "Original photo IMG_20261009_170609.jpg visually inspected; brand/variant corrected from visible label."
+    },
+    {
+      "key": "kitkat-minis",
+      "before": "KitKat Minis",
+      "after": "KitKat Bunnies",
+      "priceCUP": 19500,
+      "evidence": "Original photo IMG_20261009_170543_1.jpg visually inspected; brand/variant corrected from visible label."
+    },
+    {
+      "key": "crepel-bar",
+      "before": "Crepes rellenas de chocolate Crepel",
+      "after": "Crepes rellenas de chocolate Wafer Master",
+      "priceCUP": 900,
+      "evidence": "Original photo IMG_20261009_170649.jpg visually inspected; brand/variant corrected from visible label."
+    },
+    {
+      "key": "morgin-coconut",
+      "before": "Morgin Coconut Wheat & Rice",
+      "after": "Marsin Coconut Wheat & Rice",
+      "priceCUP": null,
+      "evidence": "Original photo IMG_20261009_170540.jpg visually inspected; brand/variant corrected from visible label."
+    },
+    {
+      "key": "te-hierbabuena",
+      "before": "Té Doblet de hierbabuena",
+      "after": "Té Doblett Doble Menta",
+      "priceCUP": 2000,
+      "evidence": "Original photo IMG_20261009_170404.jpg visually inspected; brand/variant corrected from visible label."
+    },
+    {
+      "key": "te-manzanilla-jengibre",
+      "before": "Té Doblet manzanilla con jengibre",
+      "after": "Té Doblett de jengibre con limón",
+      "priceCUP": 900,
+      "evidence": "Original photo IMG_20261009_170406_1.jpg visually inspected; brand/variant corrected from visible label."
+    },
+    {
+      "key": "te-manzanilla-arandano",
+      "before": "Té Doblet manzanilla con arándano",
+      "after": "Té Doblett sabor manzana, anís y arándano",
+      "priceCUP": 900,
+      "evidence": "Original photo IMG_20261009_170406_1.jpg visually inspected; brand/variant corrected from visible label."
     }
   ],
   "testsPassed": 24,

@@ -7,25 +7,13 @@ lime-juice,Jugo de lima botella verde,Botella,Alimentos,2200,10,,store-photo,Fal
 carmencita-molinillo-pimienta,Molinillo Carmencita Pimienta,Molinillo individual,Alimentos,3100,10,,store-photo,False,/catalog-sources/IMG_20261009_170254.jpg,/catalog-sources/IMG_20261009_170254.jpg,
 milideas-vinagre,Vinagre de vino Milideas,Botella plástica,Alimentos,1300,10,,store-photo,False,/catalog-sources/IMG_20261009_170303_1.jpg,/catalog-sources/IMG_20261009_170303_1.jpg,
 welchs-grape,Mermelada de uva Welch’s,Grape · Frasco,Alimentos,6000,10,,store-photo,False,/catalog-sources/IMG_20261009_170314.jpg,/catalog-sources/IMG_20261009_170314.jpg,
-coffee-whitener,Country Coffee Whitener,Bolsa,Alimentos,3000,10,,store-photo,False,/catalog-sources/IMG_20261009_170336.jpg,/catalog-sources/IMG_20261009_170336.jpg,
-te-hierbabuena,Té Doblet de hierbabuena,Caja individual,Alimentos,2000,10,,store-photo,False,/catalog-sources/IMG_20261009_170404.jpg,/catalog-sources/IMG_20261009_170404.jpg,
-te-manzanilla-jengibre,Té Doblet manzanilla con jengibre,Caja,Alimentos,900,10,,store-photo,False,/catalog-sources/IMG_20261009_170406_1.jpg,/catalog-sources/IMG_20261009_170406_1.jpg,
-te-manzanilla-arandano,Té Doblet manzanilla con arándano,Caja individual,Alimentos,900,10,,store-photo,False,/catalog-sources/IMG_20261009_170406_1.jpg,/catalog-sources/IMG_20261009_170406_1.jpg,
 vima-albondigas-lata,Albóndigas en salsa Vima,Lata,Conservas,1460,10,,store-photo,False,/catalog-sources/IMG_20261009_170410_1.jpg,/catalog-sources/IMG_20261009_170410_1.jpg,
 gourmet-double,Galletas Gourmet Double,Paquete pequeño,Alimentos,100,10,,store-photo,False,/catalog-sources/IMG_20261009_170428_1.jpg,/catalog-sources/IMG_20261009_170428_1.jpg,
 supremos-packet,Caramelos Supremos,Sobre individual; elegir sabor al confirmar disponibilidad,Alimentos,300,10,,store-photo,False,/catalog-sources/IMG_20261009_170440_1.jpg,/catalog-sources/IMG_20261009_170440_1.jpg,
-extra-gum,Chicle Extra,Paquete individual; elegir sabor al confirmar disponibilidad,Alimentos,3500,10,,store-photo,False,/catalog-sources/IMG_20261009_170501.jpg,/catalog-sources/IMG_20261009_170501.jpg,
-five-gum,Chicle5Gum,Caja negra,Alimentos,3500,10,,store-photo,False,/catalog-sources/IMG_20261009_170501.jpg,/catalog-sources/IMG_20261009_170501.jpg,
 bauducco-wafer-choco,Wafer Bauducco chocolate,Paquete,Alimentos,1500,10,,store-photo,False,/catalog-sources/IMG_20261009_170518.jpg,/catalog-sources/IMG_20261009_170518.jpg,
-kitkat-minis,KitKat Minis,Bolsa,Alimentos,19500,10,,store-photo,False,/catalog-sources/IMG_20261009_170543_1.jpg,/catalog-sources/IMG_20261009_170543_1.jpg,
 toblerone,Chocolate Toblerone,Caja triangular,Alimentos,4000,10,,store-photo,False,/catalog-sources/IMG_20261009_170554.jpg,/catalog-sources/IMG_20261009_170554.jpg,
 reeses-bar,Reese's barra,Caja naranja,Alimentos,3500,10,,store-photo,False,/catalog-sources/IMG_20261009_170556.jpg,/catalog-sources/IMG_20261009_170556.jpg,
-bentons-mint-cookies,Benton's Mint Chocolate Covered Cookies,Caja verde,Alimentos,5500,10,,store-photo,False,/catalog-sources/IMG_20261009_170609.jpg,/catalog-sources/IMG_20261009_170609.jpg,
-milano-double,Pepperidge Farm Milano Double Milk Chocolate,Sobre individual,Alimentos,650,10,,store-photo,False,/catalog-sources/IMG_20261009_170618.jpg,/catalog-sources/IMG_20261009_170618.jpg,
-oreo-snack,Oreo Snack Packs,Sobre individual,Alimentos,500,10,,store-photo,False,/catalog-sources/IMG_20261009_170623.jpg,/catalog-sources/IMG_20261009_170623.jpg,
 cadbury-bar,Chocolate Baileys Caramel,Tableta,Alimentos,2500,10,,store-photo,False,/catalog-sources/IMG_20261009_170645.jpg,/catalog-sources/IMG_20261009_170645.jpg,
-crepel-bar,Crepes rellenas de chocolate Crepel,Caja,Alimentos,900,10,,store-photo,False,/catalog-sources/IMG_20261009_170649.jpg,/catalog-sources/IMG_20261009_170649.jpg,
-todeschini-picapau,Galletas Todeschini Pica-Pau,Paquete individual,Alimentos,560,10,,store-photo,False,/catalog-sources/IMG_20261009_170653.jpg,/catalog-sources/IMG_20261009_170653.jpg,
 dor-coles,Coles de Bruselas congeladas d'Arta,Bolsa,Alimentos,3000,10,,store-photo,False,/catalog-sources/IMG_20261009_170834_1.jpg,/catalog-sources/IMG_20261009_170834_1.jpg,
 eltoro-mortadela,Mortadela de pollo El Toro,Pieza entera,Alimentos,,10,pending,store-photo,True,/catalog-sources/IMG_20261009_171616_1.jpg,/catalog-sources/IMG_20261009_171616_1.jpg,Precio y peso fueraencuadre
 thatsit-blueberry,That's It Mini Fruit Bars Blueberry,Bolsa,Alimentos,,10,pending,store-photo,True,/catalog-sources/IMG_20261009_165521.jpg,/catalog-sources/IMG_20261009_165521.jpg,Peso y precio propios pendientes
@@ -33,4 +21,3 @@ vanilla-bottle,Vainilla botella amarilla,Botella,Alimentos,,10,pending,store-pho
 plumrose-lata,Producto Plumrose en lata,Lata amarilla,Conservas,,10,pending,store-photo,True,/catalog-sources/IMG_20261009_170410_1.jpg,/catalog-sources/IMG_20261009_170410_1.jpg,"Identificar el alimento dentro de la lata amarilla, no solo su marca."
 novo-lata,Producto Novo en lata,Lata azul,Conservas,,10,pending,store-photo,True,/catalog-sources/IMG_20261009_170410_1.jpg,/catalog-sources/IMG_20261009_170410_1.jpg,"Identificar el alimento dentro de la lata azul, no solo su marca."
 ricoss-280,Golosinas Ricoss280g,Cajas de colores,Alimentos,,10,pending,store-photo,True,/catalog-sources/IMG_20261009_170440_1.jpg,/catalog-sources/IMG_20261009_170440_1.jpg,Separar sabores y confirmar precio propio
-morgin-coconut,Morgin Coconut Wheat & Rice,Caja250g,Alimentos,,10,pending,store-photo,True,/catalog-sources/IMG_20261009_170540.jpg,/catalog-sources/IMG_20261009_170540.jpg,Confirmar cifra y denominación exacta

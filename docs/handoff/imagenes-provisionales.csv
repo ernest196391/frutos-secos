@@ -203,6 +203,7 @@ coffee-mate-bolsa,Nestlé Coffee Mate bolsa,Bolsa roja,Alimentos,2200,10,,genera
 splenda-small,Splenda,Crema para café French Vanilla · Botella,Alimentos,4300,10,,generated,True,/products/generated/splenda-small-20261012.webp,/catalog-sources/IMG_20261009_170333.jpg,
 coffee-sebraz-250,Café Sebraz Extra Forte,Bolsa roja,Alimentos,2500,10,,generated,True,/products/generated/coffee-sebraz-250-20261012.webp,/catalog-sources/IMG_20261009_170341.jpg,
 coffee-mcdaniels,Café McDaniel’s Espresso,Bolsa individual,Alimentos,4900,10,,generated,True,/products/generated/coffee-mcdaniels-20261012.webp,/catalog-sources/IMG_20261009_170336.jpg,
+coffee-whitener,Sunrise Coffee Whitener,Bolsa,Alimentos,3000,10,,generated,True,/products/generated/coffee-whitener-20261016.webp,/catalog-sources/IMG_20261009_170336.jpg,
 nesquik-choco-tin,Nesquik Chocolate,Envase grande amarillo,Alimentos,18000,10,,generated,True,/products/generated/nesquik-choco-tin-20261012.webp,/catalog-sources/IMG_20261009_170346_1.jpg,
 nesquik-straw-tin,Nesquik Strawberry,Envase grande amarillo,Alimentos,16500,10,,generated,True,/products/generated/nesquik-straw-tin-20261012.webp,/catalog-sources/IMG_20261009_170346_1.jpg,
 colacao-original,ColaCao Original,Envase grande,Alimentos,10200,10,,generated,True,/products/generated/colacao-original-20261012.webp,/catalog-sources/IMG_20261009_170351.jpg,
@@ -213,11 +214,17 @@ chocolisto-straw,Choco Listo Strawberry,Bolsa naranja,Alimentos,3000,10,,generat
 cacao-black,Cacao amargo en polvo Macro Food,Bolsa de 250 g,Alimentos,3000,10,,generated,True,/products/generated/cacao-black-20261012.webp,/catalog-sources/IMG_20261009_170358.jpg,
 te-limon,Té Doblet de limón,Caja individual,Alimentos,2000,10,,generated,True,/products/generated/te-limon-20261012.webp,/catalog-sources/IMG_20261009_170404.jpg,
 te-manzanilla,Té Doblet de manzanilla,Caja individual,Alimentos,2000,10,,generated,True,/products/generated/te-manzanilla-20261012.webp,/catalog-sources/IMG_20261009_170404.jpg,
+te-hierbabuena,Té Doblett Doble Menta,Caja individual,Alimentos,2000,10,,generated,True,/products/generated/te-hierbabuena-20261016.webp,/catalog-sources/IMG_20261009_170404.jpg,
+te-manzanilla-jengibre,Té Doblett de jengibre con limón,Caja,Alimentos,900,10,,generated,True,/products/generated/te-manzanilla-jengibre-20261016.webp,/catalog-sources/IMG_20261009_170406_1.jpg,
+te-manzanilla-arandano,"Té Doblett sabor manzana, anís y arándano",Caja individual,Alimentos,900,10,,generated,True,/products/generated/te-manzanilla-arandano-20261016.webp,/catalog-sources/IMG_20261009_170406_1.jpg,
 peanut-cookies-18,Peanut Butter Sandwich Cookies18Pack,Caja18paquetes,Alimentos,2500,10,,generated,True,/products/generated/peanut-cookies-18-20261012.webp,/catalog-sources/IMG_20261009_170417.jpg,
 britannia-biscafe,Galletas Britannia Biscafé,Caja,Alimentos,2300,10,,generated,True,/products/generated/britannia-biscafe-20261012.webp,/catalog-sources/IMG_20261009_170421.jpg,
 trident-1350,Chicle Trident,Caja azul,Alimentos,1350,10,,generated,True,/products/generated/trident-1350-20261014.webp,/catalog-sources/IMG_20261009_170504.jpg,
+extra-gum,Chicle Extra,Paquete individual; imagen de Spearmint. Elegir sabor al confirmar disponibilidad.,Alimentos,3500,10,,generated,True,/products/generated/extra-gum-20261016.webp,/catalog-sources/IMG_20261009_170501.jpg,
+five-gum,Chicle5Gum,Paquete individual; imagen de Watermelon. Elegir sabor al confirmar disponibilidad.,Alimentos,3500,10,,generated,True,/products/generated/five-gum-20261016.webp,/catalog-sources/IMG_20261009_170501.jpg,
 berry-croco,Cereal Berry Croco Crunch,Caja,Alimentos,3400,10,,generated,True,/products/generated/berry-croco-20261012.webp,/catalog-sources/IMG_20261009_170540.jpg,
 quaker-fruitcream,Quaker Instant Oatmeal Fruit & Cream,Caja de 40 sobres,Alimentos,19000,10,,generated,True,/products/generated/quaker-fruitcream-20261012.webp,/catalog-sources/IMG_20261009_170540.jpg,
+kitkat-minis,KitKat Bunnies,Bolsa,Alimentos,19500,10,,generated,True,/products/generated/kitkat-minis-20261016.webp,/catalog-sources/IMG_20261009_170543_1.jpg,
 cocoa-pebbles-cup,Cocoa Pebbles vaso,Vaso individual,Alimentos,1800,10,,generated,True,/products/generated/cocoa-pebbles-cup-20261012.webp,/catalog-sources/IMG_20261009_170543_1.jpg,
 honeybunches-cup,Honey Bunches of Oats vaso,Vaso individual,Alimentos,1800,10,,generated,True,/products/generated/honeybunches-cup-20261012.webp,/catalog-sources/IMG_20261009_170543_1.jpg,
 frostedflakes-cup,Frosted Flakes vaso,Vaso individual,Alimentos,1800,10,,generated,True,/products/generated/frostedflakes-cup-20261012.webp,/catalog-sources/IMG_20261009_170543_1.jpg,
@@ -232,8 +239,11 @@ hersheys-nuggets,Hershey's Nuggets,Bolsa,Alimentos,9500,10,,generated,True,/prod
 reeses-pieces,Reese's Pieces,Bolsa naranja,Alimentos,8500,10,,generated,True,/products/generated/reeses-pieces-20261012.webp,/catalog-sources/IMG_20261009_170556.jpg,
 mms-honey-bag,M&M's Honey Roasted Peanut,Bolsa,Alimentos,9500,10,,generated,True,/products/generated/mms-honey-bag-20261012.webp,/catalog-sources/IMG_20261009_170600.jpg,
 mms-peanut-jar,M&M's Peanut frasco,Frasco con tapa amarilla,Alimentos,29000,10,,generated,True,/products/generated/mms-peanut-jar-20261012.webp,/catalog-sources/IMG_20261009_170603.jpg,
+bentons-mint-cookies,Benton's Mint Chocolate Layered Cookies,Bolsa,Alimentos,5500,10,,generated,True,/products/generated/bentons-mint-cookies-20261016.webp,/catalog-sources/IMG_20261009_170609.jpg,
 bentons-coconut,Benton's Cookie Thins Toasted Coconut,Bolsa,Alimentos,4200,10,,generated,True,/products/generated/bentons-coconut-20261014.webp,/catalog-sources/IMG_20261009_170614.jpg,
 members-cookie-thins,Member's Mark Chocolate Chip Cookie Thins,Bolsa,Alimentos,6000,10,,generated,True,/products/generated/members-cookie-thins-20261012.webp,/catalog-sources/IMG_20261009_170614.jpg,
+milano-double,Pepperidge Farm Milano Double Dark Chocolate,Sobre individual,Alimentos,650,10,,generated,True,/products/generated/milano-double-20261016.webp,/catalog-sources/IMG_20261009_170618.jpg,
+oreo-snack,Oreo Snack Packs,Sobre individual; imagen de Oreo Original. Elegir variante al confirmar disponibilidad.,Alimentos,500,10,,generated,True,/products/generated/oreo-snack-20261016.webp,/catalog-sources/IMG_20261009_170623.jpg,
 oreo-choco-box,Oreo Chocolate caja naranja,Caja252g,Alimentos,5200,10,,generated,True,/products/generated/oreo-choco-box-20261014.webp,/catalog-sources/IMG_20261009_170623.jpg,
 oreo-chocofill-box,Oreo caja azul12paquetes,Caja,Alimentos,9500,10,,generated,True,/products/generated/oreo-chocofill-box-20261014.webp,/catalog-sources/IMG_20261009_170623.jpg,
 oreo-roll,Oreo en envoltorio transparente,Rollo de galletas,Alimentos,2500,10,,generated,True,/products/generated/oreo-roll-20261014.webp,/catalog-sources/IMG_20261009_170626.jpg,
@@ -250,6 +260,8 @@ fresko-cappuccino,Caramelos Fresko Cappuccino,Bolsa,Alimentos,4000,10,,generated
 fresko-coffee,Caramelos Fresko Coffee,Bolsa,Alimentos,4000,10,,generated,True,/products/generated/fresko-coffee-20261012.webp,/catalog-sources/IMG_20261009_170642.jpg,
 kitkat-16,KitKat caja16paquetes,Caja,Alimentos,40000,10,,generated,True,/products/generated/kitkat-16-20261014.webp,/catalog-sources/IMG_20261009_170645.jpg,
 choco-variety14,"Surtido de chocolates Snickers, Milky Way y M&M’s",Caja de 14 piezas,Alimentos,35000,10,,generated,True,/products/generated/choco-variety14-20261014.webp,/catalog-sources/IMG_20261009_170645.jpg,
+crepel-bar,Crepes rellenas de chocolate Wafer Master,Caja,Alimentos,900,10,,generated,True,/products/generated/crepel-bar-20261016.webp,/catalog-sources/IMG_20261009_170649.jpg,
+todeschini-picapau,Galletas Todeschini Pica-Pau,Paquete individual; imagen de chocolate. Elegir sabor al confirmar disponibilidad.,Alimentos,560,10,,generated,True,/products/generated/todeschini-picapau-20261016.webp,/catalog-sources/IMG_20261009_170653.jpg,
 vima-ensaladilla,Ensaladilla congelada Vima,Bolsa1kg,Alimentos,3200,10,,generated,True,/products/generated/vima-ensaladilla-20261014.webp,/catalog-sources/IMG_20261009_170704_1.jpg,
 vima-maiz-frozen,Maíz dulce congelado Vima,Bolsa1kg,Alimentos,3200,10,,generated,True,/products/generated/vima-maiz-frozen-20261014.webp,/catalog-sources/IMG_20261009_170831.jpg,
 cvale-nuggets,Nuggets de pollo C.Vale,Bolsa1kg,Cárnicos,5000,10,,generated,True,/products/generated/cvale-nuggets-20261014.webp,/catalog-sources/IMG_20261009_170848.jpg,
@@ -363,7 +375,7 @@ trasto-rollos,Galletas Trasto Roll,Tubos,Alimentos,,10,pending,generated,True,/p
 candy-green-bottle,Golosina botella verde,Unidad,Alimentos,,10,pending,generated,True,/products/generated/candy-green-bottle.webp,/catalog-sources/IMG_20261009_170417.jpg,Marca denominación y precio propios pendientes
 ricoss-280,Golosinas Ricoss280g,Cajas de colores,Alimentos,,10,pending,store-photo,True,/catalog-sources/IMG_20261009_170440_1.jpg,/catalog-sources/IMG_20261009_170440_1.jpg,Separar sabores y confirmar precio propio
 fruit-straw-45,Golosina sabor fresa45g,Bolsa roja,Alimentos,,10,pending,generated,True,/products/generated/fruit-straw-45.webp,/catalog-sources/IMG_20261009_170447_1.jpg,Marca y unidad de venta pendientes; puedeprecio por tira
-morgin-coconut,Morgin Coconut Wheat & Rice,Caja250g,Alimentos,,10,pending,store-photo,True,/catalog-sources/IMG_20261009_170540.jpg,/catalog-sources/IMG_20261009_170540.jpg,Confirmar cifra y denominación exacta
+morgin-coconut,Marsin Coconut Wheat & Rice,Caja250g,Alimentos,,10,pending,generated,True,/products/generated/morgin-coconut-20261016.webp,/catalog-sources/IMG_20261009_170540.jpg,Confirmar cifra y denominación exacta
 mms-caramel-bag,M&M's Caramel Cold Brew,Bolsa,Alimentos,,10,pending,generated,True,/products/generated/mms-caramel-bag.webp,/catalog-sources/IMG_20261009_170600.jpg,Confirmar precio propio y peso
 mms-milk-jar,M&M's Milk Chocolate frasco,Frasco con tapa marrón,Alimentos,,10,pending,generated,True,/products/generated/mms-milk-jar.webp,/catalog-sources/IMG_20261009_170603.jpg,Precio del grupo; peso pendiente
 simply-coconut-clusters,Simply Nature Organic Coconut Clusters,Bolsa,Alimentos,,10,pending,generated,True,/products/generated/simply-coconut-clusters.webp,/catalog-sources/IMG_20261009_170645.jpg,Peso y precio propios pendientes
