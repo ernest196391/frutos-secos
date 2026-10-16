@@ -1,0 +1,81 @@
+{
+  "verifiedAt": "2026-10-16T04:17:55.130189+00:00",
+  "production": "https://frutos-secos-drab.vercel.app",
+  "commit": "9e2cd66c5d83656f684aadbe7917519dc6fb80b6",
+  "deployment": "dpl_7UF31W7ihehD3NYuwXwM2cqCyGQw",
+  "status": "READY",
+  "testsPassed": 24,
+  "build": "passed",
+  "visibleProducts": 579,
+  "updatedImages": 13,
+  "pricesPending": 103,
+  "identityReviewCards": 20,
+  "assets": [
+    {
+      "key": "extra-gum",
+      "bytes": 86042,
+      "sha256": "9f6def32de80de673b460b7aabba0c95c1ed030fab5e770379dcacd3a27a479a"
+    },
+    {
+      "key": "five-gum",
+      "bytes": 75042,
+      "sha256": "d57e8fd5005ccdbce4bfbdddf28625ba2b02580b3731bff39c7599b6629c0000"
+    },
+    {
+      "key": "todeschini-picapau",
+      "bytes": 74748,
+      "sha256": "0af7d937b9543ab8ff4cab4e7d60af5aa77dc2f958b350ed02bc08d868fa8fde"
+    },
+    {
+      "key": "coffee-whitener",
+      "bytes": 78398,
+      "sha256": "242add7ec271cba00f56769a43290a6389fa1e84d8ea3fe2216e5a2e3cc1bf81"
+    },
+    {
+      "key": "milano-double",
+      "bytes": 91700,
+      "sha256": "74f4edfeaea586ba474b13c9aedab9b156304c42bc14eeec66af959b6655b13c"
+    },
+    {
+      "key": "bentons-mint-cookies",
+      "bytes": 90418,
+      "sha256": "0e8e0007cb54b431cb7bb82269fc24176932a441ce6e302a9315c25d0ea3b196"
+    },
+    {
+      "key": "kitkat-minis",
+      "bytes": 151590,
+      "sha256": "53caac00dc0ef20193554e81d2ae60be4b0cf70e94600ac5768ad71935de6557"
+    },
+    {
+      "key": "crepel-bar",
+      "bytes": 102156,
+      "sha256": "4f027d80a4582b97c0cb92a28f703b1f4502ebbe4583701d86d55b11262b252c"
+    },
+    {
+      "key": "morgin-coconut",
+      "bytes": 165884,
+      "sha256": "c36850e83c3346b01aa2acc103f2ba2533c7631fed469ea46f3b0314dee863c3"
+    },
+    {
+      "key": "te-hierbabuena",
+      "bytes": 59914,
+      "sha256": "0f2f52fe4ce7da041f84c14d4b3955f1be94c4ba0ac1558856b82b9be5de80c5"
+    },
+    {
+      "key": "te-manzanilla-jengibre",
+      "bytes": 97228,
+      "sha256": "ac4d70c541de3152a63db450cada79779794ad1dac4755d72168dfc2604c1233"
+    },
+    {
+      "key": "te-manzanilla-arandano",
+      "bytes": 74332,
+      "sha256": "eb987ef882d8e581e0e4db501d7a89dadb65bc04fc1f5cac7fdc96acc9df4bd8"
+    },
+    {
+      "key": "oreo-snack",
+      "bytes": 70234,
+      "sha256": "1caa894360bd1c88fc9c2b72e8081aab014c307d98d4a4e7385aaa9f7a4a40eb"
+    }
+  ],
+  "deploymentRepair": "Regenerated zero-byte morgin-coconut WebP from reviewed PNG; tests and build rerun successfully."
+}
