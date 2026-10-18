@@ -1998,5 +1998,35 @@
     "priceCUP": 2500,
     "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
     "prompt": "Use case: product-mockup. Reference image: original store photograph. Create faithful provisional individual product catalog photography on pure white background with subtle shadow. Isolate ONE purple caramel coconut fudge rectangular pillow package on right, not the Kitkat or mixed box. Preserve purple wrapper, white CARAMEL COCONUT FUDGE lettering, fudge confection cross section illustration. Visible NET WT 4 OZ (113 g). Do not add Cadbury or Baileys brand. Simple clean wrapped packet. Product centered with ample margin, square image. No shelf, price tags, hands, other products or watermark. Preserve original packaging design and colors; avoid inventing unseen factual claims."
+  },
+  {
+    "sharedProductId": "toblerone",
+    "name": "Chocolate Toblerone",
+    "sourceImage": "/catalog-sources/IMG_20261009_170554.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170554.jpg",
+    "newImage": "/products/generated/toblerone-20261018.webp",
+    "priceCUP": 4000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit original store photo into faithful individual square ecommerce packshot. Target: ONE yellow triangular Toblerone milk chocolate with honey and almond nougat carton, as visible foreground bottom right. Isolate single horizontal carton. Do not display weight or nutrition values because selling size remains unconfirmed. Preserve yellow red logo and mountain, no added chocolate outside packaging. Full product centered on pure white background with soft contact shadow, generous margins. Preserve actual package proportions, colors and visible artwork. Remove store, adjacent products, price tags, hands and reflections. Do not invent obscured text. Provisional reference-based reconstruction."
+  },
+  {
+    "sharedProductId": "dor-coles",
+    "name": "Coles de Bruselas congeladas",
+    "sourceImage": "/catalog-sources/IMG_20261009_170834_1.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170834_1.jpg",
+    "newImage": "/products/generated/dor-coles-20261018.webp",
+    "priceCUP": 3000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit original store photo into faithful individual square ecommerce packshot. Target: The bag of Brussels sprouts beneath the corn bag. Reconstruct only the visible white bag design, printed green Brussels sprouts on left and multilingual product names on right. Do not add any brand logo or net weight: neither verified on the visible bag. Remove corn bag and handwritten stickers. No additional claims. Full product centered on pure white background with soft contact shadow, generous margins. Preserve actual package proportions, colors and visible artwork. Remove store, adjacent products, price tags, hands and reflections. Do not invent obscured text. Provisional reference-based reconstruction."
+  },
+  {
+    "sharedProductId": "carmencita-pimientas",
+    "name": "Molinillo Carmencita Sal rosa y 3 pimientas",
+    "sourceImage": "/catalog-sources/IMG_20261009_170237.jpg",
+    "previousImage": "/catalog-sources/IMG_20261009_170237.jpg",
+    "newImage": "/products/generated/carmencita-pimientas-20261018.webp",
+    "priceCUP": 11000,
+    "review": "Brand and variant visually reviewed; provisional reconstruction; original retained.",
+    "prompt": "Use case: background-extraction. Edit original store photo into faithful individual square ecommerce packshot. Target: ONE tall Carmencita grinder in center labeled Sal rosa & 3 pimientas / Himalaya pink salt 3 peppercorns, transparent cylinder containing pink salt and peppercorns, tall black cap. Precisely preserve this variant, not black pepper alone, not truffle salt. No invented net weight. Full product centered on pure white background with soft contact shadow, generous margins. Preserve actual package proportions, colors and visible artwork. Remove store, adjacent products, price tags, hands and reflections. Do not invent obscured text. Provisional reference-based reconstruction."
   }
 ]

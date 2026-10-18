@@ -1,0 +1,27 @@
+[
+  {
+    "key": "toblerone",
+    "path": "/workspace/scratch/4d88aea4a1d5/generated_images/exec-6ba00507-cdda-4276-b0cf-71689a022878.png",
+    "batch": "2026-10-18-lote-01",
+    "assetDate": "20261018",
+    "prompt": "Use case: background-extraction. Edit original store photo into faithful individual square ecommerce packshot. Target: ONE yellow triangular Toblerone milk chocolate with honey and almond nougat carton, as visible foreground bottom right. Isolate single horizontal carton. Do not display weight or nutrition values because selling size remains unconfirmed. Preserve yellow red logo and mountain, no added chocolate outside packaging. Full product centered on pure white background with soft contact shadow, generous margins. Preserve actual package proportions, colors and visible artwork. Remove store, adjacent products, price tags, hands and reflections. Do not invent obscured text. Provisional reference-based reconstruction.",
+    "description": "Caja triangular · Tamaño por confirmar"
+  },
+  {
+    "key": "dor-coles",
+    "path": "/workspace/scratch/4d88aea4a1d5/generated_images/exec-79b6af80-cf1c-44dd-bee6-7517d9b6109e.png",
+    "batch": "2026-10-18-lote-01",
+    "assetDate": "20261018",
+    "prompt": "Use case: background-extraction. Edit original store photo into faithful individual square ecommerce packshot. Target: The bag of Brussels sprouts beneath the corn bag. Reconstruct only the visible white bag design, printed green Brussels sprouts on left and multilingual product names on right. Do not add any brand logo or net weight: neither verified on the visible bag. Remove corn bag and handwritten stickers. No additional claims. Full product centered on pure white background with soft contact shadow, generous margins. Preserve actual package proportions, colors and visible artwork. Remove store, adjacent products, price tags, hands and reflections. Do not invent obscured text. Provisional reference-based reconstruction.",
+    "name": "Coles de Bruselas congeladas",
+    "description": "Bolsa · Marca por confirmar"
+  },
+  {
+    "key": "carmencita-pimientas",
+    "path": "/workspace/scratch/4d88aea4a1d5/generated_images/exec-f67979b2-ac64-4f0e-9733-a483882f47bc.png",
+    "batch": "2026-10-18-lote-01",
+    "assetDate": "20261018",
+    "prompt": "Use case: background-extraction. Edit original store photo into faithful individual square ecommerce packshot. Target: ONE tall Carmencita grinder in center labeled Sal rosa & 3 pimientas / Himalaya pink salt 3 peppercorns, transparent cylinder containing pink salt and peppercorns, tall black cap. Precisely preserve this variant, not black pepper alone, not truffle salt. No invented net weight. Full product centered on pure white background with soft contact shadow, generous margins. Preserve actual package proportions, colors and visible artwork. Remove store, adjacent products, price tags, hands and reflections. Do not invent obscured text. Provisional reference-based reconstruction.",
+    "name": "Molinillo Carmencita Sal rosa y 3 pimientas"
+  }
+]

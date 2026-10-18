@@ -1,0 +1,79 @@
+[
+  {
+    "key": "raviolis",
+    "name": "Raviolis congelados",
+    "sourceImage": "/catalog-sources/IMG_20261009_171218_1.jpg",
+    "issue": "La bandeja visible dice Bolitas de Queso. Falta foto de raviolis.",
+    "number": 1
+  },
+  {
+    "key": "purely-vanilla-granola",
+    "name": "Granola Purely Elizabeth Vanilla Almond",
+    "sourceImage": "/catalog-sources/IMG_20261009_165536.jpg",
+    "issue": "Nombre mezcla Purely Elizabeth y Vanilla Almond de Trader Joe’s; precios visibles distintos.",
+    "number": 2
+  },
+  {
+    "key": "kens-ranch",
+    "name": "Ken's Ranch Dressing",
+    "sourceImage": "/catalog-sources/IMG_20261009_170250.jpg",
+    "issue": "Ken’s no aparece en la referencia.",
+    "number": 4
+  },
+  {
+    "key": "lime-juice",
+    "name": "Jugo de lima botella verde",
+    "sourceImage": "/catalog-sources/IMG_20261009_170250.jpg",
+    "issue": "No se identifica jugo de lima; aparecen vainilla, edulcorante y condimentos.",
+    "number": 5
+  },
+  {
+    "key": "carmencita-molinillo-pimienta",
+    "name": "Molinillo Carmencita Pimienta",
+    "sourceImage": "/catalog-sources/IMG_20261009_170254.jpg",
+    "issue": "La foto muestra marisco, barbacoa, picante y pollo; falta pimienta.",
+    "number": 6
+  },
+  {
+    "key": "milideas-vinagre",
+    "name": "Vinagre de vino Milideas",
+    "sourceImage": "/catalog-sources/IMG_20261009_170303_1.jpg",
+    "issue": "Foto muestra Aldaketa, Gourmet, Vima y Varvello; no Milideas.",
+    "number": 7
+  },
+  {
+    "key": "welchs-grape",
+    "name": "Mermelada de uva Welch’s",
+    "sourceImage": "/catalog-sources/IMG_20261009_170314.jpg",
+    "issue": "Frasco frontal es Pampa; Welch’s está parcialmente oculto.",
+    "number": 8
+  },
+  {
+    "key": "bauducco-wafer-choco",
+    "name": "Wafer Bauducco chocolate",
+    "sourceImage": "/catalog-sources/IMG_20261009_170518.jpg",
+    "issue": "Foto muestra fresa y peanut butter; chocolate no identificado.",
+    "number": 11
+  },
+  {
+    "key": "reeses-bar",
+    "name": "Reese's barra",
+    "sourceImage": "/catalog-sources/IMG_20261009_170556.jpg",
+    "issue": "Caja naranja tapada por precio; confirmar tipo de dulce antes de representarlo.",
+    "number": 13
+  },
+  {
+    "key": "thatsit-blueberry",
+    "name": "That's It Mini Fruit Bars Blueberry",
+    "sourceImage": "/catalog-sources/IMG_20261009_165521.jpg",
+    "issue": "Foto muestra Crunchables surtidos, no Mini Fruit Bars Blueberry; posible duplicado.",
+    "number": 17
+  },
+  {
+    "key": "vanilla-bottle",
+    "name": "Vainilla botella amarilla",
+    "sourceImage": "/catalog-sources/IMG_20261009_170314.jpg",
+    "issue": "Hay más de un topping de vainilla y una botella amarilla de maple; confirmar cuál es la ficha.",
+    "number": 18
+  }
+]

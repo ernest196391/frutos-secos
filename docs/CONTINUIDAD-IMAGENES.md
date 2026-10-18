@@ -110,3 +110,10 @@ Precios leídos directamente bajo las latas en IMG_20261009_170410_1.jpg: Vima 1
 Resultado base: 581 fichas, 565 imágenes individuales, 16 fotos de estante y 102 precios pendientes. Con las dos ocultaciones del propietario: 579 visibles, 14 fotos de estante y 101 precios pendientes. revision-identidad.html conserva la numeración original de los 14 casos restantes. El exportador ahora decodifica antes de escribir y reemplaza de forma atómica, evitando truncar una imagen cuando entrada y salida son la misma ruta.
 
 Comprobación de producción: se registrará en verification-2026-10-16-lote-02.json tras el despliegue.
+
+
+## 18 de octubre de 2026 — lote 01, cierre de referencias disponibles
+
+Se revisaron los 14 pendientes visibles reales; la cifra histórica de 61 ya no corresponde al catálogo actual. Se aplicaron 3 imágenes provisionales revisadas: Toblerone (sin peso, tamaño pendiente), coles de Bruselas (sin marca no comprobada) y Carmencita Sal rosa y 3 pimientas (variante central visible sobre precio 11000). Se preservaron todos los precios e imágenes fuente. No se completó un lote de diez: los otros 11 casos tienen referencias ausentes, tapadas o incompatibles y requieren aclaración. Detalles en revision-identidad-2026-10-18.json y /revision-identidad.html.
+
+Resultado esperado: 568 imágenes individuales; 13 fotos de tienda en repositorio, de ellas 11 visibles y 2 ocultas por el propietario. Se mantienen ocultos supremos-packet y ricoss-280. Próximo paso: aclarar los 11 casos y revisar precios con el propietario.

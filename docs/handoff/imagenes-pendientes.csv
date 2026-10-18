@@ -1,7 +1,6 @@
 ﻿sharedProductId,n,d,c,p,stock,priceStatus,imageKind,provisional,img,sourceImage,reason
 raviolis,Raviolis congelados,Bandeja,Alimentos,4080,10,,store-photo,False,/catalog-sources/IMG_20261009_171218_1.jpg,/catalog-sources/IMG_20261009_171218_1.jpg,
 purely-vanilla-granola,Granola Purely Elizabeth Vanilla Almond,Bolsa individual,Alimentos,6500,10,,store-photo,False,/catalog-sources/IMG_20261009_165536.jpg,/catalog-sources/IMG_20261009_165536.jpg,
-carmencita-pimientas,Mezcla de pimientas en molinillo,Molinillo grande,Alimentos,11000,10,,store-photo,False,/catalog-sources/IMG_20261009_170237.jpg,/catalog-sources/IMG_20261009_170237.jpg,
 kens-ranch,Ken's Ranch Dressing,Botella,Alimentos,5500,10,,store-photo,False,/catalog-sources/IMG_20261009_170250.jpg,/catalog-sources/IMG_20261009_170250.jpg,
 lime-juice,Jugo de lima botella verde,Botella,Alimentos,2200,10,,store-photo,False,/catalog-sources/IMG_20261009_170250.jpg,/catalog-sources/IMG_20261009_170250.jpg,
 carmencita-molinillo-pimienta,Molinillo Carmencita Pimienta,Molinillo individual,Alimentos,3100,10,,store-photo,False,/catalog-sources/IMG_20261009_170254.jpg,/catalog-sources/IMG_20261009_170254.jpg,
@@ -9,9 +8,7 @@ milideas-vinagre,Vinagre de vino Milideas,Botella plástica,Alimentos,1300,10,,s
 welchs-grape,Mermelada de uva Welch’s,Grape · Frasco,Alimentos,6000,10,,store-photo,False,/catalog-sources/IMG_20261009_170314.jpg,/catalog-sources/IMG_20261009_170314.jpg,
 supremos-packet,Caramelos Supremos,Sobre individual; elegir sabor al confirmar disponibilidad,Alimentos,300,10,,store-photo,False,/catalog-sources/IMG_20261009_170440_1.jpg,/catalog-sources/IMG_20261009_170440_1.jpg,
 bauducco-wafer-choco,Wafer Bauducco chocolate,Paquete,Alimentos,1500,10,,store-photo,False,/catalog-sources/IMG_20261009_170518.jpg,/catalog-sources/IMG_20261009_170518.jpg,
-toblerone,Chocolate Toblerone,Caja triangular,Alimentos,4000,10,,store-photo,False,/catalog-sources/IMG_20261009_170554.jpg,/catalog-sources/IMG_20261009_170554.jpg,
 reeses-bar,Reese's barra,Caja naranja,Alimentos,3500,10,,store-photo,False,/catalog-sources/IMG_20261009_170556.jpg,/catalog-sources/IMG_20261009_170556.jpg,
-dor-coles,Coles de Bruselas congeladas d'Arta,Bolsa,Alimentos,3000,10,,store-photo,False,/catalog-sources/IMG_20261009_170834_1.jpg,/catalog-sources/IMG_20261009_170834_1.jpg,
 thatsit-blueberry,That's It Mini Fruit Bars Blueberry,Bolsa,Alimentos,,10,pending,store-photo,True,/catalog-sources/IMG_20261009_165521.jpg,/catalog-sources/IMG_20261009_165521.jpg,Peso y precio propios pendientes
 vanilla-bottle,Vainilla botella amarilla,Botella,Alimentos,,10,pending,store-photo,True,/catalog-sources/IMG_20261009_170314.jpg,/catalog-sources/IMG_20261009_170314.jpg,Marca presentación y precio propios pendientes
 ricoss-280,Golosinas Ricoss280g,Cajas de colores,Alimentos,,10,pending,store-photo,True,/catalog-sources/IMG_20261009_170440_1.jpg,/catalog-sources/IMG_20261009_170440_1.jpg,Separar sabores y confirmar precio propio

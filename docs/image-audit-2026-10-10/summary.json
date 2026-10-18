@@ -4,9 +4,9 @@
   "pricedProducts": 477,
   "pricesPending": 104,
   "individualImagesBefore": 365,
-  "newIndividualImages": 200,
-  "individualImagesNow": 565,
-  "remainingStorePhotos": 16,
+  "newIndividualImages": 203,
+  "individualImagesNow": 568,
+  "remainingStorePhotos": 13,
   "missingLocalAssets": 0,
   "invalidLocalImageFiles": 0,
   "nameCorrections": [
@@ -208,6 +208,20 @@
       "after": "Dulce Caramel Coconut Fudge",
       "priceCUP": 2500,
       "evidence": "Etiqueta legible en IMG_20261009_170645.jpg; sin otra ficha coincidente en el catálogo."
+    },
+    {
+      "key": "dor-coles",
+      "before": "Coles de Bruselas congeladas d'Arta",
+      "after": "Coles de Bruselas congeladas",
+      "priceCUP": 3000,
+      "evidence": "/catalog-sources/IMG_20261009_170834_1.jpg"
+    },
+    {
+      "key": "carmencita-pimientas",
+      "before": "Mezcla de pimientas en molinillo",
+      "after": "Molinillo Carmencita Sal rosa y 3 pimientas",
+      "priceCUP": 11000,
+      "evidence": "/catalog-sources/IMG_20261009_170237.jpg"
     }
   ],
   "testsPassed": 24,
