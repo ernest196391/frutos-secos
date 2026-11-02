@@ -121,3 +121,7 @@ Resultado esperado: 568 imágenes individuales; 13 fotos de tienda en repositori
 
 ## 2 de noviembre de 2026 — raviolis
 El propietario confirma que vende raviolis (opción B) y autoriza crear y subir una imagen genérica sin marca. Se genera una ilustración de catálogo sobre fondo blanco; no confirma marca, relleno ni peso. Ficha 10113 conserva precio 4080 CUP, stock e identidad. La presentación indica Imagen ilustrativa. La foto histórica de bolitas de queso se conserva como evidencia; no representa los raviolis. Restan 10 casos de identidad visibles.
+
+
+## 2 de noviembre de 2026 — granola
+El propietario elige A: bolsa azul Trader Joe’s Vanilla Almond. Se corrigen marca y presentación a Just the Clusters, 454 g, conservando ID 10186 y clave histórica. Imagen provisional generada a partir de IMG_20261009_165536.jpg. Se conserva la foto original. Precio 6500 CUP anterior pasa a pendiente: etiqueta bajo la bolsa indica 8000 CUP, pendiente de confirmar precio vigente. Restan 9 identidades visibles.
