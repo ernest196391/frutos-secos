@@ -125,3 +125,5 @@ El propietario confirma que vende raviolis (opción B) y autoriza crear y subir 
 
 ## 2 de noviembre de 2026 — granola
 El propietario elige A: bolsa azul Trader Joe’s Vanilla Almond. Se corrigen marca y presentación a Just the Clusters, 454 g, conservando ID 10186 y clave histórica. Imagen provisional generada a partir de IMG_20261009_165536.jpg. Se conserva la foto original. Precio 6500 CUP anterior pasa a pendiente: etiqueta bajo la bolsa indica 8000 CUP, pendiente de confirmar precio vigente. Restan 9 identidades visibles.
+
+Precio de la granola Trader Joe’s Vanilla Almond confirmado por el propietario: 8000 CUP. Se habilita la compra al cerrar la confirmación de precio.
