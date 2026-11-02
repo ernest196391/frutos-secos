@@ -256,7 +256,7 @@ export default function Home(){
       <section className="detail" onClick={e=>e.stopPropagation()}>
         <button className="close" onClick={()=>setDetail(null)}>×</button>
         <img src={detail.img} alt={detail.n}/>
-        <div><small>{detail.c}</small><h2>{detail.n}</h2><p>{detail.d}</p>{detail.imageKind==="store-photo"&&<p>La foto muestra el producto en la tienda. El nombre y la presentación de esta ficha identifican la unidad que compras.</p>}<a href={detail.sourceImage} target="_blank" rel="noreferrer">{detail.sharedProductId?.startsWith("custom-")?"Ver imagen original":"Ver foto y etiqueta de precio"}</a><strong>{money(detail.p)}</strong><button disabled={detail.stock===0} onClick={()=>{add(detail.id);setDetail(null)}}>{detail.stock===0?"Agotado":detail.p==null?"Consultar precio":"Añadir al carrito"}</button></div>
+        <div><small>{detail.c}</small><h2>{detail.n}</h2><p>{detail.d}</p>{detail.imageKind==="store-photo"&&<p>La foto muestra el producto en la tienda. El nombre y la presentación de esta ficha identifican la unidad que compras.</p>}<a href={detail.sourceImage} target="_blank" rel="noreferrer">{detail.imageReviewStatus==="owner-approved-generic-illustration"?"Ver imagen ilustrativa":detail.sharedProductId?.startsWith("custom-")?"Ver imagen original":"Ver foto y etiqueta de precio"}</a><strong>{money(detail.p)}</strong><button disabled={detail.stock===0} onClick={()=>{add(detail.id);setDetail(null)}}>{detail.stock===0?"Agotado":detail.p==null?"Consultar precio":"Añadir al carrito"}</button></div>
       </section>
     </div>}
 

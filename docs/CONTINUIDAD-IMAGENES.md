@@ -117,3 +117,7 @@ Comprobación de producción: se registrará en verification-2026-10-16-lote-02.
 Se revisaron los 14 pendientes visibles reales; la cifra histórica de 61 ya no corresponde al catálogo actual. Se aplicaron 3 imágenes provisionales revisadas: Toblerone (sin peso, tamaño pendiente), coles de Bruselas (sin marca no comprobada) y Carmencita Sal rosa y 3 pimientas (variante central visible sobre precio 11000). Se preservaron todos los precios e imágenes fuente. No se completó un lote de diez: los otros 11 casos tienen referencias ausentes, tapadas o incompatibles y requieren aclaración. Detalles en revision-identidad-2026-10-18.json y /revision-identidad.html.
 
 Resultado esperado: 568 imágenes individuales; 13 fotos de tienda en repositorio, de ellas 11 visibles y 2 ocultas por el propietario. Se mantienen ocultos supremos-packet y ricoss-280. Próximo paso: aclarar los 11 casos y revisar precios con el propietario.
+
+
+## 2 de noviembre de 2026 — raviolis
+El propietario confirma que vende raviolis (opción B) y autoriza crear y subir una imagen genérica sin marca. Se genera una ilustración de catálogo sobre fondo blanco; no confirma marca, relleno ni peso. Ficha 10113 conserva precio 4080 CUP, stock e identidad. La presentación indica Imagen ilustrativa. La foto histórica de bolitas de queso se conserva como evidencia; no representa los raviolis. Restan 10 casos de identidad visibles.
